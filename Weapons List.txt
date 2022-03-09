@@ -1,0 +1,2251 @@
+title: Weapon Goals
+description: These are my personal views on best rolls for each weapon in game.
+
+
+
+// Primary Weapons ==================================================
+
+// Auto Rifles --------------------------------------------------
+
+// 360 RPM - High Impact ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Age-Old Bond
+// Arrowhead Brake
+// High-Caliber Rounds
+// Tap the Trigger
+// Kill Clip
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=601592879&perks=839105230,1561002382,1890422124,1015611457
+dimwishlist:item=601592879&perks=0,1561002382,1890422124,1015611457
+dimwishlist:item=601592879&perks=839105230,0,1890422124,1015611457
+dimwishlist:item=601592879&perks=839105230,1561002382,0,1015611457
+dimwishlist:item=601592879&perks=839105230,1561002382,1890422124,0
+dimwishlist:item=601592879&perks=0,0,1890422124,1015611457
+dimwishlist:item=601592879&perks=0,1561002382,0,1015611457
+dimwishlist:item=601592879&perks=0,1561002382,1890422124,0
+dimwishlist:item=601592879&perks=839105230,0,0,1015611457
+dimwishlist:item=601592879&perks=839105230,0,1890422124,0
+dimwishlist:item=601592879&perks=839105230,1561002382,0,0
+dimwishlist:item=601592879&perks=839105230,0,0,0
+dimwishlist:item=601592879&perks=0,1561002382,0,0
+dimwishlist:item=601592879&perks=0,0,1890422124,0
+dimwishlist:item=601592879&perks=0,0,0,1015611457
+
+// Come to Pass
+// Smallbore
+// Steady Rounds
+// Perpetual Motion
+// Golden Tricorn
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+dimwishlist:item=927567426&perks=1392496348,3177308360,671806388,3592538738
+
+// Chrysura Melo
+// Smallbore
+// Steady Rounds
+// Dynamic Sway Reduction
+// Frenzy
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+//notes:MW: Stability, Mod: Coutnerbalance Stock
+dimwishlist:item=1337707096&perks=1482024992,3177308360,1359896290,4104185692
+dimwishlist:item=1337707096&perks=0,3177308360,1359896290,4104185692
+dimwishlist:item=1337707096&perks=1482024992,0,1359896290,4104185692
+dimwishlist:item=1337707096&perks=1482024992,3177308360,0,4104185692
+dimwishlist:item=1337707096&perks=1482024992,3177308360,1359896290,0
+dimwishlist:item=1337707096&perks=0,0,1359896290,4104185692
+dimwishlist:item=1337707096&perks=0,3177308360,0,4104185692
+dimwishlist:item=1337707096&perks=0,3177308360,1359896290,0
+dimwishlist:item=1337707096&perks=1482024992,0,0,4104185692
+dimwishlist:item=1337707096&perks=1482024992,0,1359896290,0
+dimwishlist:item=1337707096&perks=1482024992,3177308360,0,0
+dimwishlist:item=1337707096&perks=1482024992,0,0,0
+dimwishlist:item=1337707096&perks=0,3177308360,0,0
+dimwishlist:item=1337707096&perks=0,0,1359896290,0
+dimwishlist:item=1337707096&perks=0,0,0,4104185692
+
+// False Promises
+// Smallbore
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+dimwishlist:item=3143732432&perks=
+
+// Herod-C
+// Arrowhead Brake
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Tap the Trigger
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+
+// 450 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// BrayTech Werewolf
+// Arrowhead Brake
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Horry Story
+// Rifle Scope ST
+// Steady Rounds
+// Firmly Planted
+// Slideways
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// The Number
+// Smallbore
+// High-Caliber Rounds
+// Surplus
+// Wellspring
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+//notes:MW: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2492081469&perks=1482024992,1561002382,3436462433,3592538738
+dimwishlist:item=2492081469&perks=0,1561002382,3436462433,3592538738
+dimwishlist:item=2492081469&perks=1482024992,0,3436462433,3592538738
+dimwishlist:item=2492081469&perks=1482024992,1561002382,0,3592538738
+dimwishlist:item=2492081469&perks=1482024992,1561002382,3436462433,0
+
+// Seventh Seraph Carbine
+// Smallbore
+// High-Caliber Rounds
+// Threat Detector
+// Rangefinder
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Shadow Price (Adept)
+// Arrowhead Brake
+// Steady Rounds
+// Surplus
+// Swashbuckler
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+// Tigerspite
+// Smallbore
+// High-Caliber Rounds
+// Surplus
+// Rangefinder
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+
+// 600 RPM - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Arc Logic
+// Smallbore
+// Accurized Rounds
+// Surplus
+// Rampage
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Duty Bound (Adept)
+// Smallbore
+// Accurized Rounds
+// Zen Moment
+// Dynamic Sway Reduction
+// Masterwork: Stability
+// Mod: Adept Counterbalance Stock
+
+// The Forward Path
+// Rifle Scope ST
+// Steady Rounds
+// Dynamic Sway Reduction
+// Iron Gaze
+// Masterwork: Range
+// Mod: Counterbalance Stock
+
+// Gnawing Hunger
+// Smallbore
+// Accurized Rounds
+// Tap the Trigger
+// Kill Clip
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// The Last Breath
+// Smallbore
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Rangefinder
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Scathelocke
+// Smallbore
+// Accurized Rounds
+// Surplus
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Sorrow's Verse
+// Smallbore
+// Steady Rounds
+// Tap the Trigger
+// Rampage
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// The Summoner (Adept)
+// Smallbore
+// High-Caliber Rounds
+// Rangefinder
+// Elemental Capacity: Void
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+
+// 720 RPM - Rapid Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Arctic Haze
+// Smallbore
+// Accurized Rounds
+// Subsistence
+// Eye of the Storm
+// Masterwork: Range
+// Mod: Counterbalance Stock
+
+// Chroma Rush
+// Extended Barrel
+// Accurized Rounds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Krait
+// Extended Barrel
+// High-Caliber Rounds
+// Steady Hands
+// Moving Target
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Sweet Sorrow (Shaped)
+// Extended Barrel
+// Accurized Rounds
+// Enhanced Perpetual Motion
+// Enhanced Tap the Trigger
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Reckless Oracle
+// Extended Barrel
+// High-Caliber Rounds
+// Under Pressure
+// Kill Clip
+// Masterwork: Range
+// Mod: Counterbalance Stock
+
+
+// Hand Cannons --------------------------------------------------
+
+// 120 RPM - Aggresive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Bottom Dollar
+// Smallbore
+// Steady Rounds
+// Surplus
+// Opening Shot
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Crimil's Dagger
+// Steadyhand HCS
+// Steady Rounds
+// Outlaw
+// Kill Clip
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Igneous Hammer (Adept)
+// Smallbore
+// High-Caliber Rounds
+// Rapid Hit
+// Opening Shot
+// Masterwork: Stability
+// Mod: Adept Icarus Grip
+
+// Loud Lullaby
+// Smallbore
+// Steady Rounds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// The Steady Hand
+// Steadyhand HCS
+// High-Caliber Rounds
+// Zen Moment
+// Iron Grip
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// True Prophecy
+// Steadyhand HCS
+// Steady Rounds
+// Opening Shot
+// Explosive Payload
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+
+// 140 ROM - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Hawkmoon
+// Chambered Compensator
+// Alloy Magazine
+// Opening Shot
+// Heavy Grip
+
+// Ancient Gospel
+// Smallbore
+// Steady Rounds
+// Eye of the Storm
+// Rangefinder
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Annual Skate
+// Steadyhand HCS
+// Steady Rounds
+// Surplus
+// Timed Payload
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Cantata-57
+// Smallbore
+// Steady Rounds
+// Eye of the Storm
+// Rangefinder
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Crisis Inverted
+// Chambered Compensator
+// High-Caliber Rounds
+// Rapid Hit
+// Rangefinder
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Dire Promise
+// Steadyhand HCS
+// High-Caliber Rounds
+// Opening Shot
+// Rangefinder
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Eyasluna
+// Steadyhand HCS
+// High-Caliber Rounds
+// Perpetual Motion
+// Moving Target
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Fatebringer (Timelost)
+// Smallbore
+// Accurized Rounds
+// Explosive Payload
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Adept Icarus Grip
+
+// Finite Impactor
+// Steadyhand HCS
+// High-Caliber Rounds
+// Slideways
+// Elemental Capacitor: Void
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Judgment
+// Steadyhand HCS
+// Steady Rounds
+// Moving Target
+// Timed Payload
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Nation of Beasts
+// Smallbore
+// Steady Rounds
+// Opening Shot
+// Explosive Payload
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Palindrome (Adept)
+// Chambered Compensator
+// High-Caliber Rounds
+// Outlaw
+// Rangefinder
+// Masterwork: Stability
+// Mod: Adept Icarus Grip
+dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
+
+// Waking Vigil
+// Steadyhand HCS
+// High-Caliber Rounds
+// Rangefinder
+// Vorpal Weapon
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+
+// 180 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Frontier's Cry
+// Full Bore
+// Accurized Rounds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Ikelos_HC_v1.0.2
+// Full Bore
+// Seraph Rounds
+// Slideways
+// Eye of the Storm
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Nature of the Beast
+
+// Sureshot HCS
+// Accurized Rounds
+// Snapshot Sights
+// Rangefinder
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Posterity
+// Full Bore
+// Accurized Rounds
+// Surplus
+// Opening Shot
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Seventh Seraph Officer Revolver
+// Full Bore
+// Accurized Rounds
+// Pulse Monitor
+// Timed Payload
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Survivor's Epitaph
+// Full Bore
+// High-Caliber Rounds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Vulpecula
+// Full Bore
+// Accurized Rounds
+// Encore
+// Explosive Payload
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+
+// Pulse Rifles --------------------------------------------------
+
+// 340 RPM - High-Impact ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Cold Denial
+// Arrowhead Brake
+// High-Caliber Rounds
+// Zen Moment
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Legal Action II
+// Smallbore
+// Steady Rounds
+// Surplus
+// Rampage
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// The Messenger (Adpet)
+// Smallbore
+// High-Caliber Rounds
+// Rapid Hit
+// Desperado
+// Masterwork: Stability
+// Mod: Adept Counterbalance Stock
+
+// Premonition
+// Arrowhead Brake
+// High-Caliber Roudns
+// Surplus
+// Rampage
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Stars in Shadow
+// Smallbore
+// Steady Rounds
+// Surplus
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+
+// 390 RPM - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Forge's Pledge
+// Smallbore
+// Steady Rounds
+// Zen Moment
+// Iron Grip
+// Masterwork: Range
+// Mod: Counterbalance Stock
+
+// Hailing Confusion
+// Smallbore
+// High-Caliber Rounds
+// Surplus
+// Wellspring
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Jian 7 Rifle
+// SRO-52 Ocular
+// High-Caliber Rounds
+// Firmly Planted
+// Rangefinder
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Last Perdition
+// SRO-52 Ocular
+// Steady Rounds
+// Firmly Planted
+// Kill Clip
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Syncopation-53 (Shaped)
+// Arrowhead Brake
+// High-Caliber Rounds
+// Enhanced Zen-Moment
+// Enhanced Vorpal Weapon
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// The Third Axiom
+// Smallbore
+// High-Caliber Rounds
+// Surplus
+// Vorpal Weapon
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+
+// 450 RPM - Lightweight/Aggressive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Chattering Bone
+// Smallbore
+// High-Caliber Rounds
+// Opening Shot
+// Rampage
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Ogma PR6
+// Chambered Compensator
+// Steady Rounds
+// Perpetual Motion
+// Wellspring
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Sacred Provenance
+// Smallbore
+// High-Caliber Rounds
+// Rapid Hit
+// Kill Clip
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+
+// 540 RPM - Rapid-Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Darkest Before
+// Smallbore
+// High-Caliber Rounds
+// Surplus
+// Rampage
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Gridskipper
+// Smallbore
+// High-Caliber
+// Firmly Planted
+// High-Impact Reservers
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Jurassic Green
+// Smallbore
+// High-Caliber Rounds
+// Rangefinder
+// Frenzy
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Piece of Mind (Shaped)
+// Smallbore
+// High-Caliber Rounds
+// Enhanced Perpetual Motion
+// Enhanced Vorpal Weapon
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// The Time-Worn Spire
+// Rifle Scope ST
+// High-Caliber Rounds
+// Under Pressure
+// Iron Grip
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+
+// Scout Rifles --------------------------------------------------
+
+// 120 RPM - Exotic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Smallbore
+// High-Caliber Rounds
+// Vorpal Weapon
+// Fitted Stock
+
+// Dead Man's Tale
+// Smallbore
+// High-Caliber Rounds
+// Vorpal Weapon
+// Fitted-Stock
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1546637391,4259401308
+dimwishlist:item=3654674561&perks=0,1561002382,1546637391,4259401308
+dimwishlist:item=3654674561&perks=1482024992,0,1546637391,4259401308
+dimwishlist:item=3654674561&perks=1482024992,1561002382,0,4259401308
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1546637391,0
+dimwishlist:item=3654674561&perks=0,0,1546637391,4259401308
+dimwishlist:item=3654674561&perks=0,1561002382,0,4259401308
+dimwishlist:item=3654674561&perks=0,1561002382,1546637391,0
+dimwishlist:item=3654674561&perks=1482024992,0,0,4259401308
+dimwishlist:item=3654674561&perks=1482024992,0,1546637391,0
+dimwishlist:item=3654674561&perks=1482024992,1561002382,0,0
+dimwishlist:item=3654674561&perks=1482024992,0,0,0
+dimwishlist:item=3654674561&perks=0,1561002382,0,0
+dimwishlist:item=3654674561&perks=0,0,1546637391,0
+dimwishlist:item=3654674561&perks=0,0,0,4259401308
+
+// 150 RPM - High-Impact ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// The Guiding Sight
+// Rifle Scope ST
+// High-Caliber Rounds
+// Surplus
+// Iron Grip
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Perses-D
+// Smallbore
+// Steady Rounds
+// Perpetual Motion
+// Vorpal Weapon
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Pointed Inquiry (Shaped)
+// Arrowhead Brake
+// High-Caliber Rounds
+// Enhanced Firmly PLanted
+// Enhanced Demolitionist
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// The Scholar (Adept)
+// Polygonal Rifling
+// High-Caliber Rounds
+// Opening Shot
+// Elemental Capacitor: Void
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+// Talons of the Eagle
+// Arrowhead Brake
+// Steady Rounds
+// Zen Moment
+// Opening Shot
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Transfiguration
+// Smalbore
+// Steady Rounds
+// Zen Moment
+// Moving Target
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+
+// 180 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Hung Jury SR4 (Adept)
+// Smallbore
+// Steady Rounds
+// Surplus
+// Explosive Payload
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+// Royal Chase
+// Smallbore
+// Steady Rounds
+// No Distractions
+// Threat Detector
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Vision of Confluence (Timelost)
+// Smallbore
+// High-Caliber Rounds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+
+// 200 RPM - Lightweight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Eternal Blazon
+// Impulse MS3
+// High-Caliber Rounds
+// Rapid Hit
+// Kill Clip
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Night Watch
+// Smallbore
+// Steady Rounds
+// Rapid Hit
+// Explosive Payload
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Pleiades Corrector
+// Smallbore
+// High-Caliber Rounds
+// Surplus
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Vounchsafe
+// Smallbore
+// Steady Rounds
+// Surplus
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+
+// 260 RPM - Rapid-Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+//Aisha's Embrace (Adept)
+// Smallbore
+// High-Caliber Rounds
+// Perpetual Motion
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Adept Stability
+
+// Servant Leader
+// Smallbore
+// Steady Rounds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Trustee
+// Smallbore
+// Steady Rounds
+// Surplus
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+
+// Sidearms --------------------------------------------------
+
+// 260 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Enigma's Draw
+// Tactic SAS
+// High-Caliber Rounds
+// Zen Moment
+// Rangefinder
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Lonesome
+// Extended Barrel
+// High-Caliber Rounds
+// Zen Moment
+// Kill Cip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// A Swift Verdict
+// Tactical SAS
+// High-Caliber Rounds
+// Tunnel Visoin
+// Kill Clip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// 300 RPM - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// The Keening
+// Smallbore
+// High-Caliber ROunds
+// Surplus
+// Zen Moment
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// 360 RPM - Lightweight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Farewell
+// Smallbore
+// Accurized Rounds
+// Rangefinder
+// Multikil Clip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Seventh Seraph SI-2
+// Smallbore
+// Accurized Rounds
+// Demolitionist
+// Zen Moment
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Spoiler Alert
+// Tactical SAS
+// High-Caliber Rounds
+// Under Pressure
+// Demolitionist
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Redback-5si
+// Smallbore
+// Accurized Rounds
+// Perpetual Motion
+// Rampage
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// 325 RPM - Aggressive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Brass Attacks
+// Extended Barrel
+// High-Caliber Rounds
+// Surplus
+// Rampage
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Empirical Evidence (Shaped)
+// Smallbore
+// High-Caliber Rounds
+// Enhanced Tunnel Vision
+// Enhanced Swashbuckler
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// 450 RPM - Rapid-Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// The Fool's Rememdy
+// Tactical SAS
+// High-Caliber Rounds
+// Moving Target
+// Kill CLip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Punching Out
+// Smallbore
+// High-Caliber Rounds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// 491 RPM - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// High Albedo
+// Full Bore
+// Accurized Rounds
+// Surplus
+// Demolitionist
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// The Last Dance
+// Tactical SAS
+// High-Caliber Rounds
+// Moving Target
+// Kill Clip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Peacebond
+// Full Bore
+// Accurized Rounds
+// Rangefinder
+// Headstone
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// The Vision
+// Tactical SAS
+// ACcurized Rounds
+// Surplus
+// Kill Clip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// Submachine Guns --------------------------------------------------
+
+// 600 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Forensic Nightmare (Shaped)
+// Smallbore
+// High-Caliber Rounds
+// Enhanced Perpetual Motion
+// Enahcned Kill Clip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Friction Fire
+// Smallbore
+// Accurized Rounds
+// Zen Moment
+// Vorpal Weapon
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Every Waking Moment
+// Smallbore
+// High-Caliber Rounds
+// Rangefinder
+// Kill Clip
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Seventh Seraph VY-7
+// Extended Barrel
+// Accurized Rounds
+// Firmly Planted
+// Elemental Capacitor: Void
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Shayura's Wrath (Adept)
+// Smallbore
+// Accurized ROunds
+// Tunnel Vision
+// Kill Clip
+// Masterwork: Stability
+// Mod: Adept Icarus Grip
+
+
+// 750 RPM - Aggressive/High-impact ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Borrowed Time
+// Smallbore
+// High-Caliber Rounds
+// Rangefidner
+// Tap the Trigger
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Cold Front
+// Smallbore
+// Accurized Rounds
+// Surplus
+// Rampage
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Extraordinary Rendition
+// Smallbore
+// Accurized Rounds
+// Surplus
+// Tap the Trigger
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Ikelos_SMG_v1.0.2
+// Extended Barrel
+// Seraph Rounds
+// Dynamic Sway Reduction
+// Tap the Trigger
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// 900 RPM - Adaptive/Lightweight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Death Adder
+// Smallbore
+// Accurized Rounds
+// Dynamic Sway Reduction
+// Rangefinder
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Escape Velocity
+// Model 8 Red
+// Accurized Rounds
+// Zen Moment
+// Elemental Capacity: Void
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Funnelweb
+// Smallbore
+// Accurized Rounds
+// Perpetual Motion
+// Rangefinder
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Multimach CCX
+// Model 8 Red
+// Accurized Rounds
+// Dynamic Sway Reduction
+// Kill Clip
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Stochasitc Variable
+// Full Bore
+// High-Caliber Rounds
+// Surplus
+// Elemental Capacitor: Void
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// Bows --------------------------------------------------
+
+// Accrued Redemption
+// High Tension String
+// Straight Fletching
+// Archer's Tempo
+// Rampage
+// Masterwork: Draw Time
+// Mod: Targeting Adjuster
+
+// Arsenic Bite-4b
+// High Tension String
+// Straight Fletching
+// Rampage
+// Archer's Tempo
+// Masterwork: Accuracy
+// Mod: Targeting Adjuster
+
+// Biting Winds
+// High tension String
+// Straight Fletching
+// Surplus
+// Swashbuckler
+// Masterwork: Draw Time
+// Mod: Targeting Adjuster
+
+// Fel Taradiddle (Shaped)
+// High Tension String
+// Straight Fletching
+// Enhanced Archer's Tempo
+// Enhanced Successful Warm-up
+// Masterwork: Accuracy
+// Mod: Targeting Adjuster
+
+// Imperial Needle
+// High Tension String
+// Straight Fletching
+// Archer's Tempo
+// Opening Shot
+// Masterwork: Accuracy
+// Mod: Targeting Adjuster
+
+// Tyranny of Heaven
+// High Tension String
+// Straight Fletching
+// Archer's Tempo
+// Rampage
+// Masterwork: Accuracy
+// Mod: Targeting ADjuster
+
+// Under Your Skin (Shaped)
+// High Tension String
+// Straight Fletching
+// Enhanced Archer's Tempo
+// Enhanced Successful Warm-up
+// Masterwork: Draw Time
+// Mod: Targeting Adjuster
+
+// Wolftone Draw
+// High Tension String
+// Straight Fletching
+// Archer's Tempo
+// Demolitionist
+// Masterwork: Draw Time
+// Mod: Targeting Adjuster
+
+// Whispering Slab
+// High Tension String
+// Straight Fletchin
+// Archer's Tempo
+// Swashbuckler
+// Masterwork: Draw Time
+// Mod: Targeting Adjuster
+
+
+
+// Special Weapons ==================================================
+
+// Breach Loaded Grenade Launchers --------------------------------------------------
+// 72/90 RPM - Wave Frame ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Deafening Whisper
+// Quick Launch
+// High-Velocity Rounds
+// Lead From Gold
+// Auto-Loading Holster
+// Masterwork:  Velocity
+// Mod: Quick Access Sling
+
+// Explosive Personality (Shaped)
+// Quick Launcher
+// High-Velocity Rounds
+// Enhanced Auto-Loading Holster
+// Enhanced Unrelenting
+
+
+// 72/90 RPM - Wave Frame ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Empty Vessel
+// Quick Launch
+// Proximity Grenades
+// Lead From Gold
+// Disruption Break
+// Masterwork:  Velocity
+// Mod: Quick Access Sling
+
+// Ignition Code
+/ Quick Launch
+// Proximity Grenades
+.. Kead Frin Gikd
+// Demolitionist
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Orewing's Maul
+// Quick Launch
+// Proximity Grenades
+// Threat Detector
+// Auto-Loading Holster
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Pardon Our Dust
+// Quick Access Sling
+// Proximity Grenades
+// Auto-Loading Holster
+// Demolitionist
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Truthteller
+// Quick Launch
+// Proximity Grenades
+// Auto-Loading Holster
+// Disruption break
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+
+
+// Fusion Rifles --------------------------------------------------
+
+// 850 MS - High-Impact ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Exile's Curse (Adept)
+// Smallbore
+// Particle Repeater
+// Slideshot
+// Kickstart
+// Masterwork: Stability
+// Mod: Adept Stability
+
+// Glacioclasm
+// Smallbore
+// Particle Repeater
+// Under Pressure
+// High Impact Reserves
+// Masterwork: Stabilty
+// Mod: Icarus Grip
+
+// Ioat Draconis
+// Smallbore
+// Particle Repeater
+// Under Pressure
+// Kickstart
+// Masterwork: Stability
+// Mod: targeting Adjuster
+
+
+// 740 MS - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Hollow Words
+// Smallbore
+// Particle Repeater
+// Under Pressure
+// Vorpal Weapon
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Main igredient
+// Red Dot Micro
+// Projection Fuse
+// Under Pressure
+// Tap the Trigger
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Plug One.1 (Adept)
+// Hammer-Forged Rifling
+// Projection Fuse
+// Under PRessure
+// Kickstart
+// Masterwork: Stability
+// Mod: Adept Stability
+
+// Snorri FR5
+// Smallbore
+// Projection Fuse
+// Firmly Planted
+// High-Impact Reserves
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+
+// 660 MS - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Dream Breaker
+// Smallbore
+// Particle Repeater
+// Firmly Planted
+// Kickstart
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Dream Breaker
+// Smallbore
+// Projection Fuse
+// Under PRessure
+// High-Impact Reserves
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Techeun Force
+// Smallbore
+// Particle Repeater
+// Under Pressure
+// High-Impact Reserves
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Timelines' Vertiex
+// Impulse MS3
+// Particle Repeater
+// Firmly Planted
+// Elemental Capacitor: Void
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Trinary System
+// Smallbore
+// Particle Repeater
+// Firmly Planted
+// Tap the Trigger
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+
+// 540 MS - Rapid-Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Cartesian Coordinate
+// Red Dot Micro
+// Particle Repeater
+// Under Pressure
+// High-Impact Reserves
+// Masterwork: Stability
+// Mod: Icarus Grip
+
+// Likely Suspect (Shaped)
+// Smallbore
+// Particle Repeater
+// Firmly Planted
+// Successful Warm-up
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Zealot's Reward
+// Smallbore
+// Particle Repeater
+// Under Pressure
+// High-Impact Reserves
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+// Shotguns --------------------------------------------------
+
+// 55 RPM - Aggressive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Astral Horizon (Adept)
+// Full Choke
+// Assault Mag
+// Surplus
+// Opening Shot
+// Masterwork: Range
+// Mod: Adept Handling
+
+// The Comedian (Adept)
+// Full Choke
+// Assault Mag
+// Steady Hands
+// Vorpal Weapon
+// Masterwork: Handling
+// Mod: Adept Handling
+
+// Found Verdict
+// Full Choke
+// Assault Mag
+// Surplus
+// Opening Shot
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Found Verdict (Timelost)
+// Full Choke
+// Assault Mag
+// Surplus
+// Opening Shot
+// Masterwork: Range
+// Mod: Adept Range
+
+// A Sudden Death
+// Full Choke
+// Accurized Rounds
+// Surplus
+// Elemental Capacitor: Arc
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Toil and Trouble
+// Full Choke
+// Accurized Rounds
+// Threat Detector
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Ragnhild-D (Shaped)
+// Full Choke
+// Assault Mag
+// Enhanced Perpetual Motion
+// Enhanced Elemental Capacitor: Arc
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+
+// 65 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Compass Rose
+// Full Choke
+// Accurized Rounds
+// Surplus
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Fractethyst
+// Full Choke
+// Assault Mag
+// Quickdraw
+// Opening Shot
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Prophet of Doom
+// Full Choke
+// Accurized Rounds
+// Slideways
+// Opening Shot
+// Masterwork: Handling
+// Mod: Quick Access Sling
+
+// Retold Tale
+// Full Choke
+// Accurized Rounds
+// Surplus
+// Vorpal Weapon
+// Masterwork: Handling
+// Mod: Quick Access Sling
+
+
+// 80 RPM - Lightweight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Seventh Seraph CQC-12
+// Full Choke
+// Assault Mag
+// Quickdraw
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Retrofuturist
+// Full Choke
+// Assault Mag
+// Quickdraw
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Riiswalker
+// Full Choke
+// ASsault Mag
+// Surplus
+// Iron Reach
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Wastelander M5
+// Full Choke
+// Assault Mag
+// Slideshot
+// opening Shot
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Xenoclast IV
+// Full Choke
+// Assault Mag
+// Slideshot
+// Swashbuckler
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+
+// 140 RPM - Rapid-Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// The Deicide
+// Full Choke
+// Accurized Rounds
+// Slideshot
+// Elemental Capacitor: Arc
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Ikelos_SG_v1.0.2
+// Full Bore
+// Accurized Rounds
+// Threat Detector
+// Elemental Capacitor: Arc
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// One Small Step
+// Full Choke
+// Accurized Rounds
+// Slideshot
+// Swashbuckler
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+// Wishbringer
+// Full Choke
+// Accurized Rounds
+// Threat Detector
+// Opening Shot
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+
+// 65 RPM - Slug ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Blasphemer
+// Full Bore
+// Accurized Rounds
+// Quickdraw
+// Opening Shot
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Bonechiller
+// Full Bore
+// Accurized Rounds
+// Surplus
+// Opening Shot
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// First In, Last Out
+// Fluted Barrel
+// Assault Mag
+// Slideshot
+// Opening Shot
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Fortissimo-11
+// Hammer-Forged Rifling
+// Assault Mag
+// Threat Detector
+// Opening Shot
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Heritage
+// Fluted Barrel
+// Assault Mag
+// Reconstruction
+// Killing Wind
+// Masterwork: Range
+// Mod: Icarus Grip
+
+// Sojourner's Tale
+// Hammer-Forged Rifling
+// Assault Mag
+// Quickdraw
+// Opening Shot
+// Masterwork: Range
+// Mod: Icarus Grip
+
+
+
+// Sniper Rifles --------------------------------------------------
+
+// 72 RPM - Aggressive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Bite of the Fox
+// Fluted Barrel
+// Accurized Rounds
+// Snapshot Sights
+// Opening Shot
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Frozen Orbit
+// Fluted Barrel
+// Accurized Rounds
+// Surplus
+// Kill Clip
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// The Long walk
+// Fluted Barrel
+// Ricochet Rounds
+// Ensemble
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Occluded Finality
+// Hammer-Forged Rifling
+// Ricochet Rounds
+// Snapshot Sights
+// Opening Shot
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Silcon Neuroma (Adept)
+// Hammer-Forged Rifling
+// Ricochet Rounds
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Adept Targeting Adjuster
+
+// Succession
+// Fluted Barrel
+// Accurized Rounds
+// Moving Target
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+
+// 90 RPM - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Eye of Sol (Adept)
+// Full Bore
+// ACcurized Rounds
+// Firmly Planted
+// Opening Shot
+// Masterwork: Range
+// Mod: Adept Targeting Adjuster
+
+// Far Future
+// Fluted Barrel
+// Accurized Rounds
+// Surplus
+// Opening Shot
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Fugue-55
+// Full Bore
+// Accurized Rounds
+// Steady Hands
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Long Shadow
+// ATC Rex
+// Accurized Rounds
+// Snapshot Sights
+// Moving Target
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Shpherd's Watch
+// Fluted Barrel
+// Accurized Rounds
+// Under Pressure
+// Opening Shot
+// Masterwork: Handling
+// Mod: Quick Access Sling
+
+// Thoughtless (Shaped)
+// Full Bore
+// Accurized Rounds
+// Enhanced Firmly Planted
+// Enhanced Snapshot Sights
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Tranquility
+// Full Bore
+// Accurized Rounds
+// Under Pressure
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Uzume RR4 (adept)
+// Full Bore
+// Accurized Rounds
+// Snapshot Sights
+// High-Impact Reserves
+// Masterwork: Range
+// Mod: Adept Targeting Adjuster
+
+// 1000 Yard Stare
+// Full Bore
+// Snapshot Sights
+// Quickdraw
+// Snapshot Sights
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+
+// 140 RPM - Rapid-Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Apostate
+// Smallbore
+// Steady Rounds
+// Firmly PLanted
+// Opening Shot
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Distant Tumulus
+// Smallbore
+// Steady Rounds
+// Dragonfly
+// Opening Shot
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Father's Sins (Shaped)
+// Smallbore
+// Steady Rounds
+// Enhanced Under Pressure
+// Enhanced Opening Shot
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Ikelos_SR_v1.0.2
+// Smallbore
+// Steady Rounds
+// Moving Target
+// Quickdraw
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Omniscient Eye
+// Smallbore
+// Steady Rounds
+// No Distractions
+// Snapshot Sights
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Praedyth's Revenge (Timelost)
+/Smallbore
+// Steady Rounds
+// No Distractions
+// Opening Shot
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+// The Supremacy
+// Smallbore
+// Ricochet Rounds
+// Snapshot Sights
+// Kill Clip
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Twilight Oath
+// Smallbore
+// Steady Roudns
+// Opening Shot
+// Snapshot Sights
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Widow's Bite
+// Smallbore
+// Steady Rounds
+// Firmly Planted
+// Opening Shot
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+
+
+// Trace Rifles --------------------------------------------------
+
+// Retraced Path
+// Chambered Compensator
+// Tactical Battery
+// Perpetual Motion
+// Frenzy
+// Masterwork: Range
+// Mod: Quick Access Sling
+
+
+
+// Heavy Weapons ==================================================
+
+Drum Loaded Grenade Launchers --------------------------------------------------
+
+// Berenger's Memory
+// Quick Launch
+// Proximity Grenades
+// Threat Detector
+// Elemental Capacity: Arc
+// Masterwork: Handling
+// Mod: Quick Access Sling
+
+// Blast Battue
+// Quick Launch
+// Threat Detector
+// Chain Reaction
+// Masterwork: Handling
+// Mod: Quick Access Sling
+
+// Canis Major
+// Quick Launch
+// Proximity Grenades
+// Surplus
+// Chain Reaction
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Crowd Pleaser
+// Quick Launch
+// Proximity Grenades
+// Surplus
+// Chain Reaction
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Interference VI
+// Quick Launch
+// Proximity Grenades
+// Field Prep
+// Threat Detector
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Love and Death
+// Quick Launch
+// Proximity Grenades
+// Surplus
+// Chain Reaction
+// Masterwork: Handling
+// Mod: Quick Access Sling
+
+// Memory Interdict
+// QUick Launch
+// Proximity Grenades
+// Surplus
+// Chain Reaction
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Outrageous Fortune
+// Quick Launch
+// Remote Detonation
+// Threat Detector
+// Quickdraw
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Swarm of the Raven
+// Quick Launch
+// Proximity Grenades
+// Threat Detector
+// Quickdraw
+// Masterwork: Hanling
+// Mod: Quick Access Sling
+
+// Tarnation (Shaped)
+// Quick Launch
+// Proximity Grenages
+// Enhanced Quickdraw
+// Enhanced Chain Reaction
+// Masterwork: Handling
+// Mod: Quick Access Sling
+
+// Typhon GL5
+// Quick Lannch
+// Spike Grenades
+// Impulse Amplifier
+// Explosive Light
+// Masterwork: Velocity
+// Mod: Major Spec
+
+
+
+Linear Fusion Rifles --------------------------------------------------
+
+// Corsair's Wrath
+// Full Bore
+// Projection Fuse
+// Firmly Planted
+// Kill Clip
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Tarantula
+// Full Bore
+// Projection Fuse
+// Firmly Planted
+//Snapshot Sights
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Threaded Needle
+// Full Bore
+// Projection Fuse
+// Rangefinder
+// Dragonfly
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+// Reed's Regret (Adept)
+// Full Bore
+// Projection Fuse
+// Surplus
+// Headstone
+// Masterwork: Range
+// Mod: Adept Targeting Adjuster
+
+
+
+Machineguns --------------------------------------------------
+
+// Archon's Thunder
+// Smallbore
+// Steady Rounds
+// Rangefinder
+// Iron Grip
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Avalanche
+//RO-41 Ocular
+// High-Caliber Rounds
+// Surplus
+// Tap the Trigger
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Commemoration
+// Smallbore
+// Accurized Rounds
+// Surplus
+// Eye of the Storm
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Corrective Measure (Timelost)
+// Smallbore
+// Accurized Rounds
+// Surplus
+// Tap the Trigger
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+// A Fine Memorial
+// Arrowhead Brake
+// High-Caliber Rounds
+// Quick Draw
+// Elemental Capacitor: Void
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// Seventh Seraph Saw
+// Smallbore
+// High-Caliber Rounds
+// Zen Moment
+// Elemental Capacitor: Void
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Shattered Cipher
+// Smallbore
+// Steady Rounds
+// Under Pressure
+// Zen Moment
+// Masterwork: Stability
+// Mod: Targeting Adjuster
+
+// The Swarm (Adept)
+// Arrowhead Brake
+// Steady Rounds
+// Surplus
+// Tap the Trigger
+// Masterwork: Stability
+// Mod: Adept Targeting Adjuster
+
+// Thermal Erosion
+// Smallbore
+// High-Caliber Rounds
+// Zen Moment
+// Tap the Trigger
+// Masterwork: Stability
+// Mod: Counterbalance Stock
+
+// Recurrent Impact (Shaped)
+// Smallbore
+// Steady Rounds
+// Enhanced Firmly PLanted
+// Enhanced Tap the Trigger
+// Masterwork: Range
+// Mod: Targeting Adjuster
+
+
+
+Swords --------------------------------------------------
+
+// Abide the Return
+// Jagged Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Whirlwind Blade
+// Masterwork: Impact
+// Mod: Boss Spec
+
+// Bequest
+// Jaggred Edge
+// Swordmaster's Guard
+// Thresh
+// Surrounded
+// Masterwork: Impact
+// Mod: Major Spec
+
+// Crown-Splitter
+// Jaggred Edge
+// Heavy Guard
+// Flash Counter
+// Counterattack
+// Masterwork: Impact
+// Mod: Boss Spec
+
+// Falling Guillotine
+// Jaggred Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Whirlwind Blade
+// Masterwork: Impact
+// Mod: Boss Spec
+
+// Eternity's Edge
+// Jaggred Edge
+// Infinite Guard
+// Energy Transfer
+// Flash Counter
+// Masterwork: Impact
+// Mod: Major Spec
+
+// Hero of Ages
+// Jaggred Edge
+// Swordmaster's Guard
+// Unrelenting
+// Chain Reaction
+// Masterwork: Impact
+// Mod: Major Spec
+
+// Honor's Edge
+// Jaggred Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// En Garde
+// Masterwork: Impact
+// Mod: Boss Spec
+
+// Negative Space
+// Jaggred Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Whirlwind Blade
+// Masterwork: Impact
+// Mod: Boss
+
+// Night Terror
+// Jaggred Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Vorpal Weapon
+// Masterwork: Impact
+// Mod: Boss Spec
+
+// Quickfang
+// Jaggred Edge
+// Swordmaster's Guard
+// Thresh
+// Assassin's Blade
+// Masterwork: Impact
+// Mod: Quick Access Sling
+
+// Razor's Edge
+// Jaggred Edge
+// Swordmaster's Guard
+// Tireless Blade
+// Chain Reaction
+// Masterwork: Impact
+// Mod: Major Spec
+
+// Sola's Scar (Adept)
+// Jaggred Edge
+// Swordmaster's Guard
+// Tireless Blade
+// Chain Reaction
+// Masterwork: Impact
+// Mod: Quick Access Sling
+
+// Steel Sybil Z-14
+// Jaggred Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// En Garde
+// Masterwork: Impact
+// Mod: Major Spec
+
+// Temptation's Hook
+// Jaggred Edge
+// Swordmaster's Guard
+// Tireless Blade
+// En Garde
+// Masterwork: Impact
+// Mod: Quick Access Sling
+
+// Zephyr
+// Jaggred Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Cold Steel
+// Masterwork: Impact
+// Mod: Major Spec
+
+// Half-Truths
+// Jaggred Edge
+// Swordmaster's Guard
+// Thresh
+// Harmony
+// Masterwork: Impact
+// Mod: Major Spec
+
+// The Other Half
+// Jaggred Edge
+// Swordmaster's Guard
+// Eager Edge
+// Vorpal Weapon
+// Masterwork: Impact
+// Mod: Quick Access Sling
+
+
+
+Rocket Launchers --------------------------------------------------
+
+// Apex Predator
+// Quick Launch
+// High-Velocity Rounds
+// Tracking Module
+// Snapshot Sights
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Code Duello
+// Quick Launch
+// High-Veloctiy Rounds
+// Impulse Amplifier
+// Chain Reaction
+// Masterwork: Velocity
+// Mod: Major Spec
+
+
+// Heretic
+// Quick Launch
+// High-Velocity Rounds
+// Surplus
+// Cluster Bomb
+// Masterwork: Blast Radius
+// Mod: Major Spec
+
+// Hezen Vengeance (Timelost)
+// Volatile Launch
+// High-Velocity Rounds
+// Impulse Amplifier
+// Vorpal Weapon
+// Masterwork: Blaste Radius
+// Mod: Adept Blast Radius
+
+// Hoosegow
+// Quick Launch
+// High-Velocity Rounds
+// Threat Detector
+// Rangefinder
+// Masterwork: Blast Radius
+// Mod: Quick Access Sling
+
+// The Hothead (Adept)
+// Quick Launcher
+// High-Velocity Rounds
+// Auto-Loading Holster
+// Explosive Light
+// Masterwork: Velocity
+// Mod: Adept Projectile Speed
+
+// Paylmyra-B (Sheped)
+// Quick Launch
+// High-Velocity Rounds
+// Enhanced Impulse Amplifier
+// Enhanced Chain Reaction
+// Masterwork: Velocity
+// Mod: Major Spec
+
+// Red Herring (Shaped)
+// Quick Launch
+// High-Velocity Rounds
+// Enahnced Tracking Module
+// Enhanced Lasting Impression
+// Masterwork: Velocity
+// Mod: Major Spec
+
+// Royal Entry
+// Quick Launch
+// High-Velocity Rounds
+// Impulse Amplifier
+// Masterwork: Velocity
+// Mod: Major Spec
+
+// Shining Sphere
+// Quick Launch
+// High-Velocity Rounds
+// Snapshot Sights
+// Quickdraw
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Sleepless
+// Quick Launch
+// High-Velocity Rounds
+// Tracking Module
+// Vorpal Weapon
+// Masterwork: Velocity
+// Mod: Boss Spec
+
+// Subzero Salvo
+// Quick Launch
+// High-Velocity Rounds
+// Quickdraw
+// Chain Reaction
+// Masterwork: Velocity
+// Mod: Quick Access Sling
+
+// Tomorrow's Answer (Adept)
+// Quick Launch
+// High-Velocity Rounds
+// Impulse Amplifier
+// Chain Reaction
+// Masterwork: Velocity
+// Mod: Adept Projectile Speed
