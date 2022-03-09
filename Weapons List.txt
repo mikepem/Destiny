@@ -506,13 +506,29 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Masterwork: Stability
 // Mod: Counterbalance Stock
 
-// The Messenger (Adpet)
+// The Messenger (Adept)
 // Smallbore
 // High-Caliber Rounds
 // Rapid Hit
 // Desperado
 // Masterwork: Stability
 // Mod: Adept Counterbalance Stock
+//notes:MW: Stability, Mod: Adept Counter Balance Stock
+dimwishlist:item=1173780905&perks=1482024992,1561002382,247725512,3047969693
+dimwishlist:item=1173780905&perks=0,1561002382,247725512,3047969693
+dimwishlist:item=1173780905&perks=1482024992,0,247725512,3047969693
+dimwishlist:item=1173780905&perks=1482024992,1561002382,0,3047969693
+dimwishlist:item=1173780905&perks=1482024992,1561002382,247725512,0
+dimwishlist:item=1173780905&perks=0,0,247725512,3047969693
+dimwishlist:item=1173780905&perks=0,1561002382,0,3047969693
+dimwishlist:item=1173780905&perks=0,1561002382,247725512,0
+dimwishlist:item=1173780905&perks=1482024992,0,0,3047969693
+dimwishlist:item=1173780905&perks=1482024992,0,247725512,0
+dimwishlist:item=1173780905&perks=1482024992,1561002382,0,0
+dimwishlist:item=1173780905&perks=1482024992,0,0,0
+dimwishlist:item=1173780905&perks=0,1561002382,0,0
+dimwishlist:item=1173780905&perks=0,0,247725512,0
+dimwishlist:item=1173780905&perks=0,0,0,3047969693
 
 // Premonition
 // Arrowhead Brake
