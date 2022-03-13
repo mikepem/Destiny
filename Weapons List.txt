@@ -40,7 +40,6 @@ dimwishlist:item=601592879&perks=0,0,0,1015611457
 // Golden Tricorn
 // Masterwork: Stability
 // Mod: Counterbalance Stock
-dimwishlist:item=927567426&perks=1392496348,3177308360,671806388,3592538738
 
 // Chrysura Melo
 // Smallbore
@@ -97,17 +96,48 @@ dimwishlist:item=3143732432&perks=0,0,0,699525795
 // Tap the Trigger
 // Masterwork: Stability
 // Mod: Targeting Adjuster
-
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1788603939&perks=839105230,1561002382,1359896290,1890422124
+dimwishlist:item=1788603939&perks=0,1561002382,1359896290,1890422124
+dimwishlist:item=1788603939&perks=839105230,0,1359896290,1890422124
+dimwishlist:item=1788603939&perks=839105230,1561002382,0,1890422124
+dimwishlist:item=1788603939&perks=839105230,1561002382,1359896290,0
+dimwishlist:item=1788603939&perks=0,0,1359896290,1890422124
+dimwishlist:item=1788603939&perks=0,1561002382,0,1890422124
+dimwishlist:item=1788603939&perks=0,1561002382,1359896290,0
+dimwishlist:item=1788603939&perks=839105230,0,0,1890422124
+dimwishlist:item=1788603939&perks=839105230,0,1359896290,0
+dimwishlist:item=1788603939&perks=839105230,1561002382,0,0
+dimwishlist:item=1788603939&perks=839105230,0,0,0
+dimwishlist:item=1788603939&perks=0,1561002382,0,0
+dimwishlist:item=1788603939&perks=0,0,1359896290,0
+dimwishlist:item=1788603939&perks=0,0,0,1890422124
 
 // 450 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 // BrayTech Werewolf
 // Arrowhead Brake
 // High-Caliber Rounds
-// Dynamic Sway Reduction
-// Eye of the Storm
+// Under Pressure
+// Tap the Trigger
 // Masterwork: Stability
 // Mod: Targeting Adjuster
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=528834068&perks=839105230,1561002382,1645158859,1890422124
+dimwishlist:item=528834068&perks=0,1561002382,1645158859,1890422124
+dimwishlist:item=528834068&perks=839105230,0,1645158859,1890422124
+dimwishlist:item=528834068&perks=839105230,1561002382,0,1890422124
+dimwishlist:item=528834068&perks=839105230,1561002382,1645158859,0
+dimwishlist:item=528834068&perks=0,0,1645158859,1890422124
+dimwishlist:item=528834068&perks=0,1561002382,0,1890422124
+dimwishlist:item=528834068&perks=0,1561002382,1645158859,0
+dimwishlist:item=528834068&perks=839105230,0,0,1890422124
+dimwishlist:item=528834068&perks=839105230,0,1645158859,0
+dimwishlist:item=528834068&perks=839105230,1561002382,0,0
+dimwishlist:item=528834068&perks=839105230,0,0,0
+dimwishlist:item=528834068&perks=0,1561002382,0,0
+dimwishlist:item=528834068&perks=0,0,1645158859,0
+dimwishlist:item=528834068&perks=0,0,0,1890422124
 
 // Horry Story
 // Rifle Scope ST
@@ -116,6 +146,22 @@ dimwishlist:item=3143732432&perks=0,0,0,699525795
 // Slideways
 // Masterwork: Stability
 // Mod: Targeting Adjuster
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3829285960&perks=679077873,3177308360,280464955,2039302152
+dimwishlist:item=3829285960&perks=0,3177308360,280464955,2039302152
+dimwishlist:item=3829285960&perks=679077873,0,280464955,2039302152
+dimwishlist:item=3829285960&perks=679077873,3177308360,0,2039302152
+dimwishlist:item=3829285960&perks=679077873,3177308360,280464955,0
+dimwishlist:item=3829285960&perks=0,0,280464955,2039302152
+dimwishlist:item=3829285960&perks=0,3177308360,0,2039302152
+dimwishlist:item=3829285960&perks=0,3177308360,280464955,0
+dimwishlist:item=3829285960&perks=679077873,0,0,2039302152
+dimwishlist:item=3829285960&perks=679077873,0,280464955,0
+dimwishlist:item=3829285960&perks=679077873,3177308360,0,0
+dimwishlist:item=3829285960&perks=679077873,0,0,0
+dimwishlist:item=3829285960&perks=0,3177308360,0,0
+dimwishlist:item=3829285960&perks=0,0,280464955,0
+dimwishlist:item=3829285960&perks=0,0,0,2039302152
 
 // The Number
 // Smallbore
@@ -148,6 +194,22 @@ dimwishlist:item=2492081469&perks=0,0,0,3592538738
 // Rangefinder
 // Masterwork: Stability
 // Mod: Targeting Adjuster
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1561006927&perks=1482024992,1561002382,4071163871,2846385770
+dimwishlist:item=1561006927&perks=0,1561002382,4071163871,2846385770
+dimwishlist:item=1561006927&perks=1482024992,0,4071163871,2846385770
+dimwishlist:item=1561006927&perks=1482024992,1561002382,0,2846385770
+dimwishlist:item=1561006927&perks=1482024992,1561002382,4071163871,0
+dimwishlist:item=1561006927&perks=0,0,4071163871,2846385770
+dimwishlist:item=1561006927&perks=0,1561002382,0,2846385770
+dimwishlist:item=1561006927&perks=0,1561002382,4071163871,0
+dimwishlist:item=1561006927&perks=1482024992,0,0,2846385770
+dimwishlist:item=1561006927&perks=1482024992,0,4071163871,0
+dimwishlist:item=1561006927&perks=1482024992,1561002382,0,0
+dimwishlist:item=1561006927&perks=1482024992,0,0,0
+dimwishlist:item=1561006927&perks=0,1561002382,0,0
+dimwishlist:item=1561006927&perks=0,0,4071163871,0
+dimwishlist:item=1561006927&perks=0,0,0,2846385770
 
 // Shadow Price (Adept)
 // Arrowhead Brake
@@ -156,6 +218,22 @@ dimwishlist:item=2492081469&perks=0,0,0,3592538738
 // Swashbuckler
 // Masterwork: Stability
 // Mod: Adept Targeting Adjuster
+//notes:MW: Stability, Mod: Adept Tareting Adjuster
+dimwishlist:item=2147010335&perks=839105230,3177308360,3436462433,4082225868
+dimwishlist:item=2147010335&perks=0,3177308360,3436462433,4082225868
+dimwishlist:item=2147010335&perks=839105230,0,3436462433,4082225868
+dimwishlist:item=2147010335&perks=839105230,3177308360,0,4082225868
+dimwishlist:item=2147010335&perks=839105230,3177308360,3436462433,0
+dimwishlist:item=2147010335&perks=0,0,3436462433,4082225868
+dimwishlist:item=2147010335&perks=0,3177308360,0,4082225868
+dimwishlist:item=2147010335&perks=0,3177308360,3436462433,0
+dimwishlist:item=2147010335&perks=839105230,0,0,4082225868
+dimwishlist:item=2147010335&perks=839105230,0,3436462433,0
+dimwishlist:item=2147010335&perks=839105230,3177308360,0,0
+dimwishlist:item=2147010335&perks=839105230,0,0,0
+dimwishlist:item=2147010335&perks=0,3177308360,0,0
+dimwishlist:item=2147010335&perks=0,0,3436462433,0
+dimwishlist:item=2147010335&perks=0,0,0,4082225868
 
 // Tigerspite
 // Smallbore
@@ -164,6 +242,22 @@ dimwishlist:item=2492081469&perks=0,0,0,3592538738
 // Rangefinder
 // Masterwork: Stability
 // Mod: Counterbalance Stock
+//notes:MW: Stability, Mod: Coutnerbalance Stock
+dimwishlist:item=640114618&perks=1482024992,1561002382,3436462433,2846385770
+dimwishlist:item=640114618&perks=0,1561002382,3436462433,2846385770
+dimwishlist:item=640114618&perks=1482024992,0,3436462433,2846385770
+dimwishlist:item=640114618&perks=1482024992,1561002382,0,2846385770
+dimwishlist:item=640114618&perks=1482024992,1561002382,3436462433,0
+dimwishlist:item=640114618&perks=0,0,3436462433,2846385770
+dimwishlist:item=640114618&perks=0,1561002382,0,2846385770
+dimwishlist:item=640114618&perks=0,1561002382,3436462433,0
+dimwishlist:item=640114618&perks=1482024992,0,0,2846385770
+dimwishlist:item=640114618&perks=1482024992,0,3436462433,0
+dimwishlist:item=640114618&perks=1482024992,1561002382,0,0
+dimwishlist:item=640114618&perks=1482024992,0,0,0
+dimwishlist:item=640114618&perks=0,1561002382,0,0
+dimwishlist:item=640114618&perks=0,0,3436462433,0
+dimwishlist:item=640114618&perks=0,0,0,2846385770
 
 
 // 600 RPM - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -175,6 +269,22 @@ dimwishlist:item=2492081469&perks=0,0,0,3592538738
 // Rampage
 // Masterwork: Stability
 // Mod: Targeting Adjuster
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2723909519&perks=1482024992,3142289711,3436462433,3511092054
+dimwishlist:item=2723909519&perks=0,3142289711,3436462433,3511092054
+dimwishlist:item=2723909519&perks=1482024992,0,3436462433,3511092054
+dimwishlist:item=2723909519&perks=1482024992,3142289711,0,3511092054
+dimwishlist:item=2723909519&perks=1482024992,3142289711,3436462433,0
+dimwishlist:item=2723909519&perks=0,0,3436462433,3511092054
+dimwishlist:item=2723909519&perks=0,3142289711,0,3511092054
+dimwishlist:item=2723909519&perks=0,3142289711,3436462433,0
+dimwishlist:item=2723909519&perks=1482024992,0,0,3511092054
+dimwishlist:item=2723909519&perks=1482024992,0,3436462433,0
+dimwishlist:item=2723909519&perks=1482024992,3142289711,0,0
+dimwishlist:item=2723909519&perks=1482024992,0,0,0
+dimwishlist:item=2723909519&perks=0,3142289711,0,0
+dimwishlist:item=2723909519&perks=0,0,3436462433,0
+dimwishlist:item=2723909519&perks=0,0,0,3511092054
 
 // Duty Bound (Adept)
 // Smallbore
@@ -183,6 +293,22 @@ dimwishlist:item=2492081469&perks=0,0,0,3592538738
 // Dynamic Sway Reduction
 // Masterwork: Stability
 // Mod: Adept Counterbalance Stock
+//notes:MW: Stability, Mod: Adept Counterbalance Stock
+dimwishlist:item=1135050595&perks=1482024992,3142289711,2387244414,1359896290
+dimwishlist:item=1135050595&perks=0,3142289711,2387244414,1359896290
+dimwishlist:item=1135050595&perks=1482024992,0,2387244414,1359896290
+dimwishlist:item=1135050595&perks=1482024992,3142289711,0,1359896290
+dimwishlist:item=1135050595&perks=1482024992,3142289711,2387244414,0
+dimwishlist:item=1135050595&perks=0,0,2387244414,1359896290
+dimwishlist:item=1135050595&perks=0,3142289711,0,1359896290
+dimwishlist:item=1135050595&perks=0,3142289711,2387244414,0
+dimwishlist:item=1135050595&perks=1482024992,0,0,1359896290
+dimwishlist:item=1135050595&perks=1482024992,0,2387244414,0
+dimwishlist:item=1135050595&perks=1482024992,3142289711,0,0
+dimwishlist:item=1135050595&perks=1482024992,0,0,0
+dimwishlist:item=1135050595&perks=0,3142289711,0,0
+dimwishlist:item=1135050595&perks=0,0,2387244414,0
+dimwishlist:item=1135050595&perks=0,0,0,1359896290
 
 // The Forward Path
 // Rifle Scope ST
@@ -215,6 +341,22 @@ dimwishlist:item=1690783811&perks=0,0,0,4152709778
 // Kill Clip
 // Masterwork: Stability
 // Mod: Targeting Adjuster
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=0,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,0,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,3142289711,0,1015611457
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,0
+dimwishlist:item=821154603&perks=0,0,1890422124,1015611457
+dimwishlist:item=821154603&perks=0,3142289711,0,1015611457
+dimwishlist:item=821154603&perks=0,3142289711,1890422124,0
+dimwishlist:item=821154603&perks=1482024992,0,0,1015611457
+dimwishlist:item=821154603&perks=1482024992,0,1890422124,0
+dimwishlist:item=821154603&perks=1482024992,3142289711,0,0
+dimwishlist:item=821154603&perks=1482024992,0,0,0
+dimwishlist:item=821154603&perks=0,3142289711,0,0
+dimwishlist:item=821154603&perks=0,0,1890422124,0
+dimwishlist:item=821154603&perks=0,0,0,1015611457
 
 // The Last Breath
 // Smallbore
@@ -223,6 +365,22 @@ dimwishlist:item=1690783811&perks=0,0,0,4152709778
 // Rangefinder
 // Masterwork: Stability
 // Mod: Targeting Adjuster
+//notes:MW: Stability, Mod: Targeting Adjuster
+dimwishlist:item=507038823&perks=1482024992,1561002382,1359896290,2846385770
+dimwishlist:item=507038823&perks=0,1561002382,1359896290,2846385770
+dimwishlist:item=507038823&perks=1482024992,0,1359896290,2846385770
+dimwishlist:item=507038823&perks=1482024992,1561002382,0,2846385770
+dimwishlist:item=507038823&perks=1482024992,1561002382,1359896290,0
+dimwishlist:item=507038823&perks=0,0,1359896290,2846385770
+dimwishlist:item=507038823&perks=0,1561002382,0,2846385770
+dimwishlist:item=507038823&perks=0,1561002382,1359896290,0
+dimwishlist:item=507038823&perks=1482024992,0,0,2846385770
+dimwishlist:item=507038823&perks=1482024992,0,1359896290,0
+dimwishlist:item=507038823&perks=1482024992,1561002382,0,0
+dimwishlist:item=507038823&perks=1482024992,0,0,0
+dimwishlist:item=507038823&perks=0,1561002382,0,0
+dimwishlist:item=507038823&perks=0,0,1359896290,0
+dimwishlist:item=507038823&perks=0,0,0,2846385770
 
 // Scathelocke
 // Smallbore
@@ -354,6 +512,22 @@ dimwishlist:item=2852052802&perks=0,0,0,1546637391
 // Kill Clip
 // Masterwork: Range
 // Mod: Counterbalance Stock
+//notes:MW: Range, Mod: Coutnerbalance Stock
+dimwishlist:item=3385326721&perks=1467527085,1561002382,1645158859,1015611457
+dimwishlist:item=3385326721&perks=0,1561002382,1645158859,1015611457
+dimwishlist:item=3385326721&perks=1467527085,0,1645158859,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1561002382,0,1015611457
+dimwishlist:item=3385326721&perks=1467527085,1561002382,1645158859,0
+dimwishlist:item=3385326721&perks=0,0,1645158859,1015611457
+dimwishlist:item=3385326721&perks=0,1561002382,0,1015611457
+dimwishlist:item=3385326721&perks=0,1561002382,1645158859,0
+dimwishlist:item=3385326721&perks=1467527085,0,0,1015611457
+dimwishlist:item=3385326721&perks=1467527085,0,1645158859,0
+dimwishlist:item=3385326721&perks=1467527085,1561002382,0,0
+dimwishlist:item=3385326721&perks=1467527085,0,0,0
+dimwishlist:item=3385326721&perks=0,1561002382,0,0
+dimwishlist:item=3385326721&perks=0,0,1645158859,0
+dimwishlist:item=3385326721&perks=0,0,0,1015611457
 
 
 // Hand Cannons --------------------------------------------------
@@ -364,9 +538,25 @@ dimwishlist:item=2852052802&perks=0,0,0,1546637391
 // Smallbore
 // Steady Rounds
 // Surplus
-// Opening Shot
+// Explosive Payload
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=1046651176&perks=1482024992,3177308360,3436462433,3038247973
+dimwishlist:item=1046651176&perks=0,3177308360,3436462433,3038247973
+dimwishlist:item=1046651176&perks=1482024992,0,3436462433,3038247973
+dimwishlist:item=1046651176&perks=1482024992,3177308360,0,3038247973
+dimwishlist:item=1046651176&perks=1482024992,3177308360,3436462433,0
+dimwishlist:item=1046651176&perks=0,0,3436462433,3038247973
+dimwishlist:item=1046651176&perks=0,3177308360,0,3038247973
+dimwishlist:item=1046651176&perks=0,3177308360,3436462433,0
+dimwishlist:item=1046651176&perks=1482024992,0,0,3038247973
+dimwishlist:item=1046651176&perks=1482024992,0,3436462433,0
+dimwishlist:item=1046651176&perks=1482024992,3177308360,0,0
+dimwishlist:item=1046651176&perks=1482024992,0,0,0
+dimwishlist:item=1046651176&perks=0,3177308360,0,0
+dimwishlist:item=1046651176&perks=0,0,3436462433,0
+dimwishlist:item=1046651176&perks=0,0,0,3038247973
 
 // Crimil's Dagger
 // Steadyhand HCS
@@ -375,6 +565,22 @@ dimwishlist:item=2852052802&perks=0,0,0,1546637391
 // Kill Clip
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=4292849692&perks=1926090095,3177308360,1168162263,1015611457
+dimwishlist:item=4292849692&perks=0,3177308360,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,0,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3177308360,0,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3177308360,1168162263,0
+dimwishlist:item=4292849692&perks=0,0,1168162263,1015611457
+dimwishlist:item=4292849692&perks=0,3177308360,0,1015611457
+dimwishlist:item=4292849692&perks=0,3177308360,1168162263,0
+dimwishlist:item=4292849692&perks=1926090095,0,0,1015611457
+dimwishlist:item=4292849692&perks=1926090095,0,1168162263,0
+dimwishlist:item=4292849692&perks=1926090095,3177308360,0,0
+dimwishlist:item=4292849692&perks=1926090095,0,0,0
+dimwishlist:item=4292849692&perks=0,3177308360,0,0
+dimwishlist:item=4292849692&perks=0,0,1168162263,0
+dimwishlist:item=4292849692&perks=0,0,0,1015611457
 
 // Igneous Hammer (Adept)
 // Smallbore
@@ -407,6 +613,22 @@ dimwishlist:item=2527666306&perks=0,0,0,47981717
 // Kill Clip
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=3924212056&perks=1482024992,3177308360,2946784966,1015611457
+dimwishlist:item=3924212056&perks=0,3177308360,2946784966,1015611457
+dimwishlist:item=3924212056&perks=1482024992,0,2946784966,1015611457
+dimwishlist:item=3924212056&perks=1482024992,3177308360,0,1015611457
+dimwishlist:item=3924212056&perks=1482024992,3177308360,2946784966,0
+dimwishlist:item=3924212056&perks=0,0,2946784966,1015611457
+dimwishlist:item=3924212056&perks=0,3177308360,0,1015611457
+dimwishlist:item=3924212056&perks=0,3177308360,2946784966,0
+dimwishlist:item=3924212056&perks=1482024992,0,0,1015611457
+dimwishlist:item=3924212056&perks=1482024992,0,2946784966,0
+dimwishlist:item=3924212056&perks=1482024992,3177308360,0,0
+dimwishlist:item=3924212056&perks=1482024992,0,0,0
+dimwishlist:item=3924212056&perks=0,3177308360,0,0
+dimwishlist:item=3924212056&perks=0,0,2946784966,0
+dimwishlist:item=3924212056&perks=0,0,0,1015611457
 
 // The Steady Hand
 // Steadyhand HCS
@@ -415,6 +637,22 @@ dimwishlist:item=2527666306&perks=0,0,0,47981717
 // Iron Grip
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=2220884262&perks=1926090095,1561002382,2450788523,11551321
+dimwishlist:item=2220884262&perks=0,1561002382,2450788523,11551321
+dimwishlist:item=2220884262&perks=1926090095,0,2450788523,11551321
+dimwishlist:item=2220884262&perks=1926090095,1561002382,0,11551321
+dimwishlist:item=2220884262&perks=1926090095,1561002382,2450788523,0
+dimwishlist:item=2220884262&perks=0,0,2450788523,11551321
+dimwishlist:item=2220884262&perks=0,1561002382,0,11551321
+dimwishlist:item=2220884262&perks=0,1561002382,2450788523,0
+dimwishlist:item=2220884262&perks=1926090095,0,0,11551321
+dimwishlist:item=2220884262&perks=1926090095,0,2450788523,0
+dimwishlist:item=2220884262&perks=1926090095,1561002382,0,0
+dimwishlist:item=2220884262&perks=1926090095,0,0,0
+dimwishlist:item=2220884262&perks=0,1561002382,0,0
+dimwishlist:item=2220884262&perks=0,0,2450788523,0
+dimwishlist:item=2220884262&perks=0,0,0,1155132
 
 // True Prophecy
 // Steadyhand HCS
@@ -456,6 +694,22 @@ dimwishlist:item=2742838700&perks=0,0,0,3038247973
 // Rangefinder
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=48643186&perks=1482024992,3177308360,699525795,2846385770
+dimwishlist:item=48643186&perks=0,3177308360,699525795,2846385770
+dimwishlist:item=48643186&perks=1482024992,0,699525795,2846385770
+dimwishlist:item=48643186&perks=1482024992,3177308360,0,2846385770
+dimwishlist:item=48643186&perks=1482024992,3177308360,699525795,0
+dimwishlist:item=48643186&perks=0,0,699525795,2846385770
+dimwishlist:item=48643186&perks=0,3177308360,0,2846385770
+dimwishlist:item=48643186&perks=0,3177308360,699525795,0
+dimwishlist:item=48643186&perks=1482024992,0,0,2846385770
+dimwishlist:item=48643186&perks=1482024992,0,699525795,0
+dimwishlist:item=48643186&perks=1482024992,3177308360,0,0
+dimwishlist:item=48643186&perks=1482024992,0,0,0
+dimwishlist:item=48643186&perks=0,3177308360,0,0
+dimwishlist:item=48643186&perks=0,0,699525795,0
+dimwishlist:item=48643186&perks=0,0,0,2846385770
 
 // Annual Skate
 // Steadyhand HCS
@@ -464,6 +718,22 @@ dimwishlist:item=2742838700&perks=0,0,0,3038247973
 // Timed Payload
 // Masterwork: Range
 // Mod: Icarus Grip
+//notes:MW: Range, Mod: Icarus Grip
+dimwishlist:item=6857689&perks=1926090095,3177308360,3436462433,1954620775
+dimwishlist:item=6857689&perks=0,3177308360,3436462433,1954620775
+dimwishlist:item=6857689&perks=1926090095,0,3436462433,1954620775
+dimwishlist:item=6857689&perks=1926090095,3177308360,0,1954620775
+dimwishlist:item=6857689&perks=1926090095,3177308360,3436462433,0
+dimwishlist:item=6857689&perks=0,0,3436462433,1954620775
+dimwishlist:item=6857689&perks=0,3177308360,0,1954620775
+dimwishlist:item=6857689&perks=0,3177308360,3436462433,0
+dimwishlist:item=6857689&perks=1926090095,0,0,1954620775
+dimwishlist:item=6857689&perks=1926090095,0,3436462433,0
+dimwishlist:item=6857689&perks=1926090095,3177308360,0,0
+dimwishlist:item=6857689&perks=1926090095,0,0,0
+dimwishlist:item=6857689&perks=0,3177308360,0,0
+dimwishlist:item=6857689&perks=0,0,3436462433,0
+dimwishlist:item=6857689&perks=0,0,0,1954620775
 
 // Cantata-57
 // Smallbore
@@ -472,6 +742,22 @@ dimwishlist:item=2742838700&perks=0,0,0,3038247973
 // Rangefinder
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=372697604&perks=1482024992,3177308360,699525795,2846385770
+dimwishlist:item=372697604&perks=0,3177308360,699525795,2846385770
+dimwishlist:item=372697604&perks=1482024992,0,699525795,2846385770
+dimwishlist:item=372697604&perks=1482024992,3177308360,0,2846385770
+dimwishlist:item=372697604&perks=1482024992,3177308360,699525795,0
+dimwishlist:item=372697604&perks=0,0,699525795,2846385770
+dimwishlist:item=372697604&perks=0,3177308360,0,2846385770
+dimwishlist:item=372697604&perks=0,3177308360,699525795,0
+dimwishlist:item=372697604&perks=1482024992,0,0,2846385770
+dimwishlist:item=372697604&perks=1482024992,0,699525795,0
+dimwishlist:item=372697604&perks=1482024992,3177308360,0,0
+dimwishlist:item=372697604&perks=1482024992,0,0,0
+dimwishlist:item=372697604&perks=0,3177308360,0,0
+dimwishlist:item=372697604&perks=0,0,699525795,0
+dimwishlist:item=372697604&perks=0,0,0,2846385770
 
 // Crisis Inverted
 // Chambered Compensator
@@ -504,6 +790,22 @@ dimwishlist:item=2888266564&perks=0,0,0,1546637391
 // Rangefinder
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770
+dimwishlist:item=2742838701&perks=0,1561002382,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090095,0,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,0,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,0
+dimwishlist:item=2742838701&perks=0,0,47981717,2846385770
+dimwishlist:item=2742838701&perks=0,1561002382,0,2846385770
+dimwishlist:item=2742838701&perks=0,1561002382,47981717,0
+dimwishlist:item=2742838701&perks=1926090095,0,0,2846385770
+dimwishlist:item=2742838701&perks=1926090095,0,47981717,0
+dimwishlist:item=2742838701&perks=1926090095,1561002382,0,0
+dimwishlist:item=2742838701&perks=1926090095,0,0,0
+dimwishlist:item=2742838701&perks=0,1561002382,0,0
+dimwishlist:item=2742838701&perks=0,0,47981717,0
+dimwishlist:item=2742838701&perks=0,0,0,2846385770
 
 // Eyasluna
 // Steadyhand HCS
@@ -512,14 +814,46 @@ dimwishlist:item=2888266564&perks=0,0,0,1546637391
 // Moving Target
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=235827225&perks=1926090095,1561002382,1428297954,588594999
+dimwishlist:item=235827225&perks=0,1561002382,1428297954,588594999
+dimwishlist:item=235827225&perks=1926090095,0,1428297954,588594999
+dimwishlist:item=235827225&perks=1926090095,1561002382,0,588594999
+dimwishlist:item=235827225&perks=1926090095,1561002382,1428297954,0
+dimwishlist:item=235827225&perks=0,0,1428297954,588594999
+dimwishlist:item=235827225&perks=0,1561002382,0,588594999
+dimwishlist:item=235827225&perks=0,1561002382,1428297954,0
+dimwishlist:item=235827225&perks=1926090095,0,0,588594999
+dimwishlist:item=235827225&perks=1926090095,0,1428297954,0
+dimwishlist:item=235827225&perks=1926090095,1561002382,0,0
+dimwishlist:item=235827225&perks=1926090095,0,0,0
+dimwishlist:item=235827225&perks=0,1561002382,0,0
+dimwishlist:item=235827225&perks=0,0,1428297954,0
+dimwishlist:item=235827225&perks=0,0,0,588594999
 
 // Fatebringer (Timelost)
-// Smallbore
+// Chambered Compensator
 // Accurized Rounds
 // Explosive Payload
 // Eye of the Storm
 // Masterwork: Stability
 // Mod: Adept Icarus Grip
+//notes:MW: Stability, Mod: Adept Icarus Grip
+dimwishlist:item=1216319404&perks=3661387068,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=0,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=3661387068,0,3038247973,699525795
+dimwishlist:item=1216319404&perks=3661387068,3142289711,0,699525795
+dimwishlist:item=1216319404&perks=3661387068,3142289711,3038247973,0
+dimwishlist:item=1216319404&perks=0,0,3038247973,699525795
+dimwishlist:item=1216319404&perks=0,3142289711,0,699525795
+dimwishlist:item=1216319404&perks=0,3142289711,3038247973,0
+dimwishlist:item=1216319404&perks=3661387068,0,0,699525795
+dimwishlist:item=1216319404&perks=3661387068,0,3038247973,0
+dimwishlist:item=1216319404&perks=3661387068,3142289711,0,0
+dimwishlist:item=1216319404&perks=3661387068,0,0,0
+dimwishlist:item=1216319404&perks=0,3142289711,0,0
+dimwishlist:item=1216319404&perks=0,0,3038247973,0
+dimwishlist:item=1216319404&perks=0,0,0,699525795
 
 // Finite Impactor
 // Steadyhand HCS
@@ -528,6 +862,22 @@ dimwishlist:item=2888266564&perks=0,0,0,1546637391
 // Elemental Capacitor: Void
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=3813153080&perks=1926090095,1561002382,280464955,3511092054
+dimwishlist:item=3813153080&perks=0,1561002382,280464955,3511092054
+dimwishlist:item=3813153080&perks=1926090095,0,280464955,3511092054
+dimwishlist:item=3813153080&perks=1926090095,1561002382,0,3511092054
+dimwishlist:item=3813153080&perks=1926090095,1561002382,280464955,0
+dimwishlist:item=3813153080&perks=0,0,280464955,3511092054
+dimwishlist:item=3813153080&perks=0,1561002382,0,3511092054
+dimwishlist:item=3813153080&perks=0,1561002382,280464955,0
+dimwishlist:item=3813153080&perks=1926090095,0,0,3511092054
+dimwishlist:item=3813153080&perks=1926090095,0,280464955,0
+dimwishlist:item=3813153080&perks=1926090095,1561002382,0,0
+dimwishlist:item=3813153080&perks=1926090095,0,0,0
+dimwishlist:item=3813153080&perks=0,1561002382,0,0
+dimwishlist:item=3813153080&perks=0,0,280464955,0
+dimwishlist:item=3813153080&perks=0,0,0,3511092054
 
 // Judgment
 // Steadyhand HCS
@@ -536,14 +886,46 @@ dimwishlist:item=2888266564&perks=0,0,0,1546637391
 // Timed Payload
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=1476654960&perks=1926090095,3177308360,588594999,1954620775
+dimwishlist:item=1476654960&perks=0,3177308360,588594999,1954620775
+dimwishlist:item=1476654960&perks=1926090095,0,588594999,1954620775
+dimwishlist:item=1476654960&perks=1926090095,3177308360,0,1954620775
+dimwishlist:item=1476654960&perks=1926090095,3177308360,588594999,0
+dimwishlist:item=1476654960&perks=0,0,588594999,1954620775
+dimwishlist:item=1476654960&perks=0,3177308360,0,1954620775
+dimwishlist:item=1476654960&perks=0,3177308360,588594999,0
+dimwishlist:item=1476654960&perks=1926090095,0,0,1954620775
+dimwishlist:item=1476654960&perks=1926090095,0,588594999,0
+dimwishlist:item=1476654960&perks=1926090095,3177308360,0,0
+dimwishlist:item=1476654960&perks=1926090095,0,0,0
+dimwishlist:item=1476654960&perks=0,3177308360,0,0
+dimwishlist:item=1476654960&perks=0,0,588594999,0
+dimwishlist:item=1476654960&perks=0,0,0,1954620775
 
 // Nation of Beasts
 // Smallbore
 // Steady Rounds
-// Opening Shot
+// Zen Moment
 // Explosive Payload
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=654370424&perks=1482024992,3177308360,2387244414,3038247973
+dimwishlist:item=654370424&perks=0,3177308360,2387244414,3038247973
+dimwishlist:item=654370424&perks=1482024992,0,2387244414,3038247973
+dimwishlist:item=654370424&perks=1482024992,3177308360,0,3038247973
+dimwishlist:item=654370424&perks=1482024992,3177308360,2387244414,0
+dimwishlist:item=654370424&perks=0,0,2387244414,3038247973
+dimwishlist:item=654370424&perks=0,3177308360,0,3038247973
+dimwishlist:item=654370424&perks=0,3177308360,2387244414,0
+dimwishlist:item=654370424&perks=1482024992,0,0,3038247973
+dimwishlist:item=654370424&perks=1482024992,0,2387244414,0
+dimwishlist:item=654370424&perks=1482024992,3177308360,0,0
+dimwishlist:item=654370424&perks=1482024992,0,0,0
+dimwishlist:item=654370424&perks=0,3177308360,0,0
+dimwishlist:item=654370424&perks=0,0,2387244414,0
+dimwishlist:item=654370424&perks=0,0,0,3038247973
 
 // Palindrome (Adept)
 // Chambered Compensator
@@ -552,7 +934,22 @@ dimwishlist:item=2888266564&perks=0,0,0,1546637391
 // Rangefinder
 // Masterwork: Stability
 // Mod: Adept Icarus Grip
+//notes:MW: Stability, Mod: Adept Icarus Grip
 dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
+dimwishlist:item=1481892490&perks=0,1561002382,1168162263,2846385770
+dimwishlist:item=1481892490&perks=3661387068,0,1168162263,2846385770
+dimwishlist:item=1481892490&perks=3661387068,1561002382,0,2846385770
+dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,0
+dimwishlist:item=1481892490&perks=0,0,1168162263,2846385770
+dimwishlist:item=1481892490&perks=0,1561002382,0,2846385770
+dimwishlist:item=1481892490&perks=0,1561002382,1168162263,0
+dimwishlist:item=1481892490&perks=3661387068,0,0,2846385770
+dimwishlist:item=1481892490&perks=3661387068,0,1168162263,0
+dimwishlist:item=1481892490&perks=3661387068,1561002382,0,0
+dimwishlist:item=1481892490&perks=3661387068,0,0,0
+dimwishlist:item=1481892490&perks=0,1561002382,0,0
+dimwishlist:item=1481892490&perks=0,0,1168162263,0
+dimwishlist:item=1481892490&perks=0,0,0,2846385770
 
 // Waking Vigil
 // Steadyhand HCS
@@ -561,6 +958,22 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Vorpal Weapon
 // Masterwork: Stability
 // Mod: Icarus Grip
+//notes:MW: Stability, Mod: Icarus Grip
+dimwishlist:item=334171687&perks=1926090095,1561002382,2846385770,1546637391
+dimwishlist:item=334171687&perks=0,1561002382,2846385770,1546637391
+dimwishlist:item=334171687&perks=1926090095,0,2846385770,1546637391
+dimwishlist:item=334171687&perks=1926090095,1561002382,0,1546637391
+dimwishlist:item=334171687&perks=1926090095,1561002382,2846385770,0
+dimwishlist:item=334171687&perks=0,0,2846385770,1546637391
+dimwishlist:item=334171687&perks=0,1561002382,0,1546637391
+dimwishlist:item=334171687&perks=0,1561002382,2846385770,0
+dimwishlist:item=334171687&perks=1926090095,0,0,1546637391
+dimwishlist:item=334171687&perks=1926090095,0,2846385770,0
+dimwishlist:item=334171687&perks=1926090095,1561002382,0,0
+dimwishlist:item=334171687&perks=1926090095,0,0,0
+dimwishlist:item=334171687&perks=0,1561002382,0,0
+dimwishlist:item=334171687&perks=0,0,2846385770,0
+dimwishlist:item=334171687&perks=0,0,0,1546637391
 
 
 // 180 RPM - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -568,10 +981,26 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Frontier's Cry
 // Full Bore
 // Accurized Rounds
-// Tunnel Vision
-// Kill Clip
+// Rapid Hit
+// Iron Reach
 // Masterwork: Range
 // Mod: Targeting Adjuster
+//notes:MW: Range, Mod: Targeting Adjuster
+dimwishlist:item=1141547457&perks=202670084,3142289711,247725512,591790007
+dimwishlist:item=1141547457&perks=0,3142289711,247725512,591790007
+dimwishlist:item=1141547457&perks=202670084,0,247725512,591790007
+dimwishlist:item=1141547457&perks=202670084,3142289711,0,591790007
+dimwishlist:item=1141547457&perks=202670084,3142289711,247725512,0
+dimwishlist:item=1141547457&perks=0,0,247725512,591790007
+dimwishlist:item=1141547457&perks=0,3142289711,0,591790007
+dimwishlist:item=1141547457&perks=0,3142289711,247725512,0
+dimwishlist:item=1141547457&perks=202670084,0,0,591790007
+dimwishlist:item=1141547457&perks=202670084,0,247725512,0
+dimwishlist:item=1141547457&perks=202670084,3142289711,0,0
+dimwishlist:item=1141547457&perks=202670084,0,0,0
+dimwishlist:item=1141547457&perks=0,3142289711,0,0
+dimwishlist:item=1141547457&perks=0,0,247725512,0
+dimwishlist:item=1141547457&perks=0,0,0,591790007
 
 // Ikelos_HC_v1.0.2
 // Full Bore
@@ -580,15 +1009,46 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Eye of the Storm
 // Masterwork: Range
 // Mod: Targeting Adjuster
+//notes:MW: Range, Mod: Targeting Adjuster
+dimwishlist:item=1200824700&perks=202670084,1140096971,2039302152,699525795
+dimwishlist:item=1200824700&perks=0,1140096971,2039302152,699525795
+dimwishlist:item=1200824700&perks=202670084,0,2039302152,699525795
+dimwishlist:item=1200824700&perks=202670084,1140096971,0,699525795
+dimwishlist:item=1200824700&perks=202670084,1140096971,2039302152,0
+dimwishlist:item=1200824700&perks=0,0,2039302152,699525795
+dimwishlist:item=1200824700&perks=0,1140096971,0,699525795
+dimwishlist:item=1200824700&perks=0,1140096971,2039302152,0
+dimwishlist:item=1200824700&perks=202670084,0,0,699525795
+dimwishlist:item=1200824700&perks=202670084,0,2039302152,0
+dimwishlist:item=1200824700&perks=202670084,1140096971,0,0
+dimwishlist:item=1200824700&perks=202670084,0,0,0
+dimwishlist:item=1200824700&perks=0,1140096971,0,0
+dimwishlist:item=1200824700&perks=0,0,2039302152,0
+dimwishlist:item=1200824700&perks=0,0,0,699525795
 
 // Nature of the Beast
-
 // Sureshot HCS
 // Accurized Rounds
 // Snapshot Sights
 // Rangefinder
 // Masterwork: Range
 // Mod: Icarus Grip
+//notes:MW: Range, Mod: Targeting Adjuster
+dimwishlist:item=1835747805&perks=1926090091,3142289711,957782887,2848615171
+dimwishlist:item=1835747805&perks=0,3142289711,957782887,2848615171
+dimwishlist:item=1835747805&perks=1926090091,0,957782887,2848615171
+dimwishlist:item=1835747805&perks=1926090091,3142289711,0,2848615171
+dimwishlist:item=1835747805&perks=1926090091,3142289711,957782887,0
+dimwishlist:item=1835747805&perks=0,0,957782887,2848615171
+dimwishlist:item=1835747805&perks=0,3142289711,0,2848615171
+dimwishlist:item=1835747805&perks=0,3142289711,957782887,0
+dimwishlist:item=1835747805&perks=1926090091,0,0,2848615171
+dimwishlist:item=1835747805&perks=1926090091,0,957782887,0
+dimwishlist:item=1835747805&perks=1926090091,3142289711,0,0
+dimwishlist:item=1835747805&perks=1926090091,0,0,0
+dimwishlist:item=1835747805&perks=0,3142289711,0,0
+dimwishlist:item=1835747805&perks=0,0,957782887,0
+dimwishlist:item=1835747805&perks=0,0,0,2848615171
 
 // Posterity
 // Full Bore
@@ -597,6 +1057,22 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Opening Shot
 // Masterwork: Range
 // Mod: Targeting Adjuster
+//notes:MW: Range, Mod: Targeting Adjuster
+dimwishlist:item=3281285075&perks=1840239774,3142289711,3436462433,47981717
+dimwishlist:item=3281285075&perks=0,3142289711,3436462433,47981717
+dimwishlist:item=3281285075&perks=1840239774,0,3436462433,47981717
+dimwishlist:item=3281285075&perks=1840239774,3142289711,0,47981717
+dimwishlist:item=3281285075&perks=1840239774,3142289711,3436462433,0
+dimwishlist:item=3281285075&perks=0,0,3436462433,47981717
+dimwishlist:item=3281285075&perks=0,3142289711,0,47981717
+dimwishlist:item=3281285075&perks=0,3142289711,3436462433,0
+dimwishlist:item=3281285075&perks=1840239774,0,0,47981717
+dimwishlist:item=3281285075&perks=1840239774,0,3436462433,0
+dimwishlist:item=3281285075&perks=1840239774,3142289711,0,0
+dimwishlist:item=3281285075&perks=1840239774,0,0,0
+dimwishlist:item=3281285075&perks=0,3142289711,0,0
+dimwishlist:item=3281285075&perks=0,0,3436462433,0
+dimwishlist:item=3281285075&perks=0,0,0,47981717
 
 // Seventh Seraph Officer Revolver
 // Full Bore
@@ -605,6 +1081,22 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Timed Payload
 // Masterwork: Range
 // Mod: Targeting Adjuster
+//notes:MW: Range, Mod: Targeting Adjuster
+dimwishlist:item=3037520408&perks=202670084,3142289711,972757866,1954620775
+dimwishlist:item=3037520408&perks=0,3142289711,972757866,1954620775
+dimwishlist:item=3037520408&perks=202670084,0,972757866,1954620775
+dimwishlist:item=3037520408&perks=202670084,3142289711,0,1954620775
+dimwishlist:item=3037520408&perks=202670084,3142289711,972757866,0
+dimwishlist:item=3037520408&perks=0,0,972757866,1954620775
+dimwishlist:item=3037520408&perks=0,3142289711,0,1954620775
+dimwishlist:item=3037520408&perks=0,3142289711,972757866,0
+dimwishlist:item=3037520408&perks=202670084,0,0,1954620775
+dimwishlist:item=3037520408&perks=202670084,0,972757866,0
+dimwishlist:item=3037520408&perks=202670084,3142289711,0,0
+dimwishlist:item=3037520408&perks=202670084,0,0,0
+dimwishlist:item=3037520408&perks=0,3142289711,0,0
+dimwishlist:item=3037520408&perks=0,0,972757866,0
+dimwishlist:item=3037520408&perks=0,0,0,1954620775
 
 // Survivor's Epitaph
 // Full Bore
@@ -613,6 +1105,22 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Kill Clip
 // Masterwork: Range
 // Mod: Targeting Adjuster
+//notes:MW: Range, Mod: Targeting Adjuster
+dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,1015611457
+dimwishlist:item=310708513&perks=0,1561002382,2946784966,1015611457
+dimwishlist:item=310708513&perks=202670084,0,2946784966,1015611457
+dimwishlist:item=310708513&perks=202670084,1561002382,0,1015611457
+dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,0
+dimwishlist:item=310708513&perks=0,0,2946784966,1015611457
+dimwishlist:item=310708513&perks=0,1561002382,0,1015611457
+dimwishlist:item=310708513&perks=0,1561002382,2946784966,0
+dimwishlist:item=310708513&perks=202670084,0,0,1015611457
+dimwishlist:item=310708513&perks=202670084,0,2946784966,0
+dimwishlist:item=310708513&perks=202670084,1561002382,0,0
+dimwishlist:item=310708513&perks=202670084,0,0,0
+dimwishlist:item=310708513&perks=0,1561002382,0,0
+dimwishlist:item=310708513&perks=0,0,2946784966,0
+dimwishlist:item=310708513&perks=0,0,0,1015611457
 
 // Vulpecula
 // Full Bore
@@ -621,6 +1129,22 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Explosive Payload
 // Masterwork: Range
 // Mod: Targeting Adjuster
+//notes:MW: Range, Mod: Targeting Adjuster
+dimwishlist:item=1622998472&perks=202670084,3142289711,1195158366,3038247973
+dimwishlist:item=1622998472&perks=0,3142289711,1195158366,3038247973
+dimwishlist:item=1622998472&perks=202670084,0,1195158366,3038247973
+dimwishlist:item=1622998472&perks=202670084,3142289711,0,3038247973
+dimwishlist:item=1622998472&perks=202670084,3142289711,1195158366,0
+dimwishlist:item=1622998472&perks=0,0,1195158366,3038247973
+dimwishlist:item=1622998472&perks=0,3142289711,0,3038247973
+dimwishlist:item=1622998472&perks=0,3142289711,1195158366,0
+dimwishlist:item=1622998472&perks=202670084,0,0,3038247973
+dimwishlist:item=1622998472&perks=202670084,0,1195158366,0
+dimwishlist:item=1622998472&perks=202670084,3142289711,0,0
+dimwishlist:item=1622998472&perks=202670084,0,0,0
+dimwishlist:item=1622998472&perks=0,3142289711,0,0
+dimwishlist:item=1622998472&perks=0,0,1195158366,0
+dimwishlist:item=1622998472&perks=0,0,0,3038247973
 
 
 // Pulse Rifles --------------------------------------------------
