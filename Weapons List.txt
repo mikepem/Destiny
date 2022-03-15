@@ -7,19 +7,101 @@ Auto Rifles --------------------------------------------------------------------
 
 360 RPM - High Impact ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+// Age Old Bond 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Tap the Trigger
+// Kill Clip
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=601592879&perks=839105230,1561002382,1890422124,1015611457
+dimwishlist:item=601592879&perks=839105230,1561002382,1890422124,0
+dimwishlist:item=601592879&perks=839105230,1561002382,0,1015611457
+dimwishlist:item=601592879&perks=839105230,0,1890422124,1015611457
+dimwishlist:item=601592879&perks=0,1561002382,1890422124,1015611457
+dimwishlist:item=601592879&perks=839105230,1561002382,0,0
+dimwishlist:item=601592879&perks=839105230,0,1890422124,0
+dimwishlist:item=601592879&perks=839105230,0,0,1015611457
+dimwishlist:item=601592879&perks=0,1561002382,1890422124,0
+dimwishlist:item=601592879&perks=0,1561002382,0,1015611457
+dimwishlist:item=601592879&perks=0,0,1890422124,1015611457
+dimwishlist:item=601592879&perks=839105230,0,0,0
+dimwishlist:item=601592879&perks=0,1561002382,0,0
+dimwishlist:item=601592879&perks=0,0,1890422124,0
+dimwishlist:item=601592879&perks=0,0,0,1015611457
+
+// Chrysura Melo 
+// Smallbore
+// Steady Rounds
+// Dynamic Sway Reduction
+// Frenzy
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=1337707096&perks=1482024992,3177308360,1359896290,4104185692
+dimwishlist:item=1337707096&perks=1482024992,3177308360,1359896290,0
+dimwishlist:item=1337707096&perks=1482024992,3177308360,0,4104185692
+dimwishlist:item=1337707096&perks=1482024992,0,1359896290,4104185692
+dimwishlist:item=1337707096&perks=0,3177308360,1359896290,4104185692
+dimwishlist:item=1337707096&perks=1482024992,3177308360,0,0
+dimwishlist:item=1337707096&perks=1482024992,0,1359896290,0
+dimwishlist:item=1337707096&perks=1482024992,0,0,4104185692
+dimwishlist:item=1337707096&perks=0,3177308360,1359896290,0
+dimwishlist:item=1337707096&perks=0,3177308360,0,4104185692
+dimwishlist:item=1337707096&perks=0,0,1359896290,4104185692
+dimwishlist:item=1337707096&perks=1482024992,0,0,0
+dimwishlist:item=1337707096&perks=0,3177308360,0,0
+dimwishlist:item=1337707096&perks=0,0,1359896290,0
+dimwishlist:item=1337707096&perks=0,0,0,4104185692
+
+// Come to Pass (Shaped)
+
+// False Promises 
+// Smallbore
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Eye of the Storm
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=3143732432&perks=1482024992,1561002382,1359896290,699525795
+dimwishlist:item=3143732432&perks=1482024992,1561002382,1359896290,0
+dimwishlist:item=3143732432&perks=1482024992,1561002382,0,699525795
+dimwishlist:item=3143732432&perks=1482024992,0,1359896290,699525795
+dimwishlist:item=3143732432&perks=0,1561002382,1359896290,699525795
+dimwishlist:item=3143732432&perks=1482024992,1561002382,0,0
+dimwishlist:item=3143732432&perks=1482024992,0,1359896290,0
+dimwishlist:item=3143732432&perks=1482024992,0,0,699525795
+dimwishlist:item=3143732432&perks=0,1561002382,1359896290,0
+dimwishlist:item=3143732432&perks=0,1561002382,0,699525795
+dimwishlist:item=3143732432&perks=0,0,1359896290,699525795
+dimwishlist:item=3143732432&perks=1482024992,0,0,0
+dimwishlist:item=3143732432&perks=0,1561002382,0,0
+dimwishlist:item=3143732432&perks=0,0,1359896290,0
+dimwishlist:item=3143732432&perks=0,0,0,699525795
+
+// Herod C 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Vorpal Weapon
+// Origin Trait: Hakke Breach Armaments
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1788603939&perks=839105230,1561002382,1359896290,1546637391
+dimwishlist:item=1788603939&perks=839105230,1561002382,1359896290,0
+dimwishlist:item=1788603939&perks=839105230,1561002382,0,1546637391
+dimwishlist:item=1788603939&perks=839105230,0,1359896290,1546637391
+dimwishlist:item=1788603939&perks=0,1561002382,1359896290,1546637391
+dimwishlist:item=1788603939&perks=839105230,1561002382,0,0
+dimwishlist:item=1788603939&perks=839105230,0,1359896290,0
+dimwishlist:item=1788603939&perks=839105230,0,0,1546637391
+dimwishlist:item=1788603939&perks=0,1561002382,1359896290,0
+dimwishlist:item=1788603939&perks=0,1561002382,0,1546637391
+dimwishlist:item=1788603939&perks=0,0,1359896290,1546637391
+dimwishlist:item=1788603939&perks=839105230,0,0,0
+dimwishlist:item=1788603939&perks=0,1561002382,0,0
+dimwishlist:item=1788603939&perks=0,0,1359896290,0
+dimwishlist:item=1788603939&perks=0,0,0,1546637391
 450 RPM - Precision / Lightweight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 600 RP< - Adaptive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 720 RPM - Rapid Fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-// Krait 
-// Extended Barrel
-// High-Caliber Rounds
-// Overflow
-// Vorpal Weapon
-// Origin Trait: Veist Stinger
-// Masterwork: Range
-// Mod: Targeting Adjuster
-dimwishlist:item=2852052802&perks=1467527085,1561002382,3643424744,3988215619
-dimwishlist:item=2852052802&perks=1467527085,1561002382,3643424744,1546637391
