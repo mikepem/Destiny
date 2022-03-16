@@ -3309,6 +3309,29 @@ dimwishlist:item=2591111628&perks=0,791862061,0,0
 dimwishlist:item=2591111628&perks=0,0,3436462433,0
 dimwishlist:item=2591111628&perks=0,0,0,1546637391
 
+// Fractethyst 
+// Full Choke
+// Assault Mag
+// Quickdraw
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=3184681056&perks=1047830412,791862061,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,791862061,706527188,0
+dimwishlist:item=3184681056&perks=1047830412,791862061,0,47981717
+dimwishlist:item=3184681056&perks=1047830412,0,706527188,47981717
+dimwishlist:item=3184681056&perks=0,791862061,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,791862061,0,0
+dimwishlist:item=3184681056&perks=1047830412,0,706527188,0
+dimwishlist:item=3184681056&perks=1047830412,0,0,47981717
+dimwishlist:item=3184681056&perks=0,791862061,706527188,0
+dimwishlist:item=3184681056&perks=0,791862061,0,47981717
+dimwishlist:item=3184681056&perks=0,0,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,0,0,0
+dimwishlist:item=3184681056&perks=0,791862061,0,0
+dimwishlist:item=3184681056&perks=0,0,706527188,0
+dimwishlist:item=3184681056&perks=0,0,0,47981717
+
 // Prophet Of Doom 
 // Full Choke
 // Assault Mag
@@ -3588,6 +3611,29 @@ dimwishlist:item=1821724780&perks=1047830412,0,0,0
 dimwishlist:item=1821724780&perks=0,791862061,0,0
 dimwishlist:item=1821724780&perks=0,0,706527188,0
 dimwishlist:item=1821724780&perks=0,0,0,957782887
+
+// Wastelander M5 
+// Full Choke
+// Assault Mag
+// Perpetual Motion
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,47981717
+dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,0
+dimwishlist:item=1679868061&perks=1047830412,791862061,0,47981717
+dimwishlist:item=1679868061&perks=1047830412,0,1428297954,47981717
+dimwishlist:item=1679868061&perks=0,791862061,1428297954,47981717
+dimwishlist:item=1679868061&perks=1047830412,791862061,0,0
+dimwishlist:item=1679868061&perks=1047830412,0,1428297954,0
+dimwishlist:item=1679868061&perks=1047830412,0,0,47981717
+dimwishlist:item=1679868061&perks=0,791862061,1428297954,0
+dimwishlist:item=1679868061&perks=0,791862061,0,47981717
+dimwishlist:item=1679868061&perks=0,0,1428297954,47981717
+dimwishlist:item=1679868061&perks=1047830412,0,0,0
+dimwishlist:item=1679868061&perks=0,791862061,0,0
+dimwishlist:item=1679868061&perks=0,0,1428297954,0
+dimwishlist:item=1679868061&perks=0,0,0,47981717
 
 // Xenoclast Iv 
 // Full Choke
