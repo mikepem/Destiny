@@ -3332,6 +3332,29 @@ dimwishlist:item=3184681056&perks=0,791862061,0,0
 dimwishlist:item=3184681056&perks=0,0,706527188,0
 dimwishlist:item=3184681056&perks=0,0,0,47981717
 
+// Matador 64 
+// Full Choke
+// Assault Mag
+// Threat Detector
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=2563012876&perks=1047830412,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,791862061,4071163871,0
+dimwishlist:item=2563012876&perks=1047830412,791862061,0,47981717
+dimwishlist:item=2563012876&perks=1047830412,0,4071163871,47981717
+dimwishlist:item=2563012876&perks=0,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,791862061,0,0
+dimwishlist:item=2563012876&perks=1047830412,0,4071163871,0
+dimwishlist:item=2563012876&perks=1047830412,0,0,47981717
+dimwishlist:item=2563012876&perks=0,791862061,4071163871,0
+dimwishlist:item=2563012876&perks=0,791862061,0,47981717
+dimwishlist:item=2563012876&perks=0,0,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,0,0,0
+dimwishlist:item=2563012876&perks=0,791862061,0,0
+dimwishlist:item=2563012876&perks=0,0,4071163871,0
+dimwishlist:item=2563012876&perks=0,0,0,47981717
+
 // Prophet Of Doom 
 // Full Choke
 // Assault Mag
