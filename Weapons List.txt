@@ -1855,28 +1855,30 @@ dimwishlist:item=3428521585&perks=0,3177308360,0,0
 dimwishlist:item=3428521585&perks=0,0,247725512,0
 dimwishlist:item=3428521585&perks=0,0,0,1546637391
 
-// Insidious (Adept)
+// Insidious 
 // Arrowhead Brake
-// Steady Rounds
+// Accurized Rounds
 // Rapid Hit
-// Vorpal Weapon
+// Rampage
 // Origin Trait: Souldrinker
 //notes: Masterwork: Stability, Mod: Targeting Adjuster
-dimwishlist:item=786352912&perks=839105230,3177308360,247725512,1546637391
-dimwishlist:item=786352912&perks=839105230,3177308360,247725512,0
-dimwishlist:item=786352912&perks=839105230,3177308360,0,1546637391
-dimwishlist:item=786352912&perks=839105230,0,247725512,1546637391
-dimwishlist:item=786352912&perks=0,3177308360,247725512,1546637391
-dimwishlist:item=786352912&perks=839105230,3177308360,0,0
-dimwishlist:item=786352912&perks=839105230,0,247725512,0
-dimwishlist:item=786352912&perks=839105230,0,0,1546637391
-dimwishlist:item=786352912&perks=0,3177308360,247725512,0
-dimwishlist:item=786352912&perks=0,3177308360,0,1546637391
-dimwishlist:item=786352912&perks=0,0,247725512,1546637391
-dimwishlist:item=786352912&perks=839105230,0,0,0
-dimwishlist:item=786352912&perks=0,3177308360,0,0
-dimwishlist:item=786352912&perks=0,0,247725512,0
-dimwishlist:item=786352912&perks=0,0,0,1546637391
+dimwishlist:item=3428521585&perks=839105230,3142289711,247725512,3425386926
+dimwishlist:item=3428521585&perks=839105230,3142289711,247725512,0
+dimwishlist:item=3428521585&perks=839105230,3142289711,0,3425386926
+dimwishlist:item=3428521585&perks=839105230,0,247725512,3425386926
+dimwishlist:item=3428521585&perks=0,3142289711,247725512,3425386926
+dimwishlist:item=3428521585&perks=839105230,3142289711,0,0
+dimwishlist:item=3428521585&perks=839105230,0,247725512,0
+dimwishlist:item=3428521585&perks=839105230,0,0,3425386926
+dimwishlist:item=3428521585&perks=0,3142289711,247725512,0
+dimwishlist:item=3428521585&perks=0,3142289711,0,3425386926
+dimwishlist:item=3428521585&perks=0,0,247725512,3425386926
+dimwishlist:item=3428521585&perks=839105230,0,0,0
+dimwishlist:item=3428521585&perks=0,3142289711,0,0
+dimwishlist:item=3428521585&perks=0,0,247725512,0
+dimwishlist:item=3428521585&perks=0,0,0,3425386926
+
+// Insidious (Adept)
 
 // Ogma Pr6 
 // Smallbore
@@ -3160,7 +3162,28 @@ dimwishlist:item=3717177717&perks=0,3142289711,0,0
 dimwishlist:item=3717177717&perks=0,0,1359896290,0
 dimwishlist:item=3717177717&perks=0,0,0,1015611457
 
-// Submission (Shaped)
+// Submission 
+// Smallbore
+// Accurized Rounds
+// Perpetual Motion
+// Swashbuckler
+// Origin Trait: Souldrinker
+//notes: Masterwork: Range, Mod: Icarus Grip
+dimwishlist:item=3886416794&perks=1482024992,3142289711,1428297954,4082225868
+dimwishlist:item=3886416794&perks=1482024992,3142289711,1428297954,0
+dimwishlist:item=3886416794&perks=1482024992,3142289711,0,4082225868
+dimwishlist:item=3886416794&perks=1482024992,0,1428297954,4082225868
+dimwishlist:item=3886416794&perks=0,3142289711,1428297954,4082225868
+dimwishlist:item=3886416794&perks=1482024992,3142289711,0,0
+dimwishlist:item=3886416794&perks=1482024992,0,1428297954,0
+dimwishlist:item=3886416794&perks=1482024992,0,0,4082225868
+dimwishlist:item=3886416794&perks=0,3142289711,1428297954,0
+dimwishlist:item=3886416794&perks=0,3142289711,0,4082225868
+dimwishlist:item=3886416794&perks=0,0,1428297954,4082225868
+dimwishlist:item=3886416794&perks=1482024992,0,0,0
+dimwishlist:item=3886416794&perks=0,3142289711,0,0
+dimwishlist:item=3886416794&perks=0,0,1428297954,0
+dimwishlist:item=3886416794&perks=0,0,0,4082225868
 
 // Submission (Adept)
 
@@ -3410,7 +3433,28 @@ dimwishlist:item=3044460004&perks=0,0,0,2213355989
 
 740 MS - Precision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-// Deliverance (Shaped)
+// Deliverance 
+// Smallbore
+// Projection Fuse
+// Perpetual Motion
+// Tap the Trigger
+// Origin Trait: Souldrinker
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=768621510&perks=1482024992,2969185026,1428297954,1890422124
+dimwishlist:item=768621510&perks=1482024992,2969185026,1428297954,0
+dimwishlist:item=768621510&perks=1482024992,2969185026,0,1890422124
+dimwishlist:item=768621510&perks=1482024992,0,1428297954,1890422124
+dimwishlist:item=768621510&perks=0,2969185026,1428297954,1890422124
+dimwishlist:item=768621510&perks=1482024992,2969185026,0,0
+dimwishlist:item=768621510&perks=1482024992,0,1428297954,0
+dimwishlist:item=768621510&perks=1482024992,0,0,1890422124
+dimwishlist:item=768621510&perks=0,2969185026,1428297954,0
+dimwishlist:item=768621510&perks=0,2969185026,0,1890422124
+dimwishlist:item=768621510&perks=0,0,1428297954,1890422124
+dimwishlist:item=768621510&perks=1482024992,0,0,0
+dimwishlist:item=768621510&perks=0,2969185026,0,0
+dimwishlist:item=768621510&perks=0,0,1428297954,0
+dimwishlist:item=768621510&perks=0,0,0,1890422124
 
 // Deliverance (Adept)
 
