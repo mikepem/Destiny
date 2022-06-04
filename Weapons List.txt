@@ -575,3 +575,1751 @@ dimwishlist:item=2715240478&perks=1482024992,0,0,0
 dimwishlist:item=2715240478&perks=0,2969185026,0,0
 dimwishlist:item=2715240478&perks=0,0,1570042021,0
 dimwishlist:item=2715240478&perks=0,0,0,2652708987
+
+// Ignition Code 
+// Quick Launch
+// Blinding Grenades
+// Lead From Gold
+// Demolitionist
+// Origin Trait: Alacrity
+//notes: Masterwork: Velocity, Mod: Quick Access Sling
+dimwishlist:item=304659313&perks=3525010810,3032599245,1556840489,3523296417
+dimwishlist:item=304659313&perks=3525010810,3032599245,1556840489,0
+dimwishlist:item=304659313&perks=3525010810,3032599245,0,3523296417
+dimwishlist:item=304659313&perks=3525010810,0,1556840489,3523296417
+dimwishlist:item=304659313&perks=0,3032599245,1556840489,3523296417
+dimwishlist:item=304659313&perks=3525010810,3032599245,0,0
+dimwishlist:item=304659313&perks=3525010810,0,1556840489,0
+dimwishlist:item=304659313&perks=3525010810,0,0,3523296417
+dimwishlist:item=304659313&perks=0,3032599245,1556840489,0
+dimwishlist:item=304659313&perks=0,3032599245,0,3523296417
+dimwishlist:item=304659313&perks=0,0,1556840489,3523296417
+dimwishlist:item=304659313&perks=3525010810,0,0,0
+dimwishlist:item=304659313&perks=0,3032599245,0,0
+dimwishlist:item=304659313&perks=0,0,1556840489,0
+dimwishlist:item=304659313&perks=0,0,0,3523296417
+
+// Lingering Dread 
+// Quick Launch
+// High-Velocity Rounds
+// Auto-Loading Holster
+// Chill Clip
+// Origin Trait: Bitterspite
+//notes: Masterwork: Velocity, Mod: Quick Access Sling
+dimwishlist:item=2026087437&perks=3525010810,2822142346,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3525010810,2822142346,3300816228,0
+dimwishlist:item=2026087437&perks=3525010810,2822142346,0,2978966579
+dimwishlist:item=2026087437&perks=3525010810,0,3300816228,2978966579
+dimwishlist:item=2026087437&perks=0,2822142346,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3525010810,2822142346,0,0
+dimwishlist:item=2026087437&perks=3525010810,0,3300816228,0
+dimwishlist:item=2026087437&perks=3525010810,0,0,2978966579
+dimwishlist:item=2026087437&perks=0,2822142346,3300816228,0
+dimwishlist:item=2026087437&perks=0,2822142346,0,2978966579
+dimwishlist:item=2026087437&perks=0,0,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3525010810,0,0,0
+dimwishlist:item=2026087437&perks=0,2822142346,0,0
+dimwishlist:item=2026087437&perks=0,0,3300816228,0
+dimwishlist:item=2026087437&perks=0,0,0,2978966579
+
+// Pardon Our Dust 
+// Quick Launch
+// Blinding Grenades
+// Auto-Loading Holster
+// Demolitionist
+// Origin Trait: Alacrity
+//notes: Masterwork: Velocity, Mod: Quick Access Sling
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,0
+dimwishlist:item=3849810018&perks=3525010810,3032599245,0,3523296417
+dimwishlist:item=3849810018&perks=3525010810,0,3300816228,3523296417
+dimwishlist:item=3849810018&perks=0,3032599245,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3525010810,3032599245,0,0
+dimwishlist:item=3849810018&perks=3525010810,0,3300816228,0
+dimwishlist:item=3849810018&perks=3525010810,0,0,3523296417
+dimwishlist:item=3849810018&perks=0,3032599245,3300816228,0
+dimwishlist:item=3849810018&perks=0,3032599245,0,3523296417
+dimwishlist:item=3849810018&perks=0,0,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3525010810,0,0,0
+dimwishlist:item=3849810018&perks=0,3032599245,0,0
+dimwishlist:item=3849810018&perks=0,0,3300816228,0
+dimwishlist:item=3849810018&perks=0,0,0,3523296417
+
+// Austringer 
+// Smallbore
+// High-Caliber Rounds
+// Enhanced Eye of the Storm
+// Enhanced Rangefinder
+// Origin Trait: To Excess
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3055790362&perks=1482024992,1561002382,3719974635,509594246
+dimwishlist:item=3055790362&perks=1482024992,1561002382,3719974635,0
+dimwishlist:item=3055790362&perks=1482024992,1561002382,0,509594246
+dimwishlist:item=3055790362&perks=1482024992,0,3719974635,509594246
+dimwishlist:item=3055790362&perks=0,1561002382,3719974635,509594246
+dimwishlist:item=3055790362&perks=1482024992,1561002382,0,0
+dimwishlist:item=3055790362&perks=1482024992,0,3719974635,0
+dimwishlist:item=3055790362&perks=1482024992,0,0,509594246
+dimwishlist:item=3055790362&perks=0,1561002382,3719974635,0
+dimwishlist:item=3055790362&perks=0,1561002382,0,509594246
+dimwishlist:item=3055790362&perks=0,0,3719974635,509594246
+dimwishlist:item=3055790362&perks=1482024992,0,0,0
+dimwishlist:item=3055790362&perks=0,1561002382,0,0
+dimwishlist:item=3055790362&perks=0,0,3719974635,0
+dimwishlist:item=3055790362&perks=0,0,0,509594246
+
+// Crimils Dagger 
+// Steadyhand HCS
+// Steady Rounds
+// Outlaw
+// Kill Clip
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=4292849692&perks=1926090095,3177308360,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3177308360,1168162263,0
+dimwishlist:item=4292849692&perks=1926090095,3177308360,0,1015611457
+dimwishlist:item=4292849692&perks=1926090095,0,1168162263,1015611457
+dimwishlist:item=4292849692&perks=0,3177308360,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3177308360,0,0
+dimwishlist:item=4292849692&perks=1926090095,0,1168162263,0
+dimwishlist:item=4292849692&perks=1926090095,0,0,1015611457
+dimwishlist:item=4292849692&perks=0,3177308360,1168162263,0
+dimwishlist:item=4292849692&perks=0,3177308360,0,1015611457
+dimwishlist:item=4292849692&perks=0,0,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,0,0,0
+dimwishlist:item=4292849692&perks=0,3177308360,0,0
+dimwishlist:item=4292849692&perks=0,0,1168162263,0
+dimwishlist:item=4292849692&perks=0,0,0,1015611457
+
+// D.F.A
+// Smallbore
+// Accurized Rounds
+// Fragile Focus
+// Opening Shot
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=575830664&perks=1482024992,3142289711,2451262963,47981717
+dimwishlist:item=575830664&perks=1482024992,3142289711,2451262963,0
+dimwishlist:item=575830664&perks=1482024992,3142289711,0,47981717
+dimwishlist:item=575830664&perks=1482024992,0,2451262963,47981717
+dimwishlist:item=575830664&perks=0,3142289711,2451262963,47981717
+dimwishlist:item=575830664&perks=1482024992,3142289711,0,0
+dimwishlist:item=575830664&perks=1482024992,0,2451262963,0
+dimwishlist:item=575830664&perks=1482024992,0,0,47981717
+dimwishlist:item=575830664&perks=0,3142289711,2451262963,0
+dimwishlist:item=575830664&perks=0,3142289711,0,47981717
+dimwishlist:item=575830664&perks=0,0,2451262963,47981717
+dimwishlist:item=575830664&perks=1482024992,0,0,0
+dimwishlist:item=575830664&perks=0,3142289711,0,0
+dimwishlist:item=575830664&perks=0,0,2451262963,0
+dimwishlist:item=575830664&perks=0,0,0,47981717
+
+// D.F.A Adept
+// Chambered Compensator
+// Accurized Rounds
+// Outlaw
+// Vorpal Weapon
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=2006308129&perks=3661387068,3142289711,1168162263,1546637391
+dimwishlist:item=2006308129&perks=3661387068,3142289711,1168162263,0
+dimwishlist:item=2006308129&perks=3661387068,3142289711,0,1546637391
+dimwishlist:item=2006308129&perks=3661387068,0,1168162263,1546637391
+dimwishlist:item=2006308129&perks=0,3142289711,1168162263,1546637391
+dimwishlist:item=2006308129&perks=3661387068,3142289711,0,0
+dimwishlist:item=2006308129&perks=3661387068,0,1168162263,0
+dimwishlist:item=2006308129&perks=3661387068,0,0,1546637391
+dimwishlist:item=2006308129&perks=0,3142289711,1168162263,0
+dimwishlist:item=2006308129&perks=0,3142289711,0,1546637391
+dimwishlist:item=2006308129&perks=0,0,1168162263,1546637391
+dimwishlist:item=2006308129&perks=3661387068,0,0,0
+dimwishlist:item=2006308129&perks=0,3142289711,0,0
+dimwishlist:item=2006308129&perks=0,0,1168162263,0
+dimwishlist:item=2006308129&perks=0,0,0,1546637391
+
+// Dire Promise 
+// Steadyhand HCS
+// High-Caliber Rounds
+// Snapshot Sights
+// Rangefinder
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,0
+dimwishlist:item=2742838701&perks=1926090095,1561002382,0,2846385770
+dimwishlist:item=2742838701&perks=1926090095,0,957782887,2846385770
+dimwishlist:item=2742838701&perks=0,1561002382,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,0,0
+dimwishlist:item=2742838701&perks=1926090095,0,957782887,0
+dimwishlist:item=2742838701&perks=1926090095,0,0,2846385770
+dimwishlist:item=2742838701&perks=0,1561002382,957782887,0
+dimwishlist:item=2742838701&perks=0,1561002382,0,2846385770
+dimwishlist:item=2742838701&perks=0,0,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090095,0,0,0
+dimwishlist:item=2742838701&perks=0,1561002382,0,0
+dimwishlist:item=2742838701&perks=0,0,957782887,0
+dimwishlist:item=2742838701&perks=0,0,0,2846385770
+
+// Eyasluna 
+// Crossfire HCS
+// High-Caliber Rounds
+// Rangefinder
+// Demolitionist
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=235827225&perks=1926090090,1561002382,2846385770,3523296417
+dimwishlist:item=235827225&perks=1926090090,1561002382,2846385770,0
+dimwishlist:item=235827225&perks=1926090090,1561002382,0,3523296417
+dimwishlist:item=235827225&perks=1926090090,0,2846385770,3523296417
+dimwishlist:item=235827225&perks=0,1561002382,2846385770,3523296417
+dimwishlist:item=235827225&perks=1926090090,1561002382,0,0
+dimwishlist:item=235827225&perks=1926090090,0,2846385770,0
+dimwishlist:item=235827225&perks=1926090090,0,0,3523296417
+dimwishlist:item=235827225&perks=0,1561002382,2846385770,0
+dimwishlist:item=235827225&perks=0,1561002382,0,3523296417
+dimwishlist:item=235827225&perks=0,0,2846385770,3523296417
+dimwishlist:item=235827225&perks=1926090090,0,0,0
+dimwishlist:item=235827225&perks=0,1561002382,0,0
+dimwishlist:item=235827225&perks=0,0,2846385770,0
+dimwishlist:item=235827225&perks=0,0,0,3523296417
+
+// Fatebringer 
+// Chambered Compensator
+// Accurized Rounds
+// Tunnel Vision
+// Firefly
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2171478765&perks=3661387068,3142289711,2946784966,3824105627
+dimwishlist:item=2171478765&perks=3661387068,3142289711,2946784966,0
+dimwishlist:item=2171478765&perks=3661387068,3142289711,0,3824105627
+dimwishlist:item=2171478765&perks=3661387068,0,2946784966,3824105627
+dimwishlist:item=2171478765&perks=0,3142289711,2946784966,3824105627
+dimwishlist:item=2171478765&perks=3661387068,3142289711,0,0
+dimwishlist:item=2171478765&perks=3661387068,0,2946784966,0
+dimwishlist:item=2171478765&perks=3661387068,0,0,3824105627
+dimwishlist:item=2171478765&perks=0,3142289711,2946784966,0
+dimwishlist:item=2171478765&perks=0,3142289711,0,3824105627
+dimwishlist:item=2171478765&perks=0,0,2946784966,3824105627
+dimwishlist:item=2171478765&perks=3661387068,0,0,0
+dimwishlist:item=2171478765&perks=0,3142289711,0,0
+dimwishlist:item=2171478765&perks=0,0,2946784966,0
+dimwishlist:item=2171478765&perks=0,0,0,3824105627
+
+// Fatebringer Timelost 
+// Chambered Compensator
+// Accurized Rounds
+// Explosive Payload
+// Eye of the Storm
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=1216319404&perks=3661387068,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=3661387068,3142289711,3038247973,0
+dimwishlist:item=1216319404&perks=3661387068,3142289711,0,699525795
+dimwishlist:item=1216319404&perks=3661387068,0,3038247973,699525795
+dimwishlist:item=1216319404&perks=0,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=3661387068,3142289711,0,0
+dimwishlist:item=1216319404&perks=3661387068,0,3038247973,0
+dimwishlist:item=1216319404&perks=3661387068,0,0,699525795
+dimwishlist:item=1216319404&perks=0,3142289711,3038247973,0
+dimwishlist:item=1216319404&perks=0,3142289711,0,699525795
+dimwishlist:item=1216319404&perks=0,0,3038247973,699525795
+dimwishlist:item=1216319404&perks=3661387068,0,0,0
+dimwishlist:item=1216319404&perks=0,3142289711,0,0
+dimwishlist:item=1216319404&perks=0,0,3038247973,0
+dimwishlist:item=1216319404&perks=0,0,0,699525795
+
+// Judgment 
+// Crossfire HCS
+// Steady Rounds
+// Encore
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1476654960&perks=1926090090,3177308360,1195158366,47981717
+dimwishlist:item=1476654960&perks=1926090090,3177308360,1195158366,0
+dimwishlist:item=1476654960&perks=1926090090,3177308360,0,47981717
+dimwishlist:item=1476654960&perks=1926090090,0,1195158366,47981717
+dimwishlist:item=1476654960&perks=0,3177308360,1195158366,47981717
+dimwishlist:item=1476654960&perks=1926090090,3177308360,0,0
+dimwishlist:item=1476654960&perks=1926090090,0,1195158366,0
+dimwishlist:item=1476654960&perks=1926090090,0,0,47981717
+dimwishlist:item=1476654960&perks=0,3177308360,1195158366,0
+dimwishlist:item=1476654960&perks=0,3177308360,0,47981717
+dimwishlist:item=1476654960&perks=0,0,1195158366,47981717
+dimwishlist:item=1476654960&perks=1926090090,0,0,0
+dimwishlist:item=1476654960&perks=0,3177308360,0,0
+dimwishlist:item=1476654960&perks=0,0,1195158366,0
+dimwishlist:item=1476654960&perks=0,0,0,47981717
+
+// Loud Lullaby 
+// Chambered Compensator
+// Steady Rounds
+// Tunnel Vision
+// Kill Clip
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3924212056&perks=3661387068,3177308360,2946784966,1015611457
+dimwishlist:item=3924212056&perks=3661387068,3177308360,2946784966,0
+dimwishlist:item=3924212056&perks=3661387068,3177308360,0,1015611457
+dimwishlist:item=3924212056&perks=3661387068,0,2946784966,1015611457
+dimwishlist:item=3924212056&perks=0,3177308360,2946784966,1015611457
+dimwishlist:item=3924212056&perks=3661387068,3177308360,0,0
+dimwishlist:item=3924212056&perks=3661387068,0,2946784966,0
+dimwishlist:item=3924212056&perks=3661387068,0,0,1015611457
+dimwishlist:item=3924212056&perks=0,3177308360,2946784966,0
+dimwishlist:item=3924212056&perks=0,3177308360,0,1015611457
+dimwishlist:item=3924212056&perks=0,0,2946784966,1015611457
+dimwishlist:item=3924212056&perks=3661387068,0,0,0
+dimwishlist:item=3924212056&perks=0,3177308360,0,0
+dimwishlist:item=3924212056&perks=0,0,2946784966,0
+dimwishlist:item=3924212056&perks=0,0,0,1015611457
+
+// Seventh Seraph Officer Revolver 
+// Full Bore
+// Accurized Rounds
+// Fourth Time's the Charm
+// Timed Payload
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=3037520408&perks=202670084,3142289711,1354429876,1954620775
+dimwishlist:item=3037520408&perks=202670084,3142289711,1354429876,0
+dimwishlist:item=3037520408&perks=202670084,3142289711,0,1954620775
+dimwishlist:item=3037520408&perks=202670084,0,1354429876,1954620775
+dimwishlist:item=3037520408&perks=0,3142289711,1354429876,1954620775
+dimwishlist:item=3037520408&perks=202670084,3142289711,0,0
+dimwishlist:item=3037520408&perks=202670084,0,1354429876,0
+dimwishlist:item=3037520408&perks=202670084,0,0,1954620775
+dimwishlist:item=3037520408&perks=0,3142289711,1354429876,0
+dimwishlist:item=3037520408&perks=0,3142289711,0,1954620775
+dimwishlist:item=3037520408&perks=0,0,1354429876,1954620775
+dimwishlist:item=3037520408&perks=202670084,0,0,0
+dimwishlist:item=3037520408&perks=0,3142289711,0,0
+dimwishlist:item=3037520408&perks=0,0,1354429876,0
+dimwishlist:item=3037520408&perks=0,0,0,1954620775
+
+// Survivors Epitaph 
+// Full Bore
+// High-Caliber Rounds
+// Tunnel Vision
+// Kill Clip
+// Origin Trait: One Quiet Moment
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,1015611457
+dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,0
+dimwishlist:item=310708513&perks=202670084,1561002382,0,1015611457
+dimwishlist:item=310708513&perks=202670084,0,2946784966,1015611457
+dimwishlist:item=310708513&perks=0,1561002382,2946784966,1015611457
+dimwishlist:item=310708513&perks=202670084,1561002382,0,0
+dimwishlist:item=310708513&perks=202670084,0,2946784966,0
+dimwishlist:item=310708513&perks=202670084,0,0,1015611457
+dimwishlist:item=310708513&perks=0,1561002382,2946784966,0
+dimwishlist:item=310708513&perks=0,1561002382,0,1015611457
+dimwishlist:item=310708513&perks=0,0,2946784966,1015611457
+dimwishlist:item=310708513&perks=202670084,0,0,0
+dimwishlist:item=310708513&perks=0,1561002382,0,0
+dimwishlist:item=310708513&perks=0,0,2946784966,0
+dimwishlist:item=310708513&perks=0,0,0,1015611457
+
+// The Steady Hand 
+// Crossfire HCS
+// High-Caliber Rounds
+// Quickdraw
+// Iron Grip
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2220884262&perks=1926090090,1561002382,706527188,11551321
+dimwishlist:item=2220884262&perks=1926090090,1561002382,706527188,0
+dimwishlist:item=2220884262&perks=1926090090,1561002382,0,11551321
+dimwishlist:item=2220884262&perks=1926090090,0,706527188,11551321
+dimwishlist:item=2220884262&perks=0,1561002382,706527188,11551321
+dimwishlist:item=2220884262&perks=1926090090,1561002382,0,0
+dimwishlist:item=2220884262&perks=1926090090,0,706527188,0
+dimwishlist:item=2220884262&perks=1926090090,0,0,11551321
+dimwishlist:item=2220884262&perks=0,1561002382,706527188,0
+dimwishlist:item=2220884262&perks=0,1561002382,0,11551321
+dimwishlist:item=2220884262&perks=0,0,706527188,11551321
+dimwishlist:item=2220884262&perks=1926090090,0,0,0
+dimwishlist:item=2220884262&perks=0,1561002382,0,0
+dimwishlist:item=2220884262&perks=0,0,706527188,0
+dimwishlist:item=2220884262&perks=0,0,0,11551321
+
+// True Prophecy 
+// Crossfire HCS
+// Steady Rounds
+// Opening Shot
+// Timed Payload
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2742838700&perks=1926090090,3177308360,47981717,1954620775
+dimwishlist:item=2742838700&perks=1926090090,3177308360,47981717,0
+dimwishlist:item=2742838700&perks=1926090090,3177308360,0,1954620775
+dimwishlist:item=2742838700&perks=1926090090,0,47981717,1954620775
+dimwishlist:item=2742838700&perks=0,3177308360,47981717,1954620775
+dimwishlist:item=2742838700&perks=1926090090,3177308360,0,0
+dimwishlist:item=2742838700&perks=1926090090,0,47981717,0
+dimwishlist:item=2742838700&perks=1926090090,0,0,1954620775
+dimwishlist:item=2742838700&perks=0,3177308360,47981717,0
+dimwishlist:item=2742838700&perks=0,3177308360,0,1954620775
+dimwishlist:item=2742838700&perks=0,0,47981717,1954620775
+dimwishlist:item=2742838700&perks=1926090090,0,0,0
+dimwishlist:item=2742838700&perks=0,3177308360,0,0
+dimwishlist:item=2742838700&perks=0,0,47981717,0
+dimwishlist:item=2742838700&perks=0,0,0,1954620775
+
+// Vulpecula 
+// Full Bore
+// Accurized Rounds
+// Killing Wind
+// Explosive Payload
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1622998472&perks=202670084,3142289711,2450788523,3038247973
+dimwishlist:item=1622998472&perks=202670084,3142289711,2450788523,0
+dimwishlist:item=1622998472&perks=202670084,3142289711,0,3038247973
+dimwishlist:item=1622998472&perks=202670084,0,2450788523,3038247973
+dimwishlist:item=1622998472&perks=0,3142289711,2450788523,3038247973
+dimwishlist:item=1622998472&perks=202670084,3142289711,0,0
+dimwishlist:item=1622998472&perks=202670084,0,2450788523,0
+dimwishlist:item=1622998472&perks=202670084,0,0,3038247973
+dimwishlist:item=1622998472&perks=0,3142289711,2450788523,0
+dimwishlist:item=1622998472&perks=0,3142289711,0,3038247973
+dimwishlist:item=1622998472&perks=0,0,2450788523,3038247973
+dimwishlist:item=1622998472&perks=202670084,0,0,0
+dimwishlist:item=1622998472&perks=0,3142289711,0,0
+dimwishlist:item=1622998472&perks=0,0,2450788523,0
+dimwishlist:item=1622998472&perks=0,0,0,3038247973
+
+// Chattering Bone 
+// Smallbore
+// High-Caliber Rounds
+// Rangefinder
+// Rampage
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=568515759&perks=1482024992,1561002382,2846385770,3425386926
+dimwishlist:item=568515759&perks=1482024992,1561002382,2846385770,0
+dimwishlist:item=568515759&perks=1482024992,1561002382,0,3425386926
+dimwishlist:item=568515759&perks=1482024992,0,2846385770,3425386926
+dimwishlist:item=568515759&perks=0,1561002382,2846385770,3425386926
+dimwishlist:item=568515759&perks=1482024992,1561002382,0,0
+dimwishlist:item=568515759&perks=1482024992,0,2846385770,0
+dimwishlist:item=568515759&perks=1482024992,0,0,3425386926
+dimwishlist:item=568515759&perks=0,1561002382,2846385770,0
+dimwishlist:item=568515759&perks=0,1561002382,0,3425386926
+dimwishlist:item=568515759&perks=0,0,2846385770,3425386926
+dimwishlist:item=568515759&perks=1482024992,0,0,0
+dimwishlist:item=568515759&perks=0,1561002382,0,0
+dimwishlist:item=568515759&perks=0,0,2846385770,0
+dimwishlist:item=568515759&perks=0,0,0,3425386926
+
+// Cold Denial 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Zen Moment
+// Eye of the Storm
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,699525795
+dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,0
+dimwishlist:item=1216130969&perks=839105230,1561002382,0,699525795
+dimwishlist:item=1216130969&perks=839105230,0,2387244414,699525795
+dimwishlist:item=1216130969&perks=0,1561002382,2387244414,699525795
+dimwishlist:item=1216130969&perks=839105230,1561002382,0,0
+dimwishlist:item=1216130969&perks=839105230,0,2387244414,0
+dimwishlist:item=1216130969&perks=839105230,0,0,699525795
+dimwishlist:item=1216130969&perks=0,1561002382,2387244414,0
+dimwishlist:item=1216130969&perks=0,1561002382,0,699525795
+dimwishlist:item=1216130969&perks=0,0,2387244414,699525795
+dimwishlist:item=1216130969&perks=839105230,0,0,0
+dimwishlist:item=1216130969&perks=0,1561002382,0,0
+dimwishlist:item=1216130969&perks=0,0,2387244414,0
+dimwishlist:item=1216130969&perks=0,0,0,699525795
+
+// Hailing Confusion 
+// Smallbore
+// High-Caliber Rounds
+// Surplus
+// Wellspring
+// Origin Trait: Alacrity
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=2870169846&perks=1482024992,1561002382,3436462433,3592538738
+dimwishlist:item=2870169846&perks=1482024992,1561002382,3436462433,0
+dimwishlist:item=2870169846&perks=1482024992,1561002382,0,3592538738
+dimwishlist:item=2870169846&perks=1482024992,0,3436462433,3592538738
+dimwishlist:item=2870169846&perks=0,1561002382,3436462433,3592538738
+dimwishlist:item=2870169846&perks=1482024992,1561002382,0,0
+dimwishlist:item=2870169846&perks=1482024992,0,3436462433,0
+dimwishlist:item=2870169846&perks=1482024992,0,0,3592538738
+dimwishlist:item=2870169846&perks=0,1561002382,3436462433,0
+dimwishlist:item=2870169846&perks=0,1561002382,0,3592538738
+dimwishlist:item=2870169846&perks=0,0,3436462433,3592538738
+dimwishlist:item=2870169846&perks=1482024992,0,0,0
+dimwishlist:item=2870169846&perks=0,1561002382,0,0
+dimwishlist:item=2870169846&perks=0,0,3436462433,0
+dimwishlist:item=2870169846&perks=0,0,0,3592538738
+
+// Legal Action Ii 
+// Smallbore
+// Steady Rounds
+// Surplus
+// Rampage
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=3409645497&perks=1482024992,3177308360,3436462433,3425386926
+dimwishlist:item=3409645497&perks=1482024992,3177308360,3436462433,0
+dimwishlist:item=3409645497&perks=1482024992,3177308360,0,3425386926
+dimwishlist:item=3409645497&perks=1482024992,0,3436462433,3425386926
+dimwishlist:item=3409645497&perks=0,3177308360,3436462433,3425386926
+dimwishlist:item=3409645497&perks=1482024992,3177308360,0,0
+dimwishlist:item=3409645497&perks=1482024992,0,3436462433,0
+dimwishlist:item=3409645497&perks=1482024992,0,0,3425386926
+dimwishlist:item=3409645497&perks=0,3177308360,3436462433,0
+dimwishlist:item=3409645497&perks=0,3177308360,0,3425386926
+dimwishlist:item=3409645497&perks=0,0,3436462433,3425386926
+dimwishlist:item=3409645497&perks=1482024992,0,0,0
+dimwishlist:item=3409645497&perks=0,3177308360,0,0
+dimwishlist:item=3409645497&perks=0,0,3436462433,0
+dimwishlist:item=3409645497&perks=0,0,0,3425386926
+
+// New Purpose 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Tunnel Vision
+// Desperado
+// Origin Trait: Bitterspite
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1780464822&perks=839105230,1561002382,2946784966,3047969693
+dimwishlist:item=1780464822&perks=839105230,1561002382,2946784966,0
+dimwishlist:item=1780464822&perks=839105230,1561002382,0,3047969693
+dimwishlist:item=1780464822&perks=839105230,0,2946784966,3047969693
+dimwishlist:item=1780464822&perks=0,1561002382,2946784966,3047969693
+dimwishlist:item=1780464822&perks=839105230,1561002382,0,0
+dimwishlist:item=1780464822&perks=839105230,0,2946784966,0
+dimwishlist:item=1780464822&perks=839105230,0,0,3047969693
+dimwishlist:item=1780464822&perks=0,1561002382,2946784966,0
+dimwishlist:item=1780464822&perks=0,1561002382,0,3047969693
+dimwishlist:item=1780464822&perks=0,0,2946784966,3047969693
+dimwishlist:item=1780464822&perks=839105230,0,0,0
+dimwishlist:item=1780464822&perks=0,1561002382,0,0
+dimwishlist:item=1780464822&perks=0,0,2946784966,0
+dimwishlist:item=1780464822&perks=0,0,0,3047969693
+
+// Piece Of Mind 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Enhanced Heating Up
+// Enhanced Moving Target
+// Origin Trait: Land Tank
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=2097055732&perks=839105230,1561002382,2748258257,2717805783
+dimwishlist:item=2097055732&perks=839105230,1561002382,2748258257,0
+dimwishlist:item=2097055732&perks=839105230,1561002382,0,2717805783
+dimwishlist:item=2097055732&perks=839105230,0,2748258257,2717805783
+dimwishlist:item=2097055732&perks=0,1561002382,2748258257,2717805783
+dimwishlist:item=2097055732&perks=839105230,1561002382,0,0
+dimwishlist:item=2097055732&perks=839105230,0,2748258257,0
+dimwishlist:item=2097055732&perks=839105230,0,0,2717805783
+dimwishlist:item=2097055732&perks=0,1561002382,2748258257,0
+dimwishlist:item=2097055732&perks=0,1561002382,0,2717805783
+dimwishlist:item=2097055732&perks=0,0,2748258257,2717805783
+dimwishlist:item=2097055732&perks=839105230,0,0,0
+dimwishlist:item=2097055732&perks=0,1561002382,0,0
+dimwishlist:item=2097055732&perks=0,0,2748258257,0
+dimwishlist:item=2097055732&perks=0,0,0,2717805783
+
+// Sacred Provenance 
+// Smallbore
+// High-Caliber Rounds
+// Rapid Hit
+// Kill Clip
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,0
+dimwishlist:item=2408405461&perks=1482024992,1561002382,0,1015611457
+dimwishlist:item=2408405461&perks=1482024992,0,247725512,1015611457
+dimwishlist:item=2408405461&perks=0,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=1482024992,1561002382,0,0
+dimwishlist:item=2408405461&perks=1482024992,0,247725512,0
+dimwishlist:item=2408405461&perks=1482024992,0,0,1015611457
+dimwishlist:item=2408405461&perks=0,1561002382,247725512,0
+dimwishlist:item=2408405461&perks=0,1561002382,0,1015611457
+dimwishlist:item=2408405461&perks=0,0,247725512,1015611457
+dimwishlist:item=2408405461&perks=1482024992,0,0,0
+dimwishlist:item=2408405461&perks=0,1561002382,0,0
+dimwishlist:item=2408405461&perks=0,0,247725512,0
+dimwishlist:item=2408405461&perks=0,0,0,1015611457
+
+// Syncopation 53 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Enhanced Zen Moment
+// Enhanced Rangefinder
+// Origin Trait: Suros Synergy
+//notes: Masterwork: Stability, Mod: Adept Targeting Adjuster
+dimwishlist:item=2856514843&perks=839105230,1561002382,1748774930,509594246
+dimwishlist:item=2856514843&perks=839105230,1561002382,1748774930,0
+dimwishlist:item=2856514843&perks=839105230,1561002382,0,509594246
+dimwishlist:item=2856514843&perks=839105230,0,1748774930,509594246
+dimwishlist:item=2856514843&perks=0,1561002382,1748774930,509594246
+dimwishlist:item=2856514843&perks=839105230,1561002382,0,0
+dimwishlist:item=2856514843&perks=839105230,0,1748774930,0
+dimwishlist:item=2856514843&perks=839105230,0,0,509594246
+dimwishlist:item=2856514843&perks=0,1561002382,1748774930,0
+dimwishlist:item=2856514843&perks=0,1561002382,0,509594246
+dimwishlist:item=2856514843&perks=0,0,1748774930,509594246
+dimwishlist:item=2856514843&perks=839105230,0,0,0
+dimwishlist:item=2856514843&perks=0,1561002382,0,0
+dimwishlist:item=2856514843&perks=0,0,1748774930,0
+dimwishlist:item=2856514843&perks=0,0,0,509594246
+
+// The Messenger 
+// Chambered Compensator
+// High-Caliber Rounds
+// Rapid Hit
+// Desperado
+// Origin Trait: Alacrity
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=3658188704&perks=3661387068,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=3661387068,1561002382,247725512,0
+dimwishlist:item=3658188704&perks=3661387068,1561002382,0,3047969693
+dimwishlist:item=3658188704&perks=3661387068,0,247725512,3047969693
+dimwishlist:item=3658188704&perks=0,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=3661387068,1561002382,0,0
+dimwishlist:item=3658188704&perks=3661387068,0,247725512,0
+dimwishlist:item=3658188704&perks=3661387068,0,0,3047969693
+dimwishlist:item=3658188704&perks=0,1561002382,247725512,0
+dimwishlist:item=3658188704&perks=0,1561002382,0,3047969693
+dimwishlist:item=3658188704&perks=0,0,247725512,3047969693
+dimwishlist:item=3658188704&perks=3661387068,0,0,0
+dimwishlist:item=3658188704&perks=0,1561002382,0,0
+dimwishlist:item=3658188704&perks=0,0,247725512,0
+dimwishlist:item=3658188704&perks=0,0,0,3047969693
+
+// The Messenger Adept 
+// Smallbore
+// High-Caliber Rounds
+// Rapid Hit
+// Desperado
+// Origin Trait: Alacrity
+//notes: Masterwork: Stability, Mod: Adept Counterbalance Stock
+dimwishlist:item=1173780905&perks=1482024992,1561002382,247725512,3047969693
+dimwishlist:item=1173780905&perks=1482024992,1561002382,247725512,0
+dimwishlist:item=1173780905&perks=1482024992,1561002382,0,3047969693
+dimwishlist:item=1173780905&perks=1482024992,0,247725512,3047969693
+dimwishlist:item=1173780905&perks=0,1561002382,247725512,3047969693
+dimwishlist:item=1173780905&perks=1482024992,1561002382,0,0
+dimwishlist:item=1173780905&perks=1482024992,0,247725512,0
+dimwishlist:item=1173780905&perks=1482024992,0,0,3047969693
+dimwishlist:item=1173780905&perks=0,1561002382,247725512,0
+dimwishlist:item=1173780905&perks=0,1561002382,0,3047969693
+dimwishlist:item=1173780905&perks=0,0,247725512,3047969693
+dimwishlist:item=1173780905&perks=1482024992,0,0,0
+dimwishlist:item=1173780905&perks=0,1561002382,0,0
+dimwishlist:item=1173780905&perks=0,0,247725512,0
+dimwishlist:item=1173780905&perks=0,0,0,3047969693
+
+// The Time Worn Spire 
+// Rifle Scope ST
+// High-Caliber Rounds
+// Moving Target
+// Iron Grip
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=3593598010&perks=679077873,1561002382,588594999,11551321
+dimwishlist:item=3593598010&perks=679077873,1561002382,588594999,0
+dimwishlist:item=3593598010&perks=679077873,1561002382,0,11551321
+dimwishlist:item=3593598010&perks=679077873,0,588594999,11551321
+dimwishlist:item=3593598010&perks=0,1561002382,588594999,11551321
+dimwishlist:item=3593598010&perks=679077873,1561002382,0,0
+dimwishlist:item=3593598010&perks=679077873,0,588594999,0
+dimwishlist:item=3593598010&perks=679077873,0,0,11551321
+dimwishlist:item=3593598010&perks=0,1561002382,588594999,0
+dimwishlist:item=3593598010&perks=0,1561002382,0,11551321
+dimwishlist:item=3593598010&perks=0,0,588594999,11551321
+dimwishlist:item=3593598010&perks=679077873,0,0,0
+dimwishlist:item=3593598010&perks=0,1561002382,0,0
+dimwishlist:item=3593598010&perks=0,0,588594999,0
+dimwishlist:item=3593598010&perks=0,0,0,11551321
+
+// Hung Jury Sr4 
+// Smallbore
+// Steady Rounds
+// Rapid Hit
+// Firefly
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=4281371574&perks=1482024992,3177308360,247725512,3824105627
+dimwishlist:item=4281371574&perks=1482024992,3177308360,247725512,0
+dimwishlist:item=4281371574&perks=1482024992,3177308360,0,3824105627
+dimwishlist:item=4281371574&perks=1482024992,0,247725512,3824105627
+dimwishlist:item=4281371574&perks=0,3177308360,247725512,3824105627
+dimwishlist:item=4281371574&perks=1482024992,3177308360,0,0
+dimwishlist:item=4281371574&perks=1482024992,0,247725512,0
+dimwishlist:item=4281371574&perks=1482024992,0,0,3824105627
+dimwishlist:item=4281371574&perks=0,3177308360,247725512,0
+dimwishlist:item=4281371574&perks=0,3177308360,0,3824105627
+dimwishlist:item=4281371574&perks=0,0,247725512,3824105627
+dimwishlist:item=4281371574&perks=1482024992,0,0,0
+dimwishlist:item=4281371574&perks=0,3177308360,0,0
+dimwishlist:item=4281371574&perks=0,0,247725512,0
+dimwishlist:item=4281371574&perks=0,0,0,3824105627
+
+// Hung Jury Sr4 Adept 
+// Smallbore
+// Steady Rounds
+// Surplus
+// Explosive Payload
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=681067419&perks=1482024992,3177308360,3436462433,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,3436462433,0
+dimwishlist:item=681067419&perks=1482024992,3177308360,0,3038247973
+dimwishlist:item=681067419&perks=1482024992,0,3436462433,3038247973
+dimwishlist:item=681067419&perks=0,3177308360,3436462433,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,0,0
+dimwishlist:item=681067419&perks=1482024992,0,3436462433,0
+dimwishlist:item=681067419&perks=1482024992,0,0,3038247973
+dimwishlist:item=681067419&perks=0,3177308360,3436462433,0
+dimwishlist:item=681067419&perks=0,3177308360,0,3038247973
+dimwishlist:item=681067419&perks=0,0,3436462433,3038247973
+dimwishlist:item=681067419&perks=1482024992,0,0,0
+dimwishlist:item=681067419&perks=0,3177308360,0,0
+dimwishlist:item=681067419&perks=0,0,3436462433,0
+dimwishlist:item=681067419&perks=0,0,0,3038247973
+
+// Night Watch 
+// Chambered Compensator
+// Steady Rounds
+// Rapid Hit
+// Explosive Payload
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3504336176&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=3504336176&perks=3661387068,3177308360,247725512,0
+dimwishlist:item=3504336176&perks=3661387068,3177308360,0,3038247973
+dimwishlist:item=3504336176&perks=3661387068,0,247725512,3038247973
+dimwishlist:item=3504336176&perks=0,3177308360,247725512,3038247973
+dimwishlist:item=3504336176&perks=3661387068,3177308360,0,0
+dimwishlist:item=3504336176&perks=3661387068,0,247725512,0
+dimwishlist:item=3504336176&perks=3661387068,0,0,3038247973
+dimwishlist:item=3504336176&perks=0,3177308360,247725512,0
+dimwishlist:item=3504336176&perks=0,3177308360,0,3038247973
+dimwishlist:item=3504336176&perks=0,0,247725512,3038247973
+dimwishlist:item=3504336176&perks=3661387068,0,0,0
+dimwishlist:item=3504336176&perks=0,3177308360,0,0
+dimwishlist:item=3504336176&perks=0,0,247725512,0
+dimwishlist:item=3504336176&perks=0,0,0,3038247973
+
+// Perses-D
+// Arrowhead Brake
+// Steady Rounds
+// Rapid Hit
+// Vorpal Weapon
+// Origin Trait: Hakke Breach Armaments
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1019000888&perks=839105230,3177308360,247725512,1546637391
+dimwishlist:item=1019000888&perks=839105230,3177308360,247725512,0
+dimwishlist:item=1019000888&perks=839105230,3177308360,0,1546637391
+dimwishlist:item=1019000888&perks=839105230,0,247725512,1546637391
+dimwishlist:item=1019000888&perks=0,3177308360,247725512,1546637391
+dimwishlist:item=1019000888&perks=839105230,3177308360,0,0
+dimwishlist:item=1019000888&perks=839105230,0,247725512,0
+dimwishlist:item=1019000888&perks=839105230,0,0,1546637391
+dimwishlist:item=1019000888&perks=0,3177308360,247725512,0
+dimwishlist:item=1019000888&perks=0,3177308360,0,1546637391
+dimwishlist:item=1019000888&perks=0,0,247725512,1546637391
+dimwishlist:item=1019000888&perks=839105230,0,0,0
+dimwishlist:item=1019000888&perks=0,3177308360,0,0
+dimwishlist:item=1019000888&perks=0,0,247725512,0
+dimwishlist:item=1019000888&perks=0,0,0,1546637391
+
+// Servant Leader 
+// Chambered Compensator
+// Steady Rounds
+// Surplus
+// Kill Clip
+// Origin Trait: Invader Tracker
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1107446438&perks=3661387068,3177308360,3436462433,1015611457
+dimwishlist:item=1107446438&perks=3661387068,3177308360,3436462433,0
+dimwishlist:item=1107446438&perks=3661387068,3177308360,0,1015611457
+dimwishlist:item=1107446438&perks=3661387068,0,3436462433,1015611457
+dimwishlist:item=1107446438&perks=0,3177308360,3436462433,1015611457
+dimwishlist:item=1107446438&perks=3661387068,3177308360,0,0
+dimwishlist:item=1107446438&perks=3661387068,0,3436462433,0
+dimwishlist:item=1107446438&perks=3661387068,0,0,1015611457
+dimwishlist:item=1107446438&perks=0,3177308360,3436462433,0
+dimwishlist:item=1107446438&perks=0,3177308360,0,1015611457
+dimwishlist:item=1107446438&perks=0,0,3436462433,1015611457
+dimwishlist:item=1107446438&perks=3661387068,0,0,0
+dimwishlist:item=1107446438&perks=0,3177308360,0,0
+dimwishlist:item=1107446438&perks=0,0,3436462433,0
+dimwishlist:item=1107446438&perks=0,0,0,1015611457
+
+// Talons Of The Eagle 
+// Arrowhead Brake
+// Steady Rounds
+// Zen Moment
+// Explosive Payload
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1982711279&perks=839105230,3177308360,2387244414,3038247973
+dimwishlist:item=1982711279&perks=839105230,3177308360,2387244414,0
+dimwishlist:item=1982711279&perks=839105230,3177308360,0,3038247973
+dimwishlist:item=1982711279&perks=839105230,0,2387244414,3038247973
+dimwishlist:item=1982711279&perks=0,3177308360,2387244414,3038247973
+dimwishlist:item=1982711279&perks=839105230,3177308360,0,0
+dimwishlist:item=1982711279&perks=839105230,0,2387244414,0
+dimwishlist:item=1982711279&perks=839105230,0,0,3038247973
+dimwishlist:item=1982711279&perks=0,3177308360,2387244414,0
+dimwishlist:item=1982711279&perks=0,3177308360,0,3038247973
+dimwishlist:item=1982711279&perks=0,0,2387244414,3038247973
+dimwishlist:item=1982711279&perks=839105230,0,0,0
+dimwishlist:item=1982711279&perks=0,3177308360,0,0
+dimwishlist:item=1982711279&perks=0,0,2387244414,0
+dimwishlist:item=1982711279&perks=0,0,0,3038247973
+
+// Tears Of Contrition 
+// Arrowhead Brake
+// Steady Rounds
+// Enhanced No Distractions
+// Enhanced Explosive Payload
+// Origin Trait: Extrovert
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1366394399&perks=839105230,3177308360,3974407819,64866129
+dimwishlist:item=1366394399&perks=839105230,3177308360,3974407819,0
+dimwishlist:item=1366394399&perks=839105230,3177308360,0,64866129
+dimwishlist:item=1366394399&perks=839105230,0,3974407819,64866129
+dimwishlist:item=1366394399&perks=0,3177308360,3974407819,64866129
+dimwishlist:item=1366394399&perks=839105230,3177308360,0,0
+dimwishlist:item=1366394399&perks=839105230,0,3974407819,0
+dimwishlist:item=1366394399&perks=839105230,0,0,64866129
+dimwishlist:item=1366394399&perks=0,3177308360,3974407819,0
+dimwishlist:item=1366394399&perks=0,3177308360,0,64866129
+dimwishlist:item=1366394399&perks=0,0,3974407819,64866129
+dimwishlist:item=1366394399&perks=839105230,0,0,0
+dimwishlist:item=1366394399&perks=0,3177308360,0,0
+dimwishlist:item=1366394399&perks=0,0,3974407819,0
+dimwishlist:item=1366394399&perks=0,0,0,64866129
+
+// The Guiding Sight 
+// Rifle Scope ST
+// High-Caliber Rounds
+// Surplus
+// Iron Grip
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1641430382&perks=679077873,1561002382,3436462433,11551321
+dimwishlist:item=1641430382&perks=679077873,1561002382,3436462433,0
+dimwishlist:item=1641430382&perks=679077873,1561002382,0,11551321
+dimwishlist:item=1641430382&perks=679077873,0,3436462433,11551321
+dimwishlist:item=1641430382&perks=0,1561002382,3436462433,11551321
+dimwishlist:item=1641430382&perks=679077873,1561002382,0,0
+dimwishlist:item=1641430382&perks=679077873,0,3436462433,0
+dimwishlist:item=1641430382&perks=679077873,0,0,11551321
+dimwishlist:item=1641430382&perks=0,1561002382,3436462433,0
+dimwishlist:item=1641430382&perks=0,1561002382,0,11551321
+dimwishlist:item=1641430382&perks=0,0,3436462433,11551321
+dimwishlist:item=1641430382&perks=679077873,0,0,0
+dimwishlist:item=1641430382&perks=0,1561002382,0,0
+dimwishlist:item=1641430382&perks=0,0,3436462433,0
+dimwishlist:item=1641430382&perks=0,0,0,11551321
+
+// The Scholar 
+// Smallbore
+// High-Caliber Rounds
+// Opening Shot
+// Vorpal Weapon
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2478792241&perks=1482024992,1561002382,47981717,1546637391
+dimwishlist:item=2478792241&perks=1482024992,1561002382,47981717,0
+dimwishlist:item=2478792241&perks=1482024992,1561002382,0,1546637391
+dimwishlist:item=2478792241&perks=1482024992,0,47981717,1546637391
+dimwishlist:item=2478792241&perks=0,1561002382,47981717,1546637391
+dimwishlist:item=2478792241&perks=1482024992,1561002382,0,0
+dimwishlist:item=2478792241&perks=1482024992,0,47981717,0
+dimwishlist:item=2478792241&perks=1482024992,0,0,1546637391
+dimwishlist:item=2478792241&perks=0,1561002382,47981717,0
+dimwishlist:item=2478792241&perks=0,1561002382,0,1546637391
+dimwishlist:item=2478792241&perks=0,0,47981717,1546637391
+dimwishlist:item=2478792241&perks=1482024992,0,0,0
+dimwishlist:item=2478792241&perks=0,1561002382,0,0
+dimwishlist:item=2478792241&perks=0,0,47981717,0
+dimwishlist:item=2478792241&perks=0,0,0,1546637391
+
+// The Scholar Adept 
+// Smallbore
+// High-Caliber Rounds
+// Opening Shot
+// Vorpal Weapon
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=2386979999&perks=1482024992,1561002382,47981717,1546637391
+dimwishlist:item=2386979999&perks=1482024992,1561002382,47981717,0
+dimwishlist:item=2386979999&perks=1482024992,1561002382,0,1546637391
+dimwishlist:item=2386979999&perks=1482024992,0,47981717,1546637391
+dimwishlist:item=2386979999&perks=0,1561002382,47981717,1546637391
+dimwishlist:item=2386979999&perks=1482024992,1561002382,0,0
+dimwishlist:item=2386979999&perks=1482024992,0,47981717,0
+dimwishlist:item=2386979999&perks=1482024992,0,0,1546637391
+dimwishlist:item=2386979999&perks=0,1561002382,47981717,0
+dimwishlist:item=2386979999&perks=0,1561002382,0,1546637391
+dimwishlist:item=2386979999&perks=0,0,47981717,1546637391
+dimwishlist:item=2386979999&perks=1482024992,0,0,0
+dimwishlist:item=2386979999&perks=0,1561002382,0,0
+dimwishlist:item=2386979999&perks=0,0,47981717,0
+dimwishlist:item=2386979999&perks=0,0,0,1546637391
+
+// Transfiguration 
+// Arrowhead Brake
+// Steady Rounds
+// Zen Moment
+// Moving Target
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3799980700&perks=839105230,3177308360,2387244414,588594999
+dimwishlist:item=3799980700&perks=839105230,3177308360,2387244414,0
+dimwishlist:item=3799980700&perks=839105230,3177308360,0,588594999
+dimwishlist:item=3799980700&perks=839105230,0,2387244414,588594999
+dimwishlist:item=3799980700&perks=0,3177308360,2387244414,588594999
+dimwishlist:item=3799980700&perks=839105230,3177308360,0,0
+dimwishlist:item=3799980700&perks=839105230,0,2387244414,0
+dimwishlist:item=3799980700&perks=839105230,0,0,588594999
+dimwishlist:item=3799980700&perks=0,3177308360,2387244414,0
+dimwishlist:item=3799980700&perks=0,3177308360,0,588594999
+dimwishlist:item=3799980700&perks=0,0,2387244414,588594999
+dimwishlist:item=3799980700&perks=839105230,0,0,0
+dimwishlist:item=3799980700&perks=0,3177308360,0,0
+dimwishlist:item=3799980700&perks=0,0,2387244414,0
+dimwishlist:item=3799980700&perks=0,0,0,588594999
+
+// Astral Horizon 
+// Full Choke
+// Assault Mag
+// Surplus
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=1697682876&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=1697682876&perks=1047830412,791862061,3436462433,0
+dimwishlist:item=1697682876&perks=1047830412,791862061,0,47981717
+dimwishlist:item=1697682876&perks=1047830412,0,3436462433,47981717
+dimwishlist:item=1697682876&perks=0,791862061,3436462433,47981717
+dimwishlist:item=1697682876&perks=1047830412,791862061,0,0
+dimwishlist:item=1697682876&perks=1047830412,0,3436462433,0
+dimwishlist:item=1697682876&perks=1047830412,0,0,47981717
+dimwishlist:item=1697682876&perks=0,791862061,3436462433,0
+dimwishlist:item=1697682876&perks=0,791862061,0,47981717
+dimwishlist:item=1697682876&perks=0,0,3436462433,47981717
+dimwishlist:item=1697682876&perks=1047830412,0,0,0
+dimwishlist:item=1697682876&perks=0,791862061,0,0
+dimwishlist:item=1697682876&perks=0,0,3436462433,0
+dimwishlist:item=1697682876&perks=0,0,0,47981717
+
+// Astral Horizon Adept 
+// Full Choke
+// Assault Mag
+// Surplus
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Adept Handling
+dimwishlist:item=532746994&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=532746994&perks=1047830412,791862061,3436462433,0
+dimwishlist:item=532746994&perks=1047830412,791862061,0,47981717
+dimwishlist:item=532746994&perks=1047830412,0,3436462433,47981717
+dimwishlist:item=532746994&perks=0,791862061,3436462433,47981717
+dimwishlist:item=532746994&perks=1047830412,791862061,0,0
+dimwishlist:item=532746994&perks=1047830412,0,3436462433,0
+dimwishlist:item=532746994&perks=1047830412,0,0,47981717
+dimwishlist:item=532746994&perks=0,791862061,3436462433,0
+dimwishlist:item=532746994&perks=0,791862061,0,47981717
+dimwishlist:item=532746994&perks=0,0,3436462433,47981717
+dimwishlist:item=532746994&perks=1047830412,0,0,0
+dimwishlist:item=532746994&perks=0,791862061,0,0
+dimwishlist:item=532746994&perks=0,0,3436462433,0
+dimwishlist:item=532746994&perks=0,0,0,47981717
+
+// Blasphemer 
+// Fluted Barrel
+// Accurized Rounds
+// Surplus
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Icarus Grip
+dimwishlist:item=2782847179&perks=1840239774,3142289711,3436462433,47981717
+dimwishlist:item=2782847179&perks=1840239774,3142289711,3436462433,0
+dimwishlist:item=2782847179&perks=1840239774,3142289711,0,47981717
+dimwishlist:item=2782847179&perks=1840239774,0,3436462433,47981717
+dimwishlist:item=2782847179&perks=0,3142289711,3436462433,47981717
+dimwishlist:item=2782847179&perks=1840239774,3142289711,0,0
+dimwishlist:item=2782847179&perks=1840239774,0,3436462433,0
+dimwishlist:item=2782847179&perks=1840239774,0,0,47981717
+dimwishlist:item=2782847179&perks=0,3142289711,3436462433,0
+dimwishlist:item=2782847179&perks=0,3142289711,0,47981717
+dimwishlist:item=2782847179&perks=0,0,3436462433,47981717
+dimwishlist:item=2782847179&perks=1840239774,0,0,0
+dimwishlist:item=2782847179&perks=0,3142289711,0,0
+dimwishlist:item=2782847179&perks=0,0,3436462433,0
+dimwishlist:item=2782847179&perks=0,0,0,47981717
+
+// Fortissimo 11 
+// Hammer-Forged Rifling
+// Assault Mag
+// Surplus
+// Opening Shot
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Range, Mod: Icarus Grip
+dimwishlist:item=2821430069&perks=3250034553,791862061,3436462433,47981717
+dimwishlist:item=2821430069&perks=3250034553,791862061,3436462433,0
+dimwishlist:item=2821430069&perks=3250034553,791862061,0,47981717
+dimwishlist:item=2821430069&perks=3250034553,0,3436462433,47981717
+dimwishlist:item=2821430069&perks=0,791862061,3436462433,47981717
+dimwishlist:item=2821430069&perks=3250034553,791862061,0,0
+dimwishlist:item=2821430069&perks=3250034553,0,3436462433,0
+dimwishlist:item=2821430069&perks=3250034553,0,0,47981717
+dimwishlist:item=2821430069&perks=0,791862061,3436462433,0
+dimwishlist:item=2821430069&perks=0,791862061,0,47981717
+dimwishlist:item=2821430069&perks=0,0,3436462433,47981717
+dimwishlist:item=2821430069&perks=3250034553,0,0,0
+dimwishlist:item=2821430069&perks=0,791862061,0,0
+dimwishlist:item=2821430069&perks=0,0,3436462433,0
+dimwishlist:item=2821430069&perks=0,0,0,47981717
+
+// Fractethyst 
+// Full Choke
+// Accurized Rounds
+// Quickdraw
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,0
+dimwishlist:item=3184681056&perks=1047830412,3142289711,0,47981717
+dimwishlist:item=3184681056&perks=1047830412,0,706527188,47981717
+dimwishlist:item=3184681056&perks=0,3142289711,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,3142289711,0,0
+dimwishlist:item=3184681056&perks=1047830412,0,706527188,0
+dimwishlist:item=3184681056&perks=1047830412,0,0,47981717
+dimwishlist:item=3184681056&perks=0,3142289711,706527188,0
+dimwishlist:item=3184681056&perks=0,3142289711,0,47981717
+dimwishlist:item=3184681056&perks=0,0,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,0,0,0
+dimwishlist:item=3184681056&perks=0,3142289711,0,0
+dimwishlist:item=3184681056&perks=0,0,706527188,0
+dimwishlist:item=3184681056&perks=0,0,0,47981717
+
+// Heritage 
+// Fluted Barrel
+// Assault Mag
+// Reconstruction
+// Killing Wind
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Icarus Grip
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,2450788523
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,0
+dimwishlist:item=4248569242&perks=1840239774,791862061,0,2450788523
+dimwishlist:item=4248569242&perks=1840239774,0,1523832109,2450788523
+dimwishlist:item=4248569242&perks=0,791862061,1523832109,2450788523
+dimwishlist:item=4248569242&perks=1840239774,791862061,0,0
+dimwishlist:item=4248569242&perks=1840239774,0,1523832109,0
+dimwishlist:item=4248569242&perks=1840239774,0,0,2450788523
+dimwishlist:item=4248569242&perks=0,791862061,1523832109,0
+dimwishlist:item=4248569242&perks=0,791862061,0,2450788523
+dimwishlist:item=4248569242&perks=0,0,1523832109,2450788523
+dimwishlist:item=4248569242&perks=1840239774,0,0,0
+dimwishlist:item=4248569242&perks=0,791862061,0,0
+dimwishlist:item=4248569242&perks=0,0,1523832109,0
+dimwishlist:item=4248569242&perks=0,0,0,2450788523
+
+// One Small Step 
+// Smoothbore
+// Accurized Rounds
+// Slideshot
+// Swashbuckler
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=1016668089&perks=466087222,3142289711,3161816588,4082225868
+dimwishlist:item=1016668089&perks=466087222,3142289711,3161816588,0
+dimwishlist:item=1016668089&perks=466087222,3142289711,0,4082225868
+dimwishlist:item=1016668089&perks=466087222,0,3161816588,4082225868
+dimwishlist:item=1016668089&perks=0,3142289711,3161816588,4082225868
+dimwishlist:item=1016668089&perks=466087222,3142289711,0,0
+dimwishlist:item=1016668089&perks=466087222,0,3161816588,0
+dimwishlist:item=1016668089&perks=466087222,0,0,4082225868
+dimwishlist:item=1016668089&perks=0,3142289711,3161816588,0
+dimwishlist:item=1016668089&perks=0,3142289711,0,4082225868
+dimwishlist:item=1016668089&perks=0,0,3161816588,4082225868
+dimwishlist:item=1016668089&perks=466087222,0,0,0
+dimwishlist:item=1016668089&perks=0,3142289711,0,0
+dimwishlist:item=1016668089&perks=0,0,3161816588,0
+dimwishlist:item=1016668089&perks=0,0,0,4082225868
+
+// Ragnhild-D
+// Full Choke
+// Assault Mag
+// Enhanced Auto-Loading Holster
+// Enhanced Elemental Capacitor
+// Origin Trait: Hakke Breach Armaments
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=4225322581&perks=1047830412,791862061,3528046508,711234314
+dimwishlist:item=4225322581&perks=1047830412,791862061,3528046508,0
+dimwishlist:item=4225322581&perks=1047830412,791862061,0,711234314
+dimwishlist:item=4225322581&perks=1047830412,0,3528046508,711234314
+dimwishlist:item=4225322581&perks=0,791862061,3528046508,711234314
+dimwishlist:item=4225322581&perks=1047830412,791862061,0,0
+dimwishlist:item=4225322581&perks=1047830412,0,3528046508,0
+dimwishlist:item=4225322581&perks=1047830412,0,0,711234314
+dimwishlist:item=4225322581&perks=0,791862061,3528046508,0
+dimwishlist:item=4225322581&perks=0,791862061,0,711234314
+dimwishlist:item=4225322581&perks=0,0,3528046508,711234314
+dimwishlist:item=4225322581&perks=1047830412,0,0,0
+dimwishlist:item=4225322581&perks=0,791862061,0,0
+dimwishlist:item=4225322581&perks=0,0,3528046508,0
+dimwishlist:item=4225322581&perks=0,0,0,711234314
+
+// Riiswalker 
+// Full Choke
+// Assault Mag
+// Surplus
+// Iron Reach
+// Origin Trait: Skulking Wolf
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,0
+dimwishlist:item=108221785&perks=1047830412,791862061,0,591790007
+dimwishlist:item=108221785&perks=1047830412,0,3436462433,591790007
+dimwishlist:item=108221785&perks=0,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,0,0
+dimwishlist:item=108221785&perks=1047830412,0,3436462433,0
+dimwishlist:item=108221785&perks=1047830412,0,0,591790007
+dimwishlist:item=108221785&perks=0,791862061,3436462433,0
+dimwishlist:item=108221785&perks=0,791862061,0,591790007
+dimwishlist:item=108221785&perks=0,0,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,0,0,0
+dimwishlist:item=108221785&perks=0,791862061,0,0
+dimwishlist:item=108221785&perks=0,0,3436462433,0
+dimwishlist:item=108221785&perks=0,0,0,591790007
+
+// Toil And Trouble 
+// Full Choke
+// Assault Mag
+// Threat Detector
+// Snapshot Sights
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=2957367743&perks=1047830412,791862061,4071163871,957782887
+dimwishlist:item=2957367743&perks=1047830412,791862061,4071163871,0
+dimwishlist:item=2957367743&perks=1047830412,791862061,0,957782887
+dimwishlist:item=2957367743&perks=1047830412,0,4071163871,957782887
+dimwishlist:item=2957367743&perks=0,791862061,4071163871,957782887
+dimwishlist:item=2957367743&perks=1047830412,791862061,0,0
+dimwishlist:item=2957367743&perks=1047830412,0,4071163871,0
+dimwishlist:item=2957367743&perks=1047830412,0,0,957782887
+dimwishlist:item=2957367743&perks=0,791862061,4071163871,0
+dimwishlist:item=2957367743&perks=0,791862061,0,957782887
+dimwishlist:item=2957367743&perks=0,0,4071163871,957782887
+dimwishlist:item=2957367743&perks=1047830412,0,0,0
+dimwishlist:item=2957367743&perks=0,791862061,0,0
+dimwishlist:item=2957367743&perks=0,0,4071163871,0
+dimwishlist:item=2957367743&perks=0,0,0,957782887
+
+// Wastelander M5 
+// Full Choke
+// Assault Mag
+// Slideshot
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,0
+dimwishlist:item=1679868061&perks=1047830412,791862061,0,47981717
+dimwishlist:item=1679868061&perks=1047830412,0,3161816588,47981717
+dimwishlist:item=1679868061&perks=0,791862061,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,791862061,0,0
+dimwishlist:item=1679868061&perks=1047830412,0,3161816588,0
+dimwishlist:item=1679868061&perks=1047830412,0,0,47981717
+dimwishlist:item=1679868061&perks=0,791862061,3161816588,0
+dimwishlist:item=1679868061&perks=0,791862061,0,47981717
+dimwishlist:item=1679868061&perks=0,0,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,0,0,0
+dimwishlist:item=1679868061&perks=0,791862061,0,0
+dimwishlist:item=1679868061&perks=0,0,3161816588,0
+dimwishlist:item=1679868061&perks=0,0,0,47981717
+
+// Empirical Evidence 
+// Smallbore
+// High-Caliber Rounds
+// Enhanced Encore
+// Enhanced Adagio
+// Origin Trait: Pyscohack
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=2607304614&perks=1482024992,1561002382,838873202,2889515627
+dimwishlist:item=2607304614&perks=1482024992,1561002382,838873202,0
+dimwishlist:item=2607304614&perks=1482024992,1561002382,0,2889515627
+dimwishlist:item=2607304614&perks=1482024992,0,838873202,2889515627
+dimwishlist:item=2607304614&perks=0,1561002382,838873202,2889515627
+dimwishlist:item=2607304614&perks=1482024992,1561002382,0,0
+dimwishlist:item=2607304614&perks=1482024992,0,838873202,0
+dimwishlist:item=2607304614&perks=1482024992,0,0,2889515627
+dimwishlist:item=2607304614&perks=0,1561002382,838873202,0
+dimwishlist:item=2607304614&perks=0,1561002382,0,2889515627
+dimwishlist:item=2607304614&perks=0,0,838873202,2889515627
+dimwishlist:item=2607304614&perks=1482024992,0,0,0
+dimwishlist:item=2607304614&perks=0,1561002382,0,0
+dimwishlist:item=2607304614&perks=0,0,838873202,0
+dimwishlist:item=2607304614&perks=0,0,0,2889515627
+
+// Enigmas Draw 
+// Tactic SAS
+// High-Caliber Rounds
+// Zen Moment
+// Rangefinder
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1723380073&perks=445755704,1561002382,2387244414,2846385770
+dimwishlist:item=1723380073&perks=445755704,1561002382,2387244414,0
+dimwishlist:item=1723380073&perks=445755704,1561002382,0,2846385770
+dimwishlist:item=1723380073&perks=445755704,0,2387244414,2846385770
+dimwishlist:item=1723380073&perks=0,1561002382,2387244414,2846385770
+dimwishlist:item=1723380073&perks=445755704,1561002382,0,0
+dimwishlist:item=1723380073&perks=445755704,0,2387244414,0
+dimwishlist:item=1723380073&perks=445755704,0,0,2846385770
+dimwishlist:item=1723380073&perks=0,1561002382,2387244414,0
+dimwishlist:item=1723380073&perks=0,1561002382,0,2846385770
+dimwishlist:item=1723380073&perks=0,0,2387244414,2846385770
+dimwishlist:item=1723380073&perks=445755704,0,0,0
+dimwishlist:item=1723380073&perks=0,1561002382,0,0
+dimwishlist:item=1723380073&perks=0,0,2387244414,0
+dimwishlist:item=1723380073&perks=0,0,0,2846385770
+
+// Farewell 
+// Extended Barrel
+// Accurized Rounds
+// Rangefinder
+// Thresh
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=541188001&perks=1467527085,3142289711,2846385770,2726471870
+dimwishlist:item=541188001&perks=1467527085,3142289711,2846385770,0
+dimwishlist:item=541188001&perks=1467527085,3142289711,0,2726471870
+dimwishlist:item=541188001&perks=1467527085,0,2846385770,2726471870
+dimwishlist:item=541188001&perks=0,3142289711,2846385770,2726471870
+dimwishlist:item=541188001&perks=1467527085,3142289711,0,0
+dimwishlist:item=541188001&perks=1467527085,0,2846385770,0
+dimwishlist:item=541188001&perks=1467527085,0,0,2726471870
+dimwishlist:item=541188001&perks=0,3142289711,2846385770,0
+dimwishlist:item=541188001&perks=0,3142289711,0,2726471870
+dimwishlist:item=541188001&perks=0,0,2846385770,2726471870
+dimwishlist:item=541188001&perks=1467527085,0,0,0
+dimwishlist:item=541188001&perks=0,3142289711,0,0
+dimwishlist:item=541188001&perks=0,0,2846385770,0
+dimwishlist:item=541188001&perks=0,0,0,2726471870
+
+// High Albedo 
+// Fluted Barrel
+// Accurized Rounds
+// Surplus
+// Demolitionist
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1197486957&perks=1840239774,3142289711,3436462433,3523296417
+dimwishlist:item=1197486957&perks=1840239774,3142289711,3436462433,0
+dimwishlist:item=1197486957&perks=1840239774,3142289711,0,3523296417
+dimwishlist:item=1197486957&perks=1840239774,0,3436462433,3523296417
+dimwishlist:item=1197486957&perks=0,3142289711,3436462433,3523296417
+dimwishlist:item=1197486957&perks=1840239774,3142289711,0,0
+dimwishlist:item=1197486957&perks=1840239774,0,3436462433,0
+dimwishlist:item=1197486957&perks=1840239774,0,0,3523296417
+dimwishlist:item=1197486957&perks=0,3142289711,3436462433,0
+dimwishlist:item=1197486957&perks=0,3142289711,0,3523296417
+dimwishlist:item=1197486957&perks=0,0,3436462433,3523296417
+dimwishlist:item=1197486957&perks=1840239774,0,0,0
+dimwishlist:item=1197486957&perks=0,3142289711,0,0
+dimwishlist:item=1197486957&perks=0,0,3436462433,0
+dimwishlist:item=1197486957&perks=0,0,0,3523296417
+
+// Lonesome 
+// Extended Barrel
+// High-Caliber Rounds
+// Zen Moment
+// Kill Clip
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=2199171672&perks=1467527085,1561002382,2387244414,1015611457
+dimwishlist:item=2199171672&perks=1467527085,1561002382,2387244414,0
+dimwishlist:item=2199171672&perks=1467527085,1561002382,0,1015611457
+dimwishlist:item=2199171672&perks=1467527085,0,2387244414,1015611457
+dimwishlist:item=2199171672&perks=0,1561002382,2387244414,1015611457
+dimwishlist:item=2199171672&perks=1467527085,1561002382,0,0
+dimwishlist:item=2199171672&perks=1467527085,0,2387244414,0
+dimwishlist:item=2199171672&perks=1467527085,0,0,1015611457
+dimwishlist:item=2199171672&perks=0,1561002382,2387244414,0
+dimwishlist:item=2199171672&perks=0,1561002382,0,1015611457
+dimwishlist:item=2199171672&perks=0,0,2387244414,1015611457
+dimwishlist:item=2199171672&perks=1467527085,0,0,0
+dimwishlist:item=2199171672&perks=0,1561002382,0,0
+dimwishlist:item=2199171672&perks=0,0,2387244414,0
+dimwishlist:item=2199171672&perks=0,0,0,1015611457
+
+// Peacebond 
+// Extended Barrel
+// Accurized Rounds
+// Rangefinder
+// Demolitionist
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,3523296417
+dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,0
+dimwishlist:item=829330711&perks=1467527085,3142289711,0,3523296417
+dimwishlist:item=829330711&perks=1467527085,0,2846385770,3523296417
+dimwishlist:item=829330711&perks=0,3142289711,2846385770,3523296417
+dimwishlist:item=829330711&perks=1467527085,3142289711,0,0
+dimwishlist:item=829330711&perks=1467527085,0,2846385770,0
+dimwishlist:item=829330711&perks=1467527085,0,0,3523296417
+dimwishlist:item=829330711&perks=0,3142289711,2846385770,0
+dimwishlist:item=829330711&perks=0,3142289711,0,3523296417
+dimwishlist:item=829330711&perks=0,0,2846385770,3523296417
+dimwishlist:item=829330711&perks=1467527085,0,0,0
+dimwishlist:item=829330711&perks=0,3142289711,0,0
+dimwishlist:item=829330711&perks=0,0,2846385770,0
+dimwishlist:item=829330711&perks=0,0,0,3523296417
+
+// Spoiler Alert 
+// Tactic SAS
+// High-Caliber Rounds
+// Killing Wind
+// High-Impact Reserves
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=2588048270&perks=445755704,1561002382,2450788523,2213355989
+dimwishlist:item=2588048270&perks=445755704,1561002382,2450788523,0
+dimwishlist:item=2588048270&perks=445755704,1561002382,0,2213355989
+dimwishlist:item=2588048270&perks=445755704,0,2450788523,2213355989
+dimwishlist:item=2588048270&perks=0,1561002382,2450788523,2213355989
+dimwishlist:item=2588048270&perks=445755704,1561002382,0,0
+dimwishlist:item=2588048270&perks=445755704,0,2450788523,0
+dimwishlist:item=2588048270&perks=445755704,0,0,2213355989
+dimwishlist:item=2588048270&perks=0,1561002382,2450788523,0
+dimwishlist:item=2588048270&perks=0,1561002382,0,2213355989
+dimwishlist:item=2588048270&perks=0,0,2450788523,2213355989
+dimwishlist:item=2588048270&perks=445755704,0,0,0
+dimwishlist:item=2588048270&perks=0,1561002382,0,0
+dimwishlist:item=2588048270&perks=0,0,2450788523,0
+dimwishlist:item=2588048270&perks=0,0,0,2213355989
+
+// Bite Of The Fox 
+// Fluted Barrel
+// Accurized Rounds
+// Firmly Planted
+// Opening Shot
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=3169616514&perks=1840239774,3142289711,280464955,47981717
+dimwishlist:item=3169616514&perks=1840239774,3142289711,280464955,0
+dimwishlist:item=3169616514&perks=1840239774,3142289711,0,47981717
+dimwishlist:item=3169616514&perks=1840239774,0,280464955,47981717
+dimwishlist:item=3169616514&perks=0,3142289711,280464955,47981717
+dimwishlist:item=3169616514&perks=1840239774,3142289711,0,0
+dimwishlist:item=3169616514&perks=1840239774,0,280464955,0
+dimwishlist:item=3169616514&perks=1840239774,0,0,47981717
+dimwishlist:item=3169616514&perks=0,3142289711,280464955,0
+dimwishlist:item=3169616514&perks=0,3142289711,0,47981717
+dimwishlist:item=3169616514&perks=0,0,280464955,47981717
+dimwishlist:item=3169616514&perks=1840239774,0,0,0
+dimwishlist:item=3169616514&perks=0,3142289711,0,0
+dimwishlist:item=3169616514&perks=0,0,280464955,0
+dimwishlist:item=3169616514&perks=0,0,0,47981717
+
+// Eye Of Sol 
+// Fluted Barrel
+// Accurized Rounds
+// Moving Target
+// Vorpal Weapon
+// Origin Trait: Alacrity
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,1546637391
+dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,0
+dimwishlist:item=3164743584&perks=1840239774,3142289711,0,1546637391
+dimwishlist:item=3164743584&perks=1840239774,0,588594999,1546637391
+dimwishlist:item=3164743584&perks=0,3142289711,588594999,1546637391
+dimwishlist:item=3164743584&perks=1840239774,3142289711,0,0
+dimwishlist:item=3164743584&perks=1840239774,0,588594999,0
+dimwishlist:item=3164743584&perks=1840239774,0,0,1546637391
+dimwishlist:item=3164743584&perks=0,3142289711,588594999,0
+dimwishlist:item=3164743584&perks=0,3142289711,0,1546637391
+dimwishlist:item=3164743584&perks=0,0,588594999,1546637391
+dimwishlist:item=3164743584&perks=1840239774,0,0,0
+dimwishlist:item=3164743584&perks=0,3142289711,0,0
+dimwishlist:item=3164743584&perks=0,0,588594999,0
+dimwishlist:item=3164743584&perks=0,0,0,1546637391
+
+// Eye Of Sol Adept 
+// Fluted Barrel
+// Accurized Rounds
+// Moving Target
+// Opening Shot
+// Origin Trait: Alacrity
+//notes: Masterwork: Handling, Mod: Adept Targeting Adjuster
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,0
+dimwishlist:item=3637570176&perks=1840239774,3142289711,0,47981717
+dimwishlist:item=3637570176&perks=1840239774,0,588594999,47981717
+dimwishlist:item=3637570176&perks=0,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,0,0
+dimwishlist:item=3637570176&perks=1840239774,0,588594999,0
+dimwishlist:item=3637570176&perks=1840239774,0,0,47981717
+dimwishlist:item=3637570176&perks=0,3142289711,588594999,0
+dimwishlist:item=3637570176&perks=0,3142289711,0,47981717
+dimwishlist:item=3637570176&perks=0,0,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,0,0,0
+dimwishlist:item=3637570176&perks=0,3142289711,0,0
+dimwishlist:item=3637570176&perks=0,0,588594999,0
+dimwishlist:item=3637570176&perks=0,0,0,47981717
+
+// Long Shadow 
+// ATC Rex
+// Accurized Rounds
+// Snapshot Sights
+// Moving Target
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=3745990145&perks=893526893,3142289711,957782887,588594999
+dimwishlist:item=3745990145&perks=893526893,3142289711,957782887,0
+dimwishlist:item=3745990145&perks=893526893,3142289711,0,588594999
+dimwishlist:item=3745990145&perks=893526893,0,957782887,588594999
+dimwishlist:item=3745990145&perks=0,3142289711,957782887,588594999
+dimwishlist:item=3745990145&perks=893526893,3142289711,0,0
+dimwishlist:item=3745990145&perks=893526893,0,957782887,0
+dimwishlist:item=3745990145&perks=893526893,0,0,588594999
+dimwishlist:item=3745990145&perks=0,3142289711,957782887,0
+dimwishlist:item=3745990145&perks=0,3142289711,0,588594999
+dimwishlist:item=3745990145&perks=0,0,957782887,588594999
+dimwishlist:item=3745990145&perks=893526893,0,0,0
+dimwishlist:item=3745990145&perks=0,3142289711,0,0
+dimwishlist:item=3745990145&perks=0,0,957782887,0
+dimwishlist:item=3745990145&perks=0,0,0,588594999
+
+// Praedyths Revenge 
+// Fluted Barrel
+// Steady Rounds
+// No Distractions
+// Firefly
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=3653573172&perks=1840239774,3177308360,2866798147,3824105627
+dimwishlist:item=3653573172&perks=1840239774,3177308360,2866798147,0
+dimwishlist:item=3653573172&perks=1840239774,3177308360,0,3824105627
+dimwishlist:item=3653573172&perks=1840239774,0,2866798147,3824105627
+dimwishlist:item=3653573172&perks=0,3177308360,2866798147,3824105627
+dimwishlist:item=3653573172&perks=1840239774,3177308360,0,0
+dimwishlist:item=3653573172&perks=1840239774,0,2866798147,0
+dimwishlist:item=3653573172&perks=1840239774,0,0,3824105627
+dimwishlist:item=3653573172&perks=0,3177308360,2866798147,0
+dimwishlist:item=3653573172&perks=0,3177308360,0,3824105627
+dimwishlist:item=3653573172&perks=0,0,2866798147,3824105627
+dimwishlist:item=3653573172&perks=1840239774,0,0,0
+dimwishlist:item=3653573172&perks=0,3177308360,0,0
+dimwishlist:item=3653573172&perks=0,0,2866798147,0
+dimwishlist:item=3653573172&perks=0,0,0,3824105627
+
+// Praedyths Revenge Timelost 
+// Fluted Barrel
+// Steady Rounds
+// Moving Target
+// Firefly
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Adept Targeting Adjuster
+dimwishlist:item=1987769101&perks=1840239774,3177308360,588594999,3824105627
+dimwishlist:item=1987769101&perks=1840239774,3177308360,588594999,0
+dimwishlist:item=1987769101&perks=1840239774,3177308360,0,3824105627
+dimwishlist:item=1987769101&perks=1840239774,0,588594999,3824105627
+dimwishlist:item=1987769101&perks=0,3177308360,588594999,3824105627
+dimwishlist:item=1987769101&perks=1840239774,3177308360,0,0
+dimwishlist:item=1987769101&perks=1840239774,0,588594999,0
+dimwishlist:item=1987769101&perks=1840239774,0,0,3824105627
+dimwishlist:item=1987769101&perks=0,3177308360,588594999,0
+dimwishlist:item=1987769101&perks=0,3177308360,0,3824105627
+dimwishlist:item=1987769101&perks=0,0,588594999,3824105627
+dimwishlist:item=1987769101&perks=1840239774,0,0,0
+dimwishlist:item=1987769101&perks=0,3177308360,0,0
+dimwishlist:item=1987769101&perks=0,0,588594999,0
+dimwishlist:item=1987769101&perks=0,0,0,3824105627
+
+// Shepherds Watch 
+// Fluted Barrel
+// Accurized Rounds
+// Moving Target
+// Opening Shot
+// Origin Trait: Alacrity
+//notes: Masterwork: Handling, Mod: Adept Targeting Adjuster
+dimwishlist:item=3743729616&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3743729616&perks=1840239774,3142289711,588594999,0
+dimwishlist:item=3743729616&perks=1840239774,3142289711,0,47981717
+dimwishlist:item=3743729616&perks=1840239774,0,588594999,47981717
+dimwishlist:item=3743729616&perks=0,3142289711,588594999,47981717
+dimwishlist:item=3743729616&perks=1840239774,3142289711,0,0
+dimwishlist:item=3743729616&perks=1840239774,0,588594999,0
+dimwishlist:item=3743729616&perks=1840239774,0,0,47981717
+dimwishlist:item=3743729616&perks=0,3142289711,588594999,0
+dimwishlist:item=3743729616&perks=0,3142289711,0,47981717
+dimwishlist:item=3743729616&perks=0,0,588594999,47981717
+dimwishlist:item=3743729616&perks=1840239774,0,0,0
+dimwishlist:item=3743729616&perks=0,3142289711,0,0
+dimwishlist:item=3743729616&perks=0,0,588594999,0
+dimwishlist:item=3743729616&perks=0,0,0,47981717
+
+// Silicon Neuroma 
+// Fluted Barrel
+// Ricochet Rounds
+// Snapshot Sights
+// Opening Shot
+// Origin Trait: Vanguard'S Vindication
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=3355385170&perks=1840239774,1885400500,957782887,47981717
+dimwishlist:item=3355385170&perks=1840239774,1885400500,957782887,0
+dimwishlist:item=3355385170&perks=1840239774,1885400500,0,47981717
+dimwishlist:item=3355385170&perks=1840239774,0,957782887,47981717
+dimwishlist:item=3355385170&perks=0,1885400500,957782887,47981717
+dimwishlist:item=3355385170&perks=1840239774,1885400500,0,0
+dimwishlist:item=3355385170&perks=1840239774,0,957782887,0
+dimwishlist:item=3355385170&perks=1840239774,0,0,47981717
+dimwishlist:item=3355385170&perks=0,1885400500,957782887,0
+dimwishlist:item=3355385170&perks=0,1885400500,0,47981717
+dimwishlist:item=3355385170&perks=0,0,957782887,47981717
+dimwishlist:item=3355385170&perks=1840239774,0,0,0
+dimwishlist:item=3355385170&perks=0,1885400500,0,0
+dimwishlist:item=3355385170&perks=0,0,957782887,0
+dimwishlist:item=3355385170&perks=0,0,0,47981717
+
+// Silicon Neuroma Adept 
+// Fluted Barrel
+// Ricochet Rounds
+// Snapshot Sights
+// Opening Shot
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Handling, Mod: Adept Targeting Adjuster
+dimwishlist:item=1387987271&perks=1840239774,1885400500,957782887,47981717
+dimwishlist:item=1387987271&perks=1840239774,1885400500,957782887,0
+dimwishlist:item=1387987271&perks=1840239774,1885400500,0,47981717
+dimwishlist:item=1387987271&perks=1840239774,0,957782887,47981717
+dimwishlist:item=1387987271&perks=0,1885400500,957782887,47981717
+dimwishlist:item=1387987271&perks=1840239774,1885400500,0,0
+dimwishlist:item=1387987271&perks=1840239774,0,957782887,0
+dimwishlist:item=1387987271&perks=1840239774,0,0,47981717
+dimwishlist:item=1387987271&perks=0,1885400500,957782887,0
+dimwishlist:item=1387987271&perks=0,1885400500,0,47981717
+dimwishlist:item=1387987271&perks=0,0,957782887,47981717
+dimwishlist:item=1387987271&perks=1840239774,0,0,0
+dimwishlist:item=1387987271&perks=0,1885400500,0,0
+dimwishlist:item=1387987271&perks=0,0,957782887,0
+dimwishlist:item=1387987271&perks=0,0,0,47981717
+
+// Succession 
+// Fluted Barrel
+// Accurized Rounds
+// No Distractions
+// Snapshot Sights
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=2990047042&perks=1840239774,3142289711,2866798147,957782887
+dimwishlist:item=2990047042&perks=1840239774,3142289711,2866798147,0
+dimwishlist:item=2990047042&perks=1840239774,3142289711,0,957782887
+dimwishlist:item=2990047042&perks=1840239774,0,2866798147,957782887
+dimwishlist:item=2990047042&perks=0,3142289711,2866798147,957782887
+dimwishlist:item=2990047042&perks=1840239774,3142289711,0,0
+dimwishlist:item=2990047042&perks=1840239774,0,2866798147,0
+dimwishlist:item=2990047042&perks=1840239774,0,0,957782887
+dimwishlist:item=2990047042&perks=0,3142289711,2866798147,0
+dimwishlist:item=2990047042&perks=0,3142289711,0,957782887
+dimwishlist:item=2990047042&perks=0,0,2866798147,957782887
+dimwishlist:item=2990047042&perks=1840239774,0,0,0
+dimwishlist:item=2990047042&perks=0,3142289711,0,0
+dimwishlist:item=2990047042&perks=0,0,2866798147,0
+dimwishlist:item=2990047042&perks=0,0,0,957782887
+
+// The Supremacy 
+// Fluted Barrel
+// Armor-Piercing Rounds
+// Snapshot Sights
+// Rampage
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=686951703&perks=1840239774,1968497646,957782887,3425386926
+dimwishlist:item=686951703&perks=1840239774,1968497646,957782887,0
+dimwishlist:item=686951703&perks=1840239774,1968497646,0,3425386926
+dimwishlist:item=686951703&perks=1840239774,0,957782887,3425386926
+dimwishlist:item=686951703&perks=0,1968497646,957782887,3425386926
+dimwishlist:item=686951703&perks=1840239774,1968497646,0,0
+dimwishlist:item=686951703&perks=1840239774,0,957782887,0
+dimwishlist:item=686951703&perks=1840239774,0,0,3425386926
+dimwishlist:item=686951703&perks=0,1968497646,957782887,0
+dimwishlist:item=686951703&perks=0,1968497646,0,3425386926
+dimwishlist:item=686951703&perks=0,0,957782887,3425386926
+dimwishlist:item=686951703&perks=1840239774,0,0,0
+dimwishlist:item=686951703&perks=0,1968497646,0,0
+dimwishlist:item=686951703&perks=0,0,957782887,0
+dimwishlist:item=686951703&perks=0,0,0,3425386926
+
+// Thoughtless 
+// Fluted Barrel
+// Appended Mag
+// Enhanced Overflow
+// Enhanced Focused Fury
+// Origin Trait: Land Tank
+//notes: Masterwork: Reload Speed, Mod: Boss Spec
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,2402480669
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,0
+dimwishlist:item=4067556514&perks=1840239774,1087426260,0,2402480669
+dimwishlist:item=4067556514&perks=1840239774,0,2682205016,2402480669
+dimwishlist:item=4067556514&perks=0,1087426260,2682205016,2402480669
+dimwishlist:item=4067556514&perks=1840239774,1087426260,0,0
+dimwishlist:item=4067556514&perks=1840239774,0,2682205016,0
+dimwishlist:item=4067556514&perks=1840239774,0,0,2402480669
+dimwishlist:item=4067556514&perks=0,1087426260,2682205016,0
+dimwishlist:item=4067556514&perks=0,1087426260,0,2402480669
+dimwishlist:item=4067556514&perks=0,0,2682205016,2402480669
+dimwishlist:item=4067556514&perks=1840239774,0,0,0
+dimwishlist:item=4067556514&perks=0,1087426260,0,0
+dimwishlist:item=4067556514&perks=0,0,2682205016,0
+dimwishlist:item=4067556514&perks=0,0,0,2402480669
+
+// Tranquility 
+// Fluted Barrel
+// Accurized Rounds
+// No Distractions
+// Eye of the Storm
+// Origin Trait: None
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=1645386487&perks=1840239774,3142289711,2866798147,699525795
+dimwishlist:item=1645386487&perks=1840239774,3142289711,2866798147,0
+dimwishlist:item=1645386487&perks=1840239774,3142289711,0,699525795
+dimwishlist:item=1645386487&perks=1840239774,0,2866798147,699525795
+dimwishlist:item=1645386487&perks=0,3142289711,2866798147,699525795
+dimwishlist:item=1645386487&perks=1840239774,3142289711,0,0
+dimwishlist:item=1645386487&perks=1840239774,0,2866798147,0
+dimwishlist:item=1645386487&perks=1840239774,0,0,699525795
+dimwishlist:item=1645386487&perks=0,3142289711,2866798147,0
+dimwishlist:item=1645386487&perks=0,3142289711,0,699525795
+dimwishlist:item=1645386487&perks=0,0,2866798147,699525795
+dimwishlist:item=1645386487&perks=1840239774,0,0,0
+dimwishlist:item=1645386487&perks=0,3142289711,0,0
+dimwishlist:item=1645386487&perks=0,0,2866798147,0
+dimwishlist:item=1645386487&perks=0,0,0,699525795
+
+// Cold Front 
+// Chambered Compensator
+// Accurized Rounds
+// Surplus
+// Rampage
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1506719573&perks=3661387068,3142289711,3436462433,3425386926
+dimwishlist:item=1506719573&perks=3661387068,3142289711,3436462433,0
+dimwishlist:item=1506719573&perks=3661387068,3142289711,0,3425386926
+dimwishlist:item=1506719573&perks=3661387068,0,3436462433,3425386926
+dimwishlist:item=1506719573&perks=0,3142289711,3436462433,3425386926
+dimwishlist:item=1506719573&perks=3661387068,3142289711,0,0
+dimwishlist:item=1506719573&perks=3661387068,0,3436462433,0
+dimwishlist:item=1506719573&perks=3661387068,0,0,3425386926
+dimwishlist:item=1506719573&perks=0,3142289711,3436462433,0
+dimwishlist:item=1506719573&perks=0,3142289711,0,3425386926
+dimwishlist:item=1506719573&perks=0,0,3436462433,3425386926
+dimwishlist:item=1506719573&perks=3661387068,0,0,0
+dimwishlist:item=1506719573&perks=0,3142289711,0,0
+dimwishlist:item=1506719573&perks=0,0,3436462433,0
+dimwishlist:item=1506719573&perks=0,0,0,3425386926
+
+// Enyo-D
+// Smallbore
+// Steady Rounds
+// Encore
+// Rampage
+// Origin Trait: Hakke Breach Armaments
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=1601177201&perks=1482024992,3177308360,1195158366,3425386926
+dimwishlist:item=1601177201&perks=1482024992,3177308360,1195158366,0
+dimwishlist:item=1601177201&perks=1482024992,3177308360,0,3425386926
+dimwishlist:item=1601177201&perks=1482024992,0,1195158366,3425386926
+dimwishlist:item=1601177201&perks=0,3177308360,1195158366,3425386926
+dimwishlist:item=1601177201&perks=1482024992,3177308360,0,0
+dimwishlist:item=1601177201&perks=1482024992,0,1195158366,0
+dimwishlist:item=1601177201&perks=1482024992,0,0,3425386926
+dimwishlist:item=1601177201&perks=0,3177308360,1195158366,0
+dimwishlist:item=1601177201&perks=0,3177308360,0,3425386926
+dimwishlist:item=1601177201&perks=0,0,1195158366,3425386926
+dimwishlist:item=1601177201&perks=1482024992,0,0,0
+dimwishlist:item=1601177201&perks=0,3177308360,0,0
+dimwishlist:item=1601177201&perks=0,0,1195158366,0
+dimwishlist:item=1601177201&perks=0,0,0,3425386926
+
+// Escape Velocity 
+// Model 8 Red
+// Accurized Rounds
+// Zen Moment
+// Elemental Capacitor
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=1786797708&perks=663495154,3142289711,2387244414,3511092054
+dimwishlist:item=1786797708&perks=663495154,3142289711,2387244414,0
+dimwishlist:item=1786797708&perks=663495154,3142289711,0,3511092054
+dimwishlist:item=1786797708&perks=663495154,0,2387244414,3511092054
+dimwishlist:item=1786797708&perks=0,3142289711,2387244414,3511092054
+dimwishlist:item=1786797708&perks=663495154,3142289711,0,0
+dimwishlist:item=1786797708&perks=663495154,0,2387244414,0
+dimwishlist:item=1786797708&perks=663495154,0,0,3511092054
+dimwishlist:item=1786797708&perks=0,3142289711,2387244414,0
+dimwishlist:item=1786797708&perks=0,3142289711,0,3511092054
+dimwishlist:item=1786797708&perks=0,0,2387244414,3511092054
+dimwishlist:item=1786797708&perks=663495154,0,0,0
+dimwishlist:item=1786797708&perks=0,3142289711,0,0
+dimwishlist:item=1786797708&perks=0,0,2387244414,0
+dimwishlist:item=1786797708&perks=0,0,0,3511092054
+
+// Extraordinary Rendition 
+// Extended Barrel
+// Accurized Rounds
+// Surplus
+// Tap the Trigger
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1097616550&perks=1467527085,3142289711,3436462433,1890422124
+dimwishlist:item=1097616550&perks=1467527085,3142289711,3436462433,0
+dimwishlist:item=1097616550&perks=1467527085,3142289711,0,1890422124
+dimwishlist:item=1097616550&perks=1467527085,0,3436462433,1890422124
+dimwishlist:item=1097616550&perks=0,3142289711,3436462433,1890422124
+dimwishlist:item=1097616550&perks=1467527085,3142289711,0,0
+dimwishlist:item=1097616550&perks=1467527085,0,3436462433,0
+dimwishlist:item=1097616550&perks=1467527085,0,0,1890422124
+dimwishlist:item=1097616550&perks=0,3142289711,3436462433,0
+dimwishlist:item=1097616550&perks=0,3142289711,0,1890422124
+dimwishlist:item=1097616550&perks=0,0,3436462433,1890422124
+dimwishlist:item=1097616550&perks=1467527085,0,0,0
+dimwishlist:item=1097616550&perks=0,3142289711,0,0
+dimwishlist:item=1097616550&perks=0,0,3436462433,0
+dimwishlist:item=1097616550&perks=0,0,0,1890422124
+
+// Forensic Nightmare 
+// Extended Barrel
+// High-Caliber Rounds
+// Enhanced Perpetual Motion
+// Enhanced Kill Clip
+// Origin Trait: Alacrity
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1526296434&perks=1467527085,1561002382,2014892510,2923251173
+dimwishlist:item=1526296434&perks=1467527085,1561002382,2014892510,0
+dimwishlist:item=1526296434&perks=1467527085,1561002382,0,2923251173
+dimwishlist:item=1526296434&perks=1467527085,0,2014892510,2923251173
+dimwishlist:item=1526296434&perks=0,1561002382,2014892510,2923251173
+dimwishlist:item=1526296434&perks=1467527085,1561002382,0,0
+dimwishlist:item=1526296434&perks=1467527085,0,2014892510,0
+dimwishlist:item=1526296434&perks=1467527085,0,0,2923251173
+dimwishlist:item=1526296434&perks=0,1561002382,2014892510,0
+dimwishlist:item=1526296434&perks=0,1561002382,0,2923251173
+dimwishlist:item=1526296434&perks=0,0,2014892510,2923251173
+dimwishlist:item=1526296434&perks=1467527085,0,0,0
+dimwishlist:item=1526296434&perks=0,1561002382,0,0
+dimwishlist:item=1526296434&perks=0,0,2014892510,0
+dimwishlist:item=1526296434&perks=0,0,0,2923251173
