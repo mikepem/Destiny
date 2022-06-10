@@ -6207,7 +6207,28 @@ dimwishlist:item=548958835&perks=0,0,0,4104185692
 
 
 
-
+// Adored 
+// Hammer-Forged Rifling
+// Accurized Rounds
+// Killing Wind
+// Snapshot Sights
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,0
+dimwishlist:item=4184808992&perks=3250034553,3142289711,0,957782887
+dimwishlist:item=4184808992&perks=3250034553,0,2450788523,957782887
+dimwishlist:item=4184808992&perks=0,3142289711,2450788523,957782887
+dimwishlist:item=4184808992&perks=3250034553,3142289711,0,0
+dimwishlist:item=4184808992&perks=3250034553,0,2450788523,0
+dimwishlist:item=4184808992&perks=3250034553,0,0,957782887
+dimwishlist:item=4184808992&perks=0,3142289711,2450788523,0
+dimwishlist:item=4184808992&perks=0,3142289711,0,957782887
+dimwishlist:item=4184808992&perks=0,0,2450788523,957782887
+dimwishlist:item=4184808992&perks=3250034553,0,0,0
+dimwishlist:item=4184808992&perks=0,3142289711,0,0
+dimwishlist:item=4184808992&perks=0,0,2450788523,0
+dimwishlist:item=4184808992&perks=0,0,0,957782887
 
 // Chain Of Command 
 // Arrowhead Brake
