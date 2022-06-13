@@ -794,8 +794,7 @@ dimwishlist:item=2742838701&perks=1926090095,1561002382,0,0
 dimwishlist:item=2742838701&perks=1926090095,0,957782887,0
 dimwishlist:item=2742838701&perks=1926090095,0,0,2846385770
 dimwishlist:item=2742838701&perks=0,1561002382,957782887,0
-dimwishlist:item=2742838701&perks=0,1561002382,0,2846385770
-dimwishlist:item=2742838701&perks=0,0,957782887,2846385770
+dimwishlist:item=2742838701&perks=0,1561002382,0,2846385770dimwishlist:item=2742838701&perks=0,0,957782887,2846385770
 dimwishlist:item=2742838701&perks=1926090095,0,0,0
 dimwishlist:item=2742838701&perks=0,1561002382,0,0
 dimwishlist:item=2742838701&perks=0,0,957782887,0
@@ -6896,28 +6895,789 @@ dimwishlist:item=3836861464&perks=0,3177308360,0,0
 dimwishlist:item=3836861464&perks=0,0,3436462433,0
 dimwishlist:item=3836861464&perks=0,0,0,1890422124
 
+// Thermal Erosion 
+// Smallbore
+// High-Caliber Rounds
+// Zen Moment
+// Tap the Trigger
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=1766088024&perks=1482024992,1561002382,2387244414,1890422124
+dimwishlist:item=1766088024&perks=1482024992,1561002382,2387244414,0
+dimwishlist:item=1766088024&perks=1482024992,1561002382,0,1890422124
+dimwishlist:item=1766088024&perks=1482024992,0,2387244414,1890422124
+dimwishlist:item=1766088024&perks=0,1561002382,2387244414,1890422124
+dimwishlist:item=1766088024&perks=1482024992,1561002382,0,0
+dimwishlist:item=1766088024&perks=1482024992,0,2387244414,0
+dimwishlist:item=1766088024&perks=1482024992,0,0,1890422124
+dimwishlist:item=1766088024&perks=0,1561002382,2387244414,0
+dimwishlist:item=1766088024&perks=0,1561002382,0,1890422124
+dimwishlist:item=1766088024&perks=0,0,2387244414,1890422124
+dimwishlist:item=1766088024&perks=1482024992,0,0,0
+dimwishlist:item=1766088024&perks=0,1561002382,0,0
+dimwishlist:item=1766088024&perks=0,0,2387244414,0
+dimwishlist:item=1766088024&perks=0,0,0,1890422124
 
+// Apex Predator 
+// Quick Launch
+// High-Velocity Rounds
+// Ambitious Assassin
+// Kill Clip
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Major Spec
+dimwishlist:item=2545083870&perks=3525010810,2822142346,2010801679,1015611457
+dimwishlist:item=2545083870&perks=3525010810,2822142346,2010801679,0
+dimwishlist:item=2545083870&perks=3525010810,2822142346,0,1015611457
+dimwishlist:item=2545083870&perks=3525010810,0,2010801679,1015611457
+dimwishlist:item=2545083870&perks=0,2822142346,2010801679,1015611457
+dimwishlist:item=2545083870&perks=3525010810,2822142346,0,0
+dimwishlist:item=2545083870&perks=3525010810,0,2010801679,0
+dimwishlist:item=2545083870&perks=3525010810,0,0,1015611457
+dimwishlist:item=2545083870&perks=0,2822142346,2010801679,0
+dimwishlist:item=2545083870&perks=0,2822142346,0,1015611457
+dimwishlist:item=2545083870&perks=0,0,2010801679,1015611457
+dimwishlist:item=2545083870&perks=3525010810,0,0,0
+dimwishlist:item=2545083870&perks=0,2822142346,0,0
+dimwishlist:item=2545083870&perks=0,0,2010801679,0
+dimwishlist:item=2545083870&perks=0,0,0,1015611457
 
+// Bad Omens 
+// Quick Launch
+// High-Velocity Rounds
+// Auto-Loading Holster
+// Genesis
+// Origin Trait: None
+//notes: Masterwork: Blast Radius, Mod: Major Spec
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,3096702027
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,0
+dimwishlist:item=991314988&perks=3525010810,2822142346,0,3096702027
+dimwishlist:item=991314988&perks=3525010810,0,3300816228,3096702027
+dimwishlist:item=991314988&perks=0,2822142346,3300816228,3096702027
+dimwishlist:item=991314988&perks=3525010810,2822142346,0,0
+dimwishlist:item=991314988&perks=3525010810,0,3300816228,0
+dimwishlist:item=991314988&perks=3525010810,0,0,3096702027
+dimwishlist:item=991314988&perks=0,2822142346,3300816228,0
+dimwishlist:item=991314988&perks=0,2822142346,0,3096702027
+dimwishlist:item=991314988&perks=0,0,3300816228,3096702027
+dimwishlist:item=991314988&perks=3525010810,0,0,0
+dimwishlist:item=991314988&perks=0,2822142346,0,0
+dimwishlist:item=991314988&perks=0,0,3300816228,0
+dimwishlist:item=991314988&perks=0,0,0,3096702027
 
+// Bump In The Night 
+// Quick Launch
+// High-Velocity Rounds
+// Enhanced Demolitionist
+// Enhanced Chain Reaction
+// Origin Trait: Extrovert
+//notes: Masterwork: Velocity, Mod: Major Spec
+dimwishlist:item=1959650777&perks=3525010810,2822142346,1906147653,598607952
+dimwishlist:item=1959650777&perks=3525010810,2822142346,1906147653,0
+dimwishlist:item=1959650777&perks=3525010810,2822142346,0,598607952
+dimwishlist:item=1959650777&perks=3525010810,0,1906147653,598607952
+dimwishlist:item=1959650777&perks=0,2822142346,1906147653,598607952
+dimwishlist:item=1959650777&perks=3525010810,2822142346,0,0
+dimwishlist:item=1959650777&perks=3525010810,0,1906147653,0
+dimwishlist:item=1959650777&perks=3525010810,0,0,598607952
+dimwishlist:item=1959650777&perks=0,2822142346,1906147653,0
+dimwishlist:item=1959650777&perks=0,2822142346,0,598607952
+dimwishlist:item=1959650777&perks=0,0,1906147653,598607952
+dimwishlist:item=1959650777&perks=3525010810,0,0,0
+dimwishlist:item=1959650777&perks=0,2822142346,0,0
+dimwishlist:item=1959650777&perks=0,0,1906147653,0
+dimwishlist:item=1959650777&perks=0,0,0,598607952
 
+// Code Duello 
+// Quick Launch
+// High-Velocity Rounds
+// Impulse Amplifier
+// Chain Reaction
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Quick Access Sling
+dimwishlist:item=2496242052&perks=3525010810,2822142346,951095735,2396489472
+dimwishlist:item=2496242052&perks=3525010810,2822142346,951095735,0
+dimwishlist:item=2496242052&perks=3525010810,2822142346,0,2396489472
+dimwishlist:item=2496242052&perks=3525010810,0,951095735,2396489472
+dimwishlist:item=2496242052&perks=0,2822142346,951095735,2396489472
+dimwishlist:item=2496242052&perks=3525010810,2822142346,0,0
+dimwishlist:item=2496242052&perks=3525010810,0,951095735,0
+dimwishlist:item=2496242052&perks=3525010810,0,0,2396489472
+dimwishlist:item=2496242052&perks=0,2822142346,951095735,0
+dimwishlist:item=2496242052&perks=0,2822142346,0,2396489472
+dimwishlist:item=2496242052&perks=0,0,951095735,2396489472
+dimwishlist:item=2496242052&perks=3525010810,0,0,0
+dimwishlist:item=2496242052&perks=0,2822142346,0,0
+dimwishlist:item=2496242052&perks=0,0,951095735,0
+dimwishlist:item=2496242052&perks=0,0,0,2396489472
 
+// Heretic 
+// Quick Launch
+// High-Velocity Rounds
+// Genesis
+// Disruption Break
+// Origin Trait: None
+//notes: Masterwork: Blast Radius, Mod: Major Spec
+dimwishlist:item=3067821200&perks=3525010810,2822142346,3096702027,1683379515
+dimwishlist:item=3067821200&perks=3525010810,2822142346,3096702027,0
+dimwishlist:item=3067821200&perks=3525010810,2822142346,0,1683379515
+dimwishlist:item=3067821200&perks=3525010810,0,3096702027,1683379515
+dimwishlist:item=3067821200&perks=0,2822142346,3096702027,1683379515
+dimwishlist:item=3067821200&perks=3525010810,2822142346,0,0
+dimwishlist:item=3067821200&perks=3525010810,0,3096702027,0
+dimwishlist:item=3067821200&perks=3525010810,0,0,1683379515
+dimwishlist:item=3067821200&perks=0,2822142346,3096702027,0
+dimwishlist:item=3067821200&perks=0,2822142346,0,1683379515
+dimwishlist:item=3067821200&perks=0,0,3096702027,1683379515
+dimwishlist:item=3067821200&perks=3525010810,0,0,0
+dimwishlist:item=3067821200&perks=0,2822142346,0,0
+dimwishlist:item=3067821200&perks=0,0,3096702027,0
+dimwishlist:item=3067821200&perks=0,0,0,1683379515
 
+// Hezen Vengeance 
+// Quick Launch
+// High-Velocity Rounds
+// Overflow
+// Demolitionist
+// Origin Trait: None
+//notes: Masterwork: Blast Radius, Mod: Major Spec
+dimwishlist:item=4050645223&perks=3525010810,2822142346,3643424744,3523296417
+dimwishlist:item=4050645223&perks=3525010810,2822142346,3643424744,0
+dimwishlist:item=4050645223&perks=3525010810,2822142346,0,3523296417
+dimwishlist:item=4050645223&perks=3525010810,0,3643424744,3523296417
+dimwishlist:item=4050645223&perks=0,2822142346,3643424744,3523296417
+dimwishlist:item=4050645223&perks=3525010810,2822142346,0,0
+dimwishlist:item=4050645223&perks=3525010810,0,3643424744,0
+dimwishlist:item=4050645223&perks=3525010810,0,0,3523296417
+dimwishlist:item=4050645223&perks=0,2822142346,3643424744,0
+dimwishlist:item=4050645223&perks=0,2822142346,0,3523296417
+dimwishlist:item=4050645223&perks=0,0,3643424744,3523296417
+dimwishlist:item=4050645223&perks=3525010810,0,0,0
+dimwishlist:item=4050645223&perks=0,2822142346,0,0
+dimwishlist:item=4050645223&perks=0,0,3643424744,0
+dimwishlist:item=4050645223&perks=0,0,0,3523296417
 
+// Hezen Vengeance Timelost 
+// Quick Launch
+// Impact Casing
+// Tracking Module
+// Vorpal Weapon
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Adept Blast Radius
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,1546637391
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,0
+dimwishlist:item=1921159786&perks=3525010810,3796465595,0,1546637391
+dimwishlist:item=1921159786&perks=3525010810,0,3977735242,1546637391
+dimwishlist:item=1921159786&perks=0,3796465595,3977735242,1546637391
+dimwishlist:item=1921159786&perks=3525010810,3796465595,0,0
+dimwishlist:item=1921159786&perks=3525010810,0,3977735242,0
+dimwishlist:item=1921159786&perks=3525010810,0,0,1546637391
+dimwishlist:item=1921159786&perks=0,3796465595,3977735242,0
+dimwishlist:item=1921159786&perks=0,3796465595,0,1546637391
+dimwishlist:item=1921159786&perks=0,0,3977735242,1546637391
+dimwishlist:item=1921159786&perks=3525010810,0,0,0
+dimwishlist:item=1921159786&perks=0,3796465595,0,0
+dimwishlist:item=1921159786&perks=0,0,3977735242,0
+dimwishlist:item=1921159786&perks=0,0,0,1546637391
 
+// Hoosegow 
+// Quick Launch
+// High-Velocity Rounds
+// Threat Detector
+// Rangefinder
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Quick Access Sling
+dimwishlist:item=3669616453&perks=3525010810,2822142346,4071163871,2846385770
+dimwishlist:item=3669616453&perks=3525010810,2822142346,4071163871,0
+dimwishlist:item=3669616453&perks=3525010810,2822142346,0,2846385770
+dimwishlist:item=3669616453&perks=3525010810,0,4071163871,2846385770
+dimwishlist:item=3669616453&perks=0,2822142346,4071163871,2846385770
+dimwishlist:item=3669616453&perks=3525010810,2822142346,0,0
+dimwishlist:item=3669616453&perks=3525010810,0,4071163871,0
+dimwishlist:item=3669616453&perks=3525010810,0,0,2846385770
+dimwishlist:item=3669616453&perks=0,2822142346,4071163871,0
+dimwishlist:item=3669616453&perks=0,2822142346,0,2846385770
+dimwishlist:item=3669616453&perks=0,0,4071163871,2846385770
+dimwishlist:item=3669616453&perks=3525010810,0,0,0
+dimwishlist:item=3669616453&perks=0,2822142346,0,0
+dimwishlist:item=3669616453&perks=0,0,4071163871,0
+dimwishlist:item=3669616453&perks=0,0,0,2846385770
 
+// Palmyra B 
+// Quick Launch
+// High-Velocity Rounds
+// Enhanced Auto-Loading Holster
+// Enhanced Explosive Light
+// Origin Trait: Hakke Breach Armaments
+//notes: Masterwork: Velocity, Mod: Boss Spec
+dimwishlist:item=3489657138&perks=3525010810,2822142346,3528046508,2275087323
+dimwishlist:item=3489657138&perks=3525010810,2822142346,3528046508,0
+dimwishlist:item=3489657138&perks=3525010810,2822142346,0,2275087323
+dimwishlist:item=3489657138&perks=3525010810,0,3528046508,2275087323
+dimwishlist:item=3489657138&perks=0,2822142346,3528046508,2275087323
+dimwishlist:item=3489657138&perks=3525010810,2822142346,0,0
+dimwishlist:item=3489657138&perks=3525010810,0,3528046508,0
+dimwishlist:item=3489657138&perks=3525010810,0,0,2275087323
+dimwishlist:item=3489657138&perks=0,2822142346,3528046508,0
+dimwishlist:item=3489657138&perks=0,2822142346,0,2275087323
+dimwishlist:item=3489657138&perks=0,0,3528046508,2275087323
+dimwishlist:item=3489657138&perks=3525010810,0,0,0
+dimwishlist:item=3489657138&perks=0,2822142346,0,0
+dimwishlist:item=3489657138&perks=0,0,3528046508,0
+dimwishlist:item=3489657138&perks=0,0,0,2275087323
 
+// Red Herring 
+// Quick Launch
+// High-Velocity Rounds
+// Enhanced Tracking Module
+// Enhanced Lasting Impression
+// Origin Trait: Pyschohack
+//notes: Masterwork: Velocity, Mod: Boss Spec
+dimwishlist:item=3175851496&perks=3525010810,2822142346,406461158,1167468626
+dimwishlist:item=3175851496&perks=3525010810,2822142346,406461158,0
+dimwishlist:item=3175851496&perks=3525010810,2822142346,0,1167468626
+dimwishlist:item=3175851496&perks=3525010810,0,406461158,1167468626
+dimwishlist:item=3175851496&perks=0,2822142346,406461158,1167468626
+dimwishlist:item=3175851496&perks=3525010810,2822142346,0,0
+dimwishlist:item=3175851496&perks=3525010810,0,406461158,0
+dimwishlist:item=3175851496&perks=3525010810,0,0,1167468626
+dimwishlist:item=3175851496&perks=0,2822142346,406461158,0
+dimwishlist:item=3175851496&perks=0,2822142346,0,1167468626
+dimwishlist:item=3175851496&perks=0,0,406461158,1167468626
+dimwishlist:item=3175851496&perks=3525010810,0,0,0
+dimwishlist:item=3175851496&perks=0,2822142346,0,0
+dimwishlist:item=3175851496&perks=0,0,406461158,0
+dimwishlist:item=3175851496&perks=0,0,0,1167468626
 
+// Royal Entry 
+// Quick Launch
+// High-Velocity Rounds
+// Auto-Loading Holster
+PERK4 NOT YET ASSIGNED
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Velocity, Mod: Major Spec
+dimwishlist:item=2448907086&perks=3525010810,2822142346,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3525010810,2822142346,3300816228,0
+dimwishlist:item=2448907086&perks=3525010810,2822142346,0,3927722942
+dimwishlist:item=2448907086&perks=3525010810,0,3300816228,3927722942
+dimwishlist:item=2448907086&perks=0,2822142346,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3525010810,2822142346,0,0
+dimwishlist:item=2448907086&perks=3525010810,0,3300816228,0
+dimwishlist:item=2448907086&perks=3525010810,0,0,3927722942
+dimwishlist:item=2448907086&perks=0,2822142346,3300816228,0
+dimwishlist:item=2448907086&perks=0,2822142346,0,3927722942
+dimwishlist:item=2448907086&perks=0,0,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3525010810,0,0,0
+dimwishlist:item=2448907086&perks=0,2822142346,0,0
+dimwishlist:item=2448907086&perks=0,0,3300816228,0
+dimwishlist:item=2448907086&perks=0,0,0,3927722942
 
+// Shining Sphere 
+// Quick Launch
+// High-Velocity Rounds
+// Rangefinder
+// Quickdraw
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Quick Access Sling
+dimwishlist:item=136525518&perks=3525010810,2822142346,2846385770,706527188
+dimwishlist:item=136525518&perks=3525010810,2822142346,2846385770,0
+dimwishlist:item=136525518&perks=3525010810,2822142346,0,706527188
+dimwishlist:item=136525518&perks=3525010810,0,2846385770,706527188
+dimwishlist:item=136525518&perks=0,2822142346,2846385770,706527188
+dimwishlist:item=136525518&perks=3525010810,2822142346,0,0
+dimwishlist:item=136525518&perks=3525010810,0,2846385770,0
+dimwishlist:item=136525518&perks=3525010810,0,0,706527188
+dimwishlist:item=136525518&perks=0,2822142346,2846385770,0
+dimwishlist:item=136525518&perks=0,2822142346,0,706527188
+dimwishlist:item=136525518&perks=0,0,2846385770,706527188
+dimwishlist:item=136525518&perks=3525010810,0,0,0
+dimwishlist:item=136525518&perks=0,2822142346,0,0
+dimwishlist:item=136525518&perks=0,0,2846385770,0
+dimwishlist:item=136525518&perks=0,0,0,706527188
 
+// Sleepless 
+// Quick Launch
+// High-Velocity Rounds
+// Quickdraw
+// Chain Reaction
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Quick Access Sling
+dimwishlist:item=3740842661&perks=3525010810,2822142346,706527188,2396489472
+dimwishlist:item=3740842661&perks=3525010810,2822142346,706527188,0
+dimwishlist:item=3740842661&perks=3525010810,2822142346,0,2396489472
+dimwishlist:item=3740842661&perks=3525010810,0,706527188,2396489472
+dimwishlist:item=3740842661&perks=0,2822142346,706527188,2396489472
+dimwishlist:item=3740842661&perks=3525010810,2822142346,0,0
+dimwishlist:item=3740842661&perks=3525010810,0,706527188,0
+dimwishlist:item=3740842661&perks=3525010810,0,0,2396489472
+dimwishlist:item=3740842661&perks=0,2822142346,706527188,0
+dimwishlist:item=3740842661&perks=0,2822142346,0,2396489472
+dimwishlist:item=3740842661&perks=0,0,706527188,2396489472
+dimwishlist:item=3740842661&perks=3525010810,0,0,0
+dimwishlist:item=3740842661&perks=0,2822142346,0,0
+dimwishlist:item=3740842661&perks=0,0,706527188,0
+dimwishlist:item=3740842661&perks=0,0,0,2396489472
 
+// Subzero Salvo 
+// Quick Launch
+// High-Velocity Rounds
+// Ambitious Assassin
+// Chain Reaction
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Major Spec
+dimwishlist:item=42351395&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=42351395&perks=3525010810,2822142346,2010801679,0
+dimwishlist:item=42351395&perks=3525010810,2822142346,0,2396489472
+dimwishlist:item=42351395&perks=3525010810,0,2010801679,2396489472
+dimwishlist:item=42351395&perks=0,2822142346,2010801679,2396489472
+dimwishlist:item=42351395&perks=3525010810,2822142346,0,0
+dimwishlist:item=42351395&perks=3525010810,0,2010801679,0
+dimwishlist:item=42351395&perks=3525010810,0,0,2396489472
+dimwishlist:item=42351395&perks=0,2822142346,2010801679,0
+dimwishlist:item=42351395&perks=0,2822142346,0,2396489472
+dimwishlist:item=42351395&perks=0,0,2010801679,2396489472
+dimwishlist:item=42351395&perks=3525010810,0,0,0
+dimwishlist:item=42351395&perks=0,2822142346,0,0
+dimwishlist:item=42351395&perks=0,0,2010801679,0
+dimwishlist:item=42351395&perks=0,0,0,2396489472
 
+// The Hothead 
+// Quick Launch
+// High-Velocity Rounds
+// Tracking Module
+// Lasting Impression
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Velocity, Mod: Major Spec
+dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,3927722942
+dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,0
+dimwishlist:item=4255171531&perks=3525010810,2822142346,0,3927722942
+dimwishlist:item=4255171531&perks=3525010810,0,3977735242,3927722942
+dimwishlist:item=4255171531&perks=0,2822142346,3977735242,3927722942
+dimwishlist:item=4255171531&perks=3525010810,2822142346,0,0
+dimwishlist:item=4255171531&perks=3525010810,0,3977735242,0
+dimwishlist:item=4255171531&perks=3525010810,0,0,3927722942
+dimwishlist:item=4255171531&perks=0,2822142346,3977735242,0
+dimwishlist:item=4255171531&perks=0,2822142346,0,3927722942
+dimwishlist:item=4255171531&perks=0,0,3977735242,3927722942
+dimwishlist:item=4255171531&perks=3525010810,0,0,0
+dimwishlist:item=4255171531&perks=0,2822142346,0,0
+dimwishlist:item=4255171531&perks=0,0,3977735242,0
+dimwishlist:item=4255171531&perks=0,0,0,3927722942
 
+// The Hothead Adept 
+// Quick Launch
+// High-Velocity Rounds
+// Tracking Module
+// Explosive Light
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Velocity, Mod: Adept Projectile Speed
+dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027
+dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,0
+dimwishlist:item=1866778462&perks=3525010810,2822142346,0,3194351027
+dimwishlist:item=1866778462&perks=3525010810,0,3977735242,3194351027
+dimwishlist:item=1866778462&perks=0,2822142346,3977735242,3194351027
+dimwishlist:item=1866778462&perks=3525010810,2822142346,0,0
+dimwishlist:item=1866778462&perks=3525010810,0,3977735242,0
+dimwishlist:item=1866778462&perks=3525010810,0,0,3194351027
+dimwishlist:item=1866778462&perks=0,2822142346,3977735242,0
+dimwishlist:item=1866778462&perks=0,2822142346,0,3194351027
+dimwishlist:item=1866778462&perks=0,0,3977735242,3194351027
+dimwishlist:item=1866778462&perks=3525010810,0,0,0
+dimwishlist:item=1866778462&perks=0,2822142346,0,0
+dimwishlist:item=1866778462&perks=0,0,3977735242,0
+dimwishlist:item=1866778462&perks=0,0,0,3194351027
 
+// Tomorrows Answer 
+// Quick Launch
+// High-Velocity Rounds
+// Tracking Module
+// Lasting Impression
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Major Spec
+dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,3927722942
+dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,0
+dimwishlist:item=958384347&perks=3525010810,2822142346,0,3927722942
+dimwishlist:item=958384347&perks=3525010810,0,3977735242,3927722942
+dimwishlist:item=958384347&perks=0,2822142346,3977735242,3927722942
+dimwishlist:item=958384347&perks=3525010810,2822142346,0,0
+dimwishlist:item=958384347&perks=3525010810,0,3977735242,0
+dimwishlist:item=958384347&perks=3525010810,0,0,3927722942
+dimwishlist:item=958384347&perks=0,2822142346,3977735242,0
+dimwishlist:item=958384347&perks=0,2822142346,0,3927722942
+dimwishlist:item=958384347&perks=0,0,3977735242,3927722942
+dimwishlist:item=958384347&perks=3525010810,0,0,0
+dimwishlist:item=958384347&perks=0,2822142346,0,0
+dimwishlist:item=958384347&perks=0,0,3977735242,0
+dimwishlist:item=958384347&perks=0,0,0,3927722942
 
+// Tomorrows Answer Adept 
+// Quick Launch
+// High-Velocity Rounds
+// Impulse Amplifier
+// Chain Reaction
+// Origin Trait: None
+//notes: Masterwork: Velocity, Mod: Adept Projectile Speed
+dimwishlist:item=1366917989&perks=3525010810,2822142346,951095735,2396489472
+dimwishlist:item=1366917989&perks=3525010810,2822142346,951095735,0
+dimwishlist:item=1366917989&perks=3525010810,2822142346,0,2396489472
+dimwishlist:item=1366917989&perks=3525010810,0,951095735,2396489472
+dimwishlist:item=1366917989&perks=0,2822142346,951095735,2396489472
+dimwishlist:item=1366917989&perks=3525010810,2822142346,0,0
+dimwishlist:item=1366917989&perks=3525010810,0,951095735,0
+dimwishlist:item=1366917989&perks=3525010810,0,0,2396489472
+dimwishlist:item=1366917989&perks=0,2822142346,951095735,0
+dimwishlist:item=1366917989&perks=0,2822142346,0,2396489472
+dimwishlist:item=1366917989&perks=0,0,951095735,2396489472
+dimwishlist:item=1366917989&perks=3525010810,0,0,0
+dimwishlist:item=1366917989&perks=0,2822142346,0,0
+dimwishlist:item=1366917989&perks=0,0,951095735,0
+dimwishlist:item=1366917989&perks=0,0,0,2396489472
 
+// Abide The Return 
+// Jagged Edge
+// Swordmaster's Guard
+// Tireless Blade
+// Thresh
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=1644160541&perks=3666208348,269888150,2590710093,2726471870
+dimwishlist:item=1644160541&perks=3666208348,269888150,2590710093,0
+dimwishlist:item=1644160541&perks=3666208348,269888150,0,2726471870
+dimwishlist:item=1644160541&perks=3666208348,0,2590710093,2726471870
+dimwishlist:item=1644160541&perks=0,269888150,2590710093,2726471870
+dimwishlist:item=1644160541&perks=3666208348,269888150,0,0
+dimwishlist:item=1644160541&perks=3666208348,0,2590710093,0
+dimwishlist:item=1644160541&perks=3666208348,0,0,2726471870
+dimwishlist:item=1644160541&perks=0,269888150,2590710093,0
+dimwishlist:item=1644160541&perks=0,269888150,0,2726471870
+dimwishlist:item=1644160541&perks=0,0,2590710093,2726471870
+dimwishlist:item=1644160541&perks=3666208348,0,0,0
+dimwishlist:item=1644160541&perks=0,269888150,0,0
+dimwishlist:item=1644160541&perks=0,0,2590710093,0
+dimwishlist:item=1644160541&perks=0,0,0,2726471870
 
+// Bequest 
+// Jagged Edge
+// Swordmaster's Guard
+// Thresh
+// Surrounded
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=3366545721&perks=3666208348,269888150,2726471870,3708227201
+dimwishlist:item=3366545721&perks=3666208348,269888150,2726471870,0
+dimwishlist:item=3366545721&perks=3666208348,269888150,0,3708227201
+dimwishlist:item=3366545721&perks=3666208348,0,2726471870,3708227201
+dimwishlist:item=3366545721&perks=0,269888150,2726471870,3708227201
+dimwishlist:item=3366545721&perks=3666208348,269888150,0,0
+dimwishlist:item=3366545721&perks=3666208348,0,2726471870,0
+dimwishlist:item=3366545721&perks=3666208348,0,0,3708227201
+dimwishlist:item=3366545721&perks=0,269888150,2726471870,0
+dimwishlist:item=3366545721&perks=0,269888150,0,3708227201
+dimwishlist:item=3366545721&perks=0,0,2726471870,3708227201
+dimwishlist:item=3366545721&perks=3666208348,0,0,0
+dimwishlist:item=3366545721&perks=0,269888150,0,0
+dimwishlist:item=3366545721&perks=0,0,2726471870,0
+dimwishlist:item=3366545721&perks=0,0,0,3708227201
 
+// Falling Guillotine 
+// Jagged Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Whirlwind Blade
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Boss Spec
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,0
+dimwishlist:item=614426548&perks=3666208348,269888150,0,3913600130
+dimwishlist:item=614426548&perks=3666208348,0,1749209109,3913600130
+dimwishlist:item=614426548&perks=0,269888150,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,0,0
+dimwishlist:item=614426548&perks=3666208348,0,1749209109,0
+dimwishlist:item=614426548&perks=3666208348,0,0,3913600130
+dimwishlist:item=614426548&perks=0,269888150,1749209109,0
+dimwishlist:item=614426548&perks=0,269888150,0,3913600130
+dimwishlist:item=614426548&perks=0,0,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,0,0,0
+dimwishlist:item=614426548&perks=0,269888150,0,0
+dimwishlist:item=614426548&perks=0,0,1749209109,0
+dimwishlist:item=614426548&perks=0,0,0,3913600130
 
+// Half Truths 
+// Jagged Edge
+// Swordmaster's Guard
+// Thresh
+// Assasin's Blade
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=3257091166&perks=3666208348,269888150,2726471870,354401740
+dimwishlist:item=3257091166&perks=3666208348,269888150,2726471870,0
+dimwishlist:item=3257091166&perks=3666208348,269888150,0,354401740
+dimwishlist:item=3257091166&perks=3666208348,0,2726471870,354401740
+dimwishlist:item=3257091166&perks=0,269888150,2726471870,354401740
+dimwishlist:item=3257091166&perks=3666208348,269888150,0,0
+dimwishlist:item=3257091166&perks=3666208348,0,2726471870,0
+dimwishlist:item=3257091166&perks=3666208348,0,0,354401740
+dimwishlist:item=3257091166&perks=0,269888150,2726471870,0
+dimwishlist:item=3257091166&perks=0,269888150,0,354401740
+dimwishlist:item=3257091166&perks=0,0,2726471870,354401740
+dimwishlist:item=3257091166&perks=3666208348,0,0,0
+dimwishlist:item=3257091166&perks=0,269888150,0,0
+dimwishlist:item=3257091166&perks=0,0,2726471870,0
+dimwishlist:item=3257091166&perks=0,0,0,354401740
+
+// Hero Of Ages 
+// Jagged Edge
+// Swordmaster's Guard
+// Demolitionist
+// Chain Reaction
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Major Spec
+dimwishlist:item=2139640995&perks=3666208348,269888150,3523296417,2396489472
+dimwishlist:item=2139640995&perks=3666208348,269888150,3523296417,0
+dimwishlist:item=2139640995&perks=3666208348,269888150,0,2396489472
+dimwishlist:item=2139640995&perks=3666208348,0,3523296417,2396489472
+dimwishlist:item=2139640995&perks=0,269888150,3523296417,2396489472
+dimwishlist:item=2139640995&perks=3666208348,269888150,0,0
+dimwishlist:item=2139640995&perks=3666208348,0,3523296417,0
+dimwishlist:item=2139640995&perks=3666208348,0,0,2396489472
+dimwishlist:item=2139640995&perks=0,269888150,3523296417,0
+dimwishlist:item=2139640995&perks=0,269888150,0,2396489472
+dimwishlist:item=2139640995&perks=0,0,3523296417,2396489472
+dimwishlist:item=2139640995&perks=3666208348,0,0,0
+dimwishlist:item=2139640995&perks=0,269888150,0,0
+dimwishlist:item=2139640995&perks=0,0,3523296417,0
+dimwishlist:item=2139640995&perks=0,0,0,2396489472
+
+// Honors Edge 
+// Jagged Edge
+// Swordmaster's Guard
+// Energy Transfer
+// Counterattack
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Boss Spec
+dimwishlist:item=2857348871&perks=3666208348,269888150,2030760728,3016987351
+dimwishlist:item=2857348871&perks=3666208348,269888150,2030760728,0
+dimwishlist:item=2857348871&perks=3666208348,269888150,0,3016987351
+dimwishlist:item=2857348871&perks=3666208348,0,2030760728,3016987351
+dimwishlist:item=2857348871&perks=0,269888150,2030760728,3016987351
+dimwishlist:item=2857348871&perks=3666208348,269888150,0,0
+dimwishlist:item=2857348871&perks=3666208348,0,2030760728,0
+dimwishlist:item=2857348871&perks=3666208348,0,0,3016987351
+dimwishlist:item=2857348871&perks=0,269888150,2030760728,0
+dimwishlist:item=2857348871&perks=0,269888150,0,3016987351
+dimwishlist:item=2857348871&perks=0,0,2030760728,3016987351
+dimwishlist:item=2857348871&perks=3666208348,0,0,0
+dimwishlist:item=2857348871&perks=0,269888150,0,0
+dimwishlist:item=2857348871&perks=0,0,2030760728,0
+dimwishlist:item=2857348871&perks=0,0,0,3016987351
+
+// Negative Space 
+// Jagged Edge
+// Swordmaster's Guard
+// Tireless Blade
+// Surrounded
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=3629968765&perks=3666208348,269888150,2590710093,3708227201
+dimwishlist:item=3629968765&perks=3666208348,269888150,2590710093,0
+dimwishlist:item=3629968765&perks=3666208348,269888150,0,3708227201
+dimwishlist:item=3629968765&perks=3666208348,0,2590710093,3708227201
+dimwishlist:item=3629968765&perks=0,269888150,2590710093,3708227201
+dimwishlist:item=3629968765&perks=3666208348,269888150,0,0
+dimwishlist:item=3629968765&perks=3666208348,0,2590710093,0
+dimwishlist:item=3629968765&perks=3666208348,0,0,3708227201
+dimwishlist:item=3629968765&perks=0,269888150,2590710093,0
+dimwishlist:item=3629968765&perks=0,269888150,0,3708227201
+dimwishlist:item=3629968765&perks=0,0,2590710093,3708227201
+dimwishlist:item=3629968765&perks=3666208348,0,0,0
+dimwishlist:item=3629968765&perks=0,269888150,0,0
+dimwishlist:item=3629968765&perks=0,0,2590710093,0
+dimwishlist:item=3629968765&perks=0,0,0,3708227201
+
+// Night Terror 
+// Jagged Edge
+// Swordmaster's Guard
+// Tireless Blade
+// Unrelenting
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=3870811754&perks=3666208348,269888150,2590710093,3108830275
+dimwishlist:item=3870811754&perks=3666208348,269888150,2590710093,0
+dimwishlist:item=3870811754&perks=3666208348,269888150,0,3108830275
+dimwishlist:item=3870811754&perks=3666208348,0,2590710093,3108830275
+dimwishlist:item=3870811754&perks=0,269888150,2590710093,3108830275
+dimwishlist:item=3870811754&perks=3666208348,269888150,0,0
+dimwishlist:item=3870811754&perks=3666208348,0,2590710093,0
+dimwishlist:item=3870811754&perks=3666208348,0,0,3108830275
+dimwishlist:item=3870811754&perks=0,269888150,2590710093,0
+dimwishlist:item=3870811754&perks=0,269888150,0,3108830275
+dimwishlist:item=3870811754&perks=0,0,2590710093,3108830275
+dimwishlist:item=3870811754&perks=3666208348,0,0,0
+dimwishlist:item=3870811754&perks=0,269888150,0,0
+dimwishlist:item=3870811754&perks=0,0,2590710093,0
+dimwishlist:item=3870811754&perks=0,0,0,3108830275
+
+// Razors Edge 
+// Jagged Edge
+// Swordmaster's Guard
+// Unrelenting
+// Chain Reaction
+// Origin Trait: Skulking Wolf
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=1796949035&perks=3666208348,269888150,3108830275,2396489472
+dimwishlist:item=1796949035&perks=3666208348,269888150,3108830275,0
+dimwishlist:item=1796949035&perks=3666208348,269888150,0,2396489472
+dimwishlist:item=1796949035&perks=3666208348,0,3108830275,2396489472
+dimwishlist:item=1796949035&perks=0,269888150,3108830275,2396489472
+dimwishlist:item=1796949035&perks=3666208348,269888150,0,0
+dimwishlist:item=1796949035&perks=3666208348,0,3108830275,0
+dimwishlist:item=1796949035&perks=3666208348,0,0,2396489472
+dimwishlist:item=1796949035&perks=0,269888150,3108830275,0
+dimwishlist:item=1796949035&perks=0,269888150,0,2396489472
+dimwishlist:item=1796949035&perks=0,0,3108830275,2396489472
+dimwishlist:item=1796949035&perks=3666208348,0,0,0
+dimwishlist:item=1796949035&perks=0,269888150,0,0
+dimwishlist:item=1796949035&perks=0,0,3108830275,0
+dimwishlist:item=1796949035&perks=0,0,0,2396489472
+
+// Solas Scar 
+// Jagged Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Frenzy
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Boss Spec
+dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,4104185692
+dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,0
+dimwishlist:item=1313528549&perks=3666208348,269888150,0,4104185692
+dimwishlist:item=1313528549&perks=3666208348,0,1749209109,4104185692
+dimwishlist:item=1313528549&perks=0,269888150,1749209109,4104185692
+dimwishlist:item=1313528549&perks=3666208348,269888150,0,0
+dimwishlist:item=1313528549&perks=3666208348,0,1749209109,0
+dimwishlist:item=1313528549&perks=3666208348,0,0,4104185692
+dimwishlist:item=1313528549&perks=0,269888150,1749209109,0
+dimwishlist:item=1313528549&perks=0,269888150,0,4104185692
+dimwishlist:item=1313528549&perks=0,0,1749209109,4104185692
+dimwishlist:item=1313528549&perks=3666208348,0,0,0
+dimwishlist:item=1313528549&perks=0,269888150,0,0
+dimwishlist:item=1313528549&perks=0,0,1749209109,0
+dimwishlist:item=1313528549&perks=0,0,0,4104185692
+
+// Solas Scar Adept 
+// Jagged Edge
+// Swordmaster's Guard
+// Tireless Blade
+// Chain Reaction
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,0
+dimwishlist:item=3847137620&perks=3666208348,269888150,0,2396489472
+dimwishlist:item=3847137620&perks=3666208348,0,2590710093,2396489472
+dimwishlist:item=3847137620&perks=0,269888150,2590710093,2396489472
+dimwishlist:item=3847137620&perks=3666208348,269888150,0,0
+dimwishlist:item=3847137620&perks=3666208348,0,2590710093,0
+dimwishlist:item=3847137620&perks=3666208348,0,0,2396489472
+dimwishlist:item=3847137620&perks=0,269888150,2590710093,0
+dimwishlist:item=3847137620&perks=0,269888150,0,2396489472
+dimwishlist:item=3847137620&perks=0,0,2590710093,2396489472
+dimwishlist:item=3847137620&perks=3666208348,0,0,0
+dimwishlist:item=3847137620&perks=0,269888150,0,0
+dimwishlist:item=3847137620&perks=0,0,2590710093,0
+dimwishlist:item=3847137620&perks=0,0,0,2396489472
+
+// Steel Sybil Z 14 
+// Jagged Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Whirlwind Blade
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Boss Spec
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,0
+dimwishlist:item=4230993599&perks=3666208348,269888150,0,3913600130
+dimwishlist:item=4230993599&perks=3666208348,0,1749209109,3913600130
+dimwishlist:item=4230993599&perks=0,269888150,1749209109,3913600130
+dimwishlist:item=4230993599&perks=3666208348,269888150,0,0
+dimwishlist:item=4230993599&perks=3666208348,0,1749209109,0
+dimwishlist:item=4230993599&perks=3666208348,0,0,3913600130
+dimwishlist:item=4230993599&perks=0,269888150,1749209109,0
+dimwishlist:item=4230993599&perks=0,269888150,0,3913600130
+dimwishlist:item=4230993599&perks=0,0,1749209109,3913600130
+dimwishlist:item=4230993599&perks=3666208348,0,0,0
+dimwishlist:item=4230993599&perks=0,269888150,0,0
+dimwishlist:item=4230993599&perks=0,0,1749209109,0
+dimwishlist:item=4230993599&perks=0,0,0,3913600130
+
+// Temptations Hook 
+// Jagged Edge
+// Swordmaster's Guard
+// Tireless Blade
+// Vorpal Weapon
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,0
+dimwishlist:item=35794111&perks=3666208348,269888150,0,1546637391
+dimwishlist:item=35794111&perks=3666208348,0,2590710093,1546637391
+dimwishlist:item=35794111&perks=0,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,0,0
+dimwishlist:item=35794111&perks=3666208348,0,2590710093,0
+dimwishlist:item=35794111&perks=3666208348,0,0,1546637391
+dimwishlist:item=35794111&perks=0,269888150,2590710093,0
+dimwishlist:item=35794111&perks=0,269888150,0,1546637391
+dimwishlist:item=35794111&perks=0,0,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,0,0,0
+dimwishlist:item=35794111&perks=0,269888150,0,0
+dimwishlist:item=35794111&perks=0,0,2590710093,0
+dimwishlist:item=35794111&perks=0,0,0,1546637391
+
+// The Other Half 
+// Jagged Edge
+// Swordmaster's Guard
+// Eager Edge
+// Vorpal Weapon
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,1546637391
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,0
+dimwishlist:item=3257091167&perks=3666208348,269888150,0,1546637391
+dimwishlist:item=3257091167&perks=3666208348,0,2077819806,1546637391
+dimwishlist:item=3257091167&perks=0,269888150,2077819806,1546637391
+dimwishlist:item=3257091167&perks=3666208348,269888150,0,0
+dimwishlist:item=3257091167&perks=3666208348,0,2077819806,0
+dimwishlist:item=3257091167&perks=3666208348,0,0,1546637391
+dimwishlist:item=3257091167&perks=0,269888150,2077819806,0
+dimwishlist:item=3257091167&perks=0,269888150,0,1546637391
+dimwishlist:item=3257091167&perks=0,0,2077819806,1546637391
+dimwishlist:item=3257091167&perks=3666208348,0,0,0
+dimwishlist:item=3257091167&perks=0,269888150,0,0
+dimwishlist:item=3257091167&perks=0,0,2077819806,0
+dimwishlist:item=3257091167&perks=0,0,0,1546637391
+
+// Zephyr 
+// Jagged Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Cold Steel
+// Origin Trait: None
+//notes: Masterwork: Impact, Mod: Major Spec
+dimwishlist:item=3400256755&perks=3666208348,269888150,1749209109,3650930298
+dimwishlist:item=3400256755&perks=3666208348,269888150,1749209109,0
+dimwishlist:item=3400256755&perks=3666208348,269888150,0,3650930298
+dimwishlist:item=3400256755&perks=3666208348,0,1749209109,3650930298
+dimwishlist:item=3400256755&perks=0,269888150,1749209109,3650930298
+dimwishlist:item=3400256755&perks=3666208348,269888150,0,0
+dimwishlist:item=3400256755&perks=3666208348,0,1749209109,0
+dimwishlist:item=3400256755&perks=3666208348,0,0,3650930298
+dimwishlist:item=3400256755&perks=0,269888150,1749209109,0
+dimwishlist:item=3400256755&perks=0,269888150,0,3650930298
+dimwishlist:item=3400256755&perks=0,0,1749209109,3650930298
+dimwishlist:item=3400256755&perks=3666208348,0,0,0
+dimwishlist:item=3400256755&perks=0,269888150,0,0
+dimwishlist:item=3400256755&perks=0,0,1749209109,0
+dimwishlist:item=3400256755&perks=0,0,0,3650930298
+
+================================================================================================================================
 
 // Adored 
 // Hammer-Forged Rifling
