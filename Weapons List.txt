@@ -4624,7 +4624,7 @@ dimwishlist:item=3242168339&perks=0,0,0,699525795
 // Slideshot
 // Elemental Capacitor
 // Origin Trait: None
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes: Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=2855157553&perks=1047830412,791862061,3161816588,3511092054
 dimwishlist:item=2855157553&perks=1047830412,791862061,3161816588,0
 dimwishlist:item=2855157553&perks=1047830412,791862061,0,3511092054
