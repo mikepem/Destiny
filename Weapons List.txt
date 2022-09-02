@@ -1795,7 +1795,7 @@ dimwishlist:item=1679868061&perks=0,0,0,47981717
 // Enhanced Encore
 // Enhanced Adagio
 // Origin Trait: Pyscohack
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=2607304614&perks=1482024992,1561002382,838873202,2889515627
 dimwishlist:item=2607304614&perks=1482024992,1561002382,838873202,0
 dimwishlist:item=2607304614&perks=1482024992,1561002382,0,2889515627
@@ -5215,6 +5215,29 @@ dimwishlist:item=2345794502&perks=1467527085,0,0,0
 dimwishlist:item=2345794502&perks=0,1561002382,0,0
 dimwishlist:item=2345794502&perks=0,0,2450788523,0
 dimwishlist:item=2345794502&perks=0,0,0,2451262963
+
+// Forgiveness Adept 
+// Chambered Compensator
+// High-Caliber Rounds
+// Moving Target
+// Adrenaline Junkie
+// Origin Trait: Alacrity
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=2405619467&perks=3661387068,1561002382,588594999,11612903
+dimwishlist:item=2405619467&perks=3661387068,1561002382,588594999,0
+dimwishlist:item=2405619467&perks=3661387068,1561002382,0,11612903
+dimwishlist:item=2405619467&perks=3661387068,0,588594999,11612903
+dimwishlist:item=2405619467&perks=0,1561002382,588594999,11612903
+dimwishlist:item=2405619467&perks=3661387068,1561002382,0,0
+dimwishlist:item=2405619467&perks=3661387068,0,588594999,0
+dimwishlist:item=2405619467&perks=3661387068,0,0,11612903
+dimwishlist:item=2405619467&perks=0,1561002382,588594999,0
+dimwishlist:item=2405619467&perks=0,1561002382,0,11612903
+dimwishlist:item=2405619467&perks=0,0,588594999,11612903
+dimwishlist:item=2405619467&perks=3661387068,0,0,0
+dimwishlist:item=2405619467&perks=0,1561002382,0,0
+dimwishlist:item=2405619467&perks=0,0,588594999,0
+dimwishlist:item=2405619467&perks=0,0,0,11612903
 
 // Forgiveness Adept 
 // Extended Barrel
