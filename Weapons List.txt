@@ -117,7 +117,7 @@ dimwishlist:item=435216110&perks=0,0,0,3425386926
 // Zen Moment
 // Rampage
 // Origin Trait: Vanguard's Vindication
-//notes: Masterwork: Stability, MOD NOT YET ASSIGNMED
+//notes: Masterwork: Stability, Mod: Adept Counterbalance Stock
 dimwishlist:item=1135050595&perks=1482024992,3142289711,2387244414,3425386926
 dimwishlist:item=1135050595&perks=1482024992,3142289711,2387244414,0
 dimwishlist:item=1135050595&perks=1482024992,3142289711,0,3425386926
@@ -528,6 +528,29 @@ dimwishlist:item=933455006&perks=0,0,0,2652708987
 // Burden Of Guilt Adept 
 // Smallbore
 // Particle Repeater
+// Perpetual Motion
+// High-Impact Reserves
+// Origin Trait: Alacrity
+//notes: Masterwork: Stability, Mod: Adept Range
+dimwishlist:item=2002522739&perks=1482024992,3868766766,1428297954,2213355989
+dimwishlist:item=2002522739&perks=1482024992,3868766766,1428297954,0
+dimwishlist:item=2002522739&perks=1482024992,3868766766,0,2213355989
+dimwishlist:item=2002522739&perks=1482024992,0,1428297954,2213355989
+dimwishlist:item=2002522739&perks=0,3868766766,1428297954,2213355989
+dimwishlist:item=2002522739&perks=1482024992,3868766766,0,0
+dimwishlist:item=2002522739&perks=1482024992,0,1428297954,0
+dimwishlist:item=2002522739&perks=1482024992,0,0,2213355989
+dimwishlist:item=2002522739&perks=0,3868766766,1428297954,0
+dimwishlist:item=2002522739&perks=0,3868766766,0,2213355989
+dimwishlist:item=2002522739&perks=0,0,1428297954,2213355989
+dimwishlist:item=2002522739&perks=1482024992,0,0,0
+dimwishlist:item=2002522739&perks=0,3868766766,0,0
+dimwishlist:item=2002522739&perks=0,0,1428297954,0
+dimwishlist:item=2002522739&perks=0,0,0,2213355989
+
+// Burden Of Guilt Adept 
+// Smallbore
+// Particle Repeater
 // Killing Wind
 // Successful Warm-Up
 // Origin Trait: Alacrity
@@ -754,6 +777,29 @@ dimwishlist:item=575830664&perks=1482024992,0,0,0
 dimwishlist:item=575830664&perks=0,3142289711,0,0
 dimwishlist:item=575830664&perks=0,0,2451262963,0
 dimwishlist:item=575830664&perks=0,0,0,47981717
+
+// D.F.A Adept
+// Chambered Compensator
+// Tactical Mag
+// Perpetual Motion
+// Timed Payload
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Range, Mod: Adept Stability
+dimwishlist:item=2006308129&perks=3661387068,106909392,1428297954,1954620775
+dimwishlist:item=2006308129&perks=3661387068,106909392,1428297954,0
+dimwishlist:item=2006308129&perks=3661387068,106909392,0,1954620775
+dimwishlist:item=2006308129&perks=3661387068,0,1428297954,1954620775
+dimwishlist:item=2006308129&perks=0,106909392,1428297954,1954620775
+dimwishlist:item=2006308129&perks=3661387068,106909392,0,0
+dimwishlist:item=2006308129&perks=3661387068,0,1428297954,0
+dimwishlist:item=2006308129&perks=3661387068,0,0,1954620775
+dimwishlist:item=2006308129&perks=0,106909392,1428297954,0
+dimwishlist:item=2006308129&perks=0,106909392,0,1954620775
+dimwishlist:item=2006308129&perks=0,0,1428297954,1954620775
+dimwishlist:item=2006308129&perks=3661387068,0,0,0
+dimwishlist:item=2006308129&perks=0,106909392,0,0
+dimwishlist:item=2006308129&perks=0,0,1428297954,0
+dimwishlist:item=2006308129&perks=0,0,0,1954620775
 
 // D.F.A Adept
 // Chambered Compensator
@@ -4114,25 +4160,25 @@ dimwishlist:item=216983039&perks=0,0,0,1546637391
 
 // Horrors Least Adept 
 // Smallbore
-// Accurized Rounds
-// Zen Moment
+// Steady Rounds
+// Heating Up
 // Kill Clip
 // Origin Trait: Vanguard's Vindication
-//notes: Masterwork: Stability, Mod: Adept Stability
-dimwishlist:item=1924276978&perks=1482024992,3142289711,2387244414,1015611457
-dimwishlist:item=1924276978&perks=1482024992,3142289711,2387244414,0
-dimwishlist:item=1924276978&perks=1482024992,3142289711,0,1015611457
-dimwishlist:item=1924276978&perks=1482024992,0,2387244414,1015611457
-dimwishlist:item=1924276978&perks=0,3142289711,2387244414,1015611457
-dimwishlist:item=1924276978&perks=1482024992,3142289711,0,0
-dimwishlist:item=1924276978&perks=1482024992,0,2387244414,0
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=1924276978&perks=1482024992,3177308360,1570042021,1015611457
+dimwishlist:item=1924276978&perks=1482024992,3177308360,1570042021,0
+dimwishlist:item=1924276978&perks=1482024992,3177308360,0,1015611457
+dimwishlist:item=1924276978&perks=1482024992,0,1570042021,1015611457
+dimwishlist:item=1924276978&perks=0,3177308360,1570042021,1015611457
+dimwishlist:item=1924276978&perks=1482024992,3177308360,0,0
+dimwishlist:item=1924276978&perks=1482024992,0,1570042021,0
 dimwishlist:item=1924276978&perks=1482024992,0,0,1015611457
-dimwishlist:item=1924276978&perks=0,3142289711,2387244414,0
-dimwishlist:item=1924276978&perks=0,3142289711,0,1015611457
-dimwishlist:item=1924276978&perks=0,0,2387244414,1015611457
+dimwishlist:item=1924276978&perks=0,3177308360,1570042021,0
+dimwishlist:item=1924276978&perks=0,3177308360,0,1015611457
+dimwishlist:item=1924276978&perks=0,0,1570042021,1015611457
 dimwishlist:item=1924276978&perks=1482024992,0,0,0
-dimwishlist:item=1924276978&perks=0,3142289711,0,0
-dimwishlist:item=1924276978&perks=0,0,2387244414,0
+dimwishlist:item=1924276978&perks=0,3177308360,0,0
+dimwishlist:item=1924276978&perks=0,0,1570042021,0
 dimwishlist:item=1924276978&perks=0,0,0,1015611457
 
 // Insidious 
@@ -8576,6 +8622,29 @@ dimwishlist:item=1094005544&perks=0,0,2039302152,0
 dimwishlist:item=1094005544&perks=0,0,0,4293542123
 
 // Mindbenders Ambition Adept 
+// Barrel Shroud
+// Accurized Rounds
+// Threat Detector
+// Steady Hands
+// Origin Trait: Vanguard's Vindication
+//notes: Masterwork: Handling, Mod: Adept Handling
+dimwishlist:item=912150785&perks=1300023272,3142289711,4071163871,509074078
+dimwishlist:item=912150785&perks=1300023272,3142289711,4071163871,0
+dimwishlist:item=912150785&perks=1300023272,3142289711,0,509074078
+dimwishlist:item=912150785&perks=1300023272,0,4071163871,509074078
+dimwishlist:item=912150785&perks=0,3142289711,4071163871,509074078
+dimwishlist:item=912150785&perks=1300023272,3142289711,0,0
+dimwishlist:item=912150785&perks=1300023272,0,4071163871,0
+dimwishlist:item=912150785&perks=1300023272,0,0,509074078
+dimwishlist:item=912150785&perks=0,3142289711,4071163871,0
+dimwishlist:item=912150785&perks=0,3142289711,0,509074078
+dimwishlist:item=912150785&perks=0,0,4071163871,509074078
+dimwishlist:item=912150785&perks=1300023272,0,0,0
+dimwishlist:item=912150785&perks=0,3142289711,0,0
+dimwishlist:item=912150785&perks=0,0,4071163871,0
+dimwishlist:item=912150785&perks=0,0,0,509074078
+
+// Mindbenders Ambition Adept 
 // Full Choke
 // Assault Mag
 // Threat Detector
@@ -8627,7 +8696,7 @@ dimwishlist:item=2185327324&perks=0,0,0,47981717
 // Steady Hands
 // Opening Shot
 // Origin Trait: Alacrity
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes: Masterwork: Stability, Mod: Adept Targeting Adjuster
 dimwishlist:item=2307365&perks=1392496348,791862061,509074078,47981717
 dimwishlist:item=2307365&perks=1392496348,791862061,509074078,0
 dimwishlist:item=2307365&perks=1392496348,791862061,0,47981717
@@ -8642,6 +8711,29 @@ dimwishlist:item=2307365&perks=0,0,509074078,47981717
 dimwishlist:item=2307365&perks=1392496348,0,0,0
 dimwishlist:item=2307365&perks=0,791862061,0,0
 dimwishlist:item=2307365&perks=0,0,509074078,0
+dimwishlist:item=2307365&perks=0,0,0,47981717
+
+// The Inquisitor Adept 
+// Polygonal Rifling
+// Assault Mag
+// Subsistence
+// Opening Shot
+// Origin Trait: Alacrity
+//notes: Masterwork: Stability, Mod: Adept Targeting Adjuster
+dimwishlist:item=2307365&perks=1392496348,791862061,1820235745,47981717
+dimwishlist:item=2307365&perks=1392496348,791862061,1820235745,0
+dimwishlist:item=2307365&perks=1392496348,791862061,0,47981717
+dimwishlist:item=2307365&perks=1392496348,0,1820235745,47981717
+dimwishlist:item=2307365&perks=0,791862061,1820235745,47981717
+dimwishlist:item=2307365&perks=1392496348,791862061,0,0
+dimwishlist:item=2307365&perks=1392496348,0,1820235745,0
+dimwishlist:item=2307365&perks=1392496348,0,0,47981717
+dimwishlist:item=2307365&perks=0,791862061,1820235745,0
+dimwishlist:item=2307365&perks=0,791862061,0,47981717
+dimwishlist:item=2307365&perks=0,0,1820235745,47981717
+dimwishlist:item=2307365&perks=1392496348,0,0,0
+dimwishlist:item=2307365&perks=0,791862061,0,0
+dimwishlist:item=2307365&perks=0,0,1820235745,0
 dimwishlist:item=2307365&perks=0,0,0,47981717
 
 // Brigands Law 
@@ -8850,3 +8942,49 @@ dimwishlist:item=4009352833&perks=3525010810,0,0,0
 dimwishlist:item=4009352833&perks=0,2822142346,0,0
 dimwishlist:item=4009352833&perks=0,0,951095735,0
 dimwishlist:item=4009352833&perks=0,0,0,4293542123
+
+// Trust 
+// Full Bore
+// Accurized Rounds
+// Snapshot Sights
+// Explosive Payload
+// Origin Trait: None
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=4077196130&perks=202670084,3142289711,957782887,3038247973
+dimwishlist:item=4077196130&perks=202670084,3142289711,957782887,0
+dimwishlist:item=4077196130&perks=202670084,3142289711,0,3038247973
+dimwishlist:item=4077196130&perks=202670084,0,957782887,3038247973
+dimwishlist:item=4077196130&perks=0,3142289711,957782887,3038247973
+dimwishlist:item=4077196130&perks=202670084,3142289711,0,0
+dimwishlist:item=4077196130&perks=202670084,0,957782887,0
+dimwishlist:item=4077196130&perks=202670084,0,0,3038247973
+dimwishlist:item=4077196130&perks=0,3142289711,957782887,0
+dimwishlist:item=4077196130&perks=0,3142289711,0,3038247973
+dimwishlist:item=4077196130&perks=0,0,957782887,3038247973
+dimwishlist:item=4077196130&perks=202670084,0,0,0
+dimwishlist:item=4077196130&perks=0,3142289711,0,0
+dimwishlist:item=4077196130&perks=0,0,957782887,0
+dimwishlist:item=4077196130&perks=0,0,0,3038247973
+
+// Patron Of Lost Causes 
+// Arrowhead Brake
+// Steady Rounds
+// Rapid Hit
+// Explosive Payload
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2723241847&perks=839105230,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=839105230,3177308360,247725512,0
+dimwishlist:item=2723241847&perks=839105230,3177308360,0,3038247973
+dimwishlist:item=2723241847&perks=839105230,0,247725512,3038247973
+dimwishlist:item=2723241847&perks=0,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=839105230,3177308360,0,0
+dimwishlist:item=2723241847&perks=839105230,0,247725512,0
+dimwishlist:item=2723241847&perks=839105230,0,0,3038247973
+dimwishlist:item=2723241847&perks=0,3177308360,247725512,0
+dimwishlist:item=2723241847&perks=0,3177308360,0,3038247973
+dimwishlist:item=2723241847&perks=0,0,247725512,3038247973
+dimwishlist:item=2723241847&perks=839105230,0,0,0
+dimwishlist:item=2723241847&perks=0,3177308360,0,0
+dimwishlist:item=2723241847&perks=0,0,247725512,0
+dimwishlist:item=2723241847&perks=0,0,0,3038247973
