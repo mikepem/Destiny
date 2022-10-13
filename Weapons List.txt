@@ -8693,29 +8693,6 @@ dimwishlist:item=2185327324&perks=0,0,0,47981717
 // The Inquisitor Adept 
 // Polygonal Rifling
 // Assault Mag
-// Steady Hands
-// Opening Shot
-// Origin Trait: Alacrity
-//notes: Masterwork: Stability, Mod: Adept Targeting Adjuster
-dimwishlist:item=2307365&perks=1392496348,791862061,509074078,47981717
-dimwishlist:item=2307365&perks=1392496348,791862061,509074078,0
-dimwishlist:item=2307365&perks=1392496348,791862061,0,47981717
-dimwishlist:item=2307365&perks=1392496348,0,509074078,47981717
-dimwishlist:item=2307365&perks=0,791862061,509074078,47981717
-dimwishlist:item=2307365&perks=1392496348,791862061,0,0
-dimwishlist:item=2307365&perks=1392496348,0,509074078,0
-dimwishlist:item=2307365&perks=1392496348,0,0,47981717
-dimwishlist:item=2307365&perks=0,791862061,509074078,0
-dimwishlist:item=2307365&perks=0,791862061,0,47981717
-dimwishlist:item=2307365&perks=0,0,509074078,47981717
-dimwishlist:item=2307365&perks=1392496348,0,0,0
-dimwishlist:item=2307365&perks=0,791862061,0,0
-dimwishlist:item=2307365&perks=0,0,509074078,0
-dimwishlist:item=2307365&perks=0,0,0,47981717
-
-// The Inquisitor Adept 
-// Polygonal Rifling
-// Assault Mag
 // Subsistence
 // Opening Shot
 // Origin Trait: Alacrity
@@ -8735,6 +8712,15 @@ dimwishlist:item=2307365&perks=1392496348,0,0,0
 dimwishlist:item=2307365&perks=0,791862061,0,0
 dimwishlist:item=2307365&perks=0,0,1820235745,0
 dimwishlist:item=2307365&perks=0,0,0,47981717
+
+// The Inquisitor Adept 
+// Polygonal Rifling
+// Assault Mag
+// Steady Hands
+// Opening Shot
+// Origin Trait: Alacrity
+//notes: Masterwork: Stability, Mod: Adept Targeting Adjuster
+dimwishlist:item=2307365&perks=1392496348,791862061,509074078,47981717
 
 // Brigands Law 
 // Smallbore
