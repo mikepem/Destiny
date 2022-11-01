@@ -9112,3 +9112,26 @@ dimwishlist:item=1280894514&perks=1840239774,0,0,0
 dimwishlist:item=1280894514&perks=0,3142289711,0,0
 dimwishlist:item=1280894514&perks=0,0,957782887,0
 dimwishlist:item=1280894514&perks=0,0,0,47981717
+
+// Horror Story 
+// Rifle Scope ST
+// Steady Rounds
+// Killing Wind
+// Moving Target
+// Origin Trait: None
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3829285960&perks=679077873,3177308360,2450788523,588594999
+dimwishlist:item=3829285960&perks=679077873,3177308360,2450788523,0
+dimwishlist:item=3829285960&perks=679077873,3177308360,0,588594999
+dimwishlist:item=3829285960&perks=679077873,0,2450788523,588594999
+dimwishlist:item=3829285960&perks=0,3177308360,2450788523,588594999
+dimwishlist:item=3829285960&perks=679077873,3177308360,0,0
+dimwishlist:item=3829285960&perks=679077873,0,2450788523,0
+dimwishlist:item=3829285960&perks=679077873,0,0,588594999
+dimwishlist:item=3829285960&perks=0,3177308360,2450788523,0
+dimwishlist:item=3829285960&perks=0,3177308360,0,588594999
+dimwishlist:item=3829285960&perks=0,0,2450788523,588594999
+dimwishlist:item=3829285960&perks=679077873,0,0,0
+dimwishlist:item=3829285960&perks=0,3177308360,0,0
+dimwishlist:item=3829285960&perks=0,0,2450788523,0
+dimwishlist:item=3829285960&perks=0,0,0,588594999
