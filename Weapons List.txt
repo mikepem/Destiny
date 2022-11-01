@@ -203,29 +203,6 @@ dimwishlist:item=1788603939&perks=0,1561002382,0,0
 dimwishlist:item=1788603939&perks=0,0,1359896290,0
 dimwishlist:item=1788603939&perks=0,0,0,1890422124
 
-// Horror Story 
-// Rifle Scope ST
-// Steady Rounds
-// Killing Wind
-// Demolitionist
-// Origin Trait: None
-//notes: Masterwork: Handling, Mod: Targeting Adjuster
-dimwishlist:item=3829285960&perks=679077873,3177308360,2450788523,3523296417
-dimwishlist:item=3829285960&perks=679077873,3177308360,2450788523,0
-dimwishlist:item=3829285960&perks=679077873,3177308360,0,3523296417
-dimwishlist:item=3829285960&perks=679077873,0,2450788523,3523296417
-dimwishlist:item=3829285960&perks=0,3177308360,2450788523,3523296417
-dimwishlist:item=3829285960&perks=679077873,3177308360,0,0
-dimwishlist:item=3829285960&perks=679077873,0,2450788523,0
-dimwishlist:item=3829285960&perks=679077873,0,0,3523296417
-dimwishlist:item=3829285960&perks=0,3177308360,2450788523,0
-dimwishlist:item=3829285960&perks=0,3177308360,0,3523296417
-dimwishlist:item=3829285960&perks=0,0,2450788523,3523296417
-dimwishlist:item=3829285960&perks=679077873,0,0,0
-dimwishlist:item=3829285960&perks=0,3177308360,0,0
-dimwishlist:item=3829285960&perks=0,0,2450788523,0
-dimwishlist:item=3829285960&perks=0,0,0,3523296417
-
 // Krait 
 // Smallbore
 // High-Caliber Rounds
@@ -8974,3 +8951,164 @@ dimwishlist:item=2723241847&perks=839105230,0,0,0
 dimwishlist:item=2723241847&perks=0,3177308360,0,0
 dimwishlist:item=2723241847&perks=0,0,247725512,0
 dimwishlist:item=2723241847&perks=0,0,0,3038247973
+
+// Jurassic Green 
+// Smallbore
+// High-Caliber Rounds
+// Rangefinder
+// Adrenaline Junkie
+// Origin Trait: Search Party
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,11612903
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,0
+dimwishlist:item=2603335652&perks=1482024992,1561002382,0,11612903
+dimwishlist:item=2603335652&perks=1482024992,0,2846385770,11612903
+dimwishlist:item=2603335652&perks=0,1561002382,2846385770,11612903
+dimwishlist:item=2603335652&perks=1482024992,1561002382,0,0
+dimwishlist:item=2603335652&perks=1482024992,0,2846385770,0
+dimwishlist:item=2603335652&perks=1482024992,0,0,11612903
+dimwishlist:item=2603335652&perks=0,1561002382,2846385770,0
+dimwishlist:item=2603335652&perks=0,1561002382,0,11612903
+dimwishlist:item=2603335652&perks=0,0,2846385770,11612903
+dimwishlist:item=2603335652&perks=1482024992,0,0,0
+dimwishlist:item=2603335652&perks=0,1561002382,0,0
+dimwishlist:item=2603335652&perks=0,0,2846385770,0
+dimwishlist:item=2603335652&perks=0,0,0,11612903
+
+// Jurassic Green 
+// Smallbore
+// High-Caliber Rounds
+// Rangefinder
+// Golden Tricorn
+// Origin Trait: Search Party
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,0
+dimwishlist:item=2603335652&perks=1482024992,1561002382,0,2610012052
+dimwishlist:item=2603335652&perks=1482024992,0,2846385770,2610012052
+dimwishlist:item=2603335652&perks=0,1561002382,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1561002382,0,0
+dimwishlist:item=2603335652&perks=1482024992,0,2846385770,0
+dimwishlist:item=2603335652&perks=1482024992,0,0,2610012052
+dimwishlist:item=2603335652&perks=0,1561002382,2846385770,0
+dimwishlist:item=2603335652&perks=0,1561002382,0,2610012052
+dimwishlist:item=2603335652&perks=0,0,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,0,0,0
+dimwishlist:item=2603335652&perks=0,1561002382,0,0
+dimwishlist:item=2603335652&perks=0,0,2846385770,0
+dimwishlist:item=2603335652&perks=0,0,0,2610012052
+
+// Braytech Werewolf 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Swashbuckler
+// Origin Trait: Search Party
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,4082225868
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,0
+dimwishlist:item=2869466318&perks=839105230,1561002382,0,4082225868
+dimwishlist:item=2869466318&perks=839105230,0,1359896290,4082225868
+dimwishlist:item=2869466318&perks=0,1561002382,1359896290,4082225868
+dimwishlist:item=2869466318&perks=839105230,1561002382,0,0
+dimwishlist:item=2869466318&perks=839105230,0,1359896290,0
+dimwishlist:item=2869466318&perks=839105230,0,0,4082225868
+dimwishlist:item=2869466318&perks=0,1561002382,1359896290,0
+dimwishlist:item=2869466318&perks=0,1561002382,0,4082225868
+dimwishlist:item=2869466318&perks=0,0,1359896290,4082225868
+dimwishlist:item=2869466318&perks=839105230,0,0,0
+dimwishlist:item=2869466318&perks=0,1561002382,0,0
+dimwishlist:item=2869466318&perks=0,0,1359896290,0
+dimwishlist:item=2869466318&perks=0,0,0,4082225868
+
+// Braytech Werewolf 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Kill Clip
+// Origin Trait: Search Party
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,1015611457
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,0
+dimwishlist:item=2869466318&perks=839105230,1561002382,0,1015611457
+dimwishlist:item=2869466318&perks=839105230,0,1359896290,1015611457
+dimwishlist:item=2869466318&perks=0,1561002382,1359896290,1015611457
+dimwishlist:item=2869466318&perks=839105230,1561002382,0,0
+dimwishlist:item=2869466318&perks=839105230,0,1359896290,0
+dimwishlist:item=2869466318&perks=839105230,0,0,1015611457
+dimwishlist:item=2869466318&perks=0,1561002382,1359896290,0
+dimwishlist:item=2869466318&perks=0,1561002382,0,1015611457
+dimwishlist:item=2869466318&perks=0,0,1359896290,1015611457
+dimwishlist:item=2869466318&perks=839105230,0,0,0
+dimwishlist:item=2869466318&perks=0,1561002382,0,0
+dimwishlist:item=2869466318&perks=0,0,1359896290,0
+dimwishlist:item=2869466318&perks=0,0,0,1015611457
+
+// Braytech Werewolf 
+// Arrowhead Brake
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Tap the Trigger
+// Origin Trait: Search Party
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,1890422124
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,0
+dimwishlist:item=2869466318&perks=839105230,1561002382,0,1890422124
+dimwishlist:item=2869466318&perks=839105230,0,1359896290,1890422124
+dimwishlist:item=2869466318&perks=0,1561002382,1359896290,1890422124
+dimwishlist:item=2869466318&perks=839105230,1561002382,0,0
+dimwishlist:item=2869466318&perks=839105230,0,1359896290,0
+dimwishlist:item=2869466318&perks=839105230,0,0,1890422124
+dimwishlist:item=2869466318&perks=0,1561002382,1359896290,0
+dimwishlist:item=2869466318&perks=0,1561002382,0,1890422124
+dimwishlist:item=2869466318&perks=0,0,1359896290,1890422124
+dimwishlist:item=2869466318&perks=839105230,0,0,0
+dimwishlist:item=2869466318&perks=0,1561002382,0,0
+dimwishlist:item=2869466318&perks=0,0,1359896290,0
+dimwishlist:item=2869466318&perks=0,0,0,1890422124
+
+// Mechabre 
+// Smallbore
+// Accurized Rounds
+// Snapshot Sights
+// Opening Shot
+// Origin Trait: Search Party
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1280894514&perks=1482024992,3142289711,957782887,47981717
+dimwishlist:item=1280894514&perks=1482024992,3142289711,957782887,0
+dimwishlist:item=1280894514&perks=1482024992,3142289711,0,47981717
+dimwishlist:item=1280894514&perks=1482024992,0,957782887,47981717
+dimwishlist:item=1280894514&perks=0,3142289711,957782887,47981717
+dimwishlist:item=1280894514&perks=1482024992,3142289711,0,0
+dimwishlist:item=1280894514&perks=1482024992,0,957782887,0
+dimwishlist:item=1280894514&perks=1482024992,0,0,47981717
+dimwishlist:item=1280894514&perks=0,3142289711,957782887,0
+dimwishlist:item=1280894514&perks=0,3142289711,0,47981717
+dimwishlist:item=1280894514&perks=0,0,957782887,47981717
+dimwishlist:item=1280894514&perks=1482024992,0,0,0
+dimwishlist:item=1280894514&perks=0,3142289711,0,0
+dimwishlist:item=1280894514&perks=0,0,957782887,0
+dimwishlist:item=1280894514&perks=0,0,0,47981717
+
+// Mechabre 
+// Fluted Barrel
+// Accurized Rounds
+// Snapshot Sights
+// Opening Shot
+// Origin Trait: Search Party
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=1280894514&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,3142289711,957782887,0
+dimwishlist:item=1280894514&perks=1840239774,3142289711,0,47981717
+dimwishlist:item=1280894514&perks=1840239774,0,957782887,47981717
+dimwishlist:item=1280894514&perks=0,3142289711,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,3142289711,0,0
+dimwishlist:item=1280894514&perks=1840239774,0,957782887,0
+dimwishlist:item=1280894514&perks=1840239774,0,0,47981717
+dimwishlist:item=1280894514&perks=0,3142289711,957782887,0
+dimwishlist:item=1280894514&perks=0,3142289711,0,47981717
+dimwishlist:item=1280894514&perks=0,0,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,0,0,0
+dimwishlist:item=1280894514&perks=0,3142289711,0,0
+dimwishlist:item=1280894514&perks=0,0,957782887,0
+dimwishlist:item=1280894514&perks=0,0,0,47981717
