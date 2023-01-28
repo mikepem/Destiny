@@ -1,3 +1,27 @@
 title: Weapon Goals
 description: These are my personal views on best rolls for each weapon in game.
 
+====================
+Exotic
+====================
+
+// Dead Man's Tale
+// Smallbore
+// High-Caliber Rounds
+// Vorpal Weapon
+// Fitted Stock
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1546637391,4259401308
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1546637391,0
+dimwishlist:item=3654674561&perks=1482024992,1561002382,0,4259401308
+dimwishlist:item=3654674561&perks=1482024992,0,1546637391,4259401308
+dimwishlist:item=3654674561&perks=0,1561002382,1546637391,4259401308
+dimwishlist:item=3654674561&perks=1482024992,1561002382,0,0
+dimwishlist:item=3654674561&perks=1482024992,0,1428297954,0
+dimwishlist:item=3654674561&perks=1482024992,0,0,4259401308
+dimwishlist:item=3654674561&perks=0,1561002382,0,4259401308
+dimwishlist:item=3654674561&perks=0,1561002382,1546637391,0
+dimwishlist:item=3654674561&perks=0,0,1546637391,4259401308
+dimwishlist:item=3654674561&perks=1482024992,0,0,0
+dimwishlist:item=3654674561&perks=0,1561002382,0,0
+dimwishlist:item=3654674561&perks=0,0,1546637391,0
+dimwishlist:item=3654674561&perks=0,0,0,4259401308
