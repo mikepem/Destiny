@@ -94,6 +94,99 @@ dimwishlist:item=6857689&perks=0,3177308360,0,0,0
 dimwishlist:item=6857689&perks=0,0,3436462433,0,0
 dimwishlist:item=6857689&perks=0,0,0,1954620775,0
 
+// Ancient Gospel
+// Smallbore
+// Steady Rounds
+// Eye of the Storm
+// Rangefinder
+// No Origin Trait
+//notes: Masterwork: Stability , Mod: Targeting Adjuster
+dimwishlist:item=48643186&perks=1482024992,3177308360,699525795,2846385770,0
+dimwishlist:item=48643186&perks=1482024992,3177308360,699525795,0,0
+dimwishlist:item=48643186&perks=1482024992,3177308360,0,2846385770,0
+dimwishlist:item=48643186&perks=1482024992,0,699525795,2846385770,0
+dimwishlist:item=48643186&perks=0,3177308360,699525795,2846385770,0
+dimwishlist:item=48643186&perks=1482024992,3177308360,0,0,0
+dimwishlist:item=48643186&perks=1482024992,0,699525795,0,0
+dimwishlist:item=48643186&perks=1482024992,0,0,2846385770,0
+dimwishlist:item=48643186&perks=0,3177308360,0,2846385770,0
+dimwishlist:item=48643186&perks=0,3177308360,699525795,0,0
+dimwishlist:item=48643186&perks=0,0,699525795,2846385770,0
+dimwishlist:item=48643186&perks=1482024992,0,0,0,0
+dimwishlist:item=48643186&perks=0,3177308360,0,0,0
+dimwishlist:item=48643186&perks=0,0,699525795,0,0
+dimwishlist:item=48643186&perks=0,0,0,2846385770,0
+
+// Eyasluna
+// Steadyhand HCS
+// High-Caliber Rounds
+// Rangefinder
+// Moving Target
+// No Origin Trait
+//notes: Masterwork: Stability , Mod: Targeting Adjuster
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999,0
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,0,0
+dimwishlist:item=235827225&perks=1926090095,1561002382,0,588594999,0
+dimwishlist:item=235827225&perks=1926090095,0,2846385770,588594999,0
+dimwishlist:item=235827225&perks=0,1561002382,2846385770,588594999,0
+dimwishlist:item=235827225&perks=1926090095,1561002382,0,0,0
+dimwishlist:item=235827225&perks=1926090095,0,2846385770,0,0
+dimwishlist:item=235827225&perks=1926090095,0,0,588594999,0
+dimwishlist:item=235827225&perks=0,1561002382,0,588594999,0
+dimwishlist:item=235827225&perks=0,1561002382,2846385770,0,0
+dimwishlist:item=235827225&perks=0,0,2846385770,588594999,0
+dimwishlist:item=235827225&perks=1926090095,0,0,0,0
+dimwishlist:item=235827225&perks=0,1561002382,0,0,0
+dimwishlist:item=235827225&perks=0,0,2846385770,0,0
+dimwishlist:item=235827225&perks=0,0,0,588594999,0
+
+// Zaouli's Bane (Harrowed)
+// Chambered Compensator
+// Steady Rounds
+// Explosive Payload
+// Eye of the Storm
+// Runneth Over
+//notes: Masterwork: Stability , Mod: Adept Stability
+dimwishlist:item=291092617&perks=3661387068,3177308360,3038247973,699525795,120721526
+dimwishlist:item=291092617&perks=3661387068,3177308360,3038247973,0,120721526
+dimwishlist:item=291092617&perks=3661387068,3177308360,0,699525795,120721526
+dimwishlist:item=291092617&perks=3661387068,0,3038247973,699525795,120721526
+dimwishlist:item=291092617&perks=0,3177308360,3038247973,699525795,120721526
+dimwishlist:item=291092617&perks=3661387068,3177308360,0,0,120721526
+dimwishlist:item=291092617&perks=3661387068,0,3038247973,0,120721526
+dimwishlist:item=291092617&perks=3661387068,0,0,699525795,120721526
+dimwishlist:item=291092617&perks=0,3177308360,0,699525795,120721526
+dimwishlist:item=291092617&perks=0,3177308360,3038247973,0,120721526
+dimwishlist:item=291092617&perks=0,0,3038247973,699525795,120721526
+dimwishlist:item=291092617&perks=3661387068,0,0,0,120721526
+dimwishlist:item=291092617&perks=0,3177308360,0,0,120721526
+dimwishlist:item=291092617&perks=0,0,3038247973,0,120721526
+dimwishlist:item=291092617&perks=0,0,0,699525795,120721526
+
+// Survivor's Epitaph
+// Full Bore
+// High-Caliber Rounds
+// Tunnel Vision
+// Kill Clip
+// One Quiet Moment
+//notes: Masterwork: Range , Mod: Targeting Adjuster
+dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,1015611457,4091460919
+dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,1015611457,0
+dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,0,4091460919
+dimwishlist:item=310708513&perks=202670084,1561002382,0,1015611457,4091460919
+dimwishlist:item=310708513&perks=202670084,0,2946784966,1015611457,4091460919
+dimwishlist:item=310708513&perks=0,1561002382,2946784966,1015611457,4091460919
+dimwishlist:item=310708513&perks=202670084,1561002382,0,0,4091460919
+dimwishlist:item=310708513&perks=202670084,0,2946784966,0,4091460919
+dimwishlist:item=310708513&perks=202670084,0,0,1015611457,4091460919
+dimwishlist:item=310708513&perks=0,1561002382,0,1015611457,4091460919
+dimwishlist:item=310708513&perks=0,1561002382,2946784966,0,4091460919
+dimwishlist:item=310708513&perks=0,0,2946784966,1015611457,4091460919
+dimwishlist:item=310708513&perks=202670084,0,0,0,4091460919
+dimwishlist:item=310708513&perks=0,1561002382,0,0,4091460919
+dimwishlist:item=310708513&perks=0,0,2946784966,0,4091460919
+dimwishlist:item=310708513&perks=0,0,0,1015611457,4091460919
+
 ====================================================================================================
 Linear Fusion Rifle
 ====================================================================================================
