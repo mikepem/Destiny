@@ -6168,27 +6168,13 @@ dimwishlist:item=541188001&perks=0,0,2846385770,0,0
 dimwishlist:item=541188001&perks=0,0,0,11612903,0
 
 // Peacebond
-// Extended Barrel
+// Chambered Compensator
 // Accurized Rounds
 // Rangefinder
-// Headstone
+// Harmony
 // Skulking Wolf
-//notes: Masterwork: Range , Mod: Targeting Adjuster
-dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,124408337,3989629871
-dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,0,3989629871
-dimwishlist:item=829330711&perks=1467527085,3142289711,0,124408337,3989629871
-dimwishlist:item=829330711&perks=1467527085,0,2846385770,124408337,3989629871
-dimwishlist:item=829330711&perks=0,3142289711,2846385770,124408337,3989629871
-dimwishlist:item=829330711&perks=1467527085,3142289711,0,0,3989629871
-dimwishlist:item=829330711&perks=1467527085,0,2846385770,0,3989629871
-dimwishlist:item=829330711&perks=1467527085,0,0,124408337,3989629871
-dimwishlist:item=829330711&perks=0,3142289711,0,124408337,3989629871
-dimwishlist:item=829330711&perks=0,3142289711,2846385770,0,3989629871
-dimwishlist:item=829330711&perks=0,0,2846385770,124408337,3989629871
-dimwishlist:item=829330711&perks=1467527085,0,0,0,3989629871
-dimwishlist:item=829330711&perks=0,3142289711,0,0,3989629871
-dimwishlist:item=829330711&perks=0,0,2846385770,0,3989629871
-dimwishlist:item=829330711&perks=0,0,0,124408337,3989629871
+//notes: Masterwork: Stability , Mod: Quick Access Sling
+dimwishlist:item=829330711&perks=3661387068,3142289711,2846385770,438098033,3989629871
 
 // High Albedo
 // Smallbore
@@ -6217,24 +6203,10 @@ dimwishlist:item=1197486957&perks=0,0,0,460017080,0
 // Smallbore
 // Accurized Rounds
 // Rangefinder
-// No Perk Selected
+// Eye of the Storm
 // Skulking Wolf
-//notes: Masterwork: Range , Mod: Targeting Adjuster
-dimwishlist:item=1532276803&perks=1482024992,3142289711,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=1482024992,3142289711,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=1482024992,3142289711,0,0,3989629871
-dimwishlist:item=1532276803&perks=1482024992,0,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=0,3142289711,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=1482024992,3142289711,0,0,3989629871
-dimwishlist:item=1532276803&perks=1482024992,0,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=1482024992,0,0,0,3989629871
-dimwishlist:item=1532276803&perks=0,3142289711,0,0,3989629871
-dimwishlist:item=1532276803&perks=0,3142289711,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=0,0,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=1482024992,0,0,0,3989629871
-dimwishlist:item=1532276803&perks=0,3142289711,0,0,3989629871
-dimwishlist:item=1532276803&perks=0,0,2846385770,0,3989629871
-dimwishlist:item=1532276803&perks=0,0,0,0,3989629871
+//notes: Masterwork: Stability, Mod: Quick Access Sling
+dimwishlist:item=1532276803&perks=1482024992,3142289711,2846385770,699525795,2120661319
 
 // A Swift Verdict
 // Control SAS
@@ -7539,6 +7511,15 @@ dimwishlist:item=2488587246&perks=3661387068,0,0,0,4008116374
 dimwishlist:item=2488587246&perks=0,1561002382,0,0,4008116374
 dimwishlist:item=2488587246&perks=0,0,2946784966,0,4008116374
 dimwishlist:item=2488587246&perks=0,0,0,1015611457,4008116374
+
+// The Hero's Burden
+// Chambered Compensator
+// Steady Rounds
+// Zen Moment
+// Dynamic Sway Reduction
+// Suros Synergy
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1028124540&perks=3661387068,3177308360,2387244414,1359896290,4008116374
 
 // Death Adder
 // Smallbore
