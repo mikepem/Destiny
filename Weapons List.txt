@@ -7208,12 +7208,13 @@ dimwishlist:item=3937866388&perks=0,0,4071163871,0,0
 dimwishlist:item=3937866388&perks=0,0,0,3511092054,0
 
 // Buzzard (Adept)
-// Chambered Compensator
+// Corckscrew Rifling
 // High-Caliber Rounds
 // Encore
 // Rangefinder
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Range
+//notes: Masterwork: Handling, Mod: Adept Range
+dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,2846385770,744217850
 dimwishlist:item=927835311&perks=3661387068,1561002382,1195158366,2846385770,744217850
 dimwishlist:item=927835311&perks=3661387068,1561002382,1195158366,2846385770
 dimwishlist:item=927835311&perks=3661387068,1561002382,1195158366,0,744217850
