@@ -3398,8 +3398,9 @@ dimwishlist:item=4100775158&perks=1467527085,1561002382,699525795,3523296417,400
 // Eye of the Storm
 // Rangefinder
 // Veist Stinger
-//notes: Masterwork: , Mod: 
+//notes: Masterwork: Rnage, Mod: Counterbalance Stock
 dimwishlist:item=2349907931&perks=1482024992,1561002382,699525795,2846385770,3988215619
+dimwishlist:item=2349907931&perks=202670084,1561002382,1359896290,365154968,3988215619
 
 ====================================================================================================
 Swords
