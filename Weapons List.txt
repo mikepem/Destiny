@@ -3478,6 +3478,17 @@ dimwishlist:item=4100775158&perks=1467527085,1561002382,699525795,3523296417,400
 dimwishlist:item=2349907931&perks=1482024992,1561002382,699525795,2846385770,3988215619
 dimwishlist:item=2349907931&perks=202670084,1561002382,1359896290,365154968,3988215619
 
+
+// No Survivors
+// Chambered Compensator | Extended Barrel
+// High-Caliber Rounds | Ricochet Rounds
+// Rangefinder
+// Target Lock
+// Restoration Ritual
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=3262192268&perks=3661387068,1561002382,2846385770,365154968,398661035
+dimwishlist:item=3262192268&perks=1467527085,1885400500,2846385770,365154968,398661035
+
 ====================================================================================================
 Swords
 ====================================================================================================
