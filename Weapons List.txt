@@ -168,30 +168,88 @@ Pinnacle & Ritual
 ====================================================================================================
 
 // Point of the Stag
+// Elastic String
+// Natural Fletching
+// Archer's Tempo
+// Eye of the Storm
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
 
 // Null Composure
+// Fluted Barrel
+// Projection Fuse
+// Heating Up
+// High-Impact Reserves
+// Range
+dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,2213355989
 
 // Ecliptic Distaff
+// Ballistic Tuning
+// Alloy Magazine
+// Replenishing Aegis
+// Destabilizing Rounds
+// Shield Duration
+dimwishlist:item=3001205424&perks=1263609309,1431678320,1966281507,2048641572,744217850
 
 // Cry Mutiny
+// Volatile Launch
+// Mini Frags
+// Incandescent
+// Vorpal Weapon
+// Blast Radius
+dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391,744217850
+
+// Ascendancy
+// Quick Launch
+// Impact Casing
+// Impulse Amplifier
+// Explosive Light
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
 
 // Salvager's Salvo
+// Quick Launch
+// Spike Grenades
+// Ambitious Assassin
+// Chain Reaction
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
 
 // Epochal Integration
+// Smallbore
+// Ricochet Rounds
+// Keep Away
+// Eye of the Storm
+// Nanotech Tracer Rockets
+//notes: Masterwork: Handling, Mod: Counterbalance Stock
+dimwishlist:item=1123421440&perks=1482024992,1885400500,3619207468,699525795,164468655
 
 // Luna's Howl
+// Polygonal Rifling
+// Drop Mag
+// Zen Moment
+// Magnificient Howl
+dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
 
 // Not Forgotten
+// Extended Barrel
+// Accurized Rounds
+// Zen Moment
+// Magnificient Howl
+dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289
 
 // Chain of Command
+dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417,744217850
 
 // Velex-X
+dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052
 
 // Last Rite
+dimwishlist:item=542573208&perks=202670084,1885400500,3619207468,2896038713,744217850
 
 // Felwinter's Lie
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
 
 // Reckless Endangerment
+dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887,744217850
+
 ====================================================================================================
 Auto Rifles
 ====================================================================================================
@@ -2109,42 +2167,13 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770,0
 dimwishlist:item=882778888&perks=1482024992,3177308360,1428297954,699525795,1012699414
 
 // Combined Action
-// Smallbore
+// Chambered Compensator
 // Steady Rounds
-// Zen Moment
-// Timed Payload
+// Tunnel Vision
+// Kill Clip
 // Field-Tested
 //notes: Masterwork: Stability, Mod: Backup Mag
-dimwishlist:item=1331824604&perks=1482024992,3177308360,2387244414,1954620775,2120661319
-dimwishlist:item=1331824604&perks=1482024992,3177308360,2387244414,0,2120661319
-dimwishlist:item=1331824604&perks=1482024992,3177308360,0,1954620775,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,2387244414,1954620775,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,2387244414,1954620775,2120661319
-dimwishlist:item=1331824604&perks=1482024992,3177308360,0,0,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,2387244414,0,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,0,1954620775,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,0,1954620775,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,2387244414,0,2120661319
-dimwishlist:item=1331824604&perks=0,0,2387244414,1954620775,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,0,0,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,0,0,2120661319
-dimwishlist:item=1331824604&perks=0,0,2387244414,0,2120661319
-dimwishlist:item=1331824604&perks=0,0,0,1954620775,2120661319
-dimwishlist:item=1331824604&perks=1482024992,3177308360,2946784966,1015611457,2120661319
-dimwishlist:item=1331824604&perks=1482024992,3177308360,2946784966,0,2120661319
-dimwishlist:item=1331824604&perks=1482024992,3177308360,0,1015611457,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,2946784966,1015611457,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,2946784966,1015611457,2120661319
-dimwishlist:item=1331824604&perks=1482024992,3177308360,0,0,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,2946784966,0,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,0,1015611457,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,0,1015611457,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,2946784966,0,2120661319
-dimwishlist:item=1331824604&perks=0,0,2946784966,1015611457,2120661319
-dimwishlist:item=1331824604&perks=1482024992,0,0,0,2120661319
-dimwishlist:item=1331824604&perks=0,3177308360,0,0,2120661319
-dimwishlist:item=1331824604&perks=0,0,2946784966,0,2120661319
-dimwishlist:item=1331824604&perks=0,0,0,1015611457,2120661319
+dimwishlist:item=1331824604&perks=3661387068,3177308360,2946784966,1015611457,2120661319
 
 // D.F.A (Adept)
 // Chambered Compensator
@@ -2490,7 +2519,14 @@ dimwishlist:item=3652506829&perks=0,0,0,1546637391,4154828211
 Light Machine Guns
 ====================================================================================================
 
--
+// Unwavering Duty (Adept)
+// Arrowhead Brake
+// Steady Rounds
+// Subsistence
+// Killing Tally
+// Alacrity
+//notes: Masterwork: Handling, Mod: Adept Range
+dimwishlist:item=2759251821&perks=839105230,3177308360,1820235745,557221067,2988596335
 
 ====================================================================================================
 Pulse Rifles
@@ -3184,6 +3220,33 @@ Sidearms
 // Alacrity
 //notes: Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=2405619467&perks=3661387068,1561002382,588594999,11612903,2988596335
+
+// Buzzard (Adept)
+// Corkscrew Rifling
+// High-Caliber Rounds
+// Encore
+// Rangefinder
+// Vanguard's Vindication
+//notes: Masterwork: Handling, Mod: Adept Range
+dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,2846385770,744217850
+
+// Allied Demand
+// Polygonal Rifling
+// Ricochet Rounds
+// Rangefinder
+// Eye of the Storm
+// Field-Tested
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3166250992&perks=1392496348,1885400500,2846385770,699525795,2120661319
+
+// Senuna SI6
+// Smallbore
+// High-Caliber Rounds
+// Slickdraw
+// Headstone
+// Omolon Fluid Dynamics
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=5159537&perks=1482024992,1561002382,1821614984,124408337,2839173408
 
 ====================================================================================================
 Snipers
