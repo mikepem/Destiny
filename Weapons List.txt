@@ -250,6 +250,18 @@ dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
 // Reckless Endangerment
 dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887,744217850
 
+// Revoker
+dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835
+
+// Adored
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
+
+// Recluse
+dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624
+
+// Wendigo GL3
+dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027
+
 ====================================================================================================
 Auto Rifles
 ====================================================================================================
@@ -1963,6 +1975,14 @@ dimwishlist:item=3165547384&perks=0,0,0,3511092054,0
 Hand Cannons
 ====================================================================================================
 
+// Dire Promise
+// SteadyHand HCS
+// High-Caliber Rounds
+// Snapshot Sights
+// Rangefinder
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770
+
 // Annual Skate
 // Steadyhand HCS
 // Accurized Rounds
@@ -2932,8 +2952,9 @@ Scout Rifles
 // Rapid Hit
 // Explosive Payload
 // Tex Balanced Stock
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes: Masterwork: Stability, Mod: Sweaty Confetti
 dimwishlist:item=8293111&perks=839105230,3177308360,247725512,3038247973,2437618208
+dimwishlist:item=8293111&perks=839105230,3177308360,1645158859,2213355989,2437618208
 dimwishlist:item=8293111&perks=839105230,3177308360,1645158859,2213355989,2437618208
 
 // Glissando-47
@@ -3249,7 +3270,7 @@ dimwishlist:item=3166250992&perks=1392496348,1885400500,2846385770,699525795,212
 dimwishlist:item=5159537&perks=1482024992,1561002382,1821614984,124408337,2839173408
 
 ====================================================================================================
-Snipers
+Sniper Rifles
 ====================================================================================================
 
 // Mercurial Overreach
@@ -3292,6 +3313,14 @@ dimwishlist:item=852228780&perks=202670084,3142289711,957782887,2213355989,0
 // No Origin Trait
 //notes: Masterwork: Handling, Mod: Adept Targeting
 dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,47981717,0
+
+// 1000 Yard Stare
+// Arrowhead Brake
+// Accurized Rounds
+// Quickdraw
+// Snapshot Sights
+//notes: Masterwork: Handling, Mod: Sweaty Confetti
+dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887
 
 ====================================================================================================
 Sub Machine Guns
@@ -3418,6 +3447,14 @@ dimwishlist:item=3000847393&perks=3661387068,0,0,0,4154828211
 dimwishlist:item=3000847393&perks=0,1561002382,0,0,4154828211
 dimwishlist:item=3000847393&perks=0,0,2451262963,0,4154828211
 dimwishlist:item=3000847393&perks=0,0,0,776531651,4154828211
+
+// Multimach CCX
+// Model 8 Red
+// Alloy Magazine
+// Dynamic Sway Reduction
+// Kill Clip
+//notes: Masterwork: Range, Mod: Sweaty Confetti
+dimwishlist:item=3717177717&perks=663495154,1431678320,1359896290,1015611457
 
 // Out of Bounds
 // Smallbore
