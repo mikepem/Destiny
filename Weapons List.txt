@@ -1986,6 +1986,15 @@ dimwishlist:item=3165547384&perks=0,0,0,3511092054,0
 Hand Cannons
 ====================================================================================================
 
+// Something New
+// Smallbore
+// Ricochet Rounds
+// Stats for All
+// Demolitionist
+// Dream Work
+//notes: Masterwork: Stability, Mod: Backup Mag
+dimwishlist:item=1856262127&perks=1482024992,1885400500,1583705720,3523296417,1380061575
+
 // Dire Promise
 // SteadyHand HCS
 // High-Caliber Rounds
