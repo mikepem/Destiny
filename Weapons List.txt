@@ -1587,27 +1587,13 @@ dimwishlist:item=4005780578&perks=0,0,1966281507,0,2988596335
 dimwishlist:item=4005780578&perks=0,0,0,1782407750,2988596335
 
 // Unexpected Resurgence (Adept)
-// Auxiliary Reserves
-// Swap Mag
-// Replenishing Aegis
+// Tempered Truss Rod
+// Accurized Rounds
 // Impulse Amplifier
+// Rampage
 // Alacrity
 //notes: Masterwork: Handling, Mod: Adept Handling
-dimwishlist:item=1141586039&perks=580685494,3721627275,1966281507,951095735,2988596335
-dimwishlist:item=1141586039&perks=580685494,3721627275,1966281507,0,2988596335
-dimwishlist:item=1141586039&perks=580685494,3721627275,0,951095735,2988596335
-dimwishlist:item=1141586039&perks=580685494,0,1966281507,951095735,2988596335
-dimwishlist:item=1141586039&perks=0,3721627275,1966281507,951095735,2988596335
-dimwishlist:item=1141586039&perks=580685494,3721627275,0,0,2988596335
-dimwishlist:item=1141586039&perks=580685494,0,1966281507,0,2988596335
-dimwishlist:item=1141586039&perks=580685494,0,0,951095735,2988596335
-dimwishlist:item=1141586039&perks=0,3721627275,0,951095735,2988596335
-dimwishlist:item=1141586039&perks=0,3721627275,1966281507,0,2988596335
-dimwishlist:item=1141586039&perks=0,0,1966281507,951095735,2988596335
-dimwishlist:item=1141586039&perks=580685494,0,0,0,2988596335
-dimwishlist:item=1141586039&perks=0,3721627275,0,0,2988596335
-dimwishlist:item=1141586039&perks=0,0,1966281507,0,2988596335
-dimwishlist:item=1141586039&perks=0,0,0,951095735,2988596335
+dimwishlist:item=1141586039&perks=5699512,3142289711,951095735,3425386926,2988596335
 
 // Nezarec's Whisper
 // Auxiliary Reserves
@@ -3234,6 +3220,15 @@ dimwishlist:item=4287947559&perks=0,791862061,0,0,1004814308
 dimwishlist:item=4287947559&perks=0,0,47981717,0,1004814308
 dimwishlist:item=4287947559&perks=0,0,0,2586829431,1004814308
 
+// Riiswalker
+// Full Choke
+// Assault Mag
+// Surplus
+// Iron Reach
+//notes: Masterwork: Stability, Mod: Quick Access Sling
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007,3989629871
+
 ====================================================================================================
 Sidearms
 ====================================================================================================
@@ -3273,6 +3268,15 @@ dimwishlist:item=3166250992&perks=1392496348,1885400500,2846385770,699525795,212
 // Omolon Fluid Dynamics
 //notes: Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=5159537&perks=1482024992,1561002382,1821614984,124408337,2839173408
+
+// Boudica-C
+// Corkscrew Rifling
+// Armor-Piercing Rounds
+// Pugilist
+// Swashbuckler
+// Hakke Breach Armaments
+//notes: Masterwork: Stability, Mod: Quick Access Sling
+dimwishlist:item=1916287826&perks=4090651448,1968497646,691659142,4082225868,1607056502
 
 ====================================================================================================
 Sniper Rifles
