@@ -225,9 +225,9 @@ dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
 // Ricochet Rounds
 // Keep Away
 // Eye of the Storm
-// Nanotech Tracer Rockets
+// Harmonic Resonance
 //notes: Masterwork: Handling, Mod: Counterbalance Stock
-dimwishlist:item=1123421440&perks=1482024992,1885400500,3619207468,699525795,164468655
+dimwishlist:item=1123421440&perks=1482024992,1885400500,3619207468,699525795,3186078099
 
 // Luna's Howl
 // Polygonal Rifling
