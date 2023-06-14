@@ -485,27 +485,13 @@ dimwishlist:item=507038823&perks=0,0,1359896290,0,0
 dimwishlist:item=507038823&perks=0,0,0,2846385770,0
 
 // Dark Decider
-// Extended Barrel
-// Accurized Rounds
-// Dynamic Sway Reduction
+// Hammer-Forged Rifling
+// Ricochet Rounds
+// Iron Grip
 // Rangefinder
 // Skulking Wolf
-//notes: Masterwork: Range, Mod: Targeting Adjuster
-dimwishlist:item=540880995&perks=1467527085,3142289711,1359896290,2846385770,3989629871
-dimwishlist:item=540880995&perks=1467527085,3142289711,1359896290,0,3989629871
-dimwishlist:item=540880995&perks=1467527085,3142289711,0,2846385770,3989629871
-dimwishlist:item=540880995&perks=1467527085,0,1359896290,2846385770,3989629871
-dimwishlist:item=540880995&perks=0,3142289711,1359896290,2846385770,3989629871
-dimwishlist:item=540880995&perks=1467527085,3142289711,0,0,3989629871
-dimwishlist:item=540880995&perks=1467527085,0,1359896290,0,3989629871
-dimwishlist:item=540880995&perks=1467527085,0,0,2846385770,3989629871
-dimwishlist:item=540880995&perks=0,3142289711,0,2846385770,3989629871
-dimwishlist:item=540880995&perks=0,3142289711,1359896290,0,3989629871
-dimwishlist:item=540880995&perks=0,0,1359896290,2846385770,3989629871
-dimwishlist:item=540880995&perks=1467527085,0,0,0,3989629871
-dimwishlist:item=540880995&perks=0,3142289711,0,0,3989629871
-dimwishlist:item=540880995&perks=0,0,1359896290,0,3989629871
-dimwishlist:item=540880995&perks=0,0,0,2846385770,3989629871
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=1144014195&perks=3250034553,1885400500,11551321,2846385770,3989629871
 
 // Scathelocke
 // Smallbore
@@ -1050,20 +1036,6 @@ dimwishlist:item=3385326721&perks=0,0,0,1015611457,0
 // Alacrity
 //notes: Masterwork: Range, Mod: Adept Range
 dimwishlist:item=3514144928&perks=1392496348,1561002382,588594999,3425386926,2988596335
-dimwishlist:item=3514144928&perks=1392496348,1561002382,588594999,0,2988596335
-dimwishlist:item=3514144928&perks=1392496348,1561002382,0,3425386926,2988596335
-dimwishlist:item=3514144928&perks=1392496348,0,588594999,3425386926,2988596335
-dimwishlist:item=3514144928&perks=0,1561002382,588594999,3425386926,2988596335
-dimwishlist:item=3514144928&perks=1392496348,1561002382,0,0,2988596335
-dimwishlist:item=3514144928&perks=1392496348,0,588594999,0,2988596335
-dimwishlist:item=3514144928&perks=1392496348,0,0,3425386926,2988596335
-dimwishlist:item=3514144928&perks=0,1561002382,0,3425386926,2988596335
-dimwishlist:item=3514144928&perks=0,1561002382,588594999,0,2988596335
-dimwishlist:item=3514144928&perks=0,0,588594999,3425386926,2988596335
-dimwishlist:item=3514144928&perks=1392496348,0,0,0,2988596335
-dimwishlist:item=3514144928&perks=0,1561002382,0,0,2988596335
-dimwishlist:item=3514144928&perks=0,0,588594999,0,2988596335
-dimwishlist:item=3514144928&perks=0,0,0,3425386926,2988596335
 
 // Old Sterling
 // Smallbore
@@ -1442,7 +1414,7 @@ dimwishlist:item=1994645182&perks=0,0,0,2889515627,2171055345
 
 // Burden of Guilt (Adept)
 // Fluted Barrel
-// Perk Not Listed: 1687452232
+// Liquid Coils
 // Perpetual Motion
 // High-Impact Reserves
 // Alacrity
@@ -2554,6 +2526,24 @@ Light Machine Guns
 //notes: Masterwork: Handling, Mod: Adept Range
 dimwishlist:item=2759251821&perks=839105230,3177308360,1820235745,557221067,2988596335
 
+// The Swarm (Adept)
+// Arrowhead Brake
+// Steady Rounds
+// Dynamic Sway Reduction
+// Tap the Trigger
+// Vanguard's Vindication
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=566740455&perks=839105230,3177308360,1359896290,1890422124,744217850
+dimwishlist:item=3836861464&perks=839105230,106909392,1359896290,2387244414
+
+// Corrective Measure
+// Corkscrew Rifling
+// Steady Rounds
+// Dynamic Sway Reduction
+// Firefly
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=471518543&perks=4090651448,3177308360,1359896290,3824105627
+
 ====================================================================================================
 Pulse Rifles
 ====================================================================================================
@@ -2566,6 +2556,7 @@ Pulse Rifles
 // No Origin Trait
 //notes: Masterwork: , Mod: 
 dimwishlist:item=1173780905&perks=3661387068,1561002382,247725512,1264398905,0
+dimwishlist:item=364665267&perks=1482024992,1561002382,247725512,460017080,2988596335
 
 // Chattering Bone
 // Arrowhead Brake
@@ -2952,6 +2943,25 @@ Rocket Launchers
 Scout Rifles
 ====================================================================================================
 
+// Taraxippos
+// Arrowhead Brake
+// Accurized Rounds
+// Zen Moment
+// Keep Away
+// Omolon Fluid Dynamics
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=1389546626&perks=839105230,3142289711,2387244414,3619207468,2839173408
+
+// Aisha's Embrace (Adept)
+// Smallbore
+// High-Caliber Rounds
+// Perpetual Motion
+// Eye of the Storm
+// Alacrity
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=3245493570&perks=1482024992,1561002382,1428297954,699525795,2988596335
+dimwishlist:item=3245493570&perks=1482024992,1561002382,0,699525795,2988596335
+
 // Long Arm
 // Arrowhead Brake
 // Steady Rounds
@@ -3071,8 +3081,8 @@ dimwishlist:item=664109750&perks=0,0,0,3511092054,2120661319
 // Elemental Capacitor
 // Alacrity
 //notes: Masterwork: Range, Mod: Adept Handling
-dimwishlist:item=854379020&perks=1300023272,791862061,4071163871,3511092054,2988596335
-dimwishlist:item=854379020&perks=1047830412,791862061,3161816588,3511092054,2988596335
+dimwishlist:item=854379020&perks=1047830412,3142289711,3161816588,3511092054,2988596335
+dimwishlist:item=854379020&perks=1300023272,3142289711,4071163871,3511092054,2988596335
 
 // Mindbender's Ambition (Adept)
 // Barrel Shroud
@@ -3367,9 +3377,6 @@ dimwishlist:item=3193598749&perks=1467527085,1561002382,1359896290,1890422124,21
 // Alacrity
 //notes: Masterwork: Range, Mod: Adept Range
 dimwishlist:item=4023807721&perks=1482024992,106909392,1428297954,1015611457,2988596335
-dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457,2988596335
-dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457,2988596335
-dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,3511092054,2988596335
 
 // Ikelos_SMG_v1.0.3
 // Extended Barrel
