@@ -3026,6 +3026,15 @@ dimwishlist:item=3885259140&perks=0,0,0,64866129,1489048135
 Shotguns
 ====================================================================================================
 
+// Imperial Decree
+// Barrel Shroud
+// Accurized Rounds
+// Enhanced Threat Detector
+// Enhanced Opening Shot
+// To Excess
+//notes:Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=318443586&perks=1300023272,3142289711,494941759,1370847713,1905044254
+
 // The Inquisitor (Adept)
 // Fluted Barrel
 // Assault Mag
@@ -3228,6 +3237,15 @@ dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007,39896
 ====================================================================================================
 Sidearms
 ====================================================================================================
+
+// Drang (Baroque)
+// Smallbore
+// Accurized Rounds
+// Enhanced Eye of the Storm
+// Enhanced Zen Moment
+// To Excess
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=502356570&perks=1482024992,3142289711,3719974635,1748774930,1905044254
 
 // Forgiveness (Adept)
 // Chambered Compensator
