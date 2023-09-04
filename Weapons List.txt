@@ -1973,7 +1973,7 @@ Hand Cannons
 // Perpetual Motion
 // Zen Moment
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Stability
+//notes: Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=267089201&perks=1482024992,3142289711,1428297954,2387244414,744217850
 dimwishlist:item=267089201&perks=1482024992,3142289711,1428297954,0,744217850
 dimwishlist:item=267089201&perks=1482024992,3142289711,0,2387244414,744217850
@@ -2260,6 +2260,7 @@ dimwishlist:item=2034215657&perks=0,0,0,711234314,164468655
 //notes: Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=2527666306&perks=3250034553,1561002382,247725512,1264398905,0
 dimwishlist:item=2314610827&perks=1482024992,1968497646,3017780555,4104185692,2988596335
+dimwishlist:item=2314610827&perks=1392496348,1561002382,3619207468,699525795,2988596335
 
 // Pure Poetry
 // Smallbore
@@ -3148,6 +3149,7 @@ dimwishlist:item=664109750&perks=0,0,0,3511092054,2120661319
 //notes: Masterwork: Range, Mod: Adept Handling
 dimwishlist:item=854379020&perks=1047830412,3142289711,3161816588,3511092054,2988596335
 dimwishlist:item=854379020&perks=1300023272,3142289711,4071163871,3511092054,2988596335
+dimwishlist:item=854379020&perks=1300023272,3142289711,3161816588,3511092054,2988596335
 
 // Mindbender's Ambition (Adept)
 // Barrel Shroud
@@ -3330,10 +3332,10 @@ dimwishlist:item=2405619467&perks=3661387068,1561002382,588594999,11612903,29885
 // Corkscrew Rifling
 // High-Caliber Rounds
 // Encore
-// Rangefinder
+// Swashbuckler
 // Vanguard's Vindication
-//notes: Masterwork: Handling, Mod: Adept Range
-dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,2846385770,744217850
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,4082225868,744217850
 
 // Allied Demand
 // Polygonal Rifling
@@ -3437,6 +3439,29 @@ dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887
 Sub Machine Guns
 ====================================================================================================
 
+// The Showrunner
+// Extended Barrel
+// High-Caliber Rounds
+// Dynamic Sway Reduction
+// Target Lock
+// Nadir's Focus
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1999754402&perks=1467527085,1561002382,1359896290,365154968,2509860981
+dimwishlist:item=1999754402&perks=1467527085,1561002382,1359896290,0,2509860981
+dimwishlist:item=1999754402&perks=1467527085,1561002382,0,365154968,2509860981
+dimwishlist:item=1999754402&perks=1467527085,0,1359896290,365154968,2509860981
+dimwishlist:item=1999754402&perks=0,1561002382,1359896290,365154968,2509860981
+dimwishlist:item=1999754402&perks=1467527085,1561002382,0,0,2509860981
+dimwishlist:item=1999754402&perks=1467527085,0,1359896290,0,2509860981
+dimwishlist:item=1999754402&perks=1467527085,0,0,365154968,2509860981
+dimwishlist:item=1999754402&perks=0,1561002382,0,365154968,2509860981
+dimwishlist:item=1999754402&perks=0,1561002382,1359896290,0,2509860981
+dimwishlist:item=1999754402&perks=0,0,1359896290,365154968,2509860981
+dimwishlist:item=1999754402&perks=1467527085,0,0,0,2509860981
+dimwishlist:item=1999754402&perks=0,1561002382,0,0,2509860981
+dimwishlist:item=1999754402&perks=0,0,1359896290,0,2509860981
+dimwishlist:item=1999754402&perks=0,0,0,365154968,2509860981
+
 // Unending Tempest
 // Smallbore
 // Accurized Rounds
@@ -3460,6 +3485,7 @@ dimwishlist:item=2510526114&perks=1482024992,0,1428297954,365154968,2509860981
 // Field-Tested
 //notes: Masterwork: Range, Mod: Adept Range
 dimwishlist:item=3193598749&perks=1467527085,1561002382,1359896290,1890422124,2120661319
+dimwishlist:item=3193598749&perks=1467527085,1561002382,3619207468,365154968,2120661319
 
 // Shayura's Wrath (Adept)
 // Smallbore
