@@ -1244,26 +1244,15 @@ Fusion Rifles
 
 // The Wizened Rebuke
 // Arrowhead Brake
-// Particle Repeater
+// Liquid Coils
 // Under Pressure
 // High-Impact Reserves
 // Skulking Wolf
 //notes: Masterwork: Stability, Mod: Targeting Adjuster
-dimwishlist:item=2290416&perks=839105230,3868766766,1645158859,2213355989,3989629871
-dimwishlist:item=2290416&perks=839105230,3868766766,1645158859,0,3989629871
-dimwishlist:item=2290416&perks=839105230,3868766766,0,2213355989,3989629871
-dimwishlist:item=2290416&perks=839105230,0,1645158859,2213355989,3989629871
-dimwishlist:item=2290416&perks=0,3868766766,1645158859,2213355989,3989629871
-dimwishlist:item=2290416&perks=839105230,3868766766,0,0,3989629871
-dimwishlist:item=2290416&perks=839105230,0,1645158859,0,3989629871
-dimwishlist:item=2290416&perks=839105230,0,0,2213355989,3989629871
-dimwishlist:item=2290416&perks=0,3868766766,0,2213355989,3989629871
-dimwishlist:item=2290416&perks=0,3868766766,1645158859,0,3989629871
-dimwishlist:item=2290416&perks=0,0,1645158859,2213355989,3989629871
-dimwishlist:item=2290416&perks=839105230,0,0,0,3989629871
-dimwishlist:item=2290416&perks=0,3868766766,0,0,3989629871
-dimwishlist:item=2290416&perks=0,0,1645158859,0,3989629871
-dimwishlist:item=2290416&perks=0,0,0,2213355989,3989629871
+dimwishlist:item=2290416&perks=839105230,1687452232,1645158859,2213355989,3989629871
+dimwishlist:item=2290416&perks=839105230,1687452232,0,2213355989,3989629871
+dimwishlist:item=2290416&perks=0,1687452232,1645158859,2213355989,3989629871
+dimwishlist:item=2290416&perks=0,1687452232,0,2213355989,3989629871
 
 // Main Ingredient
 // Red Dot Micro
@@ -2906,20 +2895,7 @@ dimwishlist:item=3016891299&perks=0,0,0,4045335048,2053642371
 // One Quiet Moment
 //notes: Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3110377595&perks=839105230,1561002382,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=839105230,1561002382,2846385770,0,4091460919
-dimwishlist:item=3110377595&perks=839105230,1561002382,0,460017080,4091460919
 dimwishlist:item=3110377595&perks=839105230,0,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=0,1561002382,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=839105230,1561002382,0,0,4091460919
-dimwishlist:item=3110377595&perks=839105230,0,2846385770,0,4091460919
-dimwishlist:item=3110377595&perks=839105230,0,0,460017080,4091460919
-dimwishlist:item=3110377595&perks=0,1561002382,0,460017080,4091460919
-dimwishlist:item=3110377595&perks=0,1561002382,2846385770,0,4091460919
-dimwishlist:item=3110377595&perks=0,0,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=839105230,0,0,0,4091460919
-dimwishlist:item=3110377595&perks=0,1561002382,0,0,4091460919
-dimwishlist:item=3110377595&perks=0,0,2846385770,0,4091460919
-dimwishlist:item=3110377595&perks=0,0,0,460017080,4091460919
 
 // Insidious
 // Arrowhead Brake
@@ -2976,6 +2952,15 @@ Rocket Launchers
 ====================================================================================================
 Scout Rifles
 ====================================================================================================
+
+// Brya's Love
+// Arrowhead Brake
+// Steady Rounds
+// Keep Away
+// Precision Instrument
+// Head Rush
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=2779821308&perks=839105230,3177308360,3198323828,332733060,2565067140
 
 // Taraxippos
 // Arrowhead Brake
