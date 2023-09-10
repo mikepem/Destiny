@@ -23,7 +23,7 @@ Exotic
 // Steady Rounds
 // Snapshot Sights
 // Fitted Stock
-dimwishlist:item=3654674561&perks=1392496348,3177308360,957782887,4259401308
+dimwishlist:item=2188764214&perks=1482024992,1561002382,247725512,4259401308,499501121
 
 // Hawkmoon
 // Smallbore
@@ -37,21 +37,8 @@ dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,1012699414
 // Accurized Rounds
 // Toxic Overload
 // Hand-Laid Stock
+dimwishlist:item=46524085&perks=1392496348,3142289711,4015745376,990298390,229096166
 dimwishlist:item=46524085&perks=1392496348,3142289711,4015745376,990298390,2132353550
-dimwishlist:item=46524085&perks=1392496348,3142289711,4015745376,0,2132353550
-dimwishlist:item=46524085&perks=1392496348,3142289711,0,990298390,2132353550
-dimwishlist:item=46524085&perks=1392496348,0,4015745376,990298390,2132353550
-dimwishlist:item=46524085&perks=0,3142289711,4015745376,990298390,2132353550
-dimwishlist:item=46524085&perks=1392496348,3142289711,0,0,2132353550
-dimwishlist:item=46524085&perks=1392496348,0,4015745376,0,2132353550
-dimwishlist:item=46524085&perks=1392496348,0,0,990298390,2132353550
-dimwishlist:item=46524085&perks=0,3142289711,0,990298390,2132353550
-dimwishlist:item=46524085&perks=0,3142289711,4015745376,0,2132353550
-dimwishlist:item=46524085&perks=0,0,4015745376,990298390,2132353550
-dimwishlist:item=46524085&perks=1392496348,0,0,0,2132353550
-dimwishlist:item=46524085&perks=0,3142289711,0,0,2132353550
-dimwishlist:item=46524085&perks=0,0,4015745376,0,2132353550
-dimwishlist:item=46524085&perks=0,0,0,990298390,2132353550
 
 // Revision Zero
 // Polygonal Rifling
@@ -149,13 +136,19 @@ dimwishlist:item=3512014804&perks=3661387068,3142289711,743139589,862848869
 // Textured Grip
 dimwishlist:item=3973202132&perks=4090651448,3142289711,2921090754,3917450714
 
+// Chaperone
+// Hammer-Forged Rifling
+// Accurized Rounds
+// The Roadborn
+// Hand-Laid Stock
+dimwishlist:item=3413860062&perks=3250034553,3142289711,1658733671,990298390
+
 // The Colony
 // Linear Compensator
 // High-Velocity Rounds
 // Serve the Colony
 // Composite Stock
 dimwishlist:item=3899270607&perks=1441682018,2822142346,2019952880,3465198467
-
 
 // Deathbringer
 // Volatile Launch
@@ -1402,13 +1395,13 @@ dimwishlist:item=1994645182&perks=0,0,2014892510,0,2171055345
 dimwishlist:item=1994645182&perks=0,0,0,2889515627,2171055345
 
 // Burden of Guilt (Adept)
-// Fluted Barrel
+// Extended Barrel
 // Liquid Coils
 // Perpetual Motion
 // High-Impact Reserves
 // Alacrity
-//notes: Masterwork: Stability, Mod: Adept Stability
-dimwishlist:item=2002522739&perks=1840239774,1687452232,1428297954,2213355989,2988596335
+//notes: Masterwork: Stability, Mod: Adept Range
+dimwishlist:item=2002522739&perks=1467527085,1687452232,1428297954,2213355989,2988596335
 
 // Zealot's Reward
 // Smallbore
@@ -2250,6 +2243,7 @@ dimwishlist:item=2034215657&perks=0,0,0,711234314,164468655
 dimwishlist:item=2527666306&perks=3250034553,1561002382,247725512,1264398905,0
 dimwishlist:item=2314610827&perks=1482024992,1968497646,3017780555,4104185692,2988596335
 dimwishlist:item=2314610827&perks=1392496348,1561002382,3619207468,699525795,2988596335
+dimwishlist:item=2314610827&perks=1482024992,1561002382,3619207468,699525795,2988596335
 
 // Pure Poetry
 // Smallbore
@@ -2571,15 +2565,39 @@ dimwishlist:item=471518543&perks=4090651448,3177308360,1359896290,3824105627
 Pulse Rifles
 ====================================================================================================
 
-// The Messenger (Adept)
-// Chambered Compensator
+// Nightshade
+// Arrowhead Brake
 // High-Caliber Rounds
+// Keep Away
+// Headseeker
+// Nadir's Focus
+//notes: Masterwork: Range, Mod: Counterbalance Mod
+dimwishlist:item=1974641289&perks=839105230,1561002382,3619207468,460017080,2509860981
+dimwishlist:item=1974641289&perks=839105230,1561002382,3619207468,0,2509860981
+dimwishlist:item=1974641289&perks=839105230,1561002382,0,460017080,2509860981
+dimwishlist:item=1974641289&perks=839105230,0,3619207468,460017080,2509860981
+dimwishlist:item=1974641289&perks=0,1561002382,3619207468,460017080,2509860981
+dimwishlist:item=1974641289&perks=839105230,1561002382,0,0,2509860981
+dimwishlist:item=1974641289&perks=839105230,0,3619207468,0,2509860981
+dimwishlist:item=1974641289&perks=839105230,0,0,460017080,2509860981
+dimwishlist:item=1974641289&perks=0,1561002382,0,460017080,2509860981
+dimwishlist:item=1974641289&perks=0,1561002382,3619207468,0,2509860981
+dimwishlist:item=1974641289&perks=0,0,3619207468,460017080,2509860981
+dimwishlist:item=1974641289&perks=839105230,0,0,0,2509860981
+dimwishlist:item=1974641289&perks=0,1561002382,0,0,2509860981
+dimwishlist:item=1974641289&perks=0,0,3619207468,0,2509860981
+dimwishlist:item=1974641289&perks=0,0,0,460017080,2509860981
+
+// The Messenger (Adept)
+// Chambered Compensator | Smallbore
+// High-Caliber Rounds | High-Caliber Rounds
 // Rapid Hit
-// Celerity
-// No Origin Trait
-//notes: Masterwork: , Mod: 
+// Celerity | Keep Away
+// No Origin Trait | Alacrity
+//notes: Masterwork: Range, Mod: Adept Counterbalance
 dimwishlist:item=1173780905&perks=3661387068,1561002382,247725512,1264398905,0
 dimwishlist:item=364665267&perks=1482024992,1561002382,247725512,460017080,2988596335
+dimwishlist:item=364665267&perks=1482024992,1561002382,247725512,3619207468,2988596335
 
 // Chattering Bone
 // Arrowhead Brake
@@ -2688,8 +2706,9 @@ dimwishlist:item=1780464822&perks=1482024992,1885400500,2946784966,3047969693,41
 // Heating Up
 // Kill Clip
 // Vanguard's Vindication
-//notes: Masterwork: , Mod: 
+//notes: Masterwork: Stability, Mod: Adept Range
 dimwishlist:item=1924276978&perks=1482024992,3177308360,1570042021,1015611457,744217850
+dimwishlist:item=1924276978&perks=1467527085,3142289711,2387244414,1015611457,744217850
 
 // Stars in Shadow
 // Smallbore
@@ -3145,6 +3164,7 @@ dimwishlist:item=854379020&perks=1300023272,3142289711,3161816588,3511092054,298
 //notes: Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=912150785&perks=1300023272,3142289711,957782887,509074078,744217850
 
+
 // Without Remorse
 // Rifled Barrel
 // Assault Mag
@@ -3409,7 +3429,7 @@ dimwishlist:item=852228780&perks=202670084,3142289711,957782887,2213355989,0
 // No Distractions
 // Opening Shot
 // No Origin Trait
-//notes: Masterwork: Handling, Mod: Adept Targeting
+//notes: Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,47981717,0
 
 // 1000 Yard Stare
@@ -3455,11 +3475,6 @@ dimwishlist:item=1999754402&perks=0,0,0,365154968,2509860981
 // Nadir Focus
 //notes: Masterwork: Range, Mod: Coutnerbalance Stock
 dimwishlist:item=2510526114&perks=1482024992,3142289711,1428297954,365154968,2509860981
-dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,365154968,2509860981
-dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,1890422124,2509860981
-dimwishlist:item=2510526114&perks=1482024992,3142289711,1428297954,1890422124,2509860981
-dimwishlist:item=2510526114&perks=1482024992,3142289711,1428297954,2846385770,2509860981
-dimwishlist:item=2510526114&perks=1482024992,3142289711,1428297954,1890422124,2509860981
 dimwishlist:item=2510526114&perks=1482024992,0,1428297954,365154968,2509860981
 
 // The Immortal (Adept)
@@ -3602,6 +3617,21 @@ dimwishlist:item=2988121501&perks=1482024992,0,0,0,2839173408
 dimwishlist:item=2988121501&perks=0,1561002382,0,0,2839173408
 dimwishlist:item=2988121501&perks=0,0,2946784966,0,2839173408
 dimwishlist:item=2988121501&perks=0,0,0,1015611457,2839173408
+dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3418165135,1260401931
+dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,0,1260401931
+dimwishlist:item=3257091167&perks=3666208348,269888150,0,3418165135,1260401931
+dimwishlist:item=3257091167&perks=3666208348,0,1618208178,3418165135,1260401931
+dimwishlist:item=3257091167&perks=0,269888150,1618208178,3418165135,1260401931
+dimwishlist:item=3257091167&perks=3666208348,269888150,0,0,1260401931
+dimwishlist:item=3257091167&perks=3666208348,0,1618208178,0,1260401931
+dimwishlist:item=3257091167&perks=3666208348,0,0,3418165135,1260401931
+dimwishlist:item=3257091167&perks=0,269888150,0,3418165135,1260401931
+dimwishlist:item=3257091167&perks=0,269888150,1618208178,0,1260401931
+dimwishlist:item=3257091167&perks=0,0,1618208178,3418165135,1260401931
+dimwishlist:item=3257091167&perks=3666208348,0,0,0,1260401931
+dimwishlist:item=3257091167&perks=0,269888150,0,0,1260401931
+dimwishlist:item=3257091167&perks=0,0,1618208178,0,1260401931
+dimwishlist:item=3257091167&perks=0,0,0,3418165135,1260401931
 
 // Pizzicato-22
 // Extended Barrel
@@ -3637,7 +3667,23 @@ dimwishlist:item=3262192268&perks=1467527085,1885400500,2846385770,365154968,398
 Swords
 ====================================================================================================
 
--
+// Sola's Scar (Adept)
+// Honed Edge
+// Swordmaster's Guard
+// Energy Transfer
+// Chain Reaction
+// No Origin Trait
+//notes: Masterwork: Work, Mod: Quick Access Sling
+dimwishlist:item=3847137620&perks=2827049491,269888150,2030760728,2396489472
+
+// The Other Half
+// Jagged Edge
+// Swordmaster's Guard
+// Enhanced Eager Edge
+// Enhanced Vorpal Weapon
+// Hot Swap
+//notes: Masterwork: Impact, Mod: Quick Access Sling
+dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3418165135,1260401931
 
 ====================================================================================================
 Trace Rifles
