@@ -157,6 +157,13 @@ dimwishlist:item=3899270607&perks=1441682018,2822142346,2019952880,3465198467
 // Composite Stock
 dimwishlist:item=2232171099&perks=1478423395,2985827016,3333994164,3465198467
 
+// Tractor Cannon
+// Extended Barrel
+// Particle Repeater
+// The Scientific Method
+// Composite Stock
+dimwishlist:item=3580904581&perks=1467527085,3868766766,25692695,3465198467
+
 // Vex Mythoclast
 // Arrowhead Brake
 // Volatile Battery
@@ -1949,6 +1956,14 @@ dimwishlist:item=3165547384&perks=0,0,0,3511092054,0
 Hand Cannons
 ====================================================================================================
 
+// Kept Confidence
+// Extended Barrel
+// Accurized Rounds
+// Enhanced Shot Swap
+// Enhanced Eye of the Storm
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1875512595&perks=1467527085,3142289711,2217963031,3719974635
+
 // Warden's Law (Adept)
 // Smallbore
 // Accurized Rounds
@@ -3078,6 +3093,15 @@ dimwishlist:item=3885259140&perks=0,0,0,64866129,1489048135
 Shotguns
 ====================================================================================================
 
+// Heritage
+// Full Bore
+// Assault Mag
+// Enhanced Threat Detector
+// Enhanced Killing Wind
+// Bray Inheritance
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=4248569242&perks=202670084,791862061,494941759,4207509907,766321425
+
 // Deadpan Delivery
 // Rifled Barrel
 // Accurized Rounds
@@ -3104,11 +3128,11 @@ dimwishlist:item=1296429091&perks=0,0,0,1451849462,744217850
 // Imperial Decree
 // Barrel Shroud
 // Accurized Rounds
-// Enhanced Threat Detector
+// Enhanced Slideshot
 // Enhanced Opening Shot
 // To Excess
 //notes:Masterwork: Handling, Mod: Quick Access Sling
-dimwishlist:item=318443586&perks=1300023272,3142289711,494941759,1370847713,1905044254
+dimwishlist:item=318443586&perks=1300023272,3142289711,191144788,1370847713,1905044254
 
 // The Inquisitor (Adept)
 // Fluted Barrel
@@ -3372,6 +3396,14 @@ dimwishlist:item=1916287826&perks=4090651448,1968497646,691659142,4082225868,160
 ====================================================================================================
 Sniper Rifles
 ====================================================================================================
+
+// Beloved
+// Fluted Barrel
+// Ricochet Round
+// Enhanced Snapshot Sights
+// Enhanced Quickdraw
+//notes: Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=3107853529&perks=1840239774,1885400500,4116820839,1961144892,1905044254
 
 // Mercurial Overreach
 // Fluted Barrel
