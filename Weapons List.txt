@@ -3159,14 +3159,14 @@ dimwishlist:item=664109750&perks=0,0,0,3511092054,2120661319
 
 // Astral Horizon (Adept)
 // Barrel Shroud
-// Assault Mag
-// Threat Detector
+// Accurized Rounds
+// Slideshot
 // Elemental Capacitor
 // Alacrity
 //notes: Masterwork: Range, Mod: Adept Handling
-dimwishlist:item=854379020&perks=1047830412,3142289711,3161816588,3511092054,2988596335
 dimwishlist:item=854379020&perks=1300023272,3142289711,4071163871,3511092054,2988596335
 dimwishlist:item=854379020&perks=1300023272,3142289711,3161816588,3511092054,2988596335
+dimwishlist:item=854379020&perks=0,3142289711,3161816588,3511092054,2988596335
 
 // Mindbender's Ambition (Adept)
 // Barrel Shroud
