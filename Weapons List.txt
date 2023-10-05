@@ -1653,27 +1653,13 @@ Grenade Launchers
 ====================================================================================================
 
 // Cataphract GL3 (Adept)
-// Quick Launch
-// High-Velocity Rounds
+// Linear Compensator
+// Proximity Grenades
 // Impulse Amplifier
 // Chain Reaction
 // Alacrity
-//notes: Masterwork: Blast Radius, Mod: Adept Blast Radius
-dimwishlist:item=874623537&perks=3525010810,2822142346,951095735,2396489472,2988596335
-dimwishlist:item=874623537&perks=3525010810,2822142346,951095735,0,2988596335
-dimwishlist:item=874623537&perks=3525010810,2822142346,0,2396489472,2988596335
-dimwishlist:item=874623537&perks=3525010810,0,951095735,2396489472,2988596335
-dimwishlist:item=874623537&perks=0,2822142346,951095735,2396489472,2988596335
-dimwishlist:item=874623537&perks=3525010810,2822142346,0,0,2988596335
-dimwishlist:item=874623537&perks=3525010810,0,951095735,0,2988596335
-dimwishlist:item=874623537&perks=3525010810,0,0,2396489472,2988596335
-dimwishlist:item=874623537&perks=0,2822142346,0,2396489472,2988596335
-dimwishlist:item=874623537&perks=0,2822142346,951095735,0,2988596335
-dimwishlist:item=874623537&perks=0,0,951095735,2396489472,2988596335
-dimwishlist:item=874623537&perks=3525010810,0,0,0,2988596335
-dimwishlist:item=874623537&perks=0,2822142346,0,0,2988596335
-dimwishlist:item=874623537&perks=0,0,951095735,0,2988596335
-dimwishlist:item=874623537&perks=0,0,0,2396489472,2988596335
+//notes: Masterwork: Velocity, Mod: Adept Blast Radius
+dimwishlist:item=874623537&perks=1441682018,409831596,951095735,2396489472,2988596335
 
 // Regnant
 // Quick Launch
