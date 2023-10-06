@@ -1942,6 +1942,29 @@ dimwishlist:item=3165547384&perks=0,0,0,3511092054,0
 Hand Cannons
 ====================================================================================================
 
+// Trust
+// Full Bore
+// Accurized Rounds
+// Rapid Hit
+// Eye of the Storm
+// Gun and Run
+//notes: Masterwork: Range, Mod: Targetgind Adjuster
+dimwishlist:item=2850664015&perks=202670084,3142289711,247725512,699525795,515704826
+dimwishlist:item=2850664015&perks=202670084,3142289711,247725512,0,515704826
+dimwishlist:item=2850664015&perks=202670084,3142289711,0,699525795,515704826
+dimwishlist:item=2850664015&perks=202670084,0,247725512,699525795,515704826
+dimwishlist:item=2850664015&perks=0,3142289711,247725512,699525795,515704826
+dimwishlist:item=2850664015&perks=202670084,3142289711,0,0,515704826
+dimwishlist:item=2850664015&perks=202670084,0,247725512,0,515704826
+dimwishlist:item=2850664015&perks=202670084,0,0,699525795,515704826
+dimwishlist:item=2850664015&perks=0,3142289711,0,699525795,515704826
+dimwishlist:item=2850664015&perks=0,3142289711,247725512,0,515704826
+dimwishlist:item=2850664015&perks=0,0,247725512,699525795,515704826
+dimwishlist:item=2850664015&perks=202670084,0,0,0,515704826
+dimwishlist:item=2850664015&perks=0,3142289711,0,0,515704826
+dimwishlist:item=2850664015&perks=0,0,247725512,0,515704826
+dimwishlist:item=2850664015&perks=0,0,0,699525795,515704826
+
 // Kept Confidence
 // Extended Barrel
 // Accurized Rounds
@@ -3373,6 +3396,29 @@ dimwishlist:item=1916287826&perks=4090651448,1968497646,691659142,4082225868,160
 ====================================================================================================
 Sniper Rifles
 ====================================================================================================
+
+// Albruna-D
+// Hammer-Forged Rifling
+// Accurized Rounds
+// Elemental Capacitor
+// Opening Shot
+// Hakke Breach Armaments
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=676270382&perks=3250034553,3142289711,3511092054,47981717,1607056502
+dimwishlist:item=676270382&perks=3250034553,3142289711,3511092054,0,1607056502
+dimwishlist:item=676270382&perks=3250034553,3142289711,0,47981717,1607056502
+dimwishlist:item=676270382&perks=3250034553,0,3511092054,47981717,1607056502
+dimwishlist:item=676270382&perks=0,3142289711,3511092054,47981717,1607056502
+dimwishlist:item=676270382&perks=3250034553,3142289711,0,0,1607056502
+dimwishlist:item=676270382&perks=3250034553,0,3511092054,0,1607056502
+dimwishlist:item=676270382&perks=3250034553,0,0,47981717,1607056502
+dimwishlist:item=676270382&perks=0,3142289711,0,47981717,1607056502
+dimwishlist:item=676270382&perks=0,3142289711,3511092054,0,1607056502
+dimwishlist:item=676270382&perks=0,0,3511092054,47981717,1607056502
+dimwishlist:item=676270382&perks=3250034553,0,0,0,1607056502
+dimwishlist:item=676270382&perks=0,3142289711,0,0,1607056502
+dimwishlist:item=676270382&perks=0,0,3511092054,0,1607056502
+dimwishlist:item=676270382&perks=0,0,0,47981717,1607056502
 
 // Luna Regolith III
 // Full Bore
