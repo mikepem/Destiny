@@ -38,9 +38,9 @@ dimwishlist:item=46125926&perks=3525010810,2822142346,2620589274,1067908860,3523
 // Dead Man's Tale
 // Polygonal Rifling
 // Steady Rounds
-// Snapshot Sights
+// Rapid Hit
 // Fitted Stock
-
+dimwishlist:item=2188764214&perks=1392496348,3177308360,247725512,4259401308,499501121
 
 // Hawkmoon
 // Smallbore
@@ -57,16 +57,6 @@ dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,1012699414
 dimwishlist:item=46524085&perks=1392496348,3142289711,4015745376,990298390,229096166
 dimwishlist:item=46524085&perks=1392496348,3142289711,4015745376,990298390,2132353550
 
-// Revision Zero
-// Polygonal Rifling
-// High-Caliber Rounds
-// Slickdraw | Arc Elemental Capacitor | Eye of the Storm
-// Fitted Stock
-// Hakke Heavy Burst
-dimwishlist:item=1473821207&perks=1392496348,1561002382,1821614984,4259401308,2206869417
-dimwishlist:item=1473821207&perks=1392496348,1561002382,3511092054,4259401308,2206869417
-dimwishlist:item=1473821207&perks=1392496348,1561002382,699525795,4259401308,2206869417
-
 // Vexcalibur
 // Auxiliary Reserves
 // Accurized Rounds
@@ -74,6 +64,15 @@ dimwishlist:item=1473821207&perks=1392496348,1561002382,699525795,4259401308,220
 // Short-Action Stock
 // Feedback Refit
 dimwishlist:item=3118061005&perks=580685494,3142289711,2171805903,1067908860,3146691103
+
+// Revision Zero
+// Polygonal Rifling
+// Ricochet Rounds
+// Arc Elemental Capacitor
+// Fitted Stock
+// Hakke Heavy Burst
+// Pressurized Refit
+dimwishlist:item=1473821207&perks=1392496348,1885400500,3511092054,4259401308,2206869417,1266037484
 
 // Edge of Concurrence
 // Edge of Intent
