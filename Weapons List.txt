@@ -1387,6 +1387,15 @@ dimwishlist:item=4023807721&perks=1482024992,106909392,1428297954,1015611457,298
 S17 - Haunted
 ====================================================================================================
 
+// Firefright
+// Smallbore
+// Ricochet Rouds
+// Enhanced Fragil Focus
+// Enhanced Elemental Capacitor
+// Extrovert
+//notes: Masterwork: Range, Mods: Counterbalance Stock
+dimwishlist:item=2778013407&perks=1482024992,1885400500,1609056795,711234314,1250481499
+
 // Drang (Baroque)
 // Smallbore
 // Accurized Rounds
