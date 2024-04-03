@@ -1102,6 +1102,19 @@ dimwishlist:item=2481881293&perks=0,0,0,2213355989,0
 S14 - Splicer
 ====================================================================================================
 
+// Found Verdict (Timelost)
+// Barrel Shroud
+// Accurized Rounds
+// Surplus
+// Opening Shot
+// No Origin Trait
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,47981717,0
+dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,0,0
+dimwishlist:item=631439337&perks=1300023272,3142289711,0,47981717,0
+dimwishlist:item=631439337&perks=1300023272,0,3436462433,47981717,0
+dimwishlist:item=631439337&perks=0,3142289711,3436462433,47981717,0
+
 // Survivor's Epitaph
 // Full Bore
 // High-Caliber Rounds
@@ -1207,6 +1220,15 @@ dimwishlist:item=1119734784&perks=0,0,0,1015611457,0
 S15 - Lost
 ====================================================================================================
 
+// Syncopation-53
+// Arrowhead Brake
+// Ricochet Rounds
+// Enhanced Zen Moment
+// Enhanced Headseeker
+// Suros Synergy
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=2856514843&perks=839105230,1885400500,1748774930,4045335048,4008116374
+
 // Annual Skate
 // Steadyhand HCS
 // Accurized Rounds
@@ -1280,6 +1302,40 @@ Year 5 - The Witch Queen
 ====================================================================================================
 S16 - Risen
 ====================================================================================================
+
+// Submission
+// Full Bore
+// Accurized Rounds
+// Enhanced Perpetual Motion
+// Enhanced Killing Wind
+// Souldrinker
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=3886416794&perks=202670084,3142289711,2014892510,4207509907,3363267119
+dimwishlist:item=3886416794&perks=202670084,3142289711,2014892510,0,3363267119
+dimwishlist:item=3886416794&perks=202670084,3142289711,0,4207509907,3363267119
+dimwishlist:item=3886416794&perks=202670084,0,2014892510,4207509907,3363267119
+dimwishlist:item=3886416794&perks=0,3142289711,2014892510,4207509907,3363267119
+dimwishlist:item=3886416794&perks=202670084,3142289711,0,0,3363267119
+dimwishlist:item=3886416794&perks=202670084,0,2014892510,0,3363267119
+dimwishlist:item=3886416794&perks=202670084,0,0,4207509907,3363267119
+dimwishlist:item=3886416794&perks=0,3142289711,0,4207509907,3363267119
+dimwishlist:item=3886416794&perks=0,3142289711,2014892510,0,3363267119
+dimwishlist:item=3886416794&perks=0,0,2014892510,4207509907,3363267119
+dimwishlist:item=3886416794&perks=202670084,0,0,0,3363267119
+dimwishlist:item=3886416794&perks=0,3142289711,0,0,3363267119
+dimwishlist:item=3886416794&perks=0,0,2014892510,0,3363267119
+dimwishlist:item=3886416794&perks=0,0,0,4207509907,3363267119
+
+// Submission (Adept)
+// Full Bore
+// Accurized Rounds
+// Perpetual Motion
+// Killing Wind
+// Souldrinker
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=1941816543&perks=202670084,3142289711,1428297954,2450788523,3363267119
+dimwishlist:item=1941816543&perks=202670084,3142289711,1428297954,0,3363267119
+dimwishlist:item=1941816543&perks=0,0,1428297954,0,3363267119
 
 // Cantata-57
 // Smallbore
@@ -1574,27 +1630,13 @@ dimwishlist:item=2671639706&perks=0,0,1428297954,0,1607056502
 dimwishlist:item=2671639706&perks=0,0,0,3511092054,1607056502
 
 // Out of Bounds
-// Smallbore
+// Full Bore
 // Ricochet Rounds
 // Perpetual Motion
-// Under-Over
+// Fragile Focus
 // Omonlon Fluid Dynamics
 //notes: Masterwork: Range, Mod: Targeting Adjuster
-dimwishlist:item=2988121501&perks=1482024992,1885400500,1428297954,1870851715,2839173408
-dimwishlist:item=2988121501&perks=1482024992,1885400500,1428297954,0,2839173408
-dimwishlist:item=2988121501&perks=1482024992,1885400500,0,1870851715,2839173408
-dimwishlist:item=2988121501&perks=1482024992,0,1428297954,1870851715,2839173408
-dimwishlist:item=2988121501&perks=0,1885400500,1428297954,1870851715,2839173408
-dimwishlist:item=2988121501&perks=1482024992,1885400500,0,0,2839173408
-dimwishlist:item=2988121501&perks=1482024992,0,1428297954,0,2839173408
-dimwishlist:item=2988121501&perks=1482024992,0,0,1870851715,2839173408
-dimwishlist:item=2988121501&perks=0,1885400500,0,1870851715,2839173408
-dimwishlist:item=2988121501&perks=0,1885400500,1428297954,0,2839173408
-dimwishlist:item=2988121501&perks=0,0,1428297954,1870851715,2839173408
-dimwishlist:item=2988121501&perks=1482024992,0,0,0,2839173408
-dimwishlist:item=2988121501&perks=0,1885400500,0,0,2839173408
-dimwishlist:item=2988121501&perks=0,0,1428297954,0,2839173408
-dimwishlist:item=2988121501&perks=0,0,0,1870851715,2839173408
+dimwishlist:item=2988121501&perks=202670084,1885400500,1428297954,2451262963,2839173408
 
 // Defiance of Yasmin
 // Fluted Barrel
@@ -1958,6 +2000,29 @@ dimwishlist:item=3193598749&perks=1467527085,1561002382,1359896290,1890422124,29
 ====================================================================================================
 S21 - Deep
 ====================================================================================================
+
+// Chattering Bone
+// Arrowhead Brake
+// Accurized Rounds
+// Enhanced Keep Away
+// Enhanced Elemental Capacitor
+// Explosive Pact
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=501329015&perks=839105230,3142289711,3198323828,711234314,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,3198323828,0,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,0,711234314,1489048135
+dimwishlist:item=501329015&perks=839105230,0,3198323828,711234314,1489048135
+dimwishlist:item=501329015&perks=0,3142289711,3198323828,711234314,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,0,0,1489048135
+dimwishlist:item=501329015&perks=839105230,0,3198323828,0,1489048135
+dimwishlist:item=501329015&perks=839105230,0,0,711234314,1489048135
+dimwishlist:item=501329015&perks=0,3142289711,0,711234314,1489048135
+dimwishlist:item=501329015&perks=0,3142289711,3198323828,0,1489048135
+dimwishlist:item=501329015&perks=0,0,3198323828,711234314,1489048135
+dimwishlist:item=501329015&perks=839105230,0,0,0,1489048135
+dimwishlist:item=501329015&perks=0,3142289711,0,0,1489048135
+dimwishlist:item=501329015&perks=0,0,3198323828,0,1489048135
+dimwishlist:item=501329015&perks=0,0,0,711234314,1489048135
 
 // Positive Outlook
 // Smallbore
