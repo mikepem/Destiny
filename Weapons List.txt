@@ -1443,6 +1443,15 @@ dimwishlist:item=4023807721&perks=1482024992,106909392,1428297954,1015611457,298
 S17 - Haunted
 ====================================================================================================
 
+// Unforgiven
+// Smallbore
+// Ricochet Rounds
+// Fragile Focus
+// Golden Tricorn
+// Bitterspite
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=3000847393&perks=1482024992,1885400500,2451262963,2610012052,4154828211
+
 // Firefright
 // Smallbore
 // Ricochet Rouds
@@ -2000,6 +2009,25 @@ dimwishlist:item=3193598749&perks=1467527085,1561002382,1359896290,1890422124,29
 ====================================================================================================
 S21 - Deep
 ====================================================================================================
+
+// Outlast
+// Smallbore
+// Ricochet Rounds
+// Keep Away
+// Kill Clip
+// Disaster Plan
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=1678205741&perks=1482024992,1885400500,3619207468,1015611457,1004814308
+dimwishlist:item=1678205741&perks=1482024992,1885400500,3619207468,0,1004814308
+
+// Bug-Out Bag
+// Smallbore
+// Ricochet Rounds
+// Perpetual Motion
+// Fragil Focus
+// Disaster Plan
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=2832639510&perks=1482024992,1885400500,1428297954,2451262963,1004814308
 
 // Chattering Bone
 // Arrowhead Brake
@@ -2758,23 +2786,12 @@ dimwishlist:item=3211624072&perks=0,0,0,1890422124,2120661319
 // High-Velocity Rounds
 // Impulse Amplifier
 // Adagio
-// Origin Trait Not Listed: 220689851
+// Sundering
 //notes: Masterwork: Velocity, Mod: Counterbalance Stock
 dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,3673922083,220689851
-dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,0,220689851
-dimwishlist:item=3381450498&perks=3525010810,2822142346,0,3673922083,220689851
-dimwishlist:item=3381450498&perks=3525010810,0,951095735,3673922083,220689851
-dimwishlist:item=3381450498&perks=0,2822142346,951095735,3673922083,220689851
-dimwishlist:item=3381450498&perks=3525010810,2822142346,0,0,220689851
-dimwishlist:item=3381450498&perks=3525010810,0,951095735,0,220689851
-dimwishlist:item=3381450498&perks=3525010810,0,0,3673922083,220689851
-dimwishlist:item=3381450498&perks=0,2822142346,0,3673922083,220689851
-dimwishlist:item=3381450498&perks=0,2822142346,951095735,0,220689851
-dimwishlist:item=3381450498&perks=0,0,951095735,3673922083,220689851
-dimwishlist:item=3381450498&perks=3525010810,0,0,0,220689851
-dimwishlist:item=3381450498&perks=0,2822142346,0,0,220689851
-dimwishlist:item=3381450498&perks=0,0,951095735,0,220689851
-dimwishlist:item=3381450498&perks=0,0,0,3673922083,220689851
+dimwishlist:item=3381450498&perks=1478423395,3230963543,2859149211,2173046394,220689851
+dimwishlist:item=3381450498&perks=1478423395,2822142346,1556840489,2428997981,220689851
+dimwishlist:item=3381450498&perks=0,0,1556840489,2428997981,220689851
 
 // Prosecutor
 // Smallbore
