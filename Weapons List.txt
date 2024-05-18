@@ -1102,6 +1102,14 @@ dimwishlist:item=2481881293&perks=0,0,0,2213355989,0
 S14 - Splicer
 ====================================================================================================
 
+// Vision of Confluence (Timelost)
+// Polygonal Rifling
+// Armor Piercing Rounds
+// Zen Moment
+// Kill Clip
+dimwishlist:item=690668916&perks=1392496348,1968497646,2387244414,1015611457
+dimwishlist:item=690668916&perks=1482024992,1885400500,2387244414,1015611457
+
 // Found Verdict (Timelost)
 // Barrel Shroud
 // Accurized Rounds
