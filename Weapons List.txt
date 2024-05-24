@@ -790,6 +790,14 @@ dimwishlist:item=3937866388&perks=0,0,0,2387244414,0
 S11 - Arrivals
 ====================================================================================================
 
+// The Forward Path
+// Red Dot 2 MOA
+// Steady Rounds
+// Dynamic Sway Reduction
+// Eye of the Storm
+//notes: Masterwork: Range, Mod: Counterbalance Stock Mod
+dimwishlist:item=1690783811&perks=2405638015,3177308360,1359896290,699525795
+
 // The Fool's Remedy
 // Perk Not Listed: 445755705
 // Ricochet Rounds
@@ -956,6 +964,23 @@ Year 4 - Beyond Light
 S12 - Hunter
 ====================================================================================================
 
+// The Guiding Sight
+// Rifle Scope ST
+// High-Caliber Rounds
+// Rapid Hit
+// Iron Grip
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=1641430382&perks=679077873,1561002382,247725512,11551321
+
+// Heritage
+// Fluted Barrel
+// Accurized Rounds
+// Enhanced Slideshot
+// Enhanced Killing Wind
+// Bray Inheritance
+//notes: Masterwork: Handling, Mod: Sweaty Confetti
+dimwishlist:item=4248569242&perks=1840239774,3142289711,191144788,4207509907,766321425
+
 // Friction Fire
 // Smallbore
 // Accurized Rounds
@@ -1113,15 +1138,12 @@ dimwishlist:item=690668916&perks=1482024992,1885400500,2387244414,1015611457
 // Found Verdict (Timelost)
 // Barrel Shroud
 // Accurized Rounds
-// Surplus
+// Slideshot
 // Opening Shot
 // No Origin Trait
 //notes: Masterwork: Range, Mod: Adept Range
-dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,47981717,0
-dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,0,0
-dimwishlist:item=631439337&perks=1300023272,3142289711,0,47981717,0
-dimwishlist:item=631439337&perks=1300023272,0,3436462433,47981717,0
-dimwishlist:item=631439337&perks=0,3142289711,3436462433,47981717,0
+dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,47981717
 
 // Survivor's Epitaph
 // Full Bore
@@ -1227,6 +1249,67 @@ dimwishlist:item=1119734784&perks=0,0,0,1015611457,0
 ====================================================================================================
 S15 - Lost
 ====================================================================================================
+
+// Ragnhild-D
+// Rifled Barrel
+// Accurized Rounds
+// Enhanced Perpetual Motion
+// Enhanced Elemental Capacitor
+// Hakke Breach Armaments
+//notes: Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=4225322581&perks=1332244541,3142289711,2014892510,711234314,1607056502
+
+// Perses-D
+// Arrowhead Brake
+// Steady Rounds
+// Rapid Hit
+// Vorpal Weapon
+// Hakke Breach Armaments
+//notes: Masterwork: Handling, Mod: Targeting Adjuster
+dimwishlist:item=1019000888&perks=839105230,3177308360,247725512,1546637391,1607056502
+
+// The Messenger (Adept)
+// Chambered Compensator
+// High-Caliber Rounds
+// Rapid Hit
+// Celerity
+//notes: Masterwork: Stability, Mod: Adept Counterbalance
+dimwishlist:item=1173780905&perks=3661387068,1561002382,247725512,1264398905
+
+// Fortissimo-11
+// Hammer-Forged Rifling
+// Assault Mag
+// Surplus
+// Opening Shot
+// Vanguard's Vindication
+//notes: Masterwork: Stability, Mod: Sweaty Confetti
+dimwishlist:item=2821430069&perks=3250034553,791862061,3436462433,47981717,744217850
+
+// Fractethyst
+// Full Choke
+// Accurize Rounds
+// Quickdraw
+// Opening Shot
+//notes: Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=3184681056&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=3184681056&perks=1332244541,3142289711,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+
+// A Sudden Death
+// Smoothbore
+// Accurized Rounds
+// Threat Detector
+// Elemental Capacitor
+//notes: Master: Handling, Mod: Quick Access Sling
+dimwishlist:item=2855157553&perks=466087222,3142289711,4071163871,3511092054
+
+// Deliverance (Adept)
+// Smallbore
+// Projection Fuse
+// Enhanced Heating Up
+// Enhanced Successful Warmip
+//notes: Master: Charge Time, Mod: Adept Range
+dimwishlist:item=2943293195&perks=1482024992,2969185026,1570042021,2652708987,3363267119
 
 // Syncopation-53
 // Arrowhead Brake
@@ -1450,6 +1533,15 @@ dimwishlist:item=4023807721&perks=1482024992,106909392,1428297954,1015611457,298
 ====================================================================================================
 S17 - Haunted
 ====================================================================================================
+
+// New Purpose
+// Smallbore
+// Ricochet Rounds
+// Tunnel Vision
+// Desperado
+// Bitterspite
+//notes: Masterwork: Handling, Mod: Counterbalance Stock
+dimwishlist:item=1780464822&perks=1482024992,1885400500,2946784966,3047969693,4154828211
 
 // Unforgiven
 // Smallbore
@@ -1693,6 +1785,15 @@ dimwishlist:item=3503019618&perks=0,0,0,47981717,120721526
 S19 - Seraph
 ====================================================================================================
 
+// Disparity
+// Arrowheead Brake
+// Accurized Rounds
+// Rapid Hit
+// Headseeker
+// Hakke Breach Armaments
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=1751893422&perks=839105230,3142289711,2938480696,4045335048,1607056502
+
 // Long Arm
 // Arrowhead Brake
 // Steady Rounds
@@ -1810,6 +1911,24 @@ Year 6 - Lightfall
 ====================================================================================================
 S20 - Defiance
 ====================================================================================================
+
+// Battle Scar
+// Arrowhead Brake
+// Accurize Rounds
+// Keep Away
+// Headseeker
+// Field-Tested
+//notes: Masterwork: Stability: Mod, Counterbalance Stock
+dimwishlist:item=2099894368&perks=839105230,3142289711,3619207468,460017080,2120661319
+
+// Perpetualis
+// Smallbore
+// Accurized Rounds
+// Enhanced Zen Moment
+// Enhanced Eye of the Storm
+// Noble Deeds
+//notes: Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=392008588&perks=1482024992,3142289711,1748774930,3719974635,1823011807
 
 // Autumn Wind
 // Arrowhead Brake
@@ -2006,6 +2125,34 @@ dimwishlist:item=3193598749&perks=1467527085,1561002382,1359896290,1890422124,29
 S21 - Deep
 ====================================================================================================
 
+// Randy's Throwing Knife
+// Arrowhead Brake
+// High-Caliber Rounds
+// Rapid Hit
+// Box Breathing
+// One Quiet Moment
+//notes: Masterwork: Range, Mod: Counterbalance Stock
+dimwishlist:item=3292795429&perks=839105230,1885400500,247725512,2551157718,4091460919
+dimwishlist:item=3292795429&perks=839105230,1561002382,247725512,2551157718,4091460919
+
+// Stay Frosty
+// Arrowhead Brake
+// Accurized Rounds
+// Killing Wind
+// Desperado
+// Omolon luide Dynamics
+//notes: Masterwork: Stability, Mod: Counterbalance Stock
+dimwishlist:item=2812100428&perks=839105230,1885400500,2450788523,3047969693,2839173408
+
+// Unexpected Resurgence (Adept)
+// Tempered Truss Rod
+// Accurized Rounds
+// Impulse Amplifier
+// Close to Melee
+// Alacrity
+//notes: Masterwork: Handling, Mod: Adept Handling
+dimwishlist:item=1141586039&perks=5699512,3142289711,951095735,1782407750,2988596335
+
 // Outlast
 // Smallbore
 // Ricochet Rounds
@@ -2176,6 +2323,15 @@ dimwishlist:item=3236112986&perks=0,0,0,47981717,1004814308
 ====================================================================================================
 S22 - Witch
 ====================================================================================================
+
+// Swordbreaker
+// Barrel Shroud
+// Accurized Rounds
+// Slideshot
+// Opening Shot
+// Cursed Thrall
+//notes: Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=3163900678&perks=1300023272,3142289711,191144788,1370847713,1156201379
 
 // Warden's Law (Adept)
 // Full Bore
