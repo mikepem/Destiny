@@ -18,6 +18,9 @@ dimwishlist:item=2936850734&perks=3798852852,3373736292
 Exotic
 ====================================================================================================
 
+// Whisper of the Worm
+dimwishlist:item=1983149589&perks=839105230,3177308360,777589556,990298390,3732232161
+
 // Necrochasm
 dimwishlist:item=1034055198&perks=839105230,1885400500,525593296,990298390
 
@@ -1054,6 +1057,9 @@ dimwishlist:item=2891672170&perks=0,0,0,2450788523,744217850
 S13 - Chosen
 ====================================================================================================
 
+// Sola's Scar (Adept)
+dimwishlist:item=3847137620&perks=2827049491,269888150,2030760728,2396489472
+
 // Igenous Hammer (Adept)
 // Hammer-Forged Rifling
 // High-Caliber Rounds
@@ -1257,6 +1263,27 @@ dimwishlist:item=1119734784&perks=0,0,0,1015611457,0
 ====================================================================================================
 S15 - Lost
 ====================================================================================================
+
+// The Other Half
+dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3418165135,1260401931
+
+// Reed's Regret (Adept)
+// Fluted Barrel
+// Ionized Battery
+// Triple Tap
+// Vorpal Weapon
+// Veist Stinger
+//notes: Masterwork: Charge Time, Mod:
+dimwishlist:item=2475355656&perks=1840239774,1483536627,3400784728,1546637391,3988215619
+
+// Retraced Path
+// Hammer-Forged Rifling
+// Tactical Battery
+// Enhanced Perpetual Motion
+// Enhanced Golden Tricorn
+// Hot Swap
+//notes: Masterwork: Range, Mod: Sweaty Confetti
+dimwishlist:item=548958835&perks=3250034553,732557052,2014892510,4290541820,1260401931
 
 // BxR-55 Battler
 // Arrowhead Brake
@@ -1982,6 +2009,15 @@ Year 6 - Lightfall
 S20 - Defiance
 ====================================================================================================
 
+// Acasia Dejection
+// Smallbore
+// Tactical Battery
+// Enhanced Keep Away
+// Enhanced High-Impact Reserves
+// Harmonic Resonace
+//notes: Masterwork: Stability, Mod: Sweaty Confetti
+dimwishlist:item=1471212226&perks=1482024992,732557052,3198323828,2002547233,3186078099
+
 // Phylottactic Spiral
 // Smallbore
 // Ricochet Rounds
@@ -2422,6 +2458,15 @@ dimwishlist:item=3236112986&perks=0,0,0,47981717,1004814308
 S22 - Witch
 ====================================================================================================
 
+// Semiotican
+// Quick Launch
+// High-Velocity Rounds
+// Enhanced Impulse Amplifier
+// Enhanced Hatchling
+// Head Rush
+//notes: Masterwork: Blast Radius, Mod: Quick Access Sling
+dimwishlist:item=2922749929&perks=3525010810,2822142346,3878366039,102912326,2565067140
+
 // Brya's Love
 // Arrowhead Brake
 // Steady Rounds
@@ -2635,6 +2680,9 @@ dimwishlist:item=3998080529&perks=0,0,0,1015611457,2509860981
 ====================================================================================================
 S23 - Wish
 ====================================================================================================
+
+// The Slammer (Adept)
+dimwishlist:item=1354727549&perks=938542991,599007201,2077819806,3650930298,744217850
 
 // Adhortative
 // Arrowhead Brake
