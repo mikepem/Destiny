@@ -1250,6 +1250,15 @@ dimwishlist:item=1119734784&perks=0,0,0,1015611457,0
 S15 - Lost
 ====================================================================================================
 
+// Wastelander M5
+// Barrel Shroud
+// Accurized Rounds
+// Enhanced Slideshot
+// Enhanced Opening Shot
+// Hot Swap
+//notes: Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=1679868061&perks=1300023272,3142289711,191144788,1370847713,1260401931
+
 // Ragnhild-D
 // Rifled Barrel
 // Accurized Rounds
@@ -1911,6 +1920,15 @@ Year 6 - Lightfall
 ====================================================================================================
 S20 - Defiance
 ====================================================================================================
+
+// Allied Demand
+// Polygonal Rifling
+// Ricochet Rounds
+// Rangefinder
+// Eye of the Storm
+// Field-Tested
+//notes: Masterwork: Stability, Mod: Targeting Adjuster
+dimwishlist:item=3166250992&perks=1392496348,1885400500,2846385770,699525795,2120661319
 
 // Battle Scar
 // Arrowhead Brake
