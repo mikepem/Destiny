@@ -1260,7 +1260,7 @@ S15 - Lost
 // Successful Warm-Up
 // Souldrinker
 //notes: Masterwork: Charge Time, Mod: Adept Range
-dimwishlist:item=2943293195&perks=4090651448,1687452232,671806388,2652708987,3363267119
+dimwishlist:item=2943293195&perks=4090651448,1687452232,1570042021,2652708987,3363267119
 
 // The Other Half
 dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3418165135,1260401931
@@ -1369,14 +1369,6 @@ dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
 // Elemental Capacitor
 //notes: Master: Handling, Mod: Quick Access Sling
 dimwishlist:item=2855157553&perks=466087222,3142289711,4071163871,3511092054
-
-// Deliverance (Adept)
-// Smallbore
-// Projection Fuse
-// Enhanced Heating Up
-// Enhanced Successful Warmip
-//notes: Master: Charge Time, Mod: Adept Range
-dimwishlist:item=2943293195&perks=1482024992,2969185026,1570042021,2652708987,3363267119
 
 // Syncopation-53
 // Arrowhead Brake
