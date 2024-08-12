@@ -3729,9 +3729,10 @@ dimwishlist:item=1890332078&perks=0,0,3511092054,3619207468,4008116374
 // Enhanced Precision Instrument
 // Nadir Focus
 //notes: Masterwork: Handling, Mod: Backup Mag
-dimwishlist:item=586671776&perks=1482024992,3177308360,711234314,332733060,2509860981
+dimwishlist:item=586671776&perks=1482024992,3177308360,3511092054,555281244,2509860981
 
 // Compass Rose
+// Rifled Barrel
 
 ====================================================================================================
 S25 - Revenant
