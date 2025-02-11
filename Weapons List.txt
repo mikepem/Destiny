@@ -4505,3 +4505,328 @@ dimwishlist:item=4232480042&perks=0,0,0,3966416502,4139916815
 ====================================================================================================
 S26 - Heresy
 ====================================================================================================
+
+// Refusal of the Call (Adept)
+// Tempered Truss Rod
+// Swap Mag
+// Replenishing Aegis
+// Melee Momentum
+// Willing Vessel
+//notes: Masterwork: Handling, Mod: Adept Handling
+dimwishlist:item=25228802&perks=5699512,3721627275,1966281507,3773585912,878237828
+dimwishlist:item=25228802&perks=5699512,0,1966281507,3773585912,878237828
+dimwishlist:item=25228802&perks=0,3721627275,1966281507,3773585912,878237828
+dimwishlist:item=25228802&perks=0,0,1966281507,3773585912,878237828
+
+// Boondoggle Mk. 55
+// Smallbore
+// Ricochet Rounds
+// Pugilist
+// Swashbuckler
+// Tex Balanced Stock
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=32287609&perks=1482024992,1885400500,691659142,4082225868,2437618208
+dimwishlist:item=32287609&perks=0,0,691659142,4082225868,2437618208
+dimwishlist:item=32287609&perks=1482024992,1885400500,0,0,2437618208
+dimwishlist:item=32287609&perks=1482024992,1885400500,3938834702,1890422124,2437618208
+
+// Joxer's Longsword
+// Smallbore
+// Ricochet Rounds
+// Lone Wolf
+// Zen Moment
+// Nadir Focus
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,2387244414,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,3047969693,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,460017080,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,0,0,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,0,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,3523296417,11612903,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,691659142,4082225868,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,776531651,1134488199,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,776531651,1464081238,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,776531651,2048641572,2509860981
+
+// Backfang
+// Tempered Truss Rod
+// Swap Mag
+// Melee Momentum
+// Jolting Feedback
+// Gun and Run
+//notes: Masterwork: Handling, Mod: Tactical
+dimwishlist:item=267672635&perks=0,0,3773585912,3966416502,515704826
+dimwishlist:item=267672635&perks=5699512,3721627275,3773585912,3966416502,515704826
+dimwishlist:item=267672635&perks=5699512,3721627275,3773585912,4082225868,515704826
+
+// Eyes Unveiled (Adept)
+// Smallbore
+// Projection Fuse
+// Triple Tap
+// Withering Gaze
+// Willing Vessel
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=282549639&perks=1482024992,2969185026,3400784728,1134488199,878237828
+dimwishlist:item=282549639&perks=1482024992,2969185026,0,1134488199,878237828
+dimwishlist:item=282549639&perks=1482024992,0,3400784728,1134488199,878237828
+dimwishlist:item=282549639&perks=0,2969185026,3400784728,1134488199,878237828
+dimwishlist:item=282549639&perks=1482024992,0,0,1134488199,878237828
+dimwishlist:item=282549639&perks=0,0,3400784728,1134488199,878237828
+dimwishlist:item=282549639&perks=0,0,0,1134488199,878237828
+
+// Mirror Imago (Adept)
+// Smallbore
+// Accurized Rounds
+// Pugilist
+// Swashbuckler
+// Willing Vessel
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=302039451&perks=1482024992,3142289711,691659142,4082225868,878237828
+dimwishlist:item=302039451&perks=1482024992,3142289711,3938834702,365154968,878237828
+dimwishlist:item=302039451&perks=1482024992,3142289711,588594999,365154968,878237828
+
+// Vision of Confluence (Timelost)
+// Smallbore
+// Steady Rounds
+// Heal Clip
+// Kill Clip
+// Timelost Magazine
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=337578911&perks=1482024992,3177308360,3017780555,1015611457,2589407652
+dimwishlist:item=337578911&perks=0,0,3017780555,1015611457,2589407652
+dimwishlist:item=337578911&perks=1482024992,0,3017780555,1015611457,2589407652
+dimwishlist:item=337578911&perks=0,3177308360,3017780555,1015611457,2589407652
+
+// Hollow Words
+// Smallbore
+// Projection Fuse
+// Slickdraw
+// Rolling Storm
+// Paracausal Fluid
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=342027677&perks=1482024992,2969185026,1821614984,3218042543,1600429811
+dimwishlist:item=342027677&perks=0,0,1821614984,3218042543,1600429811
+dimwishlist:item=342027677&perks=1482024992,0,1821614984,3218042543,1600429811
+dimwishlist:item=342027677&perks=0,2969185026,1821614984,3218042543,1600429811
+dimwishlist:item=342027677&perks=1482024992,2969185026,1821614984,0,1600429811
+
+// Abyssal Edge (Adept)
+// Jagged Edge
+// Swordmaster's Guard
+// Slice
+// Redirection
+// Willing Vessel
+//notes: Masterwork: Impact, Mod: Adept Impact
+
+// Cold Denial
+// Arrowhead Brake
+// Ricochet Rounds
+// Zen Moment
+// Headseeker
+// Paracausal Fluid
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,460017080,1600429811
+dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,0,1600429811
+dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,699525795,1600429811
+dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,3047969693,1600429811
+
+// Adamantite (Adept)
+// Smallbore
+// Accurized Rounds
+// Reciprocity
+// Circle of Life
+// Willing Vessel
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,2298656195,878237828
+dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,0,878237828
+dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,243981275,878237828
+
+// Found Verdict
+// Barrel Shroud
+// Accurized Rounds
+// Slideshot
+// Opening Shot
+// Timelost Magazine
+//notes: Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=694500607&perks=1300023272,3142289711,3161816588,47981717,2589407652
+
+// Psychopomp (Adept)
+// Quick Launch
+// High-Velocity Rounds
+// Ambitious Assassin
+// Rolling Storm
+// Willing Vessel
+//notes: Masterwork: Velocity, Mod: Adept Handling
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543,878237828
+dimwishlist:item=704410186&perks=3525010810,2822142346,0,3218042543,878237828
+dimwishlist:item=704410186&perks=3525010810,2822142346,691659142,3523296417,878237828
+
+// Watchful Eye (Adept)
+// Smallbore
+// Ricochet Rounds
+// Dynamic Sway Reduction
+// Jolting Feedback
+// Willing Vessel
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=737409399&perks=1482024992,1885400500,1359896290,3966416502,878237828
+dimwishlist:item=737409399&perks=0,0,1359896290,3966416502,878237828
+
+// Found Verdict (Timelost)
+// Barrel Shroud
+// Accurized Rounds
+// Slideshot
+// Opening Shot
+//notes: Masterwork: Handling, Mod: Adept Handling
+dimwishlist:item=851296754&perks=1300023272,3142289711,3161816588,47981717,2589407652
+dimwishlist:item=851296754&perks=1300023272,3142289711,4071163871,47981717,2589407652
+
+// Afterlight (Adept)
+// Smallbore
+// Projection Fuse
+// Lead from Gold
+// Destabilizing Rounds
+// Willing Vessel
+//notes: Masterwork: Range, Mod: Adept Range
+dimwishlist:item=861521336&perks=1482024992,2969185026,1556840489,2048641572,878237828
+dimwishlist:item=861521336&perks=0,0,1556840489,2048641572,878237828
+dimwishlist:item=861521336&perks=1482024992,0,1556840489,2048641572,878237828
+dimwishlist:item=861521336&perks=0,2969185026,1556840489,2048641572,878237828
+dimwishlist:item=861521336&perks=0,0,0,2048641572,878237828
+
+// Exalted Truth (Adept)
+// Smallbore
+// Steady Rounds
+// Slideshot
+// Magnificient Howl
+// Suros Synergy
+//notes: Masterwork: Stability, Mod: Adept Stability | Both Magnificient Howl and Eye of the Storm
+dimwishlist:item=1201528146&perks=1482024992,3177308360,3161816588,2720533289,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,3161816588,699525795,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,2579169598,699525795,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,3619207468,699525795,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,2387244414,699525795,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,0,0,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,1134488199,776531651,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,1134488199,1464081238,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,2048641572,1464081238,4008116374
+dimwishlist:item=1201528146&perks=1482024992,3177308360,2048641572,776531651,4008116374
+
+// False Promises
+// Chambered Compensator
+// Ricochet Rounds
+// Dynamic Sway Reduction
+// Zen Moment
+// Paracausal Fluid
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=1390080550&perks=3661387068,1885400500,1359896290,2387244414,1600429811
+
+// Anamnesis (Adept)
+// Natural String
+// Straight Fletching
+// Repulsor Brace
+// Destabilizing Rounds
+// Willing Vessel
+//notes: Masterwork: Accuracy, Mod: Adept Accuracy
+dimwishlist:item=1536325168&perks=1784898267,3827198035,776531651,2048641572,878237828
+dimwishlist:item=1536325168&perks=0,0,776531651,2048641572,878237828
+
+// Warlord's Spear
+// Smallbore
+// Tactical Battery
+// Loose Change
+// Jolting Feedback
+// Skulking Wolf
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=1968711238&perks=1482024992,732557052,1119449540,3966416502,3989629871
+dimwishlist:item=1968711238&perks=1482024992,732557052,0,4198902903,3989629871
+
+// Division (Adept)
+// Smallbore
+// Accurized Rounds
+// To the Pain
+// Kill Clip
+// Wiliing Vessel
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=2501377328&perks=1482024992,3142289711,3938834702,1015611457,878237828
+dimwishlist:item=2501377328&perks=1482024992,3142289711,0,1015611457,878237828
+
+// Lotus-Eater (Adept)
+// Quick Launch
+// High-Velocity Rounds
+// Repulsor Brace
+// Destabilizing Rounds
+// Vanguard's Vindication
+//notes: Masterwork: Velocity, Mod: Adept Projectile Speed
+dimwishlist:item=2697143634&perks=3525010810,2822142346,776531651,2048641572,744217850
+dimwishlist:item=2697143634&perks=3525010810,2822142346,776531651,1134488199,744217850
+
+// Redrix's Estoc
+// Polygonal Rifling
+// Accurized Rounds
+// Lone Wolf
+// Kill Clip
+// Hand-Laid Stock
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=3218364298&perks=1392496348,3142289711,2579169598,1015611457,990298390
+dimwishlist:item=3218364298&perks=1392496348,3142289711,2579169598,0,990298390
+dimwishlist:item=3218364298&perks=1392496348,3142289711,2387244414,1015611457,990298390
+dimwishlist:item=3218364298&perks=1392496348,3142289711,2387244414,0,990298390
+dimwishlist:item=3218364298&perks=1392496348,3142289711,2579169598,460017080,990298390
+dimwishlist:item=3218364298&perks=1392496348,3142289711,2579169598,3047969693,990298390
+
+// Peacebond
+// Hammer-Forged Rifling
+// Accurized Rounds
+// Headstone
+// Rimestealer
+// Skulking Wolf
+//notes: Masterwork: Stability, Mod: Ballistics
+dimwishlist:item=3437370193&perks=3250034553,3142289711,124408337,1955165503,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2579169598,460017080,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2579169598,3047969693,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2579169598,1015611457,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2846385770,1015611457,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2846385770,3047969693,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2846385770,460017080,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2387244414,460017080,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2387244414,3047969693,3989629871
+dimwishlist:item=3437370193&perks=3250034553,3142289711,2387244414,1015611457,3989629871
+
+// Keen Thistle (Adept)
+// Fluted Barrel
+// Accurized Rounds
+// Snapshot Sights
+// Opening Shot
+// One Quiet Moment
+//notes: Masterwork: Handling, Mod: Adept Handling
+dimwishlist:item=3503560035&perks=1840239774,3142289711,957782887,47981717,4091460919
+dimwishlist:item=3503560035&perks=1840239774,3142289711,2579169598,47981717,4091460919
+dimwishlist:item=3503560035&perks=1840239774,3142289711,2579169598,1194056669,4091460919
+
+// Admetus-D
+// Arrowhead Brake
+// Ricochet Rounds
+// Keep Away
+// Demoralize
+// Hakke Breach Armaments
+//notes: Masterwork: Stability, Mod: Ballistics
+dimwishlist:item=3776430252&perks=839105230,1885400500,3619207468,1464081238,1607056502
+dimwishlist:item=3776430252&perks=839105230,1885400500,3619207468,0,1607056502
+dimwishlist:item=3776430252&perks=839105230,1885400500,2579169598,1464081238,1607056502
+dimwishlist:item=3776430252&perks=839105230,1885400500,2579169598,0,1607056502
+dimwishlist:item=3776430252&perks=839105230,1885400500,776531651,1134488199,1607056502
+dimwishlist:item=3776430252&perks=839105230,0,776531651,1134488199,1607056502
+dimwishlist:item=3776430252&perks=0,1885400500,776531651,1134488199,1607056502
+dimwishlist:item=3776430252&perks=0,0,776531651,1134488199,1607056502
+
+// The Palindrome (Adept)
+// Smallbore
+// Accurized Rounds
+// Elemental Capacitor
+// Rolling Storm
+// Vanguard's Vindication
+//notes: Masterwork: Range, Mod: Adept Stability
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3511092054,3218042543,744217850
+dimwishlist:item=4077588826&perks=1482024992,3142289711,0,0,744217850
+dimwishlist:item=4077588826&perks=1482024992,3142289711,0,3218042543,744217850
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3511092054,0,744217850
