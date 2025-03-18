@@ -18,6 +18,45 @@ dimwishlist:item=2936850734&perks=3798852852,3373736292
 Exotic
 ====================================================================================================
 
+// Alethonym
+dimwishlist:item=2350354266&perks=3809316345,2822142346,2405598968,1067908860
+
+// Anarchy
+dimwishlist:item=2376481550&perks=3525010810,2822142346,588594999,3465198467
+
+// Microcosm
+dimwishlist:item=4207066264&perks=3250034553,2680121939,877533329,990298390
+
+// Thunder Lord
+dimwishlist:item=3325463374&perks=1392496348,1968497646,1419069769,2779035018
+
+// Devil's Ruin
+dimwishlist:item=3824106094&perks=1467527085,2969185026,1059301209,3438534621
+
+// Collective Obligation
+dimwishlist:item=3505113722&perks=839105230,3230963543,2395713912,990298390
+
+// Tarrabah
+dimwishlist:item=3110698812&perks=1467527085,1968497646,3351002503,990298390
+
+// Witherhoard
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467
+
+// Tresspasser
+dimwishlist:item=1234150730&perks=202670084,1885400500,1271851280,3326204863
+
+// Le Monarque
+dimwishlist:item=3588934839&perks=1784898267,16392701,957782887
+
+// Centrifuse
+dimwishlist:item=1912669214&perks=4090651448,1087426260,2804762401,990298390
+
+// Monte Carlo
+dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467
+
+// Verglas Curve
+dimwishlist:item=3659414143&perks=1784898267,3827198035,2000464223
+
 // Ergo Sum
 dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,2963428707
 
@@ -63,6 +102,7 @@ dimwishlist:item=2188764214&perks=1392496348,1885400500,247725512,4259401308,499
 // Alloy Magazine
 // Eye of the Storm
 // Heavy Grip
+dimwishlist:item=3856705927&perks=3661387068,1431678320,47981717,862848869
 dimwishlist:item=3856705927&perks=1482024992,1431678320,699525795,1012699414
 
 // Osteo Striga
@@ -84,11 +124,27 @@ dimwishlist:item=3118061005&perks=580685494,3142289711,2171805903,1067908860,314
 // Revision Zero
 // Fluted Barrel
 // Ricochet Rounds
-// Arc Elemental Capacitor
+// Elemental Capacitor
 // Fitted Stock
 // Hakke Heavy Burst
-// 4-Timer Refit
-dimwishlist:item=1473821207&perks=1840239774,1885400500,3511092054,4259401308,2206869417,1266037486
+// Pressurized Refit
+dimwishlist:item=1473821207&perks=1840239774,1885400500,3511092054,4259401308,2206869417,1266037484
+
+// Barrow-Dyad
+// Smallbore
+// Ricochet Rounds
+// Taken Ambition
+// Combat Grip
+// Target Lock Refit
+dimwishlist:item=1481594633&perks=1482024992,1885400500,1524069046,3438534621,4204405032
+
+// Choir of One
+// Smallbore
+// Accurized Rounds
+// Fanatical Lance
+// Hand-Laid Stock
+// Onslaught Refit
+dimwishlist:item=3698448090&perks=1482024992,3142289711,619537267,990298390,1931951170
 
 // Edge of Concurrence
 // Edge of Intent
@@ -1295,13 +1351,13 @@ dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,4082225868,744
 dimwishlist:item=1679868061&perks=1300023272,3142289711,191144788,1370847713,1260401931
 
 // Ragnhild-D
-// Rifled Barrel
+// Barrel Shroud
 // Accurized Rounds
-// Enhanced Perpetual Motion
-// Enhanced Elemental Capacitor
+// Steady Hands
+// Elemental Capacitor
 // Hakke Breach Armaments
-//notes: Masterwork: Range, Mod: Quick Access Sling
-dimwishlist:item=4225322581&perks=1332244541,3142289711,2014892510,711234314,1607056502
+//notes: Masterwork: Range, Mod: Ballistics
+dimwishlist:item=4225322581&perks=1300023272,3142289711,509074078,3511092054,1607056502
 
 // Perses-D
 // Arrowhead Brake
@@ -1529,6 +1585,14 @@ dimwishlist:item=4023807721&perks=1482024992,106909392,1428297954,1015611457,298
 ====================================================================================================
 S17 - Haunted
 ====================================================================================================
+
+// Riptide
+// Smallbore
+// Projection Fuse
+// Auto-Loading Holster
+// Vorpal Weapon
+// One Quiet Moment
+//notes: Masterwork: Range, Mod: Quick Access Sling
 
 // Calus Mini-Tool
 // Smallbore
@@ -2823,11 +2887,11 @@ dimwishlist:item=2189073092&perks=0,0,0,95528736,3989629871
 // Keep Away
 // Zen Moment
 // Hand-Laid Stock
-//notes:Masterwork: Reload, Mod: Ballistics (Owned)
+//notes: Masterwork: Reload, Mod: Ballistics (Owned)
 dimwishlist:item=2313726158&perks=1392496348,1561002382,3619207468,2387244414,990298390
-//notes:Masterwork: Stability, Mod: Ballistics
+//notes: Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=2313726158&perks=839105230,1885400500,3619207468,2387244414,990298390
-//notes:Masterwork: Handling, Mod: Ballistics
+//notes: Masterwork: Handling, Mod: Ballistics
 dimwishlist:item=2313726158&perks=1482024992,1885400500,699525795,2387244414,990298390
 
 // Incisor (Adept)
@@ -3787,6 +3851,14 @@ dimwishlist:item=93061497&perks=0,0,1645158859,0,4139916815
 dimwishlist:item=93061497&perks=0,0,0,1194056669,4139916815
 dimwishlist:item=93061497&perks=1482024992,2969185026,776531651,1134488199,4139916815
 
+// Tomorrow's Answer (Old)
+// Quick Launch
+// High-Velocity Rounds
+// Trackin Module
+// Chain Reaction
+//notes: Nasterwork: Blast Radius, Mod: Quick Access Sling
+dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,2396489472
+
 // Tomorrow's Answer (Adept)
 // Quick Launch
 // High-Velocity Rounds
@@ -4497,10 +4569,7 @@ dimwishlist:item=25228802&perks=0,0,1966281507,3773585912,878237828
 // Swashbuckler
 // Tex Balanced Stock
 //notes: Masterwork: Range, Mod: Ballistics
-dimwishlist:item=32287609&perks=1482024992,1885400500,691659142,4082225868,2437618208
-dimwishlist:item=32287609&perks=0,0,691659142,4082225868,2437618208
-dimwishlist:item=32287609&perks=1482024992,1885400500,0,0,2437618208
-dimwishlist:item=32287609&perks=1482024992,1885400500,3938834702,1890422124,2437618208
+dimwishlist:item=32287609&perks=1482024992,1561002382,1194056669,2450788523,2437618208
 
 // Joxer's Longsword
 // Smallbore
@@ -4599,6 +4668,15 @@ dimwishlist:item=558794124&perks=0,0,0,699525795,1600429811
 dimwishlist:item=558794124&perks=839105230,1885400500,0,0,1600429811
 dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,0,1600429811
 dimwishlist:item=558794124&perks=839105230,1885400500,0,699525795,1600429811
+
+// Adamantite
+// Arrowhead Brake
+// Accurized Rounds
+// Reciprocity
+// Circle of Life
+// Willing Vessel
+//notes: Masterwork: Handling, Mod: Heavy Ammo Finder Enhancement
+dimwishlist:item=2987244302&perks=839105230,3142289711,692399809,2298656195,878237828
 
 // Adamantite (Adept)
 // Smallbore
