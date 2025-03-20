@@ -321,7 +321,7 @@ dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
 // Keep Away
 // Eye of the Storm
 // Harmonic Resonance
-//notes: Masterwork: Handling, Mod: Counterbalance Stock
+//notes:Masterwork: Handling, Mod: Counterbalance Stock
 dimwishlist:item=1123421440&perks=1482024992,1885400500,3619207468,699525795,3186078099
 
 // Luna's Howl
@@ -413,7 +413,7 @@ S08 - Undying
 // Eye of the Storm
 // Rangefinder
 // No Origin Trait
-//notes: Masterwork: , Mod: 
+//notes:Masterwork: , Mod: 
 dimwishlist:item=48643186&perks=1482024992,3142289711,699525795,2846385770,0
 dimwishlist:item=48643186&perks=1482024992,3142289711,699525795,0,0
 dimwishlist:item=48643186&perks=1482024992,3142289711,0,2846385770,0
@@ -436,7 +436,7 @@ dimwishlist:item=48643186&perks=0,0,0,2846385770,0
 // Under Pressure
 // High-Impact Reserves
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=2209003210&perks=1482024992,2969185026,1645158859,2213355989,0
 dimwishlist:item=2209003210&perks=1482024992,2969185026,1645158859,0,0
 dimwishlist:item=2209003210&perks=1482024992,2969185026,0,2213355989,0
@@ -459,7 +459,7 @@ dimwishlist:item=2209003210&perks=0,0,0,2213355989,0
 // Rapid Hit
 // Kill Clip
 // No Origin Trait
-//notes: Masterwork: Handling, Mod: Counterbalance Stock
+//notes:Masterwork: Handling, Mod: Counterbalance Stock
 dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457,0
 dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,0,0
 dimwishlist:item=2408405461&perks=1482024992,1561002382,0,1015611457,0
@@ -482,7 +482,7 @@ dimwishlist:item=2408405461&perks=0,0,0,1015611457,0
 // Under Pressure
 // Kill Clip
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3385326721&perks=1467527085,1561002382,1645158859,1015611457,0
 dimwishlist:item=3385326721&perks=1467527085,1561002382,1645158859,0,0
 dimwishlist:item=3385326721&perks=1467527085,1561002382,0,1015611457,0
@@ -505,7 +505,7 @@ dimwishlist:item=3385326721&perks=0,0,0,1015611457,0
 // No Distractions
 // Snapshot Sights
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3454326177&perks=202670084,3142289711,2866798147,957782887,0
 dimwishlist:item=3454326177&perks=202670084,3142289711,2866798147,0,0
 dimwishlist:item=3454326177&perks=202670084,3142289711,0,957782887,0
@@ -528,7 +528,7 @@ dimwishlist:item=3454326177&perks=0,0,0,957782887,0
 // Slideways
 // Opening Shot
 // No Origin Trait
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=4020742303&perks=1300023272,3142289711,2039302152,47981717,0
 dimwishlist:item=4020742303&perks=1300023272,3142289711,2039302152,0,0
 dimwishlist:item=4020742303&perks=1300023272,3142289711,0,47981717,0
@@ -562,7 +562,7 @@ S10 - Worthy
 // Firmly Planted
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=766323545&perks=1467527085,3142289711,280464955,3511092054,0
 dimwishlist:item=766323545&perks=1467527085,3142289711,280464955,0,0
 dimwishlist:item=766323545&perks=1467527085,3142289711,0,3511092054,0
@@ -585,7 +585,7 @@ dimwishlist:item=766323545&perks=0,0,0,3511092054,0
 // Zen Moment
 // Perk Not Listed: 1168162263
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=1162247618&perks=360593483,1885400500,2387244414,1168162263,0
 dimwishlist:item=1162247618&perks=360593483,1885400500,2387244414,0,0
 dimwishlist:item=1162247618&perks=360593483,1885400500,0,1168162263,0
@@ -608,7 +608,7 @@ dimwishlist:item=1162247618&perks=0,0,0,1168162263,0
 // Zen Moment
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=1723380073&perks=445755707,1885400500,2387244414,3511092054,0
 dimwishlist:item=1723380073&perks=445755707,1885400500,2387244414,0,0
 dimwishlist:item=1723380073&perks=445755707,1885400500,0,3511092054,0
@@ -631,7 +631,7 @@ dimwishlist:item=1723380073&perks=0,0,0,3511092054,0
 // Zen Moment
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=1786797708&perks=663495154,3142289711,2387244414,3511092054,0
 dimwishlist:item=1786797708&perks=663495154,3142289711,2387244414,0,0
 dimwishlist:item=1786797708&perks=663495154,3142289711,0,3511092054,0
@@ -654,7 +654,7 @@ dimwishlist:item=1786797708&perks=0,0,0,3511092054,0
 // Quickdraw
 // Snapshot Sights
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887,00
 dimwishlist:item=1821724780&perks=1332244541,0,706527188,957782887,0
 
@@ -664,7 +664,7 @@ dimwishlist:item=1821724780&perks=1332244541,0,706527188,957782887,0
 // Field Prep
 // Threat Detector
 // No Origin Trait
-//notes: Masterwork: Blast Radius, Mod: Quick Access Sling
+//notes:Masterwork: Blast Radius, Mod: Quick Access Sling
 dimwishlist:item=2257180473&perks=3525010810,409831596,2869569095,4071163871,0
 dimwishlist:item=2257180473&perks=3525010810,409831596,2869569095,0,0
 dimwishlist:item=2257180473&perks=3525010810,409831596,0,4071163871,0
@@ -687,7 +687,7 @@ dimwishlist:item=2257180473&perks=0,0,0,4071163871,0
 // Quickdraw
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Stability, Mod: Countbalance Stock
+//notes:Masterwork: Stability, Mod: Countbalance Stock
 dimwishlist:item=2478792241&perks=1482024992,1885400500,706527188,3511092054,0
 dimwishlist:item=2478792241&perks=1482024992,1885400500,706527188,0,0
 dimwishlist:item=2478792241&perks=1482024992,1885400500,0,3511092054,0
@@ -710,7 +710,7 @@ dimwishlist:item=2478792241&perks=0,0,0,3511092054,0
 // Zen Moment
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Stability, Mod: Quick Access Sling
+//notes:Masterwork: Stability, Mod: Quick Access Sling
 dimwishlist:item=2582755344&perks=1482024992,1885400500,2387244414,3511092054,0
 dimwishlist:item=2582755344&perks=1482024992,1885400500,2387244414,0,0
 dimwishlist:item=2582755344&perks=1482024992,1885400500,0,3511092054,0
@@ -733,7 +733,7 @@ dimwishlist:item=2582755344&perks=0,0,0,3511092054,0
 // Rangefinder
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Stability, Mod: Backup Mag
+//notes:Masterwork: Stability, Mod: Backup Mag
 dimwishlist:item=2742838700&perks=1926090095,3177308360,2846385770,3511092054,0
 dimwishlist:item=2742838700&perks=1926090095,3177308360,2846385770,0,0
 dimwishlist:item=2742838700&perks=1926090095,3177308360,0,3511092054,0
@@ -756,7 +756,7 @@ dimwishlist:item=2742838700&perks=0,0,0,3511092054,0
 // Snapshot Sights
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,3511092054,0
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,0,0
 dimwishlist:item=2742838701&perks=1926090095,1885400500,0,3511092054,0
@@ -779,7 +779,7 @@ dimwishlist:item=2742838701&perks=0,0,0,3511092054,0
 // Perk Not Listed: 972757866
 // Opening Shot
 // No Origin Trait
-//notes: Masterwork: Stability, Mod: Quick Access Sling
+//notes:Masterwork: Stability, Mod: Quick Access Sling
 dimwishlist:item=2807687156&perks=1482024992,3177308360,972757866,47981717,0
 dimwishlist:item=2807687156&perks=1482024992,3177308360,972757866,0,0
 dimwishlist:item=2807687156&perks=1482024992,3177308360,0,47981717,0
@@ -802,7 +802,7 @@ dimwishlist:item=2807687156&perks=0,0,0,47981717,0
 // Firmly Planted
 // Elemental Capacitor
 // No Origin Trait
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=3055192515&perks=1409978308,2969185026,280464955,3511092054,0
 
 // Seventh Seraph SI-2
@@ -811,7 +811,7 @@ dimwishlist:item=3055192515&perks=1409978308,2969185026,280464955,3511092054,0
 // Demolitionist
 // Zen Moment
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=3937866388&perks=1482024992,3142289711,3523296417,2387244414,0
 dimwishlist:item=3937866388&perks=1482024992,3142289711,3523296417,0,0
 dimwishlist:item=3937866388&perks=1482024992,3142289711,0,2387244414,0
@@ -837,7 +837,7 @@ S11 - Arrivals
 // Steady Rounds
 // Dynamic Sway Reduction
 // Eye of the Storm
-//notes: Masterwork: Range, Mod: Counterbalance Stock Mod
+//notes:Masterwork: Range, Mod: Counterbalance Stock Mod
 dimwishlist:item=1690783811&perks=2405638015,3177308360,1359896290,699525795
 
 // The Fool's Remedy
@@ -846,7 +846,7 @@ dimwishlist:item=1690783811&perks=2405638015,3177308360,1359896290,699525795
 // Moving Target
 // Kill Clip
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=65611680&perks=445755705,1885400500,588594999,1015611457,0
 dimwishlist:item=65611680&perks=445755705,1885400500,588594999,0,0
 dimwishlist:item=65611680&perks=445755705,1885400500,0,1015611457,0
@@ -869,7 +869,7 @@ dimwishlist:item=65611680&perks=0,0,0,1015611457,0
 // Outlaw
 // Zen Moment
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=188882152&perks=360593481,3142289711,1168162263,2387244414,0
 dimwishlist:item=188882152&perks=360593481,3142289711,1168162263,0,0
 dimwishlist:item=188882152&perks=360593481,3142289711,0,2387244414,0
@@ -892,7 +892,7 @@ dimwishlist:item=188882152&perks=0,0,0,2387244414,0
 // Under Pressure
 // High-Impact Reserves
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,2213355989,0
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,0,0
 dimwishlist:item=253196586&perks=2405638014,2969185026,0,2213355989,0
@@ -915,7 +915,7 @@ dimwishlist:item=253196586&perks=0,0,0,2213355989,0
 // Zen Moment
 // Kill Clip
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457,0
 
 // Cold Denial
@@ -924,7 +924,7 @@ dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457,0
 // Zen Moment
 // Eye of the Storm
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1216130969&perks=839105230,1885400500,2387244414,699525795,0
 dimwishlist:item=1216130969&perks=839105230,0,2387244414,699525795,0
 
@@ -935,7 +935,7 @@ dimwishlist:item=1216130969&perks=839105230,0,2387244414,699525795,0
 // Zen Moment
 // Kill Clip
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=2199171672&perks=1482024992,1885400500,2387244414,1015611457,0
 dimwishlist:item=2199171672&perks=1482024992,1885400500,2387244414,0,0
 dimwishlist:item=2199171672&perks=1482024992,1885400500,0,1015611457,0
@@ -958,7 +958,7 @@ dimwishlist:item=2199171672&perks=0,0,0,1015611457,0
 // Dynamic Sway Reduction
 // Zen Moment
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3143732432&perks=1482024992,1885400500,1359896290,2387244414,0
 dimwishlist:item=3143732432&perks=1482024992,1885400500,1359896290,0,0
 dimwishlist:item=3143732432&perks=1482024992,1885400500,0,2387244414,0
@@ -985,16 +985,16 @@ S12 - Hunter
 // High-Caliber Rounds
 // Rapid Hit
 // Iron Grip
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=1641430382&perks=679077873,1561002382,247725512,11551321
 
 // Heritage
 // Fluted Barrel
 // Accurized Rounds
-// Enhanced Slideshot
-// Enhanced Killing Wind
+// Slideshot
+// Killing Wind
 // Bray Inheritance
-//notes: Masterwork: Handling, Mod: Sweaty Confetti
+//notes:Masterwork: Handling, Mod: Sweaty Confetti
 dimwishlist:item=4248569242&perks=1840239774,3142289711,191144788,4207509907,766321425
 
 // Friction Fire
@@ -1003,7 +1003,7 @@ dimwishlist:item=4248569242&perks=1840239774,3142289711,191144788,4207509907,766
 // Zen Moment
 // Wellspring
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=1513993763&perks=1482024992,3142289711,2387244414,3592538738,0
 dimwishlist:item=1513993763&perks=1482024992,3142289711,2387244414,0,0
 dimwishlist:item=1513993763&perks=1482024992,3142289711,0,3592538738,0
@@ -1026,7 +1026,7 @@ dimwishlist:item=1513993763&perks=0,0,0,3592538738,0
 // Surplus
 // Eye of the Storm
 // One Quiet Moment
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=2050789284&perks=1482024992,3142289711,3436462433,699525795,4091460919
 dimwishlist:item=2050789284&perks=1482024992,3142289711,3436462433,0,4091460919
 dimwishlist:item=2050789284&perks=1482024992,3142289711,0,699525795,4091460919
@@ -1049,7 +1049,7 @@ dimwishlist:item=2050789284&perks=0,0,0,699525795,4091460919
 // Slideshot
 // Killing Wind
 // Vanguard's Vindication
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=2891672170&perks=1300023272,3142289711,3161816588,2450788523,744217850
 dimwishlist:item=2891672170&perks=1300023272,3142289711,3161816588,0,744217850
 dimwishlist:item=2891672170&perks=1300023272,3142289711,0,2450788523,744217850
@@ -1078,7 +1078,7 @@ dimwishlist:item=3847137620&perks=2827049491,269888150,2030760728,2396489472
 // High-Caliber Rounds
 // Rapid Hit
 // Celerity
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=2527666306&perks=3250034553,1561002382,247725512,1264398905
 
 // Far Future
@@ -1087,7 +1087,7 @@ dimwishlist:item=2527666306&perks=3250034553,1561002382,247725512,1264398905
 // Quickdraw
 // Opening Shot
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=893527433&perks=202670084,3142289711,706527188,47981717,0
 dimwishlist:item=893527433&perks=202670084,3142289711,706527188,0,0
 dimwishlist:item=893527433&perks=202670084,3142289711,0,47981717,0
@@ -1110,7 +1110,7 @@ dimwishlist:item=893527433&perks=0,0,0,47981717,0
 // Zen Moment
 // Tap the Trigger
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1097616550&perks=1482024992,3142289711,2387244414,1890422124,0
 dimwishlist:item=1097616550&perks=1482024992,3142289711,2387244414,0,0
 dimwishlist:item=1097616550&perks=1482024992,3142289711,0,1890422124,0
@@ -1133,7 +1133,7 @@ dimwishlist:item=1097616550&perks=0,0,0,1890422124,0
 // Under Pressure
 // High-Impact Reserves
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2481881293&perks=2405638014,2969185026,1645158859,2213355989,0
 dimwishlist:item=2481881293&perks=2405638014,2969185026,1645158859,0,0
 dimwishlist:item=2481881293&perks=2405638014,2969185026,0,2213355989,0
@@ -1159,7 +1159,7 @@ S14 - Splicer
 // Accurized Rounds
 // Explosive Payload
 // Eye of the Storm
-//notes: Masterwork: Range, Mod: Adept Stability
+//notes:Masterwork: Range, Mod: Adept Stability
 dimwishlist:item=1216319404&perks=3661387068,3142289711,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,699525795
 
@@ -1177,7 +1177,7 @@ dimwishlist:item=690668916&perks=1482024992,1885400500,2387244414,1015611457
 // Slideshot
 // Opening Shot
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,47981717
 
@@ -1187,7 +1187,7 @@ dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,47981717
 // Tunnel Vision
 // Kill Clip
 // One Quiet Moment
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,1015611457,4091460919
 dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,0,4091460919
 dimwishlist:item=310708513&perks=202670084,1561002382,0,1015611457,4091460919
@@ -1210,7 +1210,7 @@ dimwishlist:item=310708513&perks=0,0,0,1015611457,4091460919
 // Quickdraw
 // Opening Shot
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=599895591&perks=1840239774,791862061,706527188,47981717,0
 dimwishlist:item=599895591&perks=1840239774,791862061,706527188,0,0
 dimwishlist:item=599895591&perks=1840239774,791862061,0,47981717,0
@@ -1233,7 +1233,7 @@ dimwishlist:item=599895591&perks=0,0,0,47981717,0
 // Snapshot Sights
 // High-Impact Reserves
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Adept Targeting
+//notes:Masterwork: Range, Mod: Adept Targeting
 dimwishlist:item=852228780&perks=202670084,3142289711,957782887,2213355989,0
 
 // Borrowed Time
@@ -1242,7 +1242,7 @@ dimwishlist:item=852228780&perks=202670084,3142289711,957782887,2213355989,0
 // Dynamic Sway Reduction
 // Tap the Trigger
 // Field-Tested
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=875848769&perks=1482024992,1885400500,1359896290,1890422124,2120661319
 dimwishlist:item=875848769&perks=1482024992,1885400500,1359896290,0,2120661319
 dimwishlist:item=875848769&perks=1482024992,1885400500,0,1890422124,2120661319
@@ -1265,7 +1265,7 @@ dimwishlist:item=875848769&perks=0,0,0,1890422124,2120661319
 // Tunnel Vision
 // Kill Clip
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=1119734784&perks=1467527085,3142289711,2946784966,1015611457,0
 dimwishlist:item=1119734784&perks=1467527085,3142289711,2946784966,0,0
 dimwishlist:item=1119734784&perks=1467527085,3142289711,0,1015611457,0
@@ -1292,7 +1292,7 @@ S15 - Lost
 // Heating Up
 // Successful Warm-Up
 // Souldrinker
-//notes: Masterwork: Charge Time, Mod: Adept Range
+//notes:Masterwork: Charge Time, Mod: Adept Range
 dimwishlist:item=2943293195&perks=4090651448,1687452232,1570042021,2652708987,3363267119
 
 // The Other Half
@@ -1304,25 +1304,25 @@ dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3418165135,126
 // Triple Tap
 // Vorpal Weapon
 // Veist Stinger
-//notes: Masterwork: Charge Time, Mod:
+//notes:Masterwork: Charge Time, Mod:
 dimwishlist:item=2475355656&perks=1840239774,1483536627,3400784728,1546637391,3988215619
 
 // Retraced Path
 // Hammer-Forged Rifling
 // Tactical Battery
-// Enhanced Perpetual Motion
-// Enhanced Golden Tricorn
+// Perpetual Motion
+// Golden Tricorn
 // Hot Swap
-//notes: Masterwork: Range, Mod: Sweaty Confetti
+//notes:Masterwork: Range, Mod: Sweaty Confetti
 dimwishlist:item=548958835&perks=3250034553,732557052,2014892510,4290541820,1260401931
 
 // BxR-55 Battler
 // Arrowhead Brake
 // Ricochet Rounds
-// Enhanced Perpetual Motion
-// Enhanced Eye of the Storm
+// Perpetual Motion
+// Eye of the Storm
 // Hot Swap
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2708806099&perks=839105230,1885400500,2014892510,3719974635,1260401931
 
 // The Palindrome (Adept)
@@ -1330,7 +1330,7 @@ dimwishlist:item=2708806099&perks=839105230,1885400500,2014892510,3719974635,126
 // High-Caliber Rounds
 // Outlaw
 // Rangefinder
-//notes: Masterwork: Handling, Mod: Adept Handling
+//notes:Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 
 // Eye of Sol (Adept)
@@ -1338,17 +1338,17 @@ dimwishlist:item=1481892490&perks=3661387068,1561002382,1168162263,2846385770
 // Accurized Rounds
 // No Distractions
 // Opening Shot
-//notes: Masterwork: Handling, Mod: Adept Targeting
+//notes:Masterwork: Handling, Mod: Adept Targeting
 dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,4082225868,744217850
 
 // Wastelander M5
 // Barrel Shroud
 // Accurized Rounds
-// Enhanced Slideshot
-// Enhanced Opening Shot
+// Slideshot
+// Opening Shot
 // Hot Swap
-//notes: Masterwork: Handling, Mod: Quick Access Sling
-dimwishlist:item=1679868061&perks=1300023272,3142289711,191144788,1370847713,1260401931
+//notes:Masterwork: Handling, Mod: Quick Access Sling
+dimwishlist:item=1679868061&perks=1300023272,3142289711,3161816588,47981717,1260401931
 
 // Ragnhild-D
 // Barrel Shroud
@@ -1356,7 +1356,7 @@ dimwishlist:item=1679868061&perks=1300023272,3142289711,191144788,1370847713,126
 // Steady Hands
 // Elemental Capacitor
 // Hakke Breach Armaments
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=4225322581&perks=1300023272,3142289711,509074078,3511092054,1607056502
 
 // Perses-D
@@ -1365,7 +1365,7 @@ dimwishlist:item=4225322581&perks=1300023272,3142289711,509074078,3511092054,160
 // Rapid Hit
 // Vorpal Weapon
 // Hakke Breach Armaments
-//notes: Masterwork: Handling, Mod: Targeting Adjuster
+//notes:Masterwork: Handling, Mod: Targeting Adjuster
 dimwishlist:item=1019000888&perks=839105230,3177308360,247725512,1546637391,1607056502
 
 // The Messenger (Adept)
@@ -1373,7 +1373,7 @@ dimwishlist:item=1019000888&perks=839105230,3177308360,247725512,1546637391,1607
 // High-Caliber Rounds
 // Rapid Hit
 // Celerity
-//notes: Masterwork: Stability, Mod: Adept Counterbalance
+//notes:Masterwork: Stability, Mod: Adept Counterbalance
 dimwishlist:item=1173780905&perks=3661387068,1561002382,247725512,1264398905
 
 // Fortissimo-11
@@ -1382,7 +1382,7 @@ dimwishlist:item=1173780905&perks=3661387068,1561002382,247725512,1264398905
 // Surplus
 // Opening Shot
 // Vanguard's Vindication
-//notes: Masterwork: Stability, Mod: Sweaty Confetti
+//notes:Masterwork: Stability, Mod: Sweaty Confetti
 dimwishlist:item=2821430069&perks=3250034553,791862061,3436462433,47981717,744217850
 
 // Fractethyst
@@ -1390,7 +1390,7 @@ dimwishlist:item=2821430069&perks=3250034553,791862061,3436462433,47981717,74421
 // Accurize Rounds
 // Quickdraw
 // Opening Shot
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=3184681056&perks=1300023272,3142289711,3161816588,47981717
 dimwishlist:item=3184681056&perks=1332244541,3142289711,706527188,47981717
 dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
@@ -1406,10 +1406,10 @@ dimwishlist:item=2855157553&perks=466087222,3142289711,4071163871,3511092054
 // Syncopation-53
 // Arrowhead Brake
 // Ricochet Rounds
-// Enhanced Zen Moment
-// Enhanced Headseeker
+// Zen Moment
+// Headseeker
 // Suros Synergy
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2856514843&perks=839105230,1885400500,1748774930,4045335048,4008116374
 
 // Annual Skate
@@ -1418,7 +1418,7 @@ dimwishlist:item=2856514843&perks=839105230,1885400500,1748774930,4045335048,400
 // Surplus
 // Timed Payload
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,1954620775,0
 dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,0,0
 dimwishlist:item=6857689&perks=1926090095,3142289711,0,1954620775,0
@@ -1441,7 +1441,7 @@ dimwishlist:item=6857689&perks=0,0,0,1954620775,0
 // Perpetual Motion
 // Headstone
 // No Origin Trait
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=235827225&perks=1926090090,1885400500,1428297954,124408337,0
 dimwishlist:item=235827225&perks=1926090092,1561002382,1428297954,588594999,0
 
@@ -1451,7 +1451,7 @@ dimwishlist:item=235827225&perks=1926090092,1561002382,1428297954,588594999,0
 // Threat Detector
 // Opening Shot
 // No Origin Trait
-//notes: Masterwork: , Mod: 
+//notes:Masterwork: , Mod: 
 dimwishlist:item=2563012876&perks=1300023272,3142289711,4071163871,47981717,0
 dimwishlist:item=2563012876&perks=4090651448,791862061,4071163871,47981717,0
 
@@ -1460,13 +1460,32 @@ Year 5 - The Witch Queen
 S16 - Risen
 ====================================================================================================
 
+
+// Palmyra-B
+// Quick Launch
+// Impact Casing
+// Auto-Loading Holster
+// Explosive Light
+// Hakke Breach Armaments
+dimwishlist:item=3489657138&perks=3525010810,3796465595,3300816228,3194351027,1607056502
+
+// Snorri FR5
+// Smallbore
+// Projection Fuse
+// Firmly Planted
+// High-Impact Reserves
+// Omolon Fluid Dynamics
+//notes:Masterwork: Range, Mod: Targeting Adjuster
+dimwishlist:item=4114929480&perks=1482024992,2969185026,280464955,2213355989,2839173408
+dimwishlist:item=4114929480&perks=839105230,2969185026,1570042021,2652708987,2839173408
+
 // Submission
 // Full Bore
 // Accurized Rounds
-// Enhanced Perpetual Motion
-// Enhanced Killing Wind
+// Perpetual Motion
+// Killing Wind
 // Souldrinker
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3886416794&perks=202670084,3142289711,2014892510,4207509907,3363267119
 dimwishlist:item=3886416794&perks=202670084,3142289711,2014892510,0,3363267119
 dimwishlist:item=3886416794&perks=202670084,3142289711,0,4207509907,3363267119
@@ -1489,7 +1508,7 @@ dimwishlist:item=3886416794&perks=0,0,0,4207509907,3363267119
 // Perpetual Motion
 // Killing Wind
 // Souldrinker
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=1941816543&perks=202670084,3142289711,1428297954,2450788523,3363267119
 dimwishlist:item=1941816543&perks=202670084,3142289711,1428297954,0,3363267119
 dimwishlist:item=1941816543&perks=0,0,1428297954,0,3363267119
@@ -1500,7 +1519,7 @@ dimwishlist:item=1941816543&perks=0,0,1428297954,0,3363267119
 // Eye of the Storm
 // Timed Payload
 // Suros Synergy
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,1954620775,4008116374
 dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,0,4008116374
 dimwishlist:item=372697604&perks=1482024992,3142289711,0,1954620775,4008116374
@@ -1523,7 +1542,7 @@ dimwishlist:item=372697604&perks=0,0,0,1954620775,4008116374
 // Zen Moment
 // Dynamic Sway Reduction
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Counterbalance
+//notes:Masterwork: Range, Mod: Adept Counterbalance
 dimwishlist:item=1135050595&perks=1482024992,3142289711,2387244414,1359896290,744217850
 dimwishlist:item=1135050595&perks=1482024992,3142289711,2387244414,0,744217850
 dimwishlist:item=1135050595&perks=1482024992,3142289711,0,1359896290,744217850
@@ -1546,7 +1565,7 @@ dimwishlist:item=1135050595&perks=0,0,0,1359896290,744217850
 // Rapid Hit
 // Elemental Capacitor
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2888266564&perks=1467527085,1885400500,247725512,3511092054,2839173408
 dimwishlist:item=2888266564&perks=1467527085,1885400500,247725512,0,2839173408
 dimwishlist:item=2888266564&perks=1467527085,1885400500,0,3511092054,2839173408
@@ -1569,7 +1588,7 @@ dimwishlist:item=2888266564&perks=0,0,0,3511092054,2839173408
 // Killing Wind
 // Rangefinder
 // Veist Stinger
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3341893443&perks=1482024992,3142289711,2450788523,2846385770,3988215619
 
 // Shayura's Wrath (Adept)
@@ -1578,7 +1597,7 @@ dimwishlist:item=3341893443&perks=1482024992,3142289711,2450788523,2846385770,39
 // Perpetual Motion
 // Kill Clip
 // Alacrity
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=4023807721&perks=1482024992,3142289711,1428297954,1015611457,2988596335
 dimwishlist:item=4023807721&perks=1482024992,106909392,1428297954,1015611457,2988596335
 
@@ -1592,15 +1611,15 @@ S17 - Haunted
 // Auto-Loading Holster
 // Vorpal Weapon
 // One Quiet Moment
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 
 // Calus Mini-Tool
 // Smallbore
 // Accurized Rounds
-// Enhanced Threat Detector
-// Enhanced Tap the Trigger
+// Threat Detector
+// Tap the Trigger
 // To Excess
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2490988246&perks=1482024992,3142289711,494941759,1523649716,1905044254
 
 // New Purpose
@@ -1609,7 +1628,7 @@ dimwishlist:item=2490988246&perks=1482024992,3142289711,494941759,1523649716,190
 // Tunnel Vision
 // Desperado
 // Bitterspite
-//notes: Masterwork: Handling, Mod: Counterbalance Stock
+//notes:Masterwork: Handling, Mod: Counterbalance Stock
 dimwishlist:item=1780464822&perks=1482024992,1885400500,2946784966,3047969693,4154828211
 
 // Unforgiven
@@ -1618,25 +1637,25 @@ dimwishlist:item=1780464822&perks=1482024992,1885400500,2946784966,3047969693,41
 // Fragile Focus
 // Golden Tricorn
 // Bitterspite
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3000847393&perks=1482024992,1885400500,2451262963,2610012052,4154828211
 
 // Firefright
 // Smallbore
 // Ricochet Rouds
-// Enhanced Fragil Focus
-// Enhanced Elemental Capacitor
+// Fragil Focus
+// Elemental Capacitor
 // Extrovert
-//notes: Masterwork: Range, Mods: Counterbalance Stock
+//notes:Masterwork: Range, Mods: Counterbalance Stock
 dimwishlist:item=2778013407&perks=1482024992,1885400500,1609056795,711234314,1250481499
 
 // Drang (Baroque)
 // Smallbore
 // Accurized Rounds
-// Enhanced Eye of the Storm
-// Enhanced Zen Moment
+// Eye of the Storm
+// Zen Moment
 // To Excess
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=502356570&perks=1482024992,3142289711,3719974635,1748774930,1905044254
 dimwishlist:item=502356570&perks=1482024992,3142289711,3719974635,0,1905044254
 dimwishlist:item=502356570&perks=1482024992,3142289711,0,1748774930,1905044254
@@ -1656,10 +1675,10 @@ dimwishlist:item=502356570&perks=0,0,0,1748774930,1905044254
 // Without Remorse
 // Barrel Shroud
 // Accurized Rounds
-// Enhanced Threat Detector
-// Enhanced Fragile Focus
+// Threat Detector
+// Fragile Focus
 // Extrovert
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=1478986057&perks=1300023272,3142289711,494941759,1609056795
 
 // Enyo-D
@@ -1668,7 +1687,7 @@ dimwishlist:item=1478986057&perks=1300023272,3142289711,494941759,1609056795
 // Fragile Focus
 // Rampage
 // Hakke Breach Armaments
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=1601177201&perks=1482024992,3142289711,2451262963,3425386926,1607056502
 dimwishlist:item=1601177201&perks=0,3142289711,2451262963,3425386926,1607056502
 
@@ -1678,7 +1697,7 @@ dimwishlist:item=1601177201&perks=0,3142289711,2451262963,3425386926,1607056502
 // Zen Moment
 // Kill Clip
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=1924276978&perks=1482024992,3142289711,2387244414,1015611457,744217850
 dimwishlist:item=1924276978&perks=1482024992,3177308360,1570042021,1015611457,744217850
 
@@ -1688,7 +1707,7 @@ dimwishlist:item=1924276978&perks=1482024992,3177308360,1570042021,1015611457,74
 // Perpetual Motion
 // High-Impact Reserves
 // Alacrity
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=2002522739&perks=1482024992,2969185026,1428297954,2213355989,2988596335
 dimwishlist:item=2002522739&perks=1467527085,1687452232,1428297954,2213355989,2988596335
 
@@ -1698,7 +1717,7 @@ dimwishlist:item=2002522739&perks=1467527085,1687452232,1428297954,2213355989,29
 // Perpetual Motion
 // Timed Payload
 // Vanguard's Vindication
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=2006308129&perks=1482024992,3142289711,1428297954,1954620775,74421785
 dimwishlist:item=2006308129&perks=3661387068,106909392,1428297954,1954620775,744217850
 
@@ -1708,17 +1727,17 @@ dimwishlist:item=2006308129&perks=3661387068,106909392,1428297954,1954620775,744
 // Moving Target
 // Adrenaline Junkie
 // Alacrity
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=2405619467&perks=3661387068,1885400500,588594999,11612903,2988596335
 dimwishlist:item=2405619467&perks=3661387068,1561002382,588594999,11612903,2988596335
 
 // Austringer
 // Smallbore
 // Ricochet Rounds
-// Enhanced Eye of the Storm
-// Enhanced Zen Moment
+// Eye of the Storm
+// Zen Moment
 // To Excess
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3055790362&perks=1482024992,1885400500,3719974635,1748774930,1905044254
 dimwishlist:item=3055790362&perks=1482024992,1885400500,3719974635,0,1905044254
 dimwishlist:item=3055790362&perks=1482024992,1885400500,0,1748774930,1905044254
@@ -1745,26 +1764,26 @@ S18 - Plunder
 // Impulse Amplifier
 // Cluster Bomb
 // Skulking Wolf
-//notes: Masterwork: Blast Radius, Mod: Quick Access Sling
+//notes:Masterwork: Blast Radius, Mod: Quick Access Sling
 dimwishlist:item=2231910050&perks=3525010810,2822142346,951095735,1275731761,3989629871
 dimwishlist:item=2231910050&perks=3525010810,3796465595,951095735,1275731761,3989629871
 
 // Brigand's Law
 // Smallbore
 // Accurized Rounds
-// Enhanced Pugilist
-// Enhanced Swashbuckler
+// Pugilist
+// Swashbuckler
 // Right Hook
-//notes: Masterwork: , Mod: 
+//notes:Masterwork: , Mod: 
 dimwishlist:item=1298815317&perks=1482024992,3142289711,536173722,1161469972,3907865655
 
 // Smite of Merain
 // Arrowhead Brake
 // Accurized Rounds
-// Enhanced Pugilist
-// Enhanced Swashbuckler
+// Pugilist
+// Swashbuckler
 // Runneth Over
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2221264583&perks=839105230,3142289711,536173722,1161469972,120721526
 dimwishlist:item=2221264583&perks=839105230,3142289711,536173722,0,120721526
 dimwishlist:item=2221264583&perks=839105230,3142289711,0,1161469972,120721526
@@ -1788,7 +1807,7 @@ dimwishlist:item=3407395594&perks=0,0,691659142,4082225868,120721526
 // Fragile Focus
 // Pugilist
 // Suros Synergy
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=4100775158&perks=1467527085,1885400500,2451262963,691659142,4008116374
 dimwishlist:item=4100775158&perks=1467527085,1885400500,2451262963,0,4008116374
 dimwishlist:item=4100775158&perks=1467527085,1885400500,0,691659142,4008116374
@@ -1811,17 +1830,17 @@ dimwishlist:item=4100775158&perks=0,0,0,691659142,4008116374
 // Pugilist
 // Swashbuckler
 // Hakke Breach Armaments
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=1916287826&perks=1482024992,1885400500,1821614984,1365187766,1607056502
 dimwishlist:item=1916287826&perks=4090651448,1968497646,691659142,4082225868,1607056502
 
 // Ammit AR2
 // Arrowhead Brake
 // Ricochet Rounds
-// Enhanced Dynamic Sway Reduction
-// Enhanced Tap the Trigger
+// Dynamic Sway Reduction
+// Tap the Trigger
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,1523649716,2839173408
 dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,2422968039,2839173408
 
@@ -1831,7 +1850,7 @@ dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,2422968039,283
 // Snapshot Sights
 // Steady Hands
 // Vanguard's Vindication
-//notes: Masterwork: Handling, Mod: Adept Handling
+//notes:Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=912150785&perks=1300023272,3142289711,957782887,509074078,744217850
 
 // Pure Poetry
@@ -1840,7 +1859,7 @@ dimwishlist:item=912150785&perks=1300023272,3142289711,957782887,509074078,74421
 // Perpetual Motion
 // Elemental Capacitor
 // Hakke Breach Armaments
-//notes: Masterwork: Stability, Mod: Backup Mag
+//notes:Masterwork: Stability, Mod: Backup Mag
 dimwishlist:item=2671639706&perks=1482024992,1885400500,1428297954,3511092054,1607056502
 dimwishlist:item=2671639706&perks=1482024992,1885400500,1428297954,0,1607056502
 dimwishlist:item=2671639706&perks=1482024992,1885400500,0,3511092054,1607056502
@@ -1863,7 +1882,7 @@ dimwishlist:item=2671639706&perks=0,0,0,3511092054,1607056502
 // Perpetual Motion
 // Fragile Focus
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2988121501&perks=202670084,1885400500,1428297954,2451262963,2839173408
 dimwishlist:item=2988121501&perks=1482024992,1885400500,1359896290,2451262963,2839173408
 dimwishlist:item=2988121501&perks=1482024992,1885400500,0,2451262963,2839173408
@@ -1871,10 +1890,10 @@ dimwishlist:item=2988121501&perks=1482024992,1885400500,0,2451262963,2839173408
 // Defiance of Yasmin
 // Hammer Forged-Rifling
 // Accurized Rounds
-// Enhanced Snapshot Sights
-// Enhanced Opening Shot
+// Snapshot Sights
+// Opening Shot
 // Runneth Over
-//notes: Masterwork: Handling, Mod: Targeting Adjuster
+//notes:Masterwork: Handling, Mod: Targeting Adjuster
 dimwishlist:item=3228096719&perks=3250034553,3142289711,4116820839,1370847713,120721526
 
 // Defiance of Yasmin (Harrowed)
@@ -1883,7 +1902,7 @@ dimwishlist:item=3228096719&perks=3250034553,3142289711,4116820839,1370847713,12
 // Snapshot Sights
 // Opening Shot
 // Runneth Over
-//notes: Masterwork: Range, Mod: Adept Targeting
+//notes:Masterwork: Range, Mod: Adept Targeting
 dimwishlist:item=3503019618&perks=1840239774,3142289711,957782887,47981717,120721526
 dimwishlist:item=3503019618&perks=1840239774,3142289711,957782887,0,120721526
 dimwishlist:item=3503019618&perks=1840239774,3142289711,0,47981717,120721526
@@ -1907,10 +1926,10 @@ S19 - Seraph
 // Ikelos_SMG_v1.0.3
 // Smallbore
 // Seraph Rounds
-// Enhanced Dynamic Sway Reduction
-// Enhanced Tap the Trigger
+// Dynamic Sway Reduction
+// Tap the Trigger
 // Rasputin's Arsenal
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2149683300&perks=1467527085,1140096971,3060983774,1523649716,566815328
 
 // Disparity
@@ -1919,7 +1938,7 @@ dimwishlist:item=2149683300&perks=1467527085,1140096971,3060983774,1523649716,56
 // Rapid Hit
 // Headseeker
 // Hakke Breach Armaments
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1751893422&perks=839105230,3142289711,2938480696,4045335048,1607056502
 dimwishlist:item=1751893422&perks=1482024992,3142289711,2866798147,3047969693,1607056502
 dimwishlist:item=1751893422&perks=1482024992,3142289711,691659142,4082225868,1607056502
@@ -1930,7 +1949,7 @@ dimwishlist:item=1751893422&perks=1482024992,3142289711,691659142,4082225868,160
 // Rapid Hit
 // Explosive Payload
 // Tex Balanced Stock
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=8293111&perks=839105230,3177308360,247725512,3038247973,2437618208
 dimwishlist:item=8293111&perks=839105230,3177308360,0,3038247973,2437618208
 
@@ -1940,7 +1959,7 @@ dimwishlist:item=8293111&perks=839105230,3177308360,0,3038247973,2437618208
 // Perpetual Motion
 // Eye of the Storm
 // Heavy Grip
-//notes: Masterwork: Handling, Mod: Sweaty Confetti
+//notes:Masterwork: Handling, Mod: Sweaty Confetti
 dimwishlist:item=882778888&perks=1482024992,3177308360,1428297954,699525795,1012699414
 dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,3038247973,3326204863
 
@@ -1950,17 +1969,17 @@ dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,3038247973,332
 // Dynamic Sway Reduction
 // Killing Tally
 // Alacrity
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=2759251821&perks=839105230,3177308360,1359896290,557221067,2988596335
 dimwishlist:item=2759251821&perks=839105230,3177308360,1820235745,557221067,2988596335
 
 // Path of Least Resistance
 // Smallbore
 // Tactical Battery
-// Enhanced Dynamic Sway Reduction
-// Enhanced Tap the Trigger
+// Dynamic Sway Reduction
+// Tap the Trigger
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=2827764482&perks=1482024992,732557052,3060983774,1523649716,2839173408
 dimwishlist:item=2827764482&perks=1482024992,732557052,3060983774,0,2839173408
 dimwishlist:item=2827764482&perks=1482024992,732557052,0,1523649716,2839173408
@@ -1983,7 +2002,7 @@ dimwishlist:item=2827764482&perks=0,0,0,1523649716,2839173408
 // Tap the Trigger
 // Desperado
 // Tex Balanced Stock
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=3138208275&perks=3661387068,1885400500,1890422124,3047969693,2437618208
 dimwishlist:item=3138208275&perks=3661387068,1885400500,1890422124,0,2437618208
 dimwishlist:item=3138208275&perks=3661387068,1885400500,0,3047969693,2437618208
@@ -2006,7 +2025,7 @@ dimwishlist:item=3138208275&perks=0,0,0,3047969693,2437618208
 // Rangefinder
 // Eye of the Storm
 // Suros Synergy
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=3920882229&perks=1482024992,3177308360,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=1392496348,3177308360,2846385770,699525795,4008116374
 
@@ -2015,31 +2034,40 @@ Year 6 - Lightfall
 S20 - Defiance
 ====================================================================================================
 
+// The Title
+// Smallbore
+// Ricochet Rounds
+// Perpetual Motion
+// Rangefinder
+// Hakke Breach Armaments
+//notes:Masterwork: Range, Mod: Ballistics
+dimwishlist:item=3559361670&perks=1482024992,1885400500,1428297954,2846385770,1607056502
+
 // Perpetualis
 // Smallbore
 // Accurized Roumds
-// Enhanced Zen Moment
-// Enhanced Target Lock
+// Zen Moment
+// Target Lock
 // Noble Deeds
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=392008588&perks=1482024992,3142289711,1748774930,2939589096,1823011807
 
 // Acasia Dejection
 // Smallbore
 // Tactical Battery
-// Enhanced Keep Away
-// Enhanced High-Impact Reserves
+// Keep Away
+// High-Impact Reserves
 // Harmonic Resonace
-//notes: Masterwork: Stability, Mod: Sweaty Confetti
+//notes:Masterwork: Stability, Mod: Sweaty Confetti
 dimwishlist:item=1471212226&perks=1482024992,732557052,3198323828,2002547233,3186078099
 
 // Phylottactic Spiral
 // Smallbore
 // Ricochet Rounds
-// Enhanced Keep Away
-// Enhanced Elemental Capacity
+// Keep Away
+// Elemental Capacity
 // Nanotech Tracer Rockets
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=3635821806&perks=1482024992,1885400500,3198323828,711234314,164468655
 
 // Buzzard (Adept)
@@ -2048,7 +2076,7 @@ dimwishlist:item=3635821806&perks=1482024992,1885400500,3198323828,711234314,164
 // Encore
 // Swashbuckler
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Stability
+//notes:Masterwork: Range, Mod: Adept Stability
 dimwishlist:item=1916287826&perks=4090651448,1968497646,691659142,4082225868,1607056502
 dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,4082225868,744217850
 
@@ -2058,7 +2086,7 @@ dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,4082225868,744
 // Rangefinder
 // Eye of the Storm
 // Field-Tested
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=3166250992&perks=1392496348,1885400500,2846385770,699525795,2120661319
 
 // Battle Scar
@@ -2067,16 +2095,16 @@ dimwishlist:item=3166250992&perks=1392496348,1885400500,2846385770,699525795,212
 // Keep Away
 // Headseeker
 // Field-Tested
-//notes: Masterwork: Stability: Mod, Counterbalance Stock
+//notes:Masterwork: Stability: Mod, Counterbalance Stock
 dimwishlist:item=2099894368&perks=839105230,3142289711,3619207468,460017080,2120661319
 
 // Perpetualis
 // Smallbore
 // Accurized Rounds
-// Enhanced Zen Moment
-// Enhanced Eye of the Storm
+// Zen Moment
+// Eye of the Storm
 // Noble Deeds
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=392008588&perks=1482024992,3142289711,1748774930,3719974635,1823011807
 
 // Autumn Wind
@@ -2085,7 +2113,7 @@ dimwishlist:item=392008588&perks=1482024992,3142289711,1748774930,3719974635,182
 // Perpetual Motion
 // Elemental Capacitor
 // One Quiet Moment
-//notes: Masterwork: , Mod: 
+//notes:Masterwork: , Mod: 
 dimwishlist:item=3110377595&perks=839105230,1885400500,1428297954,3511092054,4091460919
 dimwishlist:item=3110377595&perks=839105230,1885400500,1428297954,0,4091460919
 dimwishlist:item=3110377595&perks=839105230,1885400500,0,3511092054,4091460919
@@ -2119,17 +2147,17 @@ dimwishlist:item=3110377595&perks=0,0,691659142,4082225868,4091460919
 // Slickdraw
 // Headstone
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=5159537&perks=1482024992,1885400500,1821614984,124408337,2839173408
 dimwishlist:item=5159537&perks=1482024992,1561002382,1821614984,124408337,2839173408
 
 // Imperial Decree
 // Barrel Shroud
 // Accurized Rounds
-// Enhanced Slideshot
-// Enhanced Opening Shot
+// Slideshot
+// Opening Shot
 // To Excess
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=318443586&perks=1300023272,3142289711,191144788,1370847713,1905044254
 
 // Coronach-22
@@ -2138,17 +2166,17 @@ dimwishlist:item=318443586&perks=1300023272,3142289711,191144788,1370847713,1905
 // Zen Moment
 // Target Lock
 // Suros Synergy
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=355382946&perks=839105230,1885400500,2387244414,365154968,4008116374
 dimwishlist:item=355382946&perks=839105230,1885400500,2387244414,0,4008116374
 
 // Rufus' Fury
 // Smallbore
 // Ricochet Rounds
-// Enhanced Perpetual Motion
-// Enhanced Target Lock
+// Perpetual Motion
+// Target Lock
 // Harmonic Resonance
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=484515708&perks=1482024992,1885400500,2014892510,2939589096,3186078099
 dimwishlist:item=484515708&perks=1482024992,1885400500,2014892510,0,3186078099
 dimwishlist:item=484515708&perks=1482024992,1885400500,0,2939589096,3186078099
@@ -2171,7 +2199,7 @@ dimwishlist:item=484515708&perks=0,0,0,2939589096,3186078099
 // Fragile Focus
 // Elemental Capacitor
 // Field-Tested
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=664109750&perks=1300023272,3142289711,2451262963,3511092054,2120661319
 dimwishlist:item=664109750&perks=1300023272,3142289711,2451262963,0,2120661319
 dimwishlist:item=664109750&perks=1300023272,3142289711,0,3511092054,2120661319
@@ -2184,7 +2212,7 @@ dimwishlist:item=664109750&perks=0,3142289711,2451262963,3511092054,2120661319
 // Subsistence
 // Opening Shot
 // Alacrity
-//notes: Masterwork: Handling, Mod: Adept Targeting
+//notes:Masterwork: Handling, Mod: Adept Targeting
 dimwishlist:item=825554997&perks=1840239774,791862061,1820235745,47981717,2988596335
 dimwishlist:item=825554997&perks=1482024992,791862061,1820235745,47981717,2988596335
 
@@ -2194,17 +2222,17 @@ dimwishlist:item=825554997&perks=1482024992,791862061,1820235745,47981717,298859
 // Slideshot
 // Elemental Capacitor
 // Alacrity
-//notes: Masterwork: Range, Mod: Adept Handling
+//notes:Masterwork: Range, Mod: Adept Handling
 dimwishlist:item=854379020&perks=1300023272,3142289711,3161816588,3511092054,2988596335
 dimwishlist:item=854379020&perks=1047830412,3142289711,3161816588,3511092054,2988596335
 
 // Round Robin
 // Smallbore
 // Ricochet Rounds
-// Enhanced Keep Away
-// Enhanced Elemental Capacitor
+// Keep Away
+// Elemental Capacitor
 // Nanotech Tracer Rockets
-//notes: Masterwork: Stability, Mod: Backup Mag
+//notes:Masterwork: Stability, Mod: Backup Mag
 dimwishlist:item=2034215657&perks=1482024992,1885400500,3198323828,711234314,164468655
 dimwishlist:item=2034215657&perks=1482024992,1885400500,3198323828,0,164468655
 dimwishlist:item=2034215657&perks=1482024992,1885400500,0,711234314,164468655
@@ -2227,7 +2255,7 @@ dimwishlist:item=2034215657&perks=0,0,0,711234314,164468655
 // Dynamic Sway Reduction
 // Tap the Trigger
 // Alacrity
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=3193598749&perks=1467527085,1885400500,1359896290,1890422124,2988596335
 dimwishlist:item=3193598749&perks=1467527085,1561002382,1359896290,1890422124,2988596335
 
@@ -2241,7 +2269,7 @@ S21 - Deep
 // No Distractions
 // Box Breathing
 // Suros Synergy
-//notes: Masterwork: Stability, Counterbalance Stock
+//notes:Masterwork: Stability, Counterbalance Stock
 dimwishlist:item=222606050&perks=3661387068,1968497646,2866798147,2551157718,4008116374
 dimwishlist:item=222606050&perks=839105230,1885400500,2866798147,2551157718,4008116374
 
@@ -2251,7 +2279,7 @@ dimwishlist:item=222606050&perks=839105230,1885400500,2866798147,2551157718,4008
 // Perfect Float
 // Frenzy
 // Field-Tested
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3678653083&perks=839105230,3142289711,2272927194,4104185692,2120661319
 dimwishlist:item=3678653083&perks=0,3142289711,2272927194,4104185692,2120661319
 dimwishlist:item=3678653083&perks=839105230,0,2272927194,4104185692,2120661319
@@ -2263,7 +2291,7 @@ dimwishlist:item=3678653083&perks=0,0,2272927194,4104185692,2120661319
 // Rapid Hit
 // Box Breathing
 // One Quiet Moment
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3292795429&perks=839105230,1885400500,247725512,2551157718,4091460919
 dimwishlist:item=3292795429&perks=839105230,1561002382,247725512,2551157718,4091460919
 
@@ -2273,7 +2301,7 @@ dimwishlist:item=3292795429&perks=839105230,1561002382,247725512,2551157718,4091
 // Killing Wind
 // Desperado
 // Omolon luide Dynamics
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=2812100428&perks=839105230,1885400500,2450788523,3047969693,2839173408
 
 // Unexpected Resurgence (Adept)
@@ -2282,7 +2310,7 @@ dimwishlist:item=2812100428&perks=839105230,1885400500,2450788523,3047969693,283
 // Impulse Amplifier
 // Close to Melee
 // Alacrity
-//notes: Masterwork: Handling, Mod: Adept Handling
+//notes:Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=1141586039&perks=5699512,3142289711,951095735,1782407750,2988596335
 
 // Outlast
@@ -2291,7 +2319,7 @@ dimwishlist:item=1141586039&perks=5699512,3142289711,951095735,1782407750,298859
 // Keep Away
 // Kill Clip
 // Disaster Plan
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=1678205741&perks=1482024992,1885400500,3619207468,1015611457,1004814308
 dimwishlist:item=1678205741&perks=839105230,1885400500,3619207468,2848615171,1004814308
 
@@ -2301,17 +2329,17 @@ dimwishlist:item=1678205741&perks=839105230,1885400500,3619207468,2848615171,100
 // Perpetual Motion
 // Fragile Focus
 // Disaster Plan
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2832639510&perks=1482024992,1885400500,1428297954,2451262963,1004814308
 dimwishlist:item=2832639510&perks=0,1885400500,1428297954,0,1004814308
 
 // Chattering Bone
 // Arrowhead Brake
 // Accurized Rounds
-// Enhanced Keep Away
-// Enhanced Elemental Capacitor
+// Keep Away
+// Elemental Capacitor
 // Explosive Pact
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=501329015&perks=839105230,3142289711,3198323828,711234314,1489048135
 dimwishlist:item=501329015&perks=839105230,3142289711,3198323828,0,1489048135
 dimwishlist:item=501329015&perks=839105230,3142289711,0,711234314,1489048135
@@ -2334,7 +2362,7 @@ dimwishlist:item=501329015&perks=0,0,0,711234314,1489048135
 // Zen Moment
 // Eye of the Storm
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=491078457&perks=1482024992,1885400500,2387244414,699525795,2839173408
 dimwishlist:item=491078457&perks=1482024992,1885400500,2387244414,0,2839173408
 dimwishlist:item=491078457&perks=1482024992,1885400500,0,699525795,2839173408
@@ -2354,10 +2382,10 @@ dimwishlist:item=491078457&perks=0,0,0,699525795,2839173408
 // Nation of Beasts
 // Smallbore
 // Accurized Rounds
-// Enhanced Keep Away
-// Enhanced Explosive Payload
+// Keep Away
+// Explosive Payload
 // Explosive Pact
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=70083888&perks=1482024992,3142289711,3198323828,64866129,1489048135
 dimwishlist:item=70083888&perks=1482024992,3142289711,3198323828,0,1489048135
 dimwishlist:item=70083888&perks=1482024992,3142289711,0,64866129,1489048135
@@ -2380,7 +2408,7 @@ dimwishlist:item=70083888&perks=0,0,0,64866129,1489048135
 // Under-Over
 // Keep Away
 // Wild Card
-//notes: Masterwork: Range, Mod: Adept Counterbalance
+//notes:Masterwork: Range, Mod: Adept Counterbalance
 dimwishlist:item=364665267&perks=1482024992,1885400500,1870851715,3619207468,1050127423
 dimwishlist:item=364665267&perks=1467527085,1885400500,1870851715,3619207468,1050127423
 
@@ -2390,7 +2418,7 @@ dimwishlist:item=364665267&perks=1467527085,1885400500,1870851715,3619207468,105
 // Snapshot Sights
 // Opening Shot
 // Short Action Stock
-//notes: Masterwork: Handling, Mod: Targeting Adjuster
+//notes:Masterwork: Handling, Mod: Targeting Adjuster
 dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,47981717,1067908860
 dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,0,1067908860
 dimwishlist:item=2073794990&perks=1840239774,1885400500,0,47981717,1067908860
@@ -2413,7 +2441,7 @@ dimwishlist:item=2073794990&perks=0,0,0,47981717,1067908860
 // Under Pressure
 // Eye of the Storm
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=2914913838&perks=1482024992,2969185026,1645158859,699525795,744217850
 dimwishlist:item=2914913838&perks=1482024992,2969185026,1645158859,0,744217850
 dimwishlist:item=2914913838&perks=1482024992,2969185026,0,699525795,744217850
@@ -2436,7 +2464,7 @@ dimwishlist:item=2914913838&perks=0,0,0,699525795,744217850
 // Slideshot
 // Opening Shot
 // Disaster Plan
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=3236112986&perks=1482024992,1885400500,3161816588,47981717,1004814308
 dimwishlist:item=3236112986&perks=1482024992,1885400500,3161816588,0,1004814308
 dimwishlist:item=3236112986&perks=1482024992,1885400500,0,47981717,1004814308
@@ -2460,28 +2488,28 @@ S22 - Witch
 // Abyss Defiant
 // Smallbore
 // Ricochet Rounds
-// Enhanced Pugilist
-// Enhanced Swashbuckler
+// Pugilist
+// Swashbuckler
 // Origin Trait Not Listed: 1156201379
-//notes: Masterwork: , Mod: 
+//notes:Masterwork: , Mod: 
 dimwishlist:item=833898322&perks=1482024992,1885400500,536173722,1161469972,1156201379
 
 // Semiotican
 // Linear Compensator
 // High-Velocity Rounds
-// Enhanced Impulse Amplifier
-// Enhanced Hatchling
+// Impulse Amplifier
+// Hatchling
 // Head Rush
-//notes: Masterwork: Velocity, Mod: Quick Access Sling
+//notes:Masterwork: Velocity, Mod: Quick Access Sling
 dimwishlist:item=2922749929&perks=1441682018,2822142346,3878366039,102912326,2565067140
 
 // Brya's Love
 // Arrowhead Brake
 // Steady Rounds
-// Enhanced Rapid Hit
-// Enhanced Precision Instrument
+// Rapid Hit
+// Precision Instrument
 // Head Rush
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=2779821308&perks=839105230,3177308360,2938480696,332733060,2565067140
 
 // Swordbreaker
@@ -2490,7 +2518,7 @@ dimwishlist:item=2779821308&perks=839105230,3177308360,2938480696,332733060,2565
 // Slideshot
 // Opening Shot
 // Cursed Thrall
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=3163900678&perks=1300023272,3142289711,191144788,1370847713,1156201379
 
 // Warden's Law (Adept)
@@ -2499,7 +2527,7 @@ dimwishlist:item=3163900678&perks=1300023272,3142289711,191144788,1370847713,115
 // Perpetual Motion
 // Zen Moment
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=267089201&perks=202670084,3142289711,1428297954,2387244414,744217850
 dimwishlist:item=267089201&perks=202670084,1087426260,1428297954,2387244414,744217850
 
@@ -2509,7 +2537,7 @@ dimwishlist:item=267089201&perks=202670084,1087426260,1428297954,2387244414,7442
 // Elemental Capacitor
 // Perpetual Motion
 // Wild Card
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=358788212&perks=1482024992,3142289711,3511092054,1428297954,1050127423
 dimwishlist:item=358788212&perks=1482024992,3142289711,3511092054,0,1050127423
 
@@ -2519,7 +2547,7 @@ dimwishlist:item=358788212&perks=1482024992,3142289711,3511092054,0,1050127423
 // Impulse Amplifier
 // Chain Reaction
 // Alacrity
-//notes: Masterwork: Blast Radius, Mod: Adept Blast Radius
+//notes:Masterwork: Blast Radius, Mod: Adept Blast Radius
 dimwishlist:item=874623537&perks=3525010810,2822142346,951095735,2396489472,2988596335
 dimwishlist:item=874623537&perks=1441682018,1771897777,951095735,2396489472,2988596335
 
@@ -2529,7 +2557,7 @@ dimwishlist:item=874623537&perks=1441682018,1771897777,951095735,2396489472,2988
 // Slickdraw
 // Barrel Constrictor
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=1296429091&perks=1332244541,3142289711,1821614984,1451849462,744217850
 dimwishlist:item=1296429091&perks=1332244541,3142289711,1821614984,0,744217850
 dimwishlist:item=1296429091&perks=1332244541,3142289711,0,1451849462,744217850
@@ -2549,10 +2577,10 @@ dimwishlist:item=1296429091&perks=0,0,0,1451849462,744217850
 // Kept Confidence
 // Extended Barrel
 // Accurized Rounds
-// Enhanced Quickdraw
-// Enhanced Eye of the Storm
+// Quickdraw
+// Eye of the Storm
 // Head Rush
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=1875512595&perks=1467527085,3142289711,1961144892,3719974635,2565067140
 dimwishlist:item=1875512595&perks=1467527085,3142289711,1961144892,0,2565067140
 dimwishlist:item=1875512595&perks=1467527085,3142289711,0,3719974635,2565067140
@@ -2575,7 +2603,7 @@ dimwishlist:item=1875512595&perks=0,0,0,3719974635,2565067140
 // Keep Away
 // Headseeker
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1974641289&perks=1482024992,1885400500,3619207468,460017080,2509860981
 dimwishlist:item=1974641289&perks=1482024992,1885400500,0,460017080,2509860981
 
@@ -2585,7 +2613,7 @@ dimwishlist:item=1974641289&perks=1482024992,1885400500,0,460017080,2509860981
 // Dynamic Sway Reduction
 // Target Lock
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1999754402&perks=1467527085,1885400500,1359896290,365154968,2509860981
 dimwishlist:item=1999754402&perks=1467527085,1885400500,1359896290,0,2509860981
 dimwishlist:item=1999754402&perks=1467527085,1885400500,0,365154968,2509860981
@@ -2608,7 +2636,7 @@ dimwishlist:item=1999754402&perks=0,0,0,365154968,2509860981
 // Keep Away
 // Eye of the Storm
 // Alacrity
-//notes: Masterwork: Stability, Mod: Adept Range
+//notes:Masterwork: Stability, Mod: Adept Range
 dimwishlist:item=2314610827&perks=1482024992,1885400500,3619207468,699525795,2988596335
 dimwishlist:item=2314610827&perks=1482024992,1885400500,3619207468,555281244,2988596335
 
@@ -2618,7 +2646,7 @@ dimwishlist:item=2314610827&perks=1482024992,1885400500,3619207468,555281244,298
 // Dynamic Sway Reduction
 // Fragile Focus
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,2451262963,2509860981
 dimwishlist:item=2510526114&perks=1482024992,3142289711,588594999,2451262963,2509860981
 
@@ -2628,7 +2656,7 @@ dimwishlist:item=2510526114&perks=1482024992,3142289711,588594999,2451262963,250
 // Heal Clip
 // Kill Clip
 // Nadir Focus
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=3998080529&perks=3661387068,3142289711,3017780555,1015611457,2509860981
 dimwishlist:item=3998080529&perks=3661387068,3142289711,3017780555,0,2509860981
 dimwishlist:item=3998080529&perks=3661387068,3142289711,0,1015611457,2509860981
@@ -2664,10 +2692,10 @@ dimwishlist:item=1354727549&perks=938542991,599007201,2077819806,3650930298,7442
 // Adhortative
 // Arrowhead Brake
 // Ricochet Rounds
-// Enhanced Heal Clip
-// Enhanced Deconstruct
+// Heal Clip
+// Deconstruct
 // Nano-Munitions
-//notes: Masterwork: Stability, Mod; Counterbalance Stock
+//notes:Masterwork: Stability, Mod; Counterbalance Stock
 dimwishlist:item=2993554824&perks=839105230,1885400500,4223976499,,0,19542588
 
 // Tigerspite
@@ -2676,7 +2704,7 @@ dimwishlist:item=2993554824&perks=839105230,1885400500,4223976499,,0,19542588
 // Fragile Focus
 // Eye of the Storm
 // Advanced Reflexes
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2465372924&perks=1392496348,1885400500,2451262963,699525795,930692523
 dimwishlist:item=2465372924&perks=1392496348,1885400500,2451262963,0,930692523
 dimwishlist:item=2465372924&perks=1392496348,1885400500,0,699525795,930692523
@@ -2699,7 +2727,7 @@ dimwishlist:item=2465372924&perks=0,0,0,699525795,930692523
 // Elemental Capacitor
 // Kill Clip
 // Crossing Over
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=435821040&perks=1482024992,1885400500,3511092054,1015611457,4129855581
 dimwishlist:item=435821040&perks=1482024992,1885400500,3511092054,0,4129855581
 dimwishlist:item=435821040&perks=1482024992,1885400500,0,1015611457,4129855581
@@ -2722,7 +2750,7 @@ dimwishlist:item=435821040&perks=0,0,0,1015611457,4129855581
 // Keep Away
 // Zen Moment
 // Crossing Over
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=435821041&perks=1482024992,1885400500,3619207468,2387244414,4129855581
 dimwishlist:item=435821041&perks=1482024992,1885400500,3619207468,0,4129855581
 dimwishlist:item=435821041&perks=1482024992,1885400500,0,2387244414,4129855581
@@ -2746,7 +2774,7 @@ dimwishlist:item=435821041&perks=1482024992,1885400500,3619207468,3047969693,412
 // Quickdraw
 // Snapshot Sights
 // Advanced Reflexes
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=871900124&perks=1332244541,3142289711,706527188,957782887,930692523
 
 // Adjudicator
@@ -2755,7 +2783,7 @@ dimwishlist:item=871900124&perks=1332244541,3142289711,706527188,957782887,93069
 // Perpetual Motion
 // Onslaught
 // Crossing Over
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1013434963&perks=1467527085,3142289711,1428297954,95528736,4129855581
 dimwishlist:item=1013434963&perks=1467527085,3142289711,1428297954,0,4129855581
 dimwishlist:item=1013434963&perks=1467527085,3142289711,0,95528736,4129855581
@@ -2778,7 +2806,7 @@ dimwishlist:item=1013434963&perks=0,0,0,95528736,4129855581
 // Zen Moment
 // Golden Tricorn
 // Wild Card
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=1292594730&perks=1482024992,1885400500,1748774930,4290541820,1050127423
 dimwishlist:item=1292594730&perks=1482024992,1885400500,2387244414,2610012052,1050127423
 
@@ -2788,7 +2816,7 @@ dimwishlist:item=1292594730&perks=1482024992,1885400500,2387244414,2610012052,10
 // Slickdraw
 // Snapshot Sights
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=1612781792&perks=1332244541,3142289711,1821614984,957782887,2509860981
 dimwishlist:item=1612781792&perks=1300023272,3142289711,691659142,4082225868,2509860981
 dimwishlist:item=1612781792&perks=1300023272,3142289711,691659142,0,2509860981
@@ -2808,7 +2836,7 @@ dimwishlist:item=1612781792&perks=0,0,691659142,4082225868,2509860981
 // Slickdraw
 // Iron Reach
 // Skulking Wolf
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=1764868900&perks=1332244541,3142289711,1821614984,591790007,3989629871
 
 // Breakneck
@@ -2817,7 +2845,7 @@ dimwishlist:item=1764868900&perks=1332244541,3142289711,1821614984,591790007,398
 // Keep Away
 // Onslaught
 // Gun and Run
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2026755633&perks=1482024992,1885400500,1570042021,95528736,515704826
 dimwishlist:item=2026755633&perks=1482024992,1885400500,3619207468,95528736,515704826
 dimwishlist:item=2026755633&perks=1482024992,1885400500,3619207468,0,515704826
@@ -2841,7 +2869,7 @@ dimwishlist:item=2026755633&perks=0,0,0,95528736,515704826
 // Fragile Focus
 // Opening Shot
 // Wild Card
-//notes: Masterwork: Handling, Mod: Adept Targeting
+//notes:Masterwork: Handling, Mod: Adept Targeting
 dimwishlist:item=2059255495&perks=1840239774,3142289711,2451262963,47981717,1050127423
 dimwishlist:item=2059255495&perks=1840239774,3142289711,2451262963,0,1050127423
 dimwishlist:item=2059255495&perks=1840239774,3142289711,0,47981717,1050127423
@@ -2864,7 +2892,7 @@ dimwishlist:item=2059255495&perks=0,0,0,47981717,1050127423
 // Keep Away
 // Onslaught
 // Skulking Wolf
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=2189073092&perks=839105230,1885400500,3619207468,95528736,3989629871
 dimwishlist:item=2189073092&perks=839105230,1885400500,3619207468,0,3989629871
 dimwishlist:item=2189073092&perks=839105230,1885400500,0,95528736,3989629871
@@ -2887,11 +2915,11 @@ dimwishlist:item=2189073092&perks=0,0,0,95528736,3989629871
 // Keep Away
 // Zen Moment
 // Hand-Laid Stock
-//notes: Masterwork: Reload, Mod: Ballistics (Owned)
+//notes:Masterwork: Reload, Mod: Ballistics (Owned)
 dimwishlist:item=2313726158&perks=1392496348,1561002382,3619207468,2387244414,990298390
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=2313726158&perks=839105230,1885400500,3619207468,2387244414,990298390
-//notes: Masterwork: Handling, Mod: Ballistics
+//notes:Masterwork: Handling, Mod: Ballistics
 dimwishlist:item=2313726158&perks=1482024992,1885400500,699525795,2387244414,990298390
 
 // Incisor (Adept)
@@ -2900,17 +2928,17 @@ dimwishlist:item=2313726158&perks=1482024992,1885400500,699525795,2387244414,990
 // Dynamic Sway Reduction
 // Tap the Trigger
 // Alacrity
-//notes: Masterwork: Stability, Mod: Adept Range
+//notes:Masterwork: Stability, Mod: Adept Range
 dimwishlist:item=2421180981&perks=1482024992,732557052,1359896290,1890422124,2988596335
 dimwishlist:item=2421180981&perks=1392496348,2969185026,1359896290,1890422124,2988596335
 
 // Scalar Potential
 // Smallbore
 // Accurized Rounds
-// Enhanced Keep Away
-// Enhanced Under-Over
+// Keep Away
+// Under-Over
 // Dragon's Vengeance
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=2563668388&perks=1482024992,3142289711,3198323828,183938251,3978094547
 dimwishlist:item=2563668388&perks=1482024992,3142289711,3198323828,0,3978094547
 dimwishlist:item=2563668388&perks=1482024992,3142289711,0,183938251,3978094547
@@ -2933,7 +2961,7 @@ dimwishlist:item=2563668388&perks=0,0,0,183938251,3978094547
 // Slideshot
 // Eye of the Storm
 // Crossing Over
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=2969415423&perks=1926090093,3142289711,3161816588,699525795,4129855581
 dimwishlist:item=2969415423&perks=1926090093,3142289711,3161816588,0,4129855581
 dimwishlist:item=2969415423&perks=1926090093,3142289711,0,699525795,4129855581
@@ -2956,7 +2984,7 @@ dimwishlist:item=2969415423&perks=0,0,0,699525795,4129855581
 // Keep Away
 // Precision Instrument
 // Alacrity
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=3019024381&perks=1482024992,3142289711,3619207468,555281244,2437618208
 
 // Multimach CCX
@@ -2965,7 +2993,7 @@ dimwishlist:item=3019024381&perks=1482024992,3142289711,3619207468,555281244,243
 // Dynamic Sway Reduction
 // Tap the Trigger
 // Field-Tested
-//notes: Masterwork: Range, Mod: Sweaty Confetti
+//notes:Masterwork: Range, Mod: Sweaty Confetti
 dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1890422124,2120661319
 dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1890422124,2120661319
 
@@ -2975,7 +3003,7 @@ dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1890422124,21
 // Impulse Amplifier
 // Adagio
 // Sundering
-//notes: Masterwork: Velocity, Mod: Counterbalance Stock
+//notes:Masterwork: Velocity, Mod: Counterbalance Stock
 dimwishlist:item=3381450498&perks=1478423395,3230963543,2859149211,2173046394,220689851
 
 // Prosecutor
@@ -2984,7 +3012,7 @@ dimwishlist:item=3381450498&perks=1478423395,3230963543,2859149211,2173046394,22
 // Keep Away
 // Tap the Trigger
 // Crossing Over
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3483591058&perks=1482024992,1885400500,3619207468,1890422124,4129855581
 dimwishlist:item=3483591058&perks=1482024992,1885400500,3619207468,0,4129855581
 dimwishlist:item=3483591058&perks=1482024992,1885400500,0,1890422124,4129855581
@@ -3007,7 +3035,7 @@ dimwishlist:item=3483591058&perks=0,0,0,1890422124,4129855581
 // Dynamic Sway Reduction
 // Onslaught
 // Wild Card
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3583275737&perks=1482024992,3142289711,1359896290,95528736,1050127423
 dimwishlist:item=3583275737&perks=1482024992,3142289711,1359896290,0,1050127423
 dimwishlist:item=3583275737&perks=1482024992,3142289711,0,95528736,1050127423
@@ -3030,7 +3058,7 @@ dimwishlist:item=3583275737&perks=0,0,0,95528736,1050127423
 // Heal Clip
 // Dynamic Sway Reduction
 // Field-Tested
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3926811686&perks=1482024992,3142289711,3017780555,1359896290,43555494
 dimwishlist:item=3926811686&perks=1482024992,3142289711,3017780555,0,43555494
 dimwishlist:item=3926811686&perks=1482024992,3142289711,0,1359896290,43555494
@@ -3053,7 +3081,7 @@ dimwishlist:item=3926811686&perks=0,0,0,1359896290,43555494
 // Elemental Capacitor
 // Opening Shot
 // Crossing Over
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=4097972038&perks=1300023272,3142289711,3511092054,47981717,4129855581
 dimwishlist:item=4097972038&perks=1300023272,3142289711,3511092054,0,4129855581
 dimwishlist:item=4097972038&perks=1300023272,3142289711,0,47981717,4129855581
@@ -3076,7 +3104,7 @@ dimwishlist:item=4097972038&perks=0,0,0,47981717,4129855581
 // Zen Moment
 // Keep Away
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=1389546626&perks=839105230,3142289711,2387244414,3619207468,2839173408
 
 // Elsie's Rifle
@@ -3085,7 +3113,7 @@ dimwishlist:item=1389546626&perks=839105230,3142289711,2387244414,3619207468,283
 // Keep Away
 // Headseeker
 // Indomitability
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2372514509&perks=3661387068,1885400500,2387244414,460017080,2489430594
 
 // Luna's Howl
@@ -3094,7 +3122,7 @@ dimwishlist:item=2372514509&perks=3661387068,1885400500,2387244414,460017080,248
 // Slideshot
 // Opening Shot
 // Indomitability
-//notes: Masterwork: Range, Mod: Backup Mag
+//notes:Masterwork: Range, Mod: Backup Mag
 dimwishlist:item=3757612024&perks=202670084,1885400500,3161816588,47981717,2489430594
 dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,47981717,2489430594
 dimwishlist:item=3757612024&perks=0,0,3017780555,4293542123,0
@@ -3106,7 +3134,7 @@ dimwishlist:item=2763843899&perks=0,0,3017780555,4293542123,0
 // Dynamic Sway Reduction
 // Master of Arms
 // Indomitability
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1050806815&perks=1482024992,1885400500,1359896290,3081867624,2489430594
 dimwishlist:item=1050806815&perks=1482024992,1885400500,1359896290,0,2489430594
 dimwishlist:item=3098328572&perks=1482024992,1885400500,1359896290,3081867624,2489430594
@@ -3118,7 +3146,7 @@ dimwishlist:item=3098328572&perks=1482024992,1885400500,1359896290,0,2489430594
 // Firefly
 // Zen Moment
 // Indomitability
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=2499720827&perks=1482024992,3142289711,3824105627,2387244414,2489430594
 
 // The Mountaintop
@@ -3127,7 +3155,7 @@ dimwishlist:item=2499720827&perks=1482024992,3142289711,3824105627,2387244414,24
 // Auto-Loading Holster
 // Vorpal Weapon
 // Indomitability
-//notes: Masterwork: Handling, Mod: Major Spec
+//notes:Masterwork: Handling, Mod: Major Spec
 dimwishlist:item=568611922&perks=3798852852,2822142346,3300816228,1546637391,2489430594
 
 // Blast Furnace
@@ -3136,7 +3164,7 @@ dimwishlist:item=568611922&perks=3798852852,2822142346,3300816228,1546637391,248
 // Zen Moment
 // Rapid Hit
 // Indomitability
-//notes: Masterwork: Stability, Mod: Targeting Addjuster
+//notes:Masterwork: Stability, Mod: Targeting Addjuster
 dimwishlist:item=2372514508&perks=1482024992,3142289711,2387244414,247725512,2489430594
 dimwishlist:item=2372514508&perks=1482024992,3142289711,2387244414,0,2489430594
 dimwishlist:item=2372514508&perks=1482024992,3142289711,0,247725512,2489430594
@@ -3184,7 +3212,7 @@ S24 - Echoes
 // Slideways
 // Zen Moment
 // Hakke Breach Armaments
-//notes: Masterwork: Stability, Mod: Backup Mag
+//notes:Masterwork: Stability, Mod: Backup Mag
 dimwishlist:item=198854575&perks=1482024992,3177308360,2039302152,2387244414,1607056502
 dimwishlist:item=198854575&perks=1482024992,3177308360,2039302152,0,1607056502
 dimwishlist:item=198854575&perks=1482024992,3177308360,0,2387244414,1607056502
@@ -3204,10 +3232,10 @@ dimwishlist:item=198854575&perks=0,0,0,2387244414,1607056502
 // Speleologist
 // Arrowhead Brake
 // Steady Rounds
-// Enhanced Envious Assassin
-// Enhanced Killing Tally
+// Envious Assassin
+// Killing Tally
 // Radiolaria Transposer
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=412251536&perks=839105230,3177308360,424370782,2896748467,253121539
 dimwishlist:item=412251536&perks=839105230,3177308360,424370782,0,253121539
 dimwishlist:item=412251536&perks=839105230,3177308360,0,2896748467,253121539
@@ -3230,7 +3258,7 @@ dimwishlist:item=412251536&perks=0,0,0,2896748467,253121539
 // Fragile Focus
 // Threat Detector
 // Field-Tested
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=423343404&perks=1482024992,1885400500,2451262963,4071163871,43555494
 dimwishlist:item=423343404&perks=1482024992,1885400500,2451262963,0,43555494
 dimwishlist:item=423343404&perks=1482024992,1885400500,0,4071163871,43555494
@@ -3250,10 +3278,10 @@ dimwishlist:item=423343404&perks=0,0,0,4071163871,43555494
 // Bold Endings
 // Full Bore
 // Accurized Rounds
-// Enhanced To the Pain
-// Enhanced Eye of the Storm
+// To the Pain
+// Eye of the Storm
 // Dealer's Choice
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=496728945&perks=202670084,3142289711,3416609154,3719974635,1988485648
 dimwishlist:item=496728945&perks=202670084,3142289711,3416609154,0,1988485648
 dimwishlist:item=496728945&perks=202670084,3142289711,0,3719974635,1988485648
@@ -3276,7 +3304,7 @@ dimwishlist:item=496728945&perks=0,0,0,3719974635,1988485648
 // Threat Detector
 // Chain Reaction
 // Wild Card
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=499245245&perks=4090651448,3142289711,4071163871,2396489472,1050127423
 dimwishlist:item=499245245&perks=4090651448,3142289711,4071163871,0,1050127423
 dimwishlist:item=499245245&perks=4090651448,3142289711,0,2396489472,1050127423
@@ -3299,7 +3327,7 @@ dimwishlist:item=499245245&perks=0,0,0,2396489472,1050127423
 // Keep Away
 // Kill Clip
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=501345268&perks=1482024992,1885400500,3619207468,1015611457,2509860981
 dimwishlist:item=501345268&perks=3250034553,3230963543,3619207468,1015611457,2509860981
 
@@ -3309,7 +3337,7 @@ dimwishlist:item=501345268&perks=3250034553,3230963543,3619207468,1015611457,250
 // Strategist
 // Demolitionist
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=1056103557&perks=839105230,3142289711,880644845,3523296417,744217850
 dimwishlist:item=1056103557&perks=839105230,3142289711,880644845,0,744217850
 dimwishlist:item=1056103557&perks=839105230,3142289711,0,3523296417,744217850
@@ -3329,10 +3357,10 @@ dimwishlist:item=1056103557&perks=0,0,0,3523296417,744217850
 // Timeworn Wayfarer
 // Arrowhead Brake
 // Steady Rounds
-// Enhanced Heal Clip
-// Enhanced Incandescent
+// Heal Clip
+// Incandescent
 // Radiolaria Transposer
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=1058098236&perks=839105230,3177308360,4223976499,2675184851,253121539
 dimwishlist:item=1058098236&perks=839105230,3177308360,4223976499,0,253121539
 dimwishlist:item=1058098236&perks=839105230,3177308360,3198323828,332733060,253121539
@@ -3340,10 +3368,10 @@ dimwishlist:item=1058098236&perks=839105230,3177308360,3198323828,332733060,2531
 // Lost Signal
 // Quick Launch
 // High-Velocity Rounds
-// Enhanced Auto-Loading Holster
-// Enhanced Reverberation
+// Auto-Loading Holster
+// Reverberation
 // Radiolaria Transposer
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,2167611941,253121539
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,0,253121539
 dimwishlist:item=1197771438&perks=3525010810,2822142346,0,2167611941,253121539
@@ -3366,7 +3394,7 @@ dimwishlist:item=1197771438&perks=0,0,0,2167611941,253121539
 // Perpetual Motion
 // Dragonfly
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Backup Mag
+//notes:Masterwork: Range, Mod: Backup Mag
 dimwishlist:item=1246793994&perks=202670084,3142289711,1428297954,2848615171,2839173408
 dimwishlist:item=1246793994&perks=202670084,3142289711,2014892510,169755979,2839173408
 
@@ -3376,7 +3404,7 @@ dimwishlist:item=1246793994&perks=202670084,3142289711,2014892510,169755979,2839
 // Threat Detector
 // Opening Shot
 // Cast No Shadows
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=1298672084&perks=1332244541,3142289711,4071163871,47981717,2838996248
 dimwishlist:item=1298672084&perks=1332244541,3142289711,4071163871,0,2838996248
 dimwishlist:item=1298672084&perks=1332244541,3142289711,0,47981717,2838996248
@@ -3399,7 +3427,7 @@ dimwishlist:item=1298672084&perks=0,0,0,47981717,2838996248
 // Auto-Loading Holster
 // Bait and Switch
 // Veist Stinger
-//notes: Masterwork: Charge Time, Mod: Adept Stability
+//notes:Masterwork: Charge Time, Mod: Adept Stability
 dimwishlist:item=1492522228&perks=839105230,2969185026,3300816228,3078487919,3988215619
 dimwishlist:item=1492522228&perks=839105230,2969185026,3300816228,0,3988215619
 dimwishlist:item=1492522228&perks=839105230,2969185026,0,3078487919,3988215619
@@ -3422,7 +3450,7 @@ dimwishlist:item=1492522228&perks=0,0,0,3078487919,3988215619
 // Headseeker
 // Zen Moment
 // Skulking Wolf
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=1505862304&perks=1482024992,1885400500,460017080,2387244414,3989629871
 dimwishlist:item=1505862304&perks=1482024992,1885400500,460017080,0,3989629871
 dimwishlist:item=1505862304&perks=1482024992,1885400500,0,2387244414,3989629871
@@ -3442,10 +3470,10 @@ dimwishlist:item=1505862304&perks=0,0,0,2387244414,3989629871
 // No Hesitation
 // Smallbore
 // Accurized Rounds
-// Enhanced Physic
-// Enhanced Circle of Life
+// Physic
+// Circle of Life
 // Dealer's Choice
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,674546187,1988485648
 
 // Chronophage
@@ -3454,26 +3482,26 @@ dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,674546187,198
 // Repulsor Brace
 // Destabilizing Rounds
 // Radiolaria Transposer
-//notes: Masterwork: , Mod: 
+//notes:Masterwork: , Mod: 
 dimwishlist:item=1886840007&perks=1482024992,732557052,2541826827,1926441324,253121539
 
 // Corrasion
 // Arrowhead Brake
 // Accurized Rounds
-// Enhanced Perpetual Motion
-// Enhanced Eye of the Storm
+// Perpetual Motion
+// Eye of the Storm
 // Radiolaria Transposer
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=2126178511&perks=839105230,3142289711,2014892510,3719974635,253121539
 dimwishlist:item=2126178511&perks=839105230,3142289711,536173722,1161469972,253121539
 
 // Aberrant Action
 // Quick Launch
 // High-Velocity Rounds
-// Enhanced Heal Clip
-// Enhanced Incandescent
+// Heal Clip
+// Incandescent
 // Radiolaria Transposer
-//notes: Masterwork: Velocity, Mod: Counterbalance Stock
+//notes:Masterwork: Velocity, Mod: Counterbalance Stock
 dimwishlist:item=2198166292&perks=3525010810,2822142346,4223976499,2675184851,253121539
 
 // Patron of Lost Causes
@@ -3482,7 +3510,7 @@ dimwishlist:item=2198166292&perks=3525010810,2822142346,4223976499,2675184851,25
 // Rapid Hit
 // Precision Instrument
 // Cast No Shadows
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=2249996761&perks=839105230,3177308360,247725512,555281244,2838996248
 dimwishlist:item=2249996761&perks=839105230,3177308360,247725512,0,2838996248
 dimwishlist:item=2249996761&perks=839105230,3177308360,0,555281244,2838996248
@@ -3505,7 +3533,7 @@ dimwishlist:item=2249996761&perks=0,0,0,555281244,2838996248
 // Perpetual Motion
 // Hatchling
 // Cast No Shadows
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=2328923181&perks=1482024992,3142289711,1428297954,831391274,2838996248
 dimwishlist:item=2328923181&perks=1482024992,3142289711,1428297954,0,2838996248
 dimwishlist:item=2328923181&perks=1482024992,3142289711,0,831391274,2838996248
@@ -3555,10 +3583,10 @@ dimwishlist:item=2328923181&perks=0,0,0,11612903,2838996248
 // Sightline Survey
 // Smallbore
 // Accurized Rounds
-// Enhanced Enlightened Action
-// Enhanced Voltshot
+// Enlightened Action
+// Voltshot
 // Radiolaria Transposer
-//notes: Masterwork: Stability, Mod: Counterbalance Stock
+//notes:Masterwork: Stability, Mod: Counterbalance Stock
 dimwishlist:item=2350330520&perks=1482024992,3142289711,1771736209,1720528630,253121539
 
 // Line in the Sand
@@ -3567,7 +3595,7 @@ dimwishlist:item=2350330520&perks=1482024992,3142289711,1771736209,1720528630,25
 // Moving Target
 // Opening Shot
 // Cast No Shadows
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2450049485&perks=1482024992,2969185026,588594999,47981717,2838996248
 dimwishlist:item=2450049485&perks=1482024992,2969185026,588594999,0,2838996248
 dimwishlist:item=2450049485&perks=1482024992,2969185026,0,47981717,2838996248
@@ -3590,7 +3618,7 @@ dimwishlist:item=2450049485&perks=0,0,0,47981717,2838996248
 // Heal Clip
 // Incandescent
 // Cast No Shadows
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,4293542123,2838996248
 dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,0,2838996248
 dimwishlist:item=2584830733&perks=3525010810,2822142346,0,4293542123,2838996248
@@ -3613,7 +3641,7 @@ dimwishlist:item=2584830733&perks=0,0,0,4293542123,2838996248
 // Zen Moment
 // Eye of the Storm
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=2826850739&perks=839105230,1885400500,2387244414,699525795,2509860981
 dimwishlist:item=2826850739&perks=839105230,1885400500,2387244414,0,2509860981
 dimwishlist:item=2826850739&perks=839105230,1885400500,0,699525795,2509860981
@@ -3633,10 +3661,10 @@ dimwishlist:item=2826850739&perks=0,0,0,699525795,2509860981
 // Someday
 // Smallbore
 // Accurized Rounds
-// Enhanced Elemental Capacitor
-// Enhanced Opening Shot
+// Elemental Capacitor
+// Opening Shot
 // Dealer's Choice
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=3232203524&perks=1482024992,3142289711,711234314,1370847713,1988485648
 
 // Aisha's Care (Adept)
@@ -3645,25 +3673,25 @@ dimwishlist:item=3232203524&perks=1482024992,3142289711,711234314,1370847713,198
 // Zen Moment
 // Headseeker
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Adept Stability
+//notes:Masterwork: Range, Mod: Adept Stability
 dimwishlist:item=3332125295&perks=1392496348,1561002382,1748774930,4045335048,2839173408
 
 // Pro Memoria
 // Arrowhead Brake
 // Ricochet Rounds
-// Enhanced Reconstruction
+// Reconstruction
 // Frenzy
 // Dealer's Choice
-//notes: Masterwork: Stability, Mod: Targeting Adjuster
+//notes:Masterwork: Stability, Mod: Targeting Adjuster
 dimwishlist:item=3605603507&perks=839105230,1885400500,461595545,3007133316,1988485648
 
 // Veiled Threat
 // Smallbore
 // Accurized Rounds
-// Enhanced Fragile Focus
-// Enhanced Headstone
+// Fragile Focus
+// Headstone
 // Radiolaria Transposer
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3685470415&perks=1482024992,3142289711,1609056795,1171887445,253121539
 
 // The Riposte
@@ -3672,25 +3700,25 @@ dimwishlist:item=3685470415&perks=1482024992,3142289711,1609056795,1171887445,25
 // Zen Moment
 // Dynamic Sway Reduction
 // Fitted Stock
-//notes: Masterwork: Handling, Mod: Ballistics
+//notes:Masterwork: Handling, Mod: Ballistics
 dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,1359896290,4259401308
 
 // Axial Lacuna
 // Smallbore
 // Projection Fuse
-// Enhanced Firmly Planted
-// Enhanced Desperate Measures
+// Firmly Planted
+// Desperate Measures
 // Dealer's Choice
-//notes: Masterwork: Range, Mod: Counterbalance Stock
+//notes:Masterwork: Range, Mod: Counterbalance Stock
 dimwishlist:item=3867373351&perks=1482024992,2969185026,3920370755,2799030358,1988485648
 
 // The Call
 // Quick Launch
 // High-Velocity Rounds
-// Enhanced Slice
-// Enhanced Hatchling
+// Slice
+// Hatchling
 // Dealer's Choice
-//notes: Masterwork: Velocity, Mod: Quick Access Sling
+//notes:Masterwork: Velocity, Mod: Quick Access Sling
 dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,102912326,1988485648
 
 // Yarovit MG4
@@ -3699,7 +3727,7 @@ dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,102912326,198
 // Dynamic Sway Reduction
 // Zen Moment
 // Omonlon Fluid Dynamics
-//notes: Masterwork: Range, Mod: Targeting Adjuster
+//notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3959549446&perks=202670084,1885400500,1359896290,2387244414,2839173408
 dimwishlist:item=3959549446&perks=202670084,1885400500,0,2387244414,2839173408
 
@@ -3709,7 +3737,7 @@ dimwishlist:item=3959549446&perks=202670084,1885400500,0,2387244414,2839173408
 // Perpetual Motion
 // Zen Moment
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Counterbalace Stock
+//notes:Masterwork: Range, Mod: Counterbalace Stock
 dimwishlist:item=4152016199&perks=1482024992,3142289711,691659142,4082225868,2509860981
 dimwishlist:item=4152016199&perks=1482024992,3142289711,3523296417,11612903,2509860981
 dimwishlist:item=4152016199&perks=1482024992,3142289711,2846385770,2387244414,2509860981
@@ -3725,10 +3753,10 @@ dimwishlist:item=1890332078&perks=0,0,3511092054,3619207468,4008116374
 // Something New
 // Smallbore
 // Steady Rounds
-// Enhanced Elemental Capacitor
-// Enhanced Precision Instrument
+// Elemental Capacitor
+// Precision Instrument
 // Nadir Focus
-//notes: Masterwork: Handling, Mod: Backup Mag
+//notes:Masterwork: Handling, Mod: Backup Mag
 dimwishlist:item=586671776&perks=1482024992,3177308360,3511092054,555281244,2509860981
 
 // Compass Rose
@@ -3737,7 +3765,7 @@ dimwishlist:item=586671776&perks=1482024992,3177308360,3511092054,555281244,2509
 // Slickdraw
 // Vorpal Weapon
 // Dream Work
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=4169225313&perks=466087222,3142289711,1821614984,1546637391,1380061575
 dimwishlist:item=4169225313&perks=0,3142289711,1821614984,1546637391,1380061575
 
@@ -3747,7 +3775,7 @@ dimwishlist:item=4169225313&perks=0,3142289711,1821614984,1546637391,1380061575
 // Repulsor Brace
 // Destabilizing Rounds
 // Dream Work
-//notes: Masterwork: Accuracy, Mod: Counterbalance Stock
+//notes:Masterwork: Accuracy, Mod: Counterbalance Stock
 dimwishlist:item=2326578623&perks=1196733167,3827198035,776531651,2048641572,1380061575
 
 // Crowning Duologue
@@ -3756,7 +3784,7 @@ dimwishlist:item=2326578623&perks=1196733167,3827198035,776531651,2048641572,138
 // Reconstruction
 // Bipod
 // Hakke Breach Armaments
-//notes: Masterwork: Blast Radius, Mod: Quick Access Sling
+//notes:Masterwork: Blast Radius, Mod: Quick Access Sling
 dimwishlist:item=4106757302&perks=1478423395,3796465595,1523832109,1439600632,1607056502
 dimwishlist:item=4106757302&perks=0,3796465595,1523832109,1439600632,1607056502
 
@@ -3770,7 +3798,7 @@ S25 - Revenant
 // Lone Wolf
 // Snapshot Sights
 // Photoinhibition
-//notes: Masterwork: Handling, Mod: Tactical
+//notes:Masterwork: Handling, Mod: Tactical
 dimwishlist:item=147444292&perks=1482024992,3142289711,2579169598,957782887,511914882
 
 // Ancient Gospel
@@ -3779,7 +3807,7 @@ dimwishlist:item=147444292&perks=1482024992,3142289711,2579169598,957782887,5119
 // Lone Wolf
 // Rangefinder
 // Photoinhibition
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=963574173&perks=1482024992,3142289711,2579169598,2846385770,511914882
 
 // Reckless Oracle
@@ -3788,7 +3816,7 @@ dimwishlist:item=963574173&perks=1482024992,3142289711,2579169598,2846385770,511
 // Keep Away
 // Kill Clip
 // Photoinhibition
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=1992309064&perks=1482024992,1885400500,3619207468,1015611457,511914882
 
 // Prophet of Doom
@@ -3797,7 +3825,7 @@ dimwishlist:item=1992309064&perks=1482024992,1885400500,3619207468,1015611457,51
 // SLideways
 // Closing Time
 // Photoinhibition
-//notes: Masterwork: Stability, Mod: Quick Access Sling
+//notes:Masterwork: Stability, Mod: Quick Access Sling
 dimwishlist:item=2145441168&perks=1300023272,3142289711,2039302152,1194056669,511914882
 
 // Sacred Provenance
@@ -3806,7 +3834,7 @@ dimwishlist:item=2145441168&perks=1300023272,3142289711,2039302152,1194056669,51
 // Lone Wolf
 // Desperado
 // Photoinhibition
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=2241507890&perks=839105230,1885400500,2579169598,3047969693,511914882
 
 // Zealot's Reward
@@ -3815,7 +3843,7 @@ dimwishlist:item=2241507890&perks=839105230,1885400500,2579169598,3047969693,511
 // Under Pressure
 // Closing Time
 // Photoinhibition
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=2720651699&perks=1482024992,2969185026,1645158859,1194056669,511914882
 
 // Accrued Redemption
@@ -3824,7 +3852,7 @@ dimwishlist:item=2720651699&perks=1482024992,2969185026,1645158859,1194056669,51
 // Archer's Tempo
 // Lone Wolf
 // Photoinhibition
-//notes: Masterwork: Accuracy, Mod: Tension
+//notes:Masterwork: Accuracy, Mod: Tension
 dimwishlist:item=3621336854&perks=1784898267,3827198035,201365942,2579169598,511914882
 
 // VS Gravitic Arrest
@@ -3833,7 +3861,7 @@ dimwishlist:item=3621336854&perks=1784898267,3827198035,201365942,2579169598,511
 // Under Pressure
 // Closing Time
 // Bray Legacy
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=93061497&perks=1482024992,2969185026,1645158859,1194056669,4139916815
 dimwishlist:item=93061497&perks=1482024992,2969185026,1645158859,0,4139916815
 dimwishlist:item=93061497&perks=1482024992,2969185026,0,1194056669,4139916815
@@ -3865,7 +3893,7 @@ dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,2396489472
 // Impulse Amplifier
 // Cluster Bomb
 // Wild Card
-//notes: Masterwork: Velocity, Mod: Adept Projectile Speed
+//notes:Masterwork: Velocity, Mod: Adept Projectile Speed
 dimwishlist:item=303107619&perks=3525010810,2822142346,951095735,1275731761,1050127423
 dimwishlist:item=303107619&perks=3525010810,2822142346,951095735,0,1050127423
 dimwishlist:item=303107619&perks=3525010810,2822142346,0,1275731761,1050127423
@@ -3888,7 +3916,7 @@ dimwishlist:item=303107619&perks=0,0,0,1275731761,1050127423
 // Repulsor Brace
 // Destabilizing Rounds
 // Dark Ether Reaper
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=414045521&perks=1482024992,3142289711,2541826827,1926441324,2041432007
 dimwishlist:item=414045521&perks=1482024992,3142289711,2541826827,0,2041432007
 dimwishlist:item=414045521&perks=1482024992,3142289711,0,1926441324,2041432007
@@ -3911,7 +3939,7 @@ dimwishlist:item=414045521&perks=0,0,0,1926441324,2041432007
 // Deconstruct
 // Chill Clip
 // Skulking Wolf
-//notes: Masterwork: Velocity, Mod: Aerodynamics
+//notes:Masterwork: Velocity, Mod: Aerodynamics
 dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,2978966579,3989629871
 dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,0,3989629871
 dimwishlist:item=480368036&perks=3525010810,2822142346,0,2978966579,3989629871
@@ -3934,7 +3962,7 @@ dimwishlist:item=480368036&perks=0,0,0,2978966579,3989629871
 // Attrition Orbs
 // Jolting Feedback
 // Dark Ether Reaper
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=825495813&perks=1482024992,3142289711,243981275,3966416502,2041432007
 dimwishlist:item=825495813&perks=1482024992,3142289711,243981275,0,2041432007
 dimwishlist:item=825495813&perks=1482024992,3142289711,0,3966416502,2041432007
@@ -3957,7 +3985,7 @@ dimwishlist:item=825495813&perks=0,0,0,3966416502,2041432007
 // Zen Moment
 // Kill Clip
 // Field-Tested
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=1051949956&perks=1392496348,1885400500,2387244414,1015611457,2120661319
 
 // VS Chill Inhibitor
@@ -3966,7 +3994,7 @@ dimwishlist:item=1051949956&perks=1392496348,1885400500,2387244414,1015611457,21
 // Attrition Orbs
 // Explosive Light
 // Bray Legacy
-//notes: Masterwork: Velocity, Mod: Aerodynamics
+//notes:Masterwork: Velocity, Mod: Aerodynamics
 dimwishlist:item=1762785662&perks=3525010810,2822142346,243981275,3194351027,4139916815
 dimwishlist:item=1762785662&perks=3525010810,2822142346,243981275,0,4139916815
 dimwishlist:item=1762785662&perks=3525010810,2822142346,0,3194351027,4139916815
@@ -3989,7 +4017,7 @@ dimwishlist:item=1762785662&perks=0,0,0,3194351027,4139916815
 // Repulsor Brace
 // Destabilizing Rounds
 // Bray Legacy
-//notes: Masterwork: Velocity, Mod: Tactical
+//notes:Masterwork: Velocity, Mod: Tactical
 dimwishlist:item=1762785663&perks=3525010810,2822142346,776531651,2048641572,4139916815
 dimwishlist:item=1762785663&perks=3525010810,2822142346,776531651,0,4139916815
 dimwishlist:item=1762785663&perks=3525010810,2822142346,0,2048641572,4139916815
@@ -4012,7 +4040,7 @@ dimwishlist:item=1762785663&perks=0,0,0,2048641572,4139916815
 // Slickdraw
 // Closing Time
 // Fitted Stock
-//notes: Masterwork: Stability, Mod: Quick Access Sling
+//notes:Masterwork: Stability, Mod: Quick Access Sling
 dimwishlist:item=2035738085&perks=1332244541,1087426260,1821614984,1194056669,4259401308
 
 // Wicked Sister
@@ -4021,7 +4049,7 @@ dimwishlist:item=2035738085&perks=1332244541,1087426260,1821614984,1194056669,42
 // Auto-Loading Holster
 // Explosive Light
 // Nadir Focus
-//notes: Masterwork: Velocity, Mod: Aerodynamics
+//notes:Masterwork: Velocity, Mod: Aerodynamics
 dimwishlist:item=2039776723&perks=3525010810,2822142346,3300816228,3194351027,2509860981
 dimwishlist:item=2039776723&perks=3525010810,2822142346,3300816228,0,2509860981
 dimwishlist:item=2039776723&perks=3525010810,2822142346,0,3194351027,2509860981
@@ -4044,7 +4072,7 @@ dimwishlist:item=2039776723&perks=0,0,0,3194351027,2509860981
 // Quickdraw
 // Opening Shot
 // Splicer's Surge
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=2130875369&perks=202670084,791862061,706527188,47981717,3404929162
 dimwishlist:item=2130875369&perks=202670084,791862061,706527188,0,3404929162
 dimwishlist:item=2130875369&perks=202670084,791862061,0,47981717,3404929162
@@ -4082,7 +4110,7 @@ dimwishlist:item=2130875369&perks=0,0,0,2675184851,3404929162
 // Keep Away
 // Kill Clip
 // Gun and Run
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=2199554524&perks=839105230,1885400500,3619207468,1015611457,515704826
 dimwishlist:item=2199554524&perks=839105230,1885400500,3619207468,0,515704826
 dimwishlist:item=2199554524&perks=839105230,1885400500,0,1015611457,515704826
@@ -4111,7 +4139,7 @@ dimwishlist:item=2199554524&perks=839105230,1885400500,2387244414,699525795,5157
 // Lone Wolf
 // Zen Moment
 // Alacrity
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=2378785953&perks=202670084,1968497646,3938834702,2387244414,4091460919
 dimwishlist:item=2378785953&perks=202670084,1885400500,2579169598,2387244414,2988596335
 dimwishlist:item=2378785953&perks=202670084,1885400500,2579169598,0,2988596335
@@ -4125,7 +4153,7 @@ dimwishlist:item=2378785953&perks=0,1885400500,2579169598,2387244414,2988596335
 // Dynamic Sway Reduction
 // Kill Clip
 // Splicer's Surge
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=2598420927&perks=3250034553,3142289711,1359896290,1015611457,3404929162
 dimwishlist:item=2598420927&perks=3250034553,3142289711,1359896290,0,3404929162
 dimwishlist:item=2598420927&perks=3250034553,3142289711,0,1015611457,3404929162
@@ -4148,7 +4176,7 @@ dimwishlist:item=2598420927&perks=0,0,0,1015611457,3404929162
 // Slideways
 // Chill Clip
 // Dark Ether Reaper
-//notes: Masterwork: Blast Radius, Mod: Aerodynamics
+//notes:Masterwork: Blast Radius, Mod: Aerodynamics
 dimwishlist:item=2599338624&perks=1844523823,2822142346,2039302152,2978966579,2041432007
 dimwishlist:item=2599338624&perks=1844523823,2822142346,2039302152,0,2041432007
 dimwishlist:item=2599338624&perks=1844523823,2822142346,0,2978966579,2041432007
@@ -4171,7 +4199,7 @@ dimwishlist:item=2599338624&perks=0,0,0,2978966579,2041432007
 // Attrition Orbs
 // Jolting Feedback
 // Dark Ether Reaper
-//notes: Masterwork: Velocity, Mod: Aerodynamics
+//notes:Masterwork: Velocity, Mod: Aerodynamics
 dimwishlist:item=2599338625&perks=3525010810,2822142346,243981275,3966416502,2041432007
 dimwishlist:item=2599338625&perks=3525010810,2822142346,243981275,0,2041432007
 dimwishlist:item=2599338625&perks=3525010810,2822142346,0,3966416502,2041432007
@@ -4194,7 +4222,7 @@ dimwishlist:item=2599338625&perks=0,0,0,3966416502,2041432007
 // Lead From Gold
 // Vorpal Weapon
 // Splicer's Surge
-//notes: Masterwork: Velocity, Mod: Tactical
+//notes:Masterwork: Velocity, Mod: Tactical
 dimwishlist:item=2761869150&perks=3525010810,2822142346,1556840489,1546637391,3404929162
 dimwishlist:item=2761869150&perks=3525010810,2822142346,1556840489,0,3404929162
 dimwishlist:item=2761869150&perks=3525010810,2822142346,0,1546637391,3404929162
@@ -4217,7 +4245,7 @@ dimwishlist:item=2761869150&perks=0,0,0,1546637391,3404929162
 // Keep Away
 // Headstone
 // Dark Ether Reaper
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=2823644677&perks=1482024992,3177308360,3619207468,124408337,2041432007
 dimwishlist:item=2823644677&perks=1482024992,3177308360,3619207468,0,2041432007
 dimwishlist:item=2823644677&perks=1482024992,3177308360,0,124408337,2041432007
@@ -4240,7 +4268,7 @@ dimwishlist:item=2823644677&perks=0,0,0,124408337,2041432007
 // Slickdraw
 // Lone Wolf
 // Wild Card
-//notes: Masterwork: Accuracy, Mod: Tension
+//notes:Masterwork: Accuracy, Mod: Tension
 dimwishlist:item=2848549302&perks=1784898267,1500996326,1821614984,2579169598,1050127423
 dimwishlist:item=2848549302&perks=1784898267,1500996326,1821614984,0,1050127423
 dimwishlist:item=2848549302&perks=1784898267,1500996326,0,2579169598,1050127423
@@ -4263,7 +4291,7 @@ dimwishlist:item=2848549302&perks=0,0,0,2579169598,1050127423
 // Rimestealer
 // Headstone
 // Skulking Wolf
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=2896109856&perks=839105230,3177308360,1955165503,124408337,3989629871
 dimwishlist:item=2896109856&perks=839105230,3177308360,1955165503,0,3989629871
 dimwishlist:item=2896109856&perks=839105230,3177308360,0,124408337,3989629871
@@ -4286,7 +4314,7 @@ dimwishlist:item=2896109856&perks=0,0,0,124408337,3989629871
 // Lone Wolf
 // Closing Time
 // Dark Ether Reaper
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=2913577176&perks=1300023272,3142289711,2579169598,1194056669,2041432007
 dimwishlist:item=2913577176&perks=4090651448,791862061,2579169598,1194056669,2041432007
 
@@ -4296,7 +4324,7 @@ dimwishlist:item=2913577176&perks=4090651448,791862061,2579169598,1194056669,204
 // Under Pressure
 // Closing Time
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Handling
+//notes:Masterwork: Range, Mod: Adept Handling
 dimwishlist:item=3106557243&perks=1482024992,2969185026,1645158859,1194056669,744217850
 dimwishlist:item=3106557243&perks=1482024992,2969185026,1645158859,0,744217850
 dimwishlist:item=3106557243&perks=1482024992,2969185026,0,1194056669,744217850
@@ -4320,7 +4348,7 @@ dimwishlist:item=3106557243&perks=4090651448,2969185026,2039302152,1754714824,74
 // Rimestealer
 // Headstone
 // Dark Ether Reaper
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=3423493037&perks=1482024992,3177308360,1955165503,124408337,2041432007
 dimwishlist:item=3423493037&perks=1482024992,3177308360,1955165503,0,2041432007
 dimwishlist:item=3423493037&perks=1482024992,3177308360,0,124408337,2041432007
@@ -4343,7 +4371,7 @@ dimwishlist:item=3423493037&perks=0,0,0,124408337,2041432007
 // Zen Moment
 // Headseeker
 // Splicer's Surge
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=3433930495&perks=1482024992,1885400500,2387244414,460017080,3404929162
 dimwishlist:item=3433930495&perks=1482024992,1885400500,2387244414,0,3404929162
 dimwishlist:item=3433930495&perks=1482024992,1885400500,0,460017080,3404929162
@@ -4367,7 +4395,7 @@ dimwishlist:item=3433930495&perks=1482024992,1885400500,776531651,2048641572,340
 // Rimestealer
 // Headstone
 // Field-Tested
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=3612142623&perks=1482024992,1885400500,1955165503,124408337,2120661319
 dimwishlist:item=3612142623&perks=1482024992,1885400500,1955165503,0,2120661319
 dimwishlist:item=3612142623&perks=1482024992,1885400500,0,124408337,2120661319
@@ -4390,7 +4418,7 @@ dimwishlist:item=3612142623&perks=0,0,0,124408337,2120661319
 // Lone Wolf
 // Closing Time
 // Suros Synergy
-//notes: Masterwork: Range, Mod: Quick Access Sling
+//notes:Masterwork: Range, Mod: Quick Access Sling
 dimwishlist:item=3753063346&perks=202670084,791862061,2579169598,1194056669,4008116374
 dimwishlist:item=3753063346&perks=202670084,791862061,2579169598,0,4008116374
 dimwishlist:item=3753063346&perks=202670084,791862061,0,1194056669,4008116374
@@ -4413,7 +4441,7 @@ dimwishlist:item=3753063346&perks=0,0,0,1194056669,4008116374
 // No Distractions
 // Withering Gaze
 // Dark Ether Reaper
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=3818198556&perks=1482024992,3177308360,2866798147,1134488199,2041432007
 dimwishlist:item=3818198556&perks=1482024992,3177308360,2866798147,0,2041432007
 dimwishlist:item=3818198556&perks=1482024992,3177308360,0,1134488199,2041432007
@@ -4436,7 +4464,7 @@ dimwishlist:item=3818198556&perks=0,0,0,1134488199,2041432007
 // Keep Away
 // Vantage Point
 // Dark Ether Reaper
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=3830941962&perks=1482024992,3142289711,3619207468,3966416502,2041432007
 dimwishlist:item=3830941962&perks=1482024992,3142289711,3619207468,0,2041432007
 dimwishlist:item=3830941962&perks=1482024992,3142289711,0,3966416502,2041432007
@@ -4459,7 +4487,7 @@ dimwishlist:item=3830941962&perks=0,0,0,3966416502,2041432007
 // Impulse Amplifier
 // Chill Clip
 // Hakke Breach Armaments
-//notes: Masterwork: Handling, Mod: Adept Handling
+//notes:Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=3997086838&perks=5699512,3721627275,951095735,2978966579,1607056502
 dimwishlist:item=3997086838&perks=5699512,3721627275,951095735,0,1607056502
 dimwishlist:item=3997086838&perks=5699512,3721627275,0,2978966579,1607056502
@@ -4482,7 +4510,7 @@ dimwishlist:item=3997086838&perks=0,0,0,2978966579,1607056502
 // Snapshot Sights
 // Opening Shot
 // Hakke Breach Armaments
-//notes: Masterwork: Handling, Mod: Tactical
+//notes:Masterwork: Handling, Mod: Tactical
 dimwishlist:item=4200122994&perks=1840239774,3142289711,957782887,47981717,1607056502
 dimwishlist:item=4200122994&perks=1840239774,3142289711,957782887,0,1607056502
 dimwishlist:item=4200122994&perks=1840239774,3142289711,0,47981717,1607056502
@@ -4506,7 +4534,7 @@ dimwishlist:item=4200122994&perks=1840239774,1087426260,2579169598,1194056669,16
 // Auto-Loading Holster
 // Explosive Light
 // Dark Ether Reaper
-//notes: Masterwork: Velocity, Mod: Aerodynamics
+//notes:Masterwork: Velocity, Mod: Aerodynamics
 dimwishlist:item=4224667951&perks=3525010810,2822142346,3300816228,3194351027,2041432007
 dimwishlist:item=4224667951&perks=3525010810,2822142346,3300816228,0,2041432007
 dimwishlist:item=4224667951&perks=3525010810,2822142346,0,3194351027,2041432007
@@ -4529,7 +4557,7 @@ dimwishlist:item=4224667951&perks=0,0,0,3194351027,2041432007
 // Attrition Orbs
 // Jolting Feedback
 // Bray Legacy
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=4232480042&perks=1482024992,1885400500,243981275,3966416502,4139916815
 dimwishlist:item=4232480042&perks=1482024992,1885400500,243981275,0,4139916815
 dimwishlist:item=4232480042&perks=1482024992,1885400500,0,3966416502,4139916815
@@ -4556,7 +4584,7 @@ S26 - Heresy
 // Replenishing Aegis
 // Melee Momentum
 // Willing Vessel
-//notes: Masterwork: Handling, Mod: Adept Handling
+//notes:Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=25228802&perks=5699512,3721627275,1966281507,3773585912,878237828
 dimwishlist:item=25228802&perks=5699512,0,1966281507,3773585912,878237828
 dimwishlist:item=25228802&perks=0,3721627275,1966281507,3773585912,878237828
@@ -4568,7 +4596,7 @@ dimwishlist:item=25228802&perks=0,0,1966281507,3773585912,878237828
 // Pugilist
 // Swashbuckler
 // Tex Balanced Stock
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=32287609&perks=1482024992,1561002382,1194056669,2450788523,2437618208
 
 // Joxer's Longsword
@@ -4577,7 +4605,7 @@ dimwishlist:item=32287609&perks=1482024992,1561002382,1194056669,2450788523,2437
 // Dragonfly
 // Desperado
 // Nadir Focus
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=157601190&perks=1482024992,1885400500,2848615171,3047969693,2509860981
 dimwishlist:item=157601190&perks=1482024992,1885400500,2848615171,0,2509860981
 dimwishlist:item=157601190&perks=1482024992,1885400500,0,3047969693,2509860981
@@ -4589,7 +4617,7 @@ dimwishlist:item=157601190&perks=1482024992,1885400500,0,0,2509860981
 // Melee Momentum
 // Jolting Feedback
 // Gun and Run
-//notes: Masterwork: Handling, Mod: Tactical
+//notes:Masterwork: Handling, Mod: Tactical
 dimwishlist:item=267672635&perks=0,0,3773585912,3966416502,515704826
 dimwishlist:item=267672635&perks=5699512,3721627275,3773585912,3966416502,515704826
 dimwishlist:item=267672635&perks=5699512,3721627275,3773585912,4082225868,515704826
@@ -4600,7 +4628,7 @@ dimwishlist:item=267672635&perks=5699512,3721627275,3773585912,4082225868,515704
 // Triple Tap
 // Withering Gaze
 // Willing Vessel
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=282549639&perks=1482024992,2969185026,3400784728,1134488199,878237828
 dimwishlist:item=282549639&perks=1482024992,2969185026,0,1134488199,878237828
 dimwishlist:item=282549639&perks=1482024992,0,3400784728,1134488199,878237828
@@ -4615,7 +4643,7 @@ dimwishlist:item=282549639&perks=0,0,0,1134488199,878237828
 // Pugilist
 // Swashbuckler
 // Willing Vessel
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=302039451&perks=1482024992,3142289711,691659142,4082225868,878237828
 dimwishlist:item=302039451&perks=1482024992,3142289711,3938834702,365154968,878237828
 dimwishlist:item=302039451&perks=1482024992,3142289711,588594999,365154968,878237828
@@ -4626,7 +4654,7 @@ dimwishlist:item=302039451&perks=1482024992,3142289711,588594999,365154968,87823
 // Heal Clip
 // Kill Clip
 // Timelost Magazine
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=337578911&perks=1482024992,3177308360,3017780555,1015611457,2589407652
 dimwishlist:item=337578911&perks=0,0,3017780555,1015611457,2589407652
 dimwishlist:item=337578911&perks=1482024992,0,3017780555,1015611457,2589407652
@@ -4638,7 +4666,7 @@ dimwishlist:item=337578911&perks=0,3177308360,3017780555,1015611457,2589407652
 // Slickdraw
 // Rolling Storm
 // Paracausal Fluid
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=342027677&perks=1482024992,2969185026,1821614984,3218042543,1600429811
 dimwishlist:item=342027677&perks=0,0,1821614984,3218042543,1600429811
 dimwishlist:item=342027677&perks=1482024992,0,1821614984,3218042543,1600429811
@@ -4651,7 +4679,7 @@ dimwishlist:item=342027677&perks=1482024992,2969185026,1821614984,0,1600429811
 // Slice
 // Redirection
 // Willing Vessel
-//notes: Masterwork: Impact, Mod: Adept Impact
+//notes:Masterwork: Impact, Mod: Adept Impact
 
 // Cold Denial
 // Arrowhead Brake
@@ -4659,7 +4687,7 @@ dimwishlist:item=342027677&perks=1482024992,2969185026,1821614984,0,1600429811
 // Zen Moment
 // Eye of the Storm
 // Paracausal Fluid
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,699525795,1600429811
 dimwishlist:item=558794124&perks=839105230,0,0,0,1600429811
 dimwishlist:item=558794124&perks=0,1885400500,0,0,1600429811
@@ -4675,7 +4703,7 @@ dimwishlist:item=558794124&perks=839105230,1885400500,0,699525795,1600429811
 // Reciprocity
 // Circle of Life
 // Willing Vessel
-//notes: Masterwork: Handling, Mod: Heavy Ammo Finder Enhancement
+//notes:Masterwork: Handling, Mod: Heavy Ammo Finder Enhancement
 dimwishlist:item=2987244302&perks=839105230,3142289711,692399809,2298656195,878237828
 
 // Adamantite (Adept)
@@ -4684,7 +4712,7 @@ dimwishlist:item=2987244302&perks=839105230,3142289711,692399809,2298656195,8782
 // Reciprocity
 // Circle of Life
 // Willing Vessel
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,2298656195,878237828
 dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,0,878237828
 dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,243981275,878237828
@@ -4695,7 +4723,7 @@ dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,243981275,87823
 // Slideshot
 // Opening Shot
 // Timelost Magazine
-//notes: Masterwork: Handling, Mod: Quick Access Sling
+//notes:Masterwork: Handling, Mod: Quick Access Sling
 dimwishlist:item=694500607&perks=1300023272,3142289711,3161816588,47981717,2589407652
 
 // Psychopomp (Adept)
@@ -4704,7 +4732,7 @@ dimwishlist:item=694500607&perks=1300023272,3142289711,3161816588,47981717,25894
 // Ambitious Assassin
 // Rolling Storm
 // Willing Vessel
-//notes: Masterwork: Velocity, Mod: Adept Handling
+//notes:Masterwork: Velocity, Mod: Adept Handling
 dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543,878237828
 dimwishlist:item=704410186&perks=3525010810,2822142346,0,3218042543,878237828
 dimwishlist:item=704410186&perks=3525010810,2822142346,691659142,3523296417,878237828
@@ -4715,7 +4743,7 @@ dimwishlist:item=704410186&perks=3525010810,2822142346,691659142,3523296417,8782
 // Dynamic Sway Reduction
 // Jolting Feedback
 // Willing Vessel
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=737409399&perks=1482024992,1885400500,1359896290,3966416502,878237828
 dimwishlist:item=737409399&perks=0,0,1359896290,3966416502,878237828
 
@@ -4724,7 +4752,7 @@ dimwishlist:item=737409399&perks=0,0,1359896290,3966416502,878237828
 // Accurized Rounds
 // Slideshot
 // Opening Shot
-//notes: Masterwork: Handling, Mod: Adept Handling
+//notes:Masterwork: Handling, Mod: Adept Handling
 dimwishlist:item=851296754&perks=1300023272,3142289711,3161816588,47981717,2589407652
 dimwishlist:item=851296754&perks=1300023272,3142289711,4071163871,47981717,2589407652
 
@@ -4734,7 +4762,7 @@ dimwishlist:item=851296754&perks=1300023272,3142289711,4071163871,47981717,25894
 // Lead from Gold
 // Destabilizing Rounds
 // Willing Vessel
-//notes: Masterwork: Range, Mod: Adept Range
+//notes:Masterwork: Range, Mod: Adept Range
 dimwishlist:item=861521336&perks=1482024992,2969185026,1556840489,2048641572,878237828
 dimwishlist:item=861521336&perks=0,0,1556840489,2048641572,878237828
 dimwishlist:item=861521336&perks=1482024992,0,1556840489,2048641572,878237828
@@ -4747,7 +4775,7 @@ dimwishlist:item=861521336&perks=0,0,0,2048641572,878237828
 // Keep Away
 // Eye of the Storm
 // Suros Synergy
-//notes: Masterwork: Stability, Mod: Adept Range
+//notes:Masterwork: Stability, Mod: Adept Range
 dimwishlist:item=1201528146&perks=1482024992,3177308360,3619207468,699525795,4008116374
 dimwishlist:item=1201528146&perks=1482024992,3177308360,0,0,4008116374
 dimwishlist:item=1201528146&perks=1482024992,3177308360,0,699525795,4008116374
@@ -4763,7 +4791,7 @@ dimwishlist:item=1201528146&perks=0,0,0,776531651,4008116374
 // Dynamic Sway Reduction
 // Zen Moment
 // Paracausal Fluid
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=1390080550&perks=3661387068,1885400500,1359896290,2387244414,1600429811
 
 // Anamnesis (Adept)
@@ -4772,7 +4800,7 @@ dimwishlist:item=1390080550&perks=3661387068,1885400500,1359896290,2387244414,16
 // Repulsor Brace
 // Destabilizing Rounds
 // Willing Vessel
-//notes: Masterwork: Accuracy, Mod: Adept Accuracy
+//notes:Masterwork: Accuracy, Mod: Adept Accuracy
 dimwishlist:item=1536325168&perks=1784898267,3827198035,776531651,2048641572,878237828
 dimwishlist:item=1536325168&perks=0,0,776531651,2048641572,878237828
 
@@ -4782,7 +4810,7 @@ dimwishlist:item=1536325168&perks=0,0,776531651,2048641572,878237828
 // Loose Change
 // Jolting Feedback
 // Skulking Wolf
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=1968711238&perks=1482024992,732557052,1119449540,3966416502,3989629871
 dimwishlist:item=1968711238&perks=1482024992,732557052,0,4198902903,3989629871
 
@@ -4792,7 +4820,7 @@ dimwishlist:item=1968711238&perks=1482024992,732557052,0,4198902903,3989629871
 // To the Pain
 // Kill Clip
 // Wiliing Vessel
-//notes: Masterwork: Stability, Mod: Adept Stability
+//notes:Masterwork: Stability, Mod: Adept Stability
 dimwishlist:item=2501377328&perks=1482024992,3142289711,3938834702,1015611457,878237828
 dimwishlist:item=2501377328&perks=1482024992,3142289711,0,1015611457,878237828
 
@@ -4802,7 +4830,7 @@ dimwishlist:item=2501377328&perks=1482024992,3142289711,0,1015611457,878237828
 // Repulsor Brace
 // Destabilizing Rounds
 // Vanguard's Vindication
-//notes: Masterwork: Velocity, Mod: Adept Projectile Speed
+//notes:Masterwork: Velocity, Mod: Adept Projectile Speed
 dimwishlist:item=2697143634&perks=3525010810,2822142346,776531651,2048641572,744217850
 dimwishlist:item=2697143634&perks=3525010810,2822142346,776531651,1134488199,744217850
 
@@ -4812,7 +4840,7 @@ dimwishlist:item=2697143634&perks=3525010810,2822142346,776531651,1134488199,744
 // Zen Moment
 // Kill Clip
 // Fitted Stock
-//notes: Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,1015611457,4259401308
 dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,1015611457,0
 dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,0,4259401308
@@ -4837,7 +4865,7 @@ dimwishlist:item=829330711&perks=3250034553,3142289711,1428297954,591790007,3989
 // Zen Moment
 // Kill Clip
 // Skulking Wolf
-//notes: Masterwork: Reload, Mod: Ballistics
+//notes:Masterwork: Reload, Mod: Ballistics
 dimwishlist:item=3437370193&perks=1482024992,3142289711,2387244414,1015611457,3989629871
 
 // Keen Thistle (Adept)
@@ -4846,7 +4874,7 @@ dimwishlist:item=3437370193&perks=1482024992,3142289711,2387244414,1015611457,39
 // Lone Wolf
 // Closing Time
 // Hakke Breach Armaments
-//notes: Masterwork: Range, Mod: Adept Targeting
+//notes:Masterwork: Range, Mod: Adept Targeting
 dimwishlist:item=3503560035&perks=1840239774,2420895100,2579169598,1194056669,1607056502
 dimwishlist:item=3503560035&perks=1840239774,0,2579169598,1194056669,1607056502
 dimwishlist:item=3503560035&perks=0,2420895100,2579169598,1194056669,1607056502
@@ -4859,7 +4887,7 @@ dimwishlist:item=3503560035&perks=1840239774,3142289711,957782887,47981717,40914
 // Keep Away
 // Demoralize
 // Hakke Breach Armaments
-//notes: Masterwork: Stability, Mod: Ballistics
+//notes:Masterwork: Stability, Mod: Ballistics
 dimwishlist:item=3776430252&perks=839105230,1885400500,3619207468,1464081238,1607056502
 dimwishlist:item=3776430252&perks=839105230,1885400500,3619207468,0,1607056502
 dimwishlist:item=3776430252&perks=839105230,1885400500,2579169598,1464081238,1607056502
@@ -4875,7 +4903,7 @@ dimwishlist:item=3776430252&perks=0,0,776531651,1134488199,1607056502
 // Elemental Capacitor
 // Rolling Storm
 // Vanguard's Vindication
-//notes: Masterwork: Range, Mod: Adept Stability
+//notes:Masterwork: Range, Mod: Adept Stability
 dimwishlist:item=4077588826&perks=1482024992,3142289711,3511092054,3218042543,1050127423
 dimwishlist:item=4077588826&perks=1482024992,3142289711,3511092054,3081867624,1050127423
 dimwishlist:item=4077588826&perks=1482024992,3142289711,0,3218042543,1050127423
@@ -4932,3 +4960,12 @@ dimwishlist:item=2485881870&perks=0,1885400500,2848615171,960997401,1298135794
 dimwishlist:item=1303313141&perks=1482024992,732557052,3418782618,4198902903,1298135794
 dimwishlist:item=1303313141&perks=0,0,0,4198902903,1298135794
 dimwishlist:item=1303313141&perks=1482024992,732557052,0,4198902903,1298135794
+
+// Warlord's Spear
+// Chambered Compensator
+// Light Battery
+// High-Impact Reserves
+// Detonator Beam
+// Skulking Wolf
+//notes:Masterwork: Range, Mod: Ballistics
+dimwishlist:item=1968711238&perks=3661387068,2749775325,2213355989,4198902903,3989629871
