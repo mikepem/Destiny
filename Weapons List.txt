@@ -4605,7 +4605,7 @@ dimwishlist:item=32287609&perks=1482024992,1561002382,1194056669,2450788523,2437
 // Dragonfly
 // Desperado
 // Nadir Focus
-//notes:Masterwork: Range, Mod: Ballistics
+//notes:Masterwork: Range, Mod: BallisticsHERE
 dimwishlist:item=157601190&perks=0,0,0,1134488199+460017080,0
 
 // Backfang
