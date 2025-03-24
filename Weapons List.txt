@@ -4602,11 +4602,14 @@ dimwishlist:item=32287609&perks=1482024992,1561002382,1194056669,2450788523,2437
 // Joxer's Longsword
 // Smallbore
 // Ricochet Rounds
-// Dragonfly
-// Desperado
+// Lone Wolf
+// Zen Moment
 // Nadir Focus
-//notes:Masterwork: Range, Mod: BallisticsHERE
-dimwishlist:item=157601190&perks=0,0,0,1134488199+460017080,0
+//notes:Masterwork: Stability, Mod: Ballistics
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,2387244414,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,3047969693,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,1134488199,2509860981
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,0,2509860981
 
 // Backfang
 // Tempered Truss Rod
