@@ -4969,3 +4969,81 @@ dimwishlist:item=1303313141&perks=1482024992,732557052,0,4198902903,1298135794
 // Skulking Wolf
 //notes:Masterwork: Range, Mod: Ballistics
 dimwishlist:item=1968711238&perks=3661387068,2749775325,2213355989,4198902903,3989629871
+
+
+// Inquisitor (Adept)
+// Fluted Barrel
+// Accurized Rounds
+// Lone Wolf
+// Opening Shot
+// Alacrity
+//notes:Masterwork: Handling, Mod: Adept Targeting
+dimwishlist:item=2330860573&perks=1840239774,3142289711,2579169598,47981717,2988596335
+dimwishlist:item=2330860573&perks=1840239774,3142289711,2579169598,0,2988596335
+dimwishlist:item=2330860573&perks=1840239774,3142289711,0,47981717,2988596335
+dimwishlist:item=2330860573&perks=1840239774,3142289711,0,0,2988596335
+
+// Cruel Mercy (Adept)
+// Polygonal Rifling
+// Ricochet Rounds
+// Keep Away
+// Desperado
+// Omolon Fluid Dynamics
+//notes:Masterwork Stability, Mod: Adept Stability
+dimwishlist:item=2347178967&perks=1392496348,1885400500,3619207468,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1885400500,3619207468,0,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1885400500,0,3047969693,2839173408
+
+// Long Arm (Adept)
+// Arrowhead Brake
+// Steady Rounds
+// Lone Wolf
+// Keep Away
+// Gravity Well
+//notes:Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=4239378215&perks=839105230,3177308360,2579169598,3619207468,59871045
+
+// No Survivors (Adept)
+// Smallbore
+// Ricochet Rounds
+// Rangefinder
+// Zen Moment
+// Gravity Well
+//notes:Masterwork: Range, Mod: Adept Range
+dimwishlist:item=189194532&perks=1482024992,1885400500,2846385770,2387244414,59871045
+
+// Judgement (Adept)
+// Truesight HCS
+// Accurized Rounds
+// Keep Away
+// Timed Payload
+// Gravity Well
+//notes: Masterwork: Stability, Mod: Adept Stability
+dimwishlist:item=1987644603&perks=1926090092,3142289711,3198323828,1562897767,59871045
+
+// Relentless (Adept)
+// Smallbore
+// Ricochet Rounds
+// Keep Away
+// Desperado
+// Gravity Well
+//notes:Masterwork: Range, Mod: Adept Range
+dimwishlist:item=1827058652&perks=1482024992,1885400500,3619207468,3047969693,59871045
+
+// Prosecutor (Adept)
+// Smallbore
+// Ricochet Rounds
+// Zen Moment
+// Tap the Trigger
+// Gravity Well
+//notes:Masterwork: Range, Mod: Adept Range
+dimwishlist:item=4025177550&perks=1482024992,1885400500,2387244414,1890422124,59871045
+
+// A Sudden Death (Adept)
+// Fluted Barrel
+// ACcurized Rounds
+// Threat Detector
+// Opening Shot
+// Gravity Well
+//notes:Masterwork: Handling, Mod: Adept Handling
+dimwishlist:item=1626437786&perks=1300023272,3142289711,4071163871,47981717,59871045
