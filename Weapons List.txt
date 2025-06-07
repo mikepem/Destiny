@@ -4961,21 +4961,20 @@ dimwishlist:item=1303313141&perks=1482024992,732557052,0,4198902903,1298135794
 dimwishlist:item=1968711238&perks=3661387068,2749775325,2213355989,4198902903,3989629871
 
 // Inquisitor (Adept)
-// Fluted Barrel + Hammer-Forged Rifling
-// Accurized Rounds + Extended Mag
-// Lone Wolf
-// Opening Shot + Closing Time
+// Smallbore
+// Extended Mag + Accurized Rounds
+// Threat Detector + Lone Wolf
+// Closing Time + Opening Shot
 // Alacrity
-//notes:Masterwork: Handling, Mod: Adept Targeting
-dimwishlist:item=2330860573&perks=1840239774,3142289711,2579169598,47981717,2988596335
-dimwishlist:item=2330860573&perks=1840239774,3142289711,2579169598,0,2988596335
-dimwishlist:item=2330860573&perks=1840239774,3142289711,0,47981717,2988596335
-dimwishlist:item=2330860573&perks=1840239774,3142289711,0,0,2988596335
-//notes:Masterwork: Range, Mod: Adept Targeting (Masterwork: Handling, Mod: Adept Raneg)
-dimwishlist:item=2330860573&perks=3250034553,2420895100,2579169598,1194056669,2988596335
-dimwishlist:item=2330860573&perks=3250034553,2420895100,2579169598,0,2988596335
-dimwishlist:item=2330860573&perks=3250034553,2420895100,0,1194056669,2988596335
-dimwishlist:item=2330860573&perks=3250034553,2420895100,0,0,2988596335
+//notes:Masterwork: Range, Mod: Adept Targeting | (Accurized Rounds + Lone Wolf + Opening Shot)
+dimwishlist:item=2330860573&perks=1482024992,2420895100,4071163871,1194056669,2988596335
+dimwishlist:item=2330860573&perks=1482024992,2420895100,4071163871,0,2988596335
+dimwishlist:item=2330860573&perks=1482024992,2420895100,0,1194056669,2988596335
+dimwishlist:item=2330860573&perks=1482024992,2420895100,0,0,2988596335
+dimwishlist:item=2330860573&perks=1482024992,0,4071163871,1194056669,2988596335
+dimwishlist:item=2330860573&perks=1482024992,0,0,1194056669,2988596335
+//notes:Masterwork: Stability, Mod: Adept Targeting
+dimwishlist:item=2330860573&perks=1482024992,3142289711,2579169598,1194056669,2988596335
 
 // Cruel Mercy (Adept)
 // Polygonal Rifling
