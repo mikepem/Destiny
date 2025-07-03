@@ -406,6 +406,69 @@ dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027
 dimwishlist:item=4227181568&perks=839105230,1885400500,4071163871,4082225868
 
 ====================================================================================================
+Competitive Weapons
+====================================================================================================
+
+// Rose
+// Hammer-Forged Rifling
+// Accurized Rounds
+// Slideshot
+// Eye of the Storm
+// Polymer Grip
+//notes:Masterwork: Stability, Mod: Ballistics
+dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,699525795,862848869
+dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,3038247973,3326204863
+
+// The Riposte
+// Smallbore
+// Ricochet Rounds
+// Zen Moment
+// Kill Clip
+// Fitted Stock
+//notes:Masterwork: Stability, Mod: Ballistics
+dimwishlist:item=3754408118&perks=1482024992,1885400500,2387244414,1015611457,4259401308
+dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,1359896290,4259401308
+
+// Redrix's Estoc
+// Smallbore
+// Accurized Rounds
+// Zen Moment
+// Kill Clip
+// Fitted Stock
+//notes:Masterwork: Range, Mod: Ballistics
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,1015611457,4259401308
+
+// Deadlock
+// Rifled Barrel
+// Extended Mag
+// Slickdraw
+// Closing Time
+// Fitted Stock
+//notes:Masterwork: Range, Mod: Quick Access Sling
+dimwishlist:item=2035738085&perks=1332244541,2420895100,1821614984,1194056669,4259401308
+dimwishlist:item=2035738085&perks=1332244541,1087426260,1821614984,1194056669,4259401308
+
+// Belisarius-D
+// Smallbore
+// Ricochet Rounds
+// Arc Elemental Capacitor
+// Zen Moment
+// Fitted Stock
+//notes:Masterwork: Handling, Mod: Ballistics
+dimwishlist:item=2313726158&perks=1482024992,1885400500,3511092054,2387244414,4259401308
+dimwishlist:item=2313726158&perks=1392496348,1561002382,3619207468,2387244414,990298390
+
+// Mercurial Overreach
+// Fluted Barrel
+// Ricochet Rounds
+// Snapshot Sights
+// Opening Shot
+// Short-Action Stock
+//notes:Masterwork: Range, Mod: Tactical
+dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,47981717,1067908860
+dimwishlist:item=2073794990&perks=1840239774,1885400500,280464955,47981717,1067908860
+
+====================================================================================================
 Seasons List
 ====================================================================================================
 
@@ -1990,16 +2053,6 @@ dimwishlist:item=1751893422&perks=1482024992,3142289711,691659142,4082225868,160
 dimwishlist:item=8293111&perks=839105230,3177308360,247725512,3038247973,2437618208
 dimwishlist:item=8293111&perks=839105230,3177308360,0,3038247973,2437618208
 
-// Rose
-// Smallbore
-// Steady Rounds
-// Perpetual Motion
-// Eye of the Storm
-// Heavy Grip
-//notes:Masterwork: Handling, Mod: Sweaty Confetti
-dimwishlist:item=882778888&perks=1482024992,3177308360,1428297954,699525795,1012699414
-dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,3038247973,3326204863
-
 // Unwavering Duty (Adept)
 // Arrowhead Brake
 // Steady Rounds
@@ -2437,29 +2490,6 @@ dimwishlist:item=70083888&perks=0,0,0,64866129,1489048135
 //notes:Masterwork: Range, Mod: Adept Counterbalance
 dimwishlist:item=364665267&perks=1482024992,1885400500,1870851715,3619207468,1050127423
 dimwishlist:item=364665267&perks=1467527085,1885400500,1870851715,3619207468,1050127423
-
-// Mercuriall Overreach
-// Fluted Barrel
-// Ricochet Rounds
-// Snapshot Sights
-// Opening Shot
-// Short Action Stock
-//notes:Masterwork: Handling, Mod: Targeting Adjuster
-dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,47981717,1067908860
-dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,0,1067908860
-dimwishlist:item=2073794990&perks=1840239774,1885400500,0,47981717,1067908860
-dimwishlist:item=2073794990&perks=1840239774,0,957782887,47981717,1067908860
-dimwishlist:item=2073794990&perks=0,1885400500,957782887,47981717,1067908860
-dimwishlist:item=2073794990&perks=1840239774,1885400500,0,0,1067908860
-dimwishlist:item=2073794990&perks=1840239774,0,957782887,0,1067908860
-dimwishlist:item=2073794990&perks=1840239774,0,0,47981717,1067908860
-dimwishlist:item=2073794990&perks=0,1885400500,0,47981717,1067908860
-dimwishlist:item=2073794990&perks=0,1885400500,957782887,0,1067908860
-dimwishlist:item=2073794990&perks=0,0,957782887,47981717,1067908860
-dimwishlist:item=2073794990&perks=1840239774,0,0,0,1067908860
-dimwishlist:item=2073794990&perks=0,1885400500,0,0,1067908860
-dimwishlist:item=2073794990&perks=0,0,957782887,0,1067908860
-dimwishlist:item=2073794990&perks=0,0,0,47981717,1067908860
 
 // Loaded Question (Adept)
 // Smallbore
@@ -2934,19 +2964,6 @@ dimwishlist:item=2189073092&perks=839105230,0,0,0,3989629871
 dimwishlist:item=2189073092&perks=0,1885400500,0,0,3989629871
 dimwishlist:item=2189073092&perks=0,0,3619207468,0,3989629871
 dimwishlist:item=2189073092&perks=0,0,0,95528736,3989629871
-
-// Belisarius-D
-// Arrowhead Brake
-// Ricochet Rounds
-// Keep Away
-// Zen Moment
-// Hand-Laid Stock
-//notes:Masterwork: Reload, Mod: Ballistics (Owned)
-dimwishlist:item=2313726158&perks=1392496348,1561002382,3619207468,2387244414,990298390
-//notes:Masterwork: Stability, Mod: Ballistics
-dimwishlist:item=2313726158&perks=839105230,1885400500,3619207468,2387244414,990298390
-//notes:Masterwork: Handling, Mod: Ballistics
-dimwishlist:item=2313726158&perks=1482024992,1885400500,699525795,2387244414,990298390
 
 // Incisor (Adept)
 // Smallbore
@@ -3698,15 +3715,6 @@ dimwishlist:item=3605603507&perks=839105230,1885400500,461595545,3007133316,1988
 //notes:Masterwork: Range, Mod: Targeting Adjuster
 dimwishlist:item=3685470415&perks=1482024992,3142289711,1609056795,1171887445,253121539
 
-// The Riposte
-// Corkscrew Rifling
-// Ricochet Rounds
-// Zen Moment
-// Dynamic Sway Reduction
-// Fitted Stock
-//notes:Masterwork: Handling, Mod: Ballistics
-dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,1359896290,4259401308
-
 // Axial Lacuna
 // Smallbore
 // Projection Fuse
@@ -4036,15 +4044,6 @@ dimwishlist:item=1762785663&perks=3525010810,0,0,0,4139916815
 dimwishlist:item=1762785663&perks=0,2822142346,0,0,4139916815
 dimwishlist:item=1762785663&perks=0,0,776531651,0,4139916815
 dimwishlist:item=1762785663&perks=0,0,0,2048641572,4139916815
-
-// Deadlock
-// Rifled Barrel
-// Appended Mag
-// Slickdraw
-// Closing Time
-// Fitted Stock
-//notes:Masterwork: Stability, Mod: Quick Access Sling
-dimwishlist:item=2035738085&perks=1332244541,1087426260,1821614984,1194056669,4259401308
 
 // Wicked Sister
 // Quick Launch
@@ -4842,22 +4841,6 @@ dimwishlist:item=2501377328&perks=1482024992,3142289711,0,1015611457,878237828
 //notes:Masterwork: Velocity, Mod: Adept Projectile Speed
 dimwishlist:item=2697143634&perks=3525010810,2822142346,776531651,2048641572,744217850
 dimwishlist:item=2697143634&perks=3525010810,2822142346,776531651,1134488199,744217850
-
-// Redrix's Estoc
-// Smallbore
-// Accurized Rounds
-// Zen Moment
-// Kill Clip
-// Fitted Stock
-//notes:Masterwork: Range, Mod: Ballistics
-dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,1015611457,4259401308
-dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,1015611457,0
-dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,0,4259401308
-dimwishlist:item=3218364298&perks=1482024992,3142289711,0,1015611457,4259401308
-dimwishlist:item=3218364298&perks=1482024992,3142289711,0,0,4259401308
-dimwishlist:item=3218364298&perks=1482024992,3142289711,0,1015611457,0
-dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,0,0
-dimwishlist:item=3218364298&perks=1482024992,3142289711,0,0,0
 
 // Peacebond
 // Hammer-Forged Rifling
